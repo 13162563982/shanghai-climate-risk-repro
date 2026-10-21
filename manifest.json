@@ -1,23 +1,23 @@
 {
  "package": "Shanghai real-estate climate-risk model — reproduction package (v8)",
- "generated_at": "2026-10-21T11:57:32",
+ "generated_at": "2026-10-21T17:51:36",
  "release_tag": "v1.0.0",
  "counts": {
-  "total_files": 5096,
-  "repo_files": 5078,
+  "total_files": 5097,
+  "repo_files": 5079,
   "release_files": 18,
-  "total_bytes": 5465559653,
-  "repo_bytes": 1565266489,
+  "total_bytes": 5465559190,
+  "repo_bytes": 1565266026,
   "release_bytes": 3900293164,
-  "copied_files": 5054,
-  "generated_files": 41,
-  "augmented_files": 1
+  "copied_files": 5055,
+  "generated_files": 42,
+  "augmented_files": 0
  },
  "source_root": "D:\\桌面real\\陈剑老师研究工作\\Shanghai_Climate_Risk_Analysis\\复现公报台风研究结果\\model_房地产风险_v8\\期刊投稿\\Nature-JF投稿\\Nature npj Natural Hazards",
  "verification": {
   "policy": "every file with origin=source is byte-identical to the research tree",
-  "source_files_checked": 5054,
-  "source_files_matching": 5054,
+  "source_files_checked": 5055,
+  "source_files_matching": 5055,
   "mismatches": 0,
   "missing_in_source": 0
  },
@@ -54341,6 +54341,17 @@
    "match": true
   },
   {
+   "repo_path": "docs/README_working_package.md",
+   "zone": "repo",
+   "asset_name": "",
+   "group": "K",
+   "origin": "source",
+   "bytes": 21335,
+   "sha256": "8efbbadf9566b5327b01a83795fcb3fc38d45c1a0bd076959380f3cb55abcc62",
+   "source_sha256": "8efbbadf9566b5327b01a83795fcb3fc38d45c1a0bd076959380f3cb55abcc62",
+   "match": true
+  },
+  {
    "repo_path": "docs/数字与图表核对总表.xlsx",
    "zone": "repo",
    "asset_name": "",
@@ -54972,9 +54983,9 @@
    "zone": "repo",
    "asset_name": "",
    "group": "A",
-   "origin": "augmented",
-   "bytes": 23051,
-   "sha256": "09e77787a1e18927e676acd09d0944892e1100378547276ccc2ff880186cce5b",
+   "origin": "generated",
+   "bytes": 1253,
+   "sha256": "2c45cc69835b39abfe736298f719208efeec73d2b00bc39069dfe72d5b5eaa49",
    "source_sha256": "",
    "match": true
   },
