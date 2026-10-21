@@ -1,0 +1,44 @@
+01:31:29 [INFO] ============================================================
+01:31:29 [INFO] Step 1.6: FABDEM DEM preprocessing
+01:31:29 [INFO] ============================================================
+01:31:30 [INFO] DEM: (125, 115), min=-3.1, max=11.8, mean=1.7
+01:31:30 [INFO] DEM saved: dem_shanghai.tif
+01:31:30 [INFO] ============================================================
+01:31:30 [INFO] Step 1.7: Parametric surge height estimation
+01:31:30 [INFO] ============================================================
+01:31:30 [INFO] Shelf params: L=550000m, h=55.0m
+01:31:36 [INFO] Loaded 107 historical tracks
+01:31:36 [INFO] [historical] 107 events, S_e: min=0.004, max=2.663, mean=0.493
+01:31:36 [INFO] [surge_heights_hist] Saved: D:\桌面real\陈剑老师研究工作\Shanghai_Climate_Risk_Analysis\复现公报台风研究结果\model_房地产风险_v7\Climate\output\intermediate\surge_heights_hist.csv (21.5 KB)
+01:31:36 [INFO] Loaded 1177 tracks (hist+synth)
+01:31:37 [INFO] [hist+synth] 1177 events, S_e: min=0.000, max=3.974, mean=0.474
+01:31:37 [INFO] ============================================================
+01:31:37 [INFO] Step 1.8: SLA monthly time series
+01:31:37 [INFO] ============================================================
+01:31:37 [INFO] SLA rasters: 372
+01:31:37 [INFO] [sla_monthly] Saved: D:\桌面real\陈剑老师研究工作\Shanghai_Climate_Risk_Analysis\复现公报台风研究结果\model_房地产风险_v7\Climate\output\intermediate\sla_monthly.csv (13.4 KB)
+01:31:37 [INFO] ============================================================
+01:31:37 [INFO] Step 1.9: Bathtub inundation model
+01:31:37 [INFO] ============================================================
+01:31:38 [INFO] Building skeleton: 585,033
+01:31:46 [INFO] Building elevation: mean=2.7m, low(≤3m)=70.6%
+01:32:00 [INFO] Coast distance: mean=18598m, max=37098m
+01:32:02 [INFO] Huangpu template: nonzero=74969, max=2.000m, bankfull=2.0, decay=1500.0m, tag=90m_def_gap
+01:32:03 [INFO] Building historical surge hazard...
+01:32:03 [INFO]   [historical] TWL: min=-0.061, max=2.813
+01:32:05 [INFO]   [historical] Hazard: 107 events, nnz=148,454
+01:32:09 [INFO] Building synthetic surge hazard...
+01:32:09 [INFO]   [synthetic] TWL: min=-0.066, max=4.088
+01:32:38 [INFO]   [synthetic] Hazard: 1177 events, nnz=4,117,429
+01:32:42 [INFO] ============================================================
+01:32:42 [INFO] Step 1.10: SSP sea-level rise scenarios
+01:32:42 [INFO] ============================================================
+01:32:42 [INFO] SSP2-4.5: SLR +0.3m, surge_wind_scale=1.1025
+01:32:42 [INFO]   [SSP2-4.5] TWL: min=0.234, max=4.754
+01:33:12 [INFO]   [SSP2-4.5] Hazard: 1177 events, nnz=8,798,812
+01:33:16 [INFO]   SSP2-4.5 saved: haz_SS_ssp245.hdf5
+01:33:16 [INFO] SSP5-8.5: SLR +0.5m, surge_wind_scale=1.2100
+01:33:16 [INFO]   [SSP5-8.5] TWL: min=0.434, max=5.337
+01:33:48 [INFO]   [SSP5-8.5] Hazard: 1177 events, nnz=14,734,185
+01:33:52 [INFO]   SSP5-8.5 saved: haz_SS_ssp585.hdf5
+01:33:52 [INFO] 02_hazard_surge.py complete in 143s

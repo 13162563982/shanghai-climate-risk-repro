@@ -1,0 +1,25 @@
+20:29:41 [INFO] ============================================================
+20:29:41 [INFO] Step 1.1: Load IBTrACS and filter TC tracks for Shanghai
+20:29:41 [INFO] ============================================================
+20:29:41 [INFO] Non-ASCII path detected — copying IBTrACS to temp dir
+20:29:41 [INFO] Loading TCTracks from IBTrACS (provider='usa', basin='WP')...
+20:30:01 [INFO] Loaded 2304 WP tracks
+20:30:01 [INFO] Filtered: 107/2304 tracks affect Shanghai
+20:30:01 [INFO] [tc_tracks_shanghai] Saved: D:\桌面real\陈剑老师研究工作\Shanghai_Climate_Risk_Analysis\复现公报台风研究结果\model_房地产风险_v8\_c01_probe\oldnc\tc_tracks_shanghai.pkl (487.3 KB)
+20:30:01 [INFO] ============================================================
+20:30:01 [INFO] Step 1.2: Historical TC wind field (Holland 2010)
+20:30:01 [INFO] ============================================================
+20:30:02 [INFO] Centroids grid: 126x116 = 14,616
+20:30:02 [INFO] Computing historical wind field (107 tracks, 4 workers)...
+20:30:20 [INFO] Hist wind: 107 events, max=55.5 m/s
+20:30:20 [INFO] ============================================================
+20:30:20 [INFO] Step 1.3: Synthetic TC tracks
+20:30:20 [INFO] ============================================================
+20:30:39 [INFO] Synthetic: 1177 tracks (orig 107 + synth)
+20:30:39 [INFO] Computing synthetic wind field...
+20:34:57 [INFO] Synth wind: 1177 events
+20:34:57 [INFO] [tc_tracks_all] Saved: D:\桌面real\陈剑老师研究工作\Shanghai_Climate_Risk_Analysis\复现公报台风研究结果\model_房地产风险_v8\_c01_probe\oldnc\tc_tracks_all.pkl (21296.3 KB)
+20:34:57 [INFO] ============================================================
+20:34:57 [INFO] Step 1.4: SSP intensity scaling
+20:34:57 [INFO] ============================================================
+20:34:57 [INFO] SSP2-4.5: intensity factor = 1.0324

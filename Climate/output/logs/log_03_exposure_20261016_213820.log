@@ -1,0 +1,39 @@
+21:38:20 [INFO] ============================================================
+21:38:20 [INFO] Step 2.1: Load building vector shapefiles
+21:38:20 [INFO] ============================================================
+21:38:20 [INFO] Found 21 building SHP files in D:\桌面real\陈剑老师研究工作\Shanghai_Climate_Risk_Analysis\复现公报台风研究结果\model_房地产风险_v8\期刊投稿\Nature-JF投稿\Nature npj Natural Hazards\data\Exposure_data\房屋\2024年上海多属性建筑矢量数据
+21:38:40 [INFO] Total buildings loaded: 585,033
+21:38:40 [INFO] Sentinel cleanup: 739,781 values replaced with NaN
+21:38:41 [INFO] Step 2.2: Building classification
+21:38:41 [INFO] Building vector Year coverage: 0/585,033
+21:38:42 [INFO] Loading Lianjia POI for building age enrichment...
+21:38:42 [INFO] Lianjia communities with valid JGSJ: 18,707/23,014
+21:38:42 [INFO] Age enrichment from Lianjia: 429,906 buildings filled (429,906/585,033 total coverage)
+21:38:43 [INFO] Category distribution:
+building_category
+D        181879
+B_new    119629
+B_old     99695
+A_new     99174
+A_old     84634
+C            22
+Name: count, dtype: int64
+21:38:43 [INFO] Step 2.3: District spatial join
+21:38:45 [INFO] District match: 585,033/585,033 (100.0%)
+21:38:46 [INFO] After district filter: 585,033
+21:38:46 [INFO] Step 2.4: Building valuation (3-tier pricing)
+21:38:46 [INFO] City-wide latest price: 62700 CNY/m2
+21:38:46 [INFO] Loading Lianjia POI from 1 files...
+21:38:47 [INFO] L1 Lianjia match: 497,848/585,033
+21:38:47 [INFO] Price tiers: {1: 497848, 2: 87185}
+21:38:47 [INFO] Commercial adjustment: 181,879 buildings, 8,854 footprints capped at 5000m2, construction cost=9800 CNY/m2 (Arcadis 2020)
+21:38:47 [INFO] Total exposure: 63.33 trillion CNY
+21:38:47 [INFO]   Residential: 52.95 T CNY
+21:38:47 [INFO]   Commercial:  10.37 T CNY
+21:38:47 [INFO] Step 2.5: Impact function ID mapping
+21:38:48 [INFO] [building_skeleton] Saved: D:\桌面real\陈剑老师研究工作\Shanghai_Climate_Risk_Analysis\复现公报台风研究结果\model_房地产风险_v8\期刊投稿\Nature-JF投稿\Nature npj Natural Hazards\Climate\output\intermediate\building_skeleton.parquet (40747.6 KB)
+21:38:48 [INFO] Building skeleton: 585,033 buildings, 23 columns
+21:38:48 [INFO] Step 2.7: Clip LandScan population raster
+21:38:48 [INFO] LandScan source: 立方数据学社_landscan_2024.tif
+21:38:48 [INFO] Population raster saved: population_landscan_2024_shanghai.tif ((141, 138))
+21:38:48 [INFO] 03_exposure.py complete in 29s

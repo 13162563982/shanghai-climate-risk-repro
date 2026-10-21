@@ -1,0 +1,19 @@
+06:54:30 [INFO] Loading inputs...
+06:54:30 [INFO] Buildings: 585,033
+06:54:32 [INFO] ============================================================
+06:54:32 [INFO] Scenario: historical
+06:54:32 [INFO] Events: 107, years: 1945-2025
+06:54:49 [INFO]   historical done
+06:54:49 [INFO] ============================================================
+06:54:49 [INFO] Scenario: SSP2-4.5
+06:54:49 [INFO] Events: 1177, years: 1945-2025
+06:56:46 [INFO]   SSP2-4.5 done
+06:56:46 [INFO] ============================================================
+06:56:46 [INFO] Scenario: SSP5-8.5
+06:56:47 [INFO] Events: 1177, years: 1945-2025
+06:58:45 [INFO]   SSP5-8.5 done
+06:58:45 [INFO] [risk_panel] Saved: D:\桌面real\陈剑老师研究工作\Shanghai_Climate_Risk_Analysis\复现公报台风研究结果\model_房地产风险_v8\Climate\output\results\risk_panel_all_scenarios_high_confidence.csv (724.6 KB)
+06:58:45 [INFO] Risk panel: 4,336 rows, scenarios: ['SSP2-4.5', 'SSP5-8.5', 'historical']
+06:58:45 [INFO] [risk_panel_hist] Saved: D:\桌面real\陈剑老师研究工作\Shanghai_Climate_Risk_Analysis\复现公报台风研究结果\model_房地产风险_v8\Climate\output\results\risk_panel_high_confidence.csv (204.6 KB)
+06:58:45 [INFO] [tc_date_alignment] Saved: D:\桌面real\陈剑老师研究工作\Shanghai_Climate_Risk_Analysis\复现公报台风研究结果\model_房地产风险_v8\Climate\output\results\tc_date_alignment_audit.csv (4.7 KB)
+06:58:45 [INFO] 05_risk.py complete in 255s

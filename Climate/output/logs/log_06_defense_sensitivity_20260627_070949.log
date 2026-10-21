@@ -1,0 +1,20 @@
+07:09:49 [INFO] Defense profiles: ['baseline_nodef', 'current_def_gap']
+07:09:51 [INFO] Huangpu template: nonzero=37217, max=2.000m, bankfull=2.0, decay=900.0m, tag=90m_nodef
+07:09:53 [INFO] Huangpu template: nonzero=74969, max=2.000m, bankfull=2.0, decay=1500.0m, tag=90m_def_gap
+07:09:53 [INFO] ============================================================
+07:09:53 [INFO] Scenario: historical, SLR=0.0m
+07:10:03 [INFO]   Pre-computing wind MDR for 6 batches...
+07:11:45 [INFO]   baseline_nodef: metrics saved → hazard_metrics_historical_baseline_nodef.npz
+07:12:59 [INFO]   current_def_gap: metrics saved → hazard_metrics_historical_current_def_gap.npz
+07:13:00 [INFO] ============================================================
+07:13:00 [INFO] Scenario: SSP2-4.5, SLR=0.3m
+07:13:09 [INFO]   Pre-computing wind MDR for 6 batches...
+07:14:52 [INFO]   baseline_nodef: metrics saved → hazard_metrics_ssp245_baseline_nodef.npz
+07:16:07 [INFO]   current_def_gap: metrics saved → hazard_metrics_ssp245_current_def_gap.npz
+07:16:07 [INFO] ============================================================
+07:16:07 [INFO] Scenario: SSP5-8.5, SLR=0.5m
+07:16:17 [INFO]   Pre-computing wind MDR for 6 batches...
+07:17:59 [INFO]   baseline_nodef: metrics saved → hazard_metrics_ssp585_baseline_nodef.npz
+07:19:14 [INFO]   current_def_gap: metrics saved → hazard_metrics_ssp585_current_def_gap.npz
+07:19:14 [INFO] Defense EAL: 96 rows → defense_profile_eal.csv
+07:19:14 [INFO] 06_defense_sensitivity.py complete in 566s

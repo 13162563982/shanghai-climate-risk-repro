@@ -1,0 +1,11 @@
+21:05:49 [INFO] Defense profiles: ['baseline_nodef', 'current_def_gap']
+21:05:51 [INFO] Huangpu template: nonzero=37217, max=2.000m, bankfull=2.0, decay=900.0m, tag=90m_nodef
+21:05:52 [INFO] Huangpu template: nonzero=74969, max=2.000m, bankfull=2.0, decay=1500.0m, tag=90m_def_gap
+21:05:53 [INFO] ============================================================
+21:05:53 [INFO] Scenario: historical, SLR=0.0m
+21:06:01 [INFO]   Pre-computing wind MDR for 6 batches...
+21:07:35 [INFO]   baseline_nodef: metrics saved → hazard_metrics_historical_baseline_nodef.npz
+21:08:43 [INFO]   current_def_gap: metrics saved → hazard_metrics_historical_current_def_gap.npz
+21:08:44 [INFO] ============================================================
+21:08:44 [INFO] Scenario: SSP2-4.5, SLR=0.3m
+21:08:52 [INFO]   Pre-computing wind MDR for 6 batches...

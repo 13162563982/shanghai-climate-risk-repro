@@ -1,0 +1,19 @@
+20:26:25 [INFO] ============================================================
+20:26:25 [INFO] Step 1.1: Load IBTrACS and filter TC tracks for Shanghai
+20:26:25 [INFO] ============================================================
+20:26:25 [INFO] Non-ASCII path detected — copying IBTrACS to temp dir
+20:26:25 [INFO] Loading TCTracks from IBTrACS (provider='usa', basin='WP')...
+20:26:40 [INFO] Loaded 2310 WP tracks
+20:26:40 [INFO] Filtered: 108/2310 tracks affect Shanghai
+20:26:40 [INFO] [tc_tracks_shanghai] Saved: D:\桌面real\陈剑老师研究工作\Shanghai_Climate_Risk_Analysis\复现公报台风研究结果\model_房地产风险_v8\_c01_probe\run1\tc_tracks_shanghai.pkl (494.3 KB)
+20:26:40 [INFO] ============================================================
+20:26:40 [INFO] Step 1.2: Historical TC wind field (Holland 2010)
+20:26:40 [INFO] ============================================================
+20:26:40 [INFO] Centroids grid: 126x116 = 14,616
+20:26:40 [INFO] Computing historical wind field (108 tracks, 4 workers)...
+20:26:56 [INFO] Hist wind: 108 events, max=55.5 m/s
+20:26:56 [INFO] ============================================================
+20:26:56 [INFO] Step 1.3: Synthetic TC tracks
+20:26:56 [INFO] ============================================================
+20:27:15 [INFO] Synthetic: 1188 tracks (orig 108 + synth)
+20:27:15 [INFO] Computing synthetic wind field...

@@ -1,0 +1,49 @@
+03:10:19 [INFO] ============================================================
+03:10:19 [INFO] PART 1: Extracting monthly climate hazard variables
+03:10:19 [INFO] ============================================================
+03:10:19 [INFO] SLA: loaded from pre-computed, 372 months
+03:10:19 [INFO] Wind: 888 rasters
+03:10:20 [INFO] Precip: 780 rasters
+03:10:21 [INFO] Tmax: 528 rasters
+03:10:22 [INFO]   H(t): mean=0.3429, range=[0.0954, 0.8157]
+03:10:22 [INFO] ============================================================
+03:10:22 [INFO] PART 2: Building time-varying Exposure index (LandScan)
+03:10:22 [INFO] ============================================================
+03:10:22 [INFO]   LandScan population: 25 years (2000-2024)
+03:10:22 [INFO]   E(t): range=[0.5000, 0.9981]
+03:10:22 [INFO] ============================================================
+03:10:22 [INFO] PART 3: Building time-varying Vulnerability index (ISR)
+03:10:22 [INFO] ============================================================
+03:10:22 [INFO]   V(t): range=[0.6238, 1.0000]
+03:10:22 [INFO] ============================================================
+03:10:22 [INFO] PART 4: Building CLIMADA damage signal (EWMA-smoothed)
+03:10:22 [INFO] ============================================================
+03:10:22 [INFO]   CLIMADA risk panel loaded: 25 event months
+03:10:22 [INFO]   Damage EWMA: alpha=0.85, peak S_norm=1.0000
+03:10:22 [INFO]   EAL=2.44e+09/yr, kappa=0.5
+03:10:22 [INFO] ============================================================
+03:10:22 [INFO] PART 5: Computing Climate Risk Index
+03:10:22 [INFO] ============================================================
+03:10:22 [INFO]   CRI raw: mean=0.2251, range=[0.0482, 1.1099]
+03:10:22 [INFO]   CRI index (base 100): start=100.0, end=440.0
+03:10:22 [INFO] Historical CRI: 372 months → shanghai_city_monthly_climate_hazard.csv
+03:10:22 [INFO] ============================================================
+03:10:22 [INFO] PART 6: SDE Monte Carlo Projection → 2050
+03:10:22 [INFO] ============================================================
+03:10:23 [INFO]   H-OU: θ=0.4491, μ_recent=0.3954, σ=0.1127, drift=+0.00503/yr
+03:10:23 [INFO]   E-Logistic: r=0.0300/yr, σ=0.0811, E0=0.9979
+03:10:23 [INFO]   V-Logistic: r=0.0157/yr, σ=0.0063, V0=1.0000
+03:10:23 [INFO]   S-Poisson: λ=0.0672/mo, μ_log=17.21, σ_log=2.98
+03:10:23 [INFO]   Z-slow: θ_slow=0.026, σ_slow=0.00325
+03:10:24 [INFO]   Historical Baseline: CRI@2050 median=601 [491, 691]
+03:10:24 [INFO]   SSP2-4.5: CRI@2050 median=675 [565, 770]
+03:10:25 [INFO]   SSP5-8.5: CRI@2050 median=745 [643, 839]
+03:10:25 [INFO]   Saved cri_mc_paths_baseline.npz: shape=(500, 324)
+03:10:25 [INFO]   Saved cri_mc_paths_ssp245.npz: shape=(500, 324)
+03:10:25 [INFO]   Saved cri_mc_paths_ssp585.npz: shape=(500, 324)
+03:10:25 [INFO]   Characteristic path: sim=28, hist_vol=8.36, path_vol=14.90
+03:10:25 [INFO]   Historical Baseline: rep=581 (shared sim=28)
+03:10:25 [INFO]   SSP2-4.5: rep=638 (shared sim=28)
+03:10:25 [INFO]   SSP5-8.5: rep=708 (shared sim=28)
+03:10:25 [INFO]   Projection: 972 rows, N_SIM=500 → shanghai_city_cri_projection.csv
+03:10:25 [INFO] 07_climate_index.py complete in 6s

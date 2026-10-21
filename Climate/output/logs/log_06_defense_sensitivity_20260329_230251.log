@@ -1,0 +1,5 @@
+23:02:51 [INFO] Defense profiles: ['baseline_nodef', 'current_def_gap']
+23:02:54 [INFO] Huangpu template: nonzero=37217, max=2.000m, bankfull=2.0, decay=900.0m, tag=90m_nodef
+23:02:55 [INFO] Huangpu template: nonzero=74969, max=2.000m, bankfull=2.0, decay=1500.0m, tag=90m_def_gap
+23:02:55 [INFO] ============================================================
+23:02:55 [INFO] Scenario: historical, SLR=0.0m

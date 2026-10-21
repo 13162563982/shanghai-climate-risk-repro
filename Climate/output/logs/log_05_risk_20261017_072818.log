@@ -1,0 +1,19 @@
+07:28:18 [INFO] Loading inputs...
+07:28:18 [INFO] Buildings: 585,033
+07:28:20 [INFO] ============================================================
+07:28:20 [INFO] Scenario: historical
+07:28:20 [INFO] Events: 107, years: 1945-2025
+07:28:38 [INFO]   historical done
+07:28:38 [INFO] ============================================================
+07:28:38 [INFO] Scenario: SSP2-4.5
+07:28:39 [INFO] Events: 1177, years: 1945-2025
+07:30:42 [INFO]   SSP2-4.5 done
+07:30:42 [INFO] ============================================================
+07:30:42 [INFO] Scenario: SSP5-8.5
+07:30:42 [INFO] Events: 1177, years: 1945-2025
+07:32:46 [INFO]   SSP5-8.5 done
+07:32:46 [INFO] [risk_panel] Saved: D:\桌面real\陈剑老师研究工作\Shanghai_Climate_Risk_Analysis\复现公报台风研究结果\model_房地产风险_v8\期刊投稿\Nature-JF投稿\Nature npj Natural Hazards\Climate\output\results\risk_panel_all_scenarios_high_confidence.csv (723.6 KB)
+07:32:46 [INFO] Risk panel: 4,336 rows, scenarios: ['SSP2-4.5', 'SSP5-8.5', 'historical']
+07:32:46 [INFO] [risk_panel_hist] Saved: D:\桌面real\陈剑老师研究工作\Shanghai_Climate_Risk_Analysis\复现公报台风研究结果\model_房地产风险_v8\期刊投稿\Nature-JF投稿\Nature npj Natural Hazards\Climate\output\results\risk_panel_high_confidence.csv (204.3 KB)
+07:32:46 [INFO] [tc_date_alignment] Saved: D:\桌面real\陈剑老师研究工作\Shanghai_Climate_Risk_Analysis\复现公报台风研究结果\model_房地产风险_v8\期刊投稿\Nature-JF投稿\Nature npj Natural Hazards\Climate\output\results\tc_date_alignment_audit.csv (4.7 KB)
+07:32:46 [INFO] 05_risk.py complete in 268s
