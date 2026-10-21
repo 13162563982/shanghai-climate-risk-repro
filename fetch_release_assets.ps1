@@ -1,11 +1,13 @@
 <#
-    fetch_release_assets.ps1 - download the eight oversized release assets and
+    fetch_release_assets.ps1 - download the oversized release assets and
     put them where the model expects them.
 
     GitHub rejects any single file above 100 MiB and a git push above 2 GiB, so the
     big inputs/artefacts of this project live as Release assets instead of git
-    objects.  This script downloads them, verifies SHA-256 and copies them to the
-    exact repository-relative path recorded in release_assets.json.
+    objects (eight files exceed the limit; 18 assets are attached because the
+    shapefile companions travel with their .shp).  This script downloads them,
+    verifies SHA-256 and copies them to the exact repository-relative path
+    recorded in release_assets.json.
 
     KEEP THIS FILE PURE ASCII: Windows PowerShell 5.1 reads .ps1 with the system
     ANSI code page, so CJK paths are handled through the UTF-8 JSON payload.

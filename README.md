@@ -15,7 +15,7 @@ finance-side climate-CVaR / risk-index layer.
 |---|---|
 | reproduce the paper end to end (≈26 min) | [`REPRODUCE.md`](REPRODUCE.md) |
 | know where every dataset came from | [`DATA_SOURCES.md`](DATA_SOURCES.md) · [`provenance/`](provenance/) |
-| get the eight files GitHub will not accept as git objects | [`RELEASE_ASSETS.md`](RELEASE_ASSETS.md) · `fetch_release_assets.ps1` |
+| get the eight files GitHub will not accept as git objects (18 assets incl. shapefile companions) | [`RELEASE_ASSETS.md`](RELEASE_ASSETS.md) · `fetch_release_assets.ps1` |
 | verify that nothing has been altered | [`SHA256SUMS.txt`](SHA256SUMS.txt) · [`manifest.json`](manifest.json) |
 | see the model code | `Climate/`, `Finance/`, `Composite/`, `run_v8.py` |
 | see the reported numbers | `Climate/output/results/`, `Finance/output/results/`, `Composite/output/results/` |

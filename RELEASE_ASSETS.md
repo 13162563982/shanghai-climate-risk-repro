@@ -1,9 +1,10 @@
-# Release assets — the eight files GitHub will not accept as git objects
+# Release assets — the files GitHub will not accept as git objects
 
 GitHub rejects any single file larger than **100 MiB**. Eight of the files this
 model reads or writes are bigger than that, and none of them can be clipped,
 downsampled or regenerated for publication — so they are attached, byte for
-byte, to the GitHub **Release `v1.0.0`** of this repository.
+byte, to the GitHub **Release `v1.0.0`** of this repository, together with the
+companion files of the two shapefile sets (a shapefile is only usable as a set).
 
 Total: **18 files / 3.63 GiB**.
 

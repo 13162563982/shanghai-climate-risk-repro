@@ -51,12 +51,15 @@ env\run.ps1 tools\_env_selfcheck.py
 
 ---
 
-## 2. Fetch the eight oversized files from the Release
+## 2. Fetch the oversized files from the Release
 
 GitHub rejects any single file above 100 MiB, and eight of the original inputs /
 intermediates are larger than that. They are attached **unmodified** to the
-release tagged `v1.0.0` of this repository. See `RELEASE_ASSETS.md` for the full
-table and `release_assets.json` for the machine-readable mapping.
+release tagged `v1.0.0` of this repository — 18 assets in total, because a
+shapefile is only usable as a set and its companions (`.dbf`, `.shx`, `.prj`,
+`.cpg`, `.sbn`, `.sbx`, `.shp.xml`) travel with the `.shp`. See
+`RELEASE_ASSETS.md` for the full table and `release_assets.json` for the
+machine-readable mapping.
 
 Easiest:
 
