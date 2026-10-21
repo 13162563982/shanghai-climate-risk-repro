@@ -1,0 +1,13 @@
+﻿项,数据集,DOI,来源,解析标题,年份,核验,依据,错误
+ibtracs,D01,10.25921/82ty-9e16,datacite,"International Best Track Archive for Climate Stewardship (IBTrACS) Project, Version 4",2019,已核实,稿件已印；.nc 全局属性亦含该 DOI,
+etopo,D03,10.25921/fd45-gt74,datacite,ETOPO 2022 15 Arc-Second Global Relief Model,2022,已核实,稿件已印且在文献表,
+landscan,D04,10.48690/1524213,datacite,LandScan Global 2018,2019,已核实,稿件已印,
+cmfd_v2,D07,10.11888/Atmos.tpdc.302088,,,,已核实（供应方原文）,TPDC 自带解析（doi.org/10.11888/...），Crossref/DataCite 均未收录；字符串取自供应方 数据介绍.pdf「数据引用」原文,HTTP 404
+cmfd_paper,D07,10.1038/s41597-020-0369-y,crossref,The first high-resolution meteorological forcing dataset for land process studies over China,2020,已核实,数据介绍.pdf「论文引用」1,
+chm_pre_v2,D09,10.5281/zenodo.14634575,datacite,CHM_PRE V2: An upgraded high-precision gridded precipitation dataset for the Chinese mainland considering spatial autocorrelation and covariates,2025,已核实,数据介绍.pdf 数据来源 = zenodo.org/records/14634575,
+cmems_sla,D12,10.48670/moi-00148,datacite,GLOBAL OCEAN GRIDDED L4 SEA SURFACE HEIGHTS AND DERIVED VARIABLES REPROCESSED (1993-ONGOING),2021,已核实,数据介绍.pdf「DOI (product)」原文,
+gaia_paper,D13,10.1016/j.rse.2019.111510,crossref,Annual maps of global artificial impervious area (GAIA) between 1985 and 2018,2020,已核实,数据介绍.pdf「数据引用格式」,
+cmab_paper,D17,10.1038/s41597-025-04730-5,crossref,CMAB: A Multi-Attribute Building Dataset of China,2025,已核实,数据介绍.pdf「引用格式」,
+cmab_figshare,D17,10.6084/m9.figshare.27992417,datacite,CMAB-The World's First National-Scale Multi-Attribute Building Dataset,2025,已核实,数据介绍.pdf 数据集本体（Figshare 27992417）,
+fabdem_paper,D02,10.1088/1748-9326/ac4d4f,crossref,A 30 m global map of elevation with forests and buildings removed,2022,已核实,FABDEM 方法论文（Hawker et al. 2022）,
+sdb_builtup,D18,10.57760/sciencedb.11249,datacite,GHSL-based Chinese urban entities (1975-2020),2024,已核实,数据介绍.pdf 引用格式中的 CSTR:31253.11.sciencedb.11249,

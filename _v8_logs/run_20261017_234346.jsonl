@@ -1,0 +1,3 @@
+{"step_id": "C03", "script": "03_exposure.py", "description": "Building exposure", "elapsed_s": 26.24, "return_code": 0, "ts": "2026-10-17T23:44:12.442924"}
+{"step_id": "C02", "script": "02_hazard_surge.py", "description": "Storm surge hazard", "elapsed_s": 110.72, "return_code": 0, "ts": "2026-10-17T23:46:03.166514"}
+{"step_id": "C04", "script": "04_vulnerability.py", "description": "Vulnerability functions", "elapsed_s": 4.23, "return_code": 0, "ts": "2026-10-17T23:46:07.400311"}

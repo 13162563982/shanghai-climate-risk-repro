@@ -1,0 +1,33 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D14"
+dataset: "全市逐月二手房价格"
+producer: "聚汇数据（gotohui.com）· **作者 2026-10-18 声明**"
+product_version: "地级市逐月二手房均价，2011-01–2025-07"
+coverage: "上海 1 行 × 175 月"
+upstream_identifier: "https://www.gotohui.com（平台；无数据集级 DOI）"
+acquisition_channel: "立方数据学社**会员专享**包（关键词 A205）转销聚汇数据"
+acquisition_evidence: "`数据介绍.pdf`（纯图片，已渲染目视：《2011-2025年我国地级市逐月二手房房价数据》）+ **作者声明：值源 = 聚汇数据**；该 PDF 只交代分发方，不披露值源"
+licence: "会员条款（盘上无文本）"
+provenance_level: "中"
+redistributable: "否(仅派生面板)"
+archive_scope: "派生件"
+da_action: "限定句"
+da_clause: "monthly second-hand housing prices from Juhui Data (https://www.gotohui.com), obtained under a commercial data subscription"
+known_gap: "G2"
+note: "**禁止写成 Anjuke**（那是小区 POI 的来源，见 D16）；缺数据集级标识与许可文本"
+pipeline_usage: ""
+
+package_status: "included"
+files_in_package: 7
+files_in_release: 0
+bytes_in_package: 1622958
+package_paths:
+  - "data/Exposure_data/房屋/2011-2025年上海逐月二手房房价数据/excel格式的数据/上海全市二手房价.xlsx"
+  - "data/Exposure_data/房屋/2011-2025年上海逐月二手房房价数据/shp格式的数据/上海二手房价.cpg"
+  - "data/Exposure_data/房屋/2011-2025年上海逐月二手房房价数据/shp格式的数据/上海二手房价.dbf"
+  - "data/Exposure_data/房屋/2011-2025年上海逐月二手房房价数据/shp格式的数据/上海二手房价.prj"
+  - "data/Exposure_data/房屋/2011-2025年上海逐月二手房房价数据/shp格式的数据/上海二手房价.shp"
+  - "data/Exposure_data/房屋/2011-2025年上海逐月二手房房价数据/shp格式的数据/上海二手房价.shx"
+  - "data/Exposure_data/房屋/2011-2025年上海逐月二手房房价数据/数据介绍.pdf"

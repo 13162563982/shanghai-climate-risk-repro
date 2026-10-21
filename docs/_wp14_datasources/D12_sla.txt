@@ -1,0 +1,131 @@
+                               Resources     News     Events   Contact        Register   Log in                              English
+
+
+                                     Copernicus
+                                                       Services   Opportunities   Access Data     Use Cases   User Corner     About
+                                     Marine Service
+
+
+
+
+Global Ocean Gridded L 4 Sea
+Surface Heights And Derived
+Variables Reprocessed 1993
+Ongoing
+Home   Marine Data Store   Product
+
+
+
+   Description             Overview
+
+   Notifications           Altimeter satellite gridded Sea Level Anomalies
+                           (SLA) computed with respect to a twenty-year
+   Data access             [1993, 2012] mean. The SLA is estimated by
+                           Optimal Interpolation, merging the L3 along-
+   Contact                 track measurement from the different altimeter
+                           missions available. Part of the processing is
+                           fitted to the Global ocean. (see QUID document
+                           or http://duacs.cls.fr pages for processing
+                           details). The product gives additional variables
+                           (i.e. Absolute Dynamic Topography and
+                           geostrophic currents (absolute and anomalies)).
+                           It serves in delayed-time applications. This
+                           product is processed by the DUACS
+                           multimission altimeter data processing system.
+
+                           DOI (product):
+                           https://doi.org/10.48670/moi-00148
+
+
+
+
+                                                                                                  2000        2010          2020
+
+
+
+
+                                                                                             Explore in MyOcean Pro
+
+
+
+
+                           Documentation
+
+                              User Manual
+                              Quality Information Document
+                              Synthesis Quality Overview
+                              Roadmap
+                              Licence
+                              How to cite
+
+
+                           Use cases
+Seasonal Forecasting at ECMWF                            A system for predicting global and regional tidal currents
+
+
+
+
+Validation of hydrodynamic models for coastal
+applications
+
+
+
+                                                Show 3 more cases
+
+
+
+Classification
+
+Full name                   Global Ocean Gridded L 4 Sea Surface Heights And Derived Variables
+                            Reprocessed 1993 Ongoing
+Product ID                  SEALEVEL_GLO_PHY_L4_MY_008_047
+Source                      Satellite observations
+Spatial extent              Global Ocean · Arctic Ocean · Lat -89.94° to 89.94° · Lon -179.94° to
+                            179.94°
+Spatial resolution          0.125° × 0.125°
+Temporal extent             1 Jan 1993 to 16 Jan 2026
+Temporal resolution         Daily
+Processing level            Level 4
+Variables                   Sea surface height above geoid · Sea surface height above sea level · Surface
+                            geostrophic eastward sea water velocity · Surface geostrophic eastward sea
+                            water velocity assuming sea level for geoid · Surface geostrophic northward
+                            sea water velocity · Surface geostrophic northward sea water velocity
+                            assuming sea level for geoid
+Feature type                Grid
+Blue markets                Policy & Governance · Science & Innovation · Extremes & Hazards &
+                            Safety · Coastal Services · Natural Resources & Energy · Trade & Marine
+                            Navigation
+Projection                  Rectangular
+Update frequency            Several-time-yearly
+Format                      NetCDF-4
+Originating centre          CLS (France)
+Last metadata update        26 November 2024
+
+
+   Spotted an error? Send us a note through the chat!
+Follow us                                       Copernicus Services                      Copernicus
+                                                                                         The Copernicus Programme is the
+                                                                                         European Union’s Earth Observation
+                                                                                         Programme, looking at our planet and its
+                                                                                         environment for the ultimate benefit of
+                                                   Atmosphere            Marine          all European and global citizens.
+Newsletter
+Email                         Subscribe
+
+  I agree to the privacy policy*
+                                                      Land              Security
+                                                                                         Copernicus Marine
+                                                                                         Service
+  Take our feedback                                                                      Provides free, open, regular and
+                                                                                         systematic reference information on the
+survey                                           Climate Change        Emergency
+                                                                                         blue (physical), white (sea ice), and green
+                                                                                         (biogeochemical) ocean state, variability
+                                                                                         and dynamics across the global ocean and
+                                                                                         European regional seas.
+
+
+
+
+                                          Privacy Policy     Cookie Policy    Legal Notice
+

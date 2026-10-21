@@ -1,0 +1,19 @@
+{
+  "_说明": "填好值后运行 <bundled python> tools\\make_availability_v2.py --apply；null = 保留占位符原样，绝不臆造",
+  "_已由作者确认": {
+    "PRICE_PROVIDER": "聚汇数据（gotohui.com）— 作者 2026-10-18 确认：房价面板值源",
+    "COMMUNITY_PROVIDER": "安居客（Anjuke）— 盘上 xiaoquurl 22,064 条全部指向 shanghai.anjuke.com"
+  },
+  "_仍待作者": {
+    "ZENODO_DOI": "数据/结果归档的 Zenodo DOI",
+    "GITHUB_REPO": "代码仓库 URL",
+    "TAG": "release / tag 名称",
+    "PRICE_ACCESS": "聚汇数据的获取凭证措辞（现默认 commercial data subscription）"
+  },
+  "ZENODO_DOI": null,
+  "GITHUB_REPO": null,
+  "TAG": null,
+  "PRICE_PROVIDER": "Juhui Data (https://www.gotohui.com)",
+  "PRICE_ACCESS": "a commercial data subscription",
+  "COMMUNITY_PROVIDER": "Anjuke"
+}

@@ -1,0 +1,760 @@
+metric_id,value,unit,digits,source,locator,formula,note
+eal.city.hist.nodef.bn,24.20351226430165,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,sum over 16 districts,sum(EAL_compound)/1e9,Table 1 row hist / nodef
+eal.city.hist.def.bn,19.005591655280657,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,sum over 16 districts,sum(EAL_compound)/1e9,Table 1 row hist / def
+eal.city.ssp245.nodef.bn,33.39197130270421,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,sum over 16 districts,sum(EAL_compound)/1e9,Table 1 row ssp245 / nodef
+eal.city.ssp245.def.bn,23.892617653852867,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,sum over 16 districts,sum(EAL_compound)/1e9,Table 1 row ssp245 / def
+eal.city.ssp585.nodef.bn,40.29777791194406,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,sum over 16 districts,sum(EAL_compound)/1e9,Table 1 row ssp585 / nodef
+eal.city.ssp585.def.bn,26.51850866838093,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,sum over 16 districts,sum(EAL_compound)/1e9,Table 1 row ssp585 / def
+eal.city.hist.red_pct,21.475893879614873,%,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,(1 - def/nodef)*100,Table 1 Reduction column
+eal.city.ssp245.red_pct,28.44801692819511,%,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,(1 - def/nodef)*100,Table 1 Reduction column
+eal.city.ssp585.red_pct,34.19362048615346,%,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,(1 - def/nodef)*100,Table 1 Reduction column
+eal.city.hist.wind.bn,17.940388909242692,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,sum over 16 districts,sum(EAL_wind)/1e9,
+eal.city.hist.surge.bn,6.263123355058959,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,sum over 16 districts,sum(EAL_surge)/1e9,
+eal.city.hist.wind_share_pct,74.12308062290367,%,0,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,wind/compound*100,
+eal.city.hist.surge_share_pct,25.876919377096325,%,0,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,surge/compound*100,
+eal.city.ssp245.wind.bn,22.5094624481478,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,sum over 16 districts,sum(EAL_wind)/1e9,
+eal.city.ssp245.surge.bn,10.882508854556418,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,sum over 16 districts,sum(EAL_surge)/1e9,
+eal.city.ssp245.wind_share_pct,67.40980412355857,%,0,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,wind/compound*100,
+eal.city.ssp245.surge_share_pct,32.590195876441435,%,0,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,surge/compound*100,
+eal.city.ssp585.wind.bn,24.357640442028423,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,sum over 16 districts,sum(EAL_wind)/1e9,
+eal.city.ssp585.surge.bn,15.940137469915635,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,sum over 16 districts,sum(EAL_surge)/1e9,
+eal.city.ssp585.wind_share_pct,60.44412794981666,%,0,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,wind/compound*100,
+eal.city.ssp585.surge_share_pct,39.55587205018334,%,0,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,surge/compound*100,
+eal.city.ssp245.incr_vs_hist_pct,37.963329198113314,%,0,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,ssp_nodef/hist_nodef - 1,
+eal.city.ssp585.incr_vs_hist_pct,66.49557912047432,%,0,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,ssp_nodef/hist_nodef - 1,
+eal.residual.ssp585_def_vs_hist_def_pct,39.53003489377205,%,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,ssp585_def/hist_def - 1,the 39.5% of the Results prose
+eal.residual.ssp585_def_vs_hist_nodef_pct,9.564712669795972,%,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,ssp585_def/hist_nodef - 1,documented alternative definition; NOT the quoted 39.5%
+eal.dist.hist.rank,浦东新区 > 杨浦区 > 闵行区 > 徐汇区 > 虹口区 > 宝山区 > 黄浦区 > 静安区 > 松江区 > 普陀区 > 嘉定区 > 长宁区 > 青浦区 > 奉贤区 > 金山区 > 崇明区,names,0,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16 districts sorted by EAL_compound,rank,"full ranking, used for the 'top three' prose"
+eal.dist.hist.浦东新区.bn,5.9944110136859265,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=浦东新区,EAL_compound/1e9,rank 1
+eal.dist.hist.浦东新区.expo_t,14.827646218158472,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=浦东新区,exposure_total/1e12,
+eal.dist.hist.浦东新区.ratio_permille,0.40427259495475104,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=浦东新区,EAL_ratio_pct*10,
+eal.dist.hist.杨浦区.bn,2.6341206974760256,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=杨浦区,EAL_compound/1e9,rank 2
+eal.dist.hist.杨浦区.expo_t,3.4305474844536596,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=杨浦区,exposure_total/1e12,
+eal.dist.hist.杨浦区.ratio_permille,0.7678426575971238,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=杨浦区,EAL_ratio_pct*10,
+eal.dist.hist.闵行区.bn,2.2685034639112818,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=闵行区,EAL_compound/1e9,rank 3
+eal.dist.hist.闵行区.expo_t,8.031146550861898,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=闵行区,exposure_total/1e12,
+eal.dist.hist.闵行区.ratio_permille,0.2824632136326571,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=闵行区,EAL_ratio_pct*10,
+eal.dist.hist.徐汇区.bn,2.2211270133328416,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=徐汇区,EAL_compound/1e9,rank 4
+eal.dist.hist.徐汇区.expo_t,3.9843220179588608,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=徐汇区,exposure_total/1e12,
+eal.dist.hist.徐汇区.ratio_permille,0.5574667417245328,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=徐汇区,EAL_ratio_pct*10,
+eal.dist.hist.虹口区.bn,1.666335179265338,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=虹口区,EAL_compound/1e9,rank 5
+eal.dist.hist.虹口区.expo_t,2.028730437013709,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=虹口区,exposure_total/1e12,
+eal.dist.hist.虹口区.ratio_permille,0.8213684523401655,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=虹口区,EAL_ratio_pct*10,
+eal.dist.hist.宝山区.bn,1.6510860547815136,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=宝山区,EAL_compound/1e9,rank 6
+eal.dist.hist.宝山区.expo_t,4.963234892880989,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=宝山区,exposure_total/1e12,
+eal.dist.hist.宝山区.ratio_permille,0.3326632912638786,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=宝山区,EAL_ratio_pct*10,
+eal.dist.hist.黄浦区.bn,1.6121124803459304,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=黄浦区,EAL_compound/1e9,rank 7
+eal.dist.hist.黄浦区.expo_t,2.4141731896201506,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=黄浦区,exposure_total/1e12,
+eal.dist.hist.黄浦区.ratio_permille,0.6677700205094161,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=黄浦区,EAL_ratio_pct*10,
+eal.dist.hist.静安区.bn,1.114897668983326,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=静安区,EAL_compound/1e9,rank 8
+eal.dist.hist.静安区.expo_t,3.3528630906091923,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=静安区,exposure_total/1e12,
+eal.dist.hist.静安区.ratio_permille,0.332521083877826,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=静安区,EAL_ratio_pct*10,
+eal.dist.hist.松江区.bn,1.0631492785378975,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=松江区,EAL_compound/1e9,rank 9
+eal.dist.hist.松江区.expo_t,4.669746233926693,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=松江区,exposure_total/1e12,
+eal.dist.hist.松江区.ratio_permille,0.22766746312977207,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=松江区,EAL_ratio_pct*10,
+eal.dist.hist.普陀区.bn,0.8243021801510328,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=普陀区,EAL_compound/1e9,rank 10
+eal.dist.hist.普陀区.expo_t,2.6664725077059006,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=普陀区,exposure_total/1e12,
+eal.dist.hist.普陀区.ratio_permille,0.30913582561562625,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=普陀区,EAL_ratio_pct*10,
+eal.dist.hist.嘉定区.bn,0.816333687951651,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=嘉定区,EAL_compound/1e9,rank 11
+eal.dist.hist.嘉定区.expo_t,4.05011500723338,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=嘉定区,exposure_total/1e12,
+eal.dist.hist.嘉定区.ratio_permille,0.2015581499522123,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=嘉定区,EAL_ratio_pct*10,
+eal.dist.hist.长宁区.bn,0.7866434553993774,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=长宁区,EAL_compound/1e9,rank 12
+eal.dist.hist.长宁区.expo_t,2.5202921683705792,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=长宁区,exposure_total/1e12,
+eal.dist.hist.长宁区.ratio_permille,0.312123913755586,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=长宁区,EAL_ratio_pct*10,
+eal.dist.hist.青浦区.bn,0.7187749405219012,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=青浦区,EAL_compound/1e9,rank 13
+eal.dist.hist.青浦区.expo_t,3.2854450036941665,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=青浦区,exposure_total/1e12,
+eal.dist.hist.青浦区.ratio_permille,0.2187755204283462,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=青浦区,EAL_ratio_pct*10,
+eal.dist.hist.奉贤区.bn,0.47673037603068985,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=奉贤区,EAL_compound/1e9,rank 14
+eal.dist.hist.奉贤区.expo_t,1.6936019742485537,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=奉贤区,exposure_total/1e12,
+eal.dist.hist.奉贤区.ratio_permille,0.28148902946467913,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=奉贤区,EAL_ratio_pct*10,
+eal.dist.hist.金山区.bn,0.25834046967356195,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=金山区,EAL_compound/1e9,rank 15
+eal.dist.hist.金山区.expo_t,1.117340238604983,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=金山区,exposure_total/1e12,
+eal.dist.hist.金山区.ratio_permille,0.23121020862553388,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=金山区,EAL_ratio_pct*10,
+eal.dist.hist.崇明区.bn,0.09664430425335677,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=崇明区,EAL_compound/1e9,rank 16
+eal.dist.hist.崇明区.expo_t,0.2921845725209664,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=崇明区,exposure_total/1e12,
+eal.dist.hist.崇明区.ratio_permille,0.3307645691882716,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=崇明区,EAL_ratio_pct*10,
+eal.dist.hist.mean_of_ratios_permille,0.39244329600377365,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,unweighted mean over 16 districts,mean(EAL_ratio_pct)*10,the 0.39 per mille city-mean of the Results prose
+eal.dist.hist.city_ratio_permille,0.3821937399658013,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,sum(EAL)/sum(exposure)*1000,aggregate alternative; NOT the number the prose uses
+eal.dist.ssp585.rank,浦东新区 > 杨浦区 > 徐汇区 > 虹口区 > 黄浦区 > 闵行区 > 宝山区 > 静安区 > 松江区 > 嘉定区 > 普陀区 > 长宁区 > 青浦区 > 奉贤区 > 金山区 > 崇明区,names,0,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16 districts sorted by EAL_compound,rank,"full ranking, used for the 'top three' prose"
+eal.dist.ssp585.浦东新区.bn,9.347747534480204,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=浦东新区,EAL_compound/1e9,rank 1
+eal.dist.ssp585.浦东新区.expo_t,14.827646218158472,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=浦东新区,exposure_total/1e12,
+eal.dist.ssp585.浦东新区.ratio_permille,0.6304269333748072,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=浦东新区,EAL_ratio_pct*10,
+eal.dist.ssp585.杨浦区.bn,5.355045924018301,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=杨浦区,EAL_compound/1e9,rank 2
+eal.dist.ssp585.杨浦区.expo_t,3.4305474844536596,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=杨浦区,exposure_total/1e12,
+eal.dist.ssp585.杨浦区.ratio_permille,1.5609887192309575,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=杨浦区,EAL_ratio_pct*10,
+eal.dist.ssp585.徐汇区.bn,4.181199268644044,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=徐汇区,EAL_compound/1e9,rank 3
+eal.dist.ssp585.徐汇区.expo_t,3.9843220179588608,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=徐汇区,exposure_total/1e12,
+eal.dist.ssp585.徐汇区.ratio_permille,1.0494129866506228,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=徐汇区,EAL_ratio_pct*10,
+eal.dist.ssp585.虹口区.bn,3.486339165365434,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=虹口区,EAL_compound/1e9,rank 4
+eal.dist.ssp585.虹口区.expo_t,2.028730437013709,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=虹口区,exposure_total/1e12,
+eal.dist.ssp585.虹口区.ratio_permille,1.7184831960708022,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=虹口区,EAL_ratio_pct*10,
+eal.dist.ssp585.黄浦区.bn,3.2841930525065375,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=黄浦区,EAL_compound/1e9,rank 5
+eal.dist.ssp585.黄浦区.expo_t,2.4141731896201506,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=黄浦区,exposure_total/1e12,
+eal.dist.ssp585.黄浦区.ratio_permille,1.3603800533561874,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=黄浦区,EAL_ratio_pct*10,
+eal.dist.ssp585.闵行区.bn,3.151834342253066,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=闵行区,EAL_compound/1e9,rank 6
+eal.dist.ssp585.闵行区.expo_t,8.031146550861898,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=闵行区,exposure_total/1e12,
+eal.dist.ssp585.闵行区.ratio_permille,0.3924513545223269,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=闵行区,EAL_ratio_pct*10,
+eal.dist.ssp585.宝山区.bn,2.60207056563286,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=宝山区,EAL_compound/1e9,rank 7
+eal.dist.ssp585.宝山区.expo_t,4.963234892880989,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=宝山区,exposure_total/1e12,
+eal.dist.ssp585.宝山区.ratio_permille,0.524269074865898,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=宝山区,EAL_ratio_pct*10,
+eal.dist.ssp585.静安区.bn,1.6100923871272337,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=静安区,EAL_compound/1e9,rank 8
+eal.dist.ssp585.静安区.expo_t,3.3528630906091923,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=静安区,exposure_total/1e12,
+eal.dist.ssp585.静安区.ratio_permille,0.4802141762474086,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=静安区,EAL_ratio_pct*10,
+eal.dist.ssp585.松江区.bn,1.513905410867178,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=松江区,EAL_compound/1e9,rank 9
+eal.dist.ssp585.松江区.expo_t,4.669746233926693,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=松江区,exposure_total/1e12,
+eal.dist.ssp585.松江区.ratio_permille,0.32419436411090935,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=松江区,EAL_ratio_pct*10,
+eal.dist.ssp585.嘉定区.bn,1.19483190043643,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=嘉定区,EAL_compound/1e9,rank 10
+eal.dist.ssp585.嘉定区.expo_t,4.05011500723338,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=嘉定区,exposure_total/1e12,
+eal.dist.ssp585.嘉定区.ratio_permille,0.29501184492353855,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=嘉定区,EAL_ratio_pct*10,
+eal.dist.ssp585.普陀区.bn,1.1857315760306342,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=普陀区,EAL_compound/1e9,rank 11
+eal.dist.ssp585.普陀区.expo_t,2.6664725077059006,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=普陀区,exposure_total/1e12,
+eal.dist.ssp585.普陀区.ratio_permille,0.4446817181140856,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=普陀区,EAL_ratio_pct*10,
+eal.dist.ssp585.长宁区.bn,1.0982970696790013,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=长宁区,EAL_compound/1e9,rank 12
+eal.dist.ssp585.长宁区.expo_t,2.5202921683705792,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=长宁区,exposure_total/1e12,
+eal.dist.ssp585.长宁区.ratio_permille,0.4357816460577557,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=长宁区,EAL_ratio_pct*10,
+eal.dist.ssp585.青浦区.bn,1.0361841960269664,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=青浦区,EAL_compound/1e9,rank 13
+eal.dist.ssp585.青浦区.expo_t,3.2854450036941665,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=青浦区,exposure_total/1e12,
+eal.dist.ssp585.青浦区.ratio_permille,0.3153862550923473,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=青浦区,EAL_ratio_pct*10,
+eal.dist.ssp585.奉贤区.bn,0.6959041640908717,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=奉贤区,EAL_compound/1e9,rank 14
+eal.dist.ssp585.奉贤区.expo_t,1.6936019742485537,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=奉贤区,exposure_total/1e12,
+eal.dist.ssp585.奉贤区.ratio_permille,0.4109018380187248,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=奉贤区,EAL_ratio_pct*10,
+eal.dist.ssp585.金山区.bn,0.3945304243031575,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=金山区,EAL_compound/1e9,rank 15
+eal.dist.ssp585.金山区.expo_t,1.117340238604983,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=金山区,exposure_total/1e12,
+eal.dist.ssp585.金山区.ratio_permille,0.35309783955846336,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=金山区,EAL_ratio_pct*10,
+eal.dist.ssp585.崇明区.bn,0.1598709304821361,CNY billion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=崇明区,EAL_compound/1e9,rank 16
+eal.dist.ssp585.崇明区.expo_t,0.2921845725209664,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=崇明区,exposure_total/1e12,
+eal.dist.ssp585.崇明区.ratio_permille,0.5471573297069412,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=崇明区,EAL_ratio_pct*10,
+eal.dist.ssp585.mean_of_ratios_permille,0.6776774581188609,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,unweighted mean over 16 districts,mean(EAL_ratio_pct)*10,the 0.39 per mille city-mean of the Results prose
+eal.dist.ssp585.city_ratio_permille,0.6363356807182607,per mille,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,16-district sums,sum(EAL)/sum(exposure)*1000,aggregate alternative; NOT the number the prose uses
+exposure.total_t,63.327861587862145,CNY trillion,1,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,sum over 16 districts,sum(exposure_total)/1e12,
+exposure.largest_district,浦东新区,name,0,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=浦东新区,argmax(exposure_total),the 'largest district by exposure' of the Results prose
+exposure.second_district_t,8.031146550861898,CNY trillion,2,Climate\output\results\defense_sensitivity\defense_profile_eal.csv,district=闵行区,exposure_total/1e12,"runner-up, i.e. how clear the lead is"
+cri.hist.start,100.00000000000001,index,1,Climate\output\results\shanghai_city_monthly_climate_hazard.csv,date=1993-06-01 (first valid; EWMA warm-up),cri_index,index starts at CRI_BASE_INDEX=100
+cri.hist.2023_12,440.26186728357675,index,1,Climate\output\results\shanghai_city_monthly_climate_hazard.csv,date=2023-12-01,cri_index,the 440.3 quoted in the Results
+cri.hist.fold,4.402618672835767,ratio,1,Climate\output\results\shanghai_city_monthly_climate_hazard.csv,2023-12-01 vs 1993-06-01,end/start,the '4.4-fold' of the Results
+cri.hist.max,547.3127583066758,index,1,Climate\output\results\shanghai_city_monthly_climate_hazard.csv,max over the historical series,max(cri_index),
+cri.hist.first_year,1993,year,0,Climate\output\results\shanghai_city_monthly_climate_hazard.csv,first valid row,year,
+cri.hist.last_year,2023,year,0,Climate\output\results\shanghai_city_monthly_climate_hazard.csv,last valid row,year,
+cri.proj.hist.p10,491.0786645793897,index,0,Climate\output\results\shanghai_city_cri_projection.csv,scenario=Historical Baseline date=2050-12,cri_index_p10,Table 3 column p10
+cri.proj.hist.p50,600.8741549850199,index,0,Climate\output\results\shanghai_city_cri_projection.csv,scenario=Historical Baseline date=2050-12,cri_index_p50,Table 3 column p50
+cri.proj.hist.p90,691.5949372546493,index,0,Climate\output\results\shanghai_city_cri_projection.csv,scenario=Historical Baseline date=2050-12,cri_index_p90,Table 3 column p90
+cri.proj.hist.rep,581.3240168591402,index,0,Climate\output\results\shanghai_city_cri_projection.csv,scenario=Historical Baseline date=2050-12,cri_index_rep,
+cri.proj.ssp245.p10,565.2912140248008,index,0,Climate\output\results\shanghai_city_cri_projection.csv,scenario=SSP2-4.5 date=2050-12,cri_index_p10,Table 3 column p10
+cri.proj.ssp245.p50,675.359228463476,index,0,Climate\output\results\shanghai_city_cri_projection.csv,scenario=SSP2-4.5 date=2050-12,cri_index_p50,Table 3 column p50
+cri.proj.ssp245.p90,770.2680065287378,index,0,Climate\output\results\shanghai_city_cri_projection.csv,scenario=SSP2-4.5 date=2050-12,cri_index_p90,Table 3 column p90
+cri.proj.ssp245.rep,638.0228892720124,index,0,Climate\output\results\shanghai_city_cri_projection.csv,scenario=SSP2-4.5 date=2050-12,cri_index_rep,
+cri.proj.ssp585.p10,643.2789755417214,index,0,Climate\output\results\shanghai_city_cri_projection.csv,scenario=SSP5-8.5 date=2050-12,cri_index_p10,Table 3 column p10
+cri.proj.ssp585.p50,744.5953661838055,index,0,Climate\output\results\shanghai_city_cri_projection.csv,scenario=SSP5-8.5 date=2050-12,cri_index_p50,Table 3 column p50
+cri.proj.ssp585.p90,839.594010046396,index,0,Climate\output\results\shanghai_city_cri_projection.csv,scenario=SSP5-8.5 date=2050-12,cri_index_p90,Table 3 column p90
+cri.proj.ssp585.rep,707.5750967412963,index,0,Climate\output\results\shanghai_city_cri_projection.csv,scenario=SSP5-8.5 date=2050-12,cri_index_rep,
+cri.incr.ssp245.p50_vs_hist2050_pct,12.396118698151204,%,1,Climate\output\results\shanghai_city_cri_projection.csv,2050-12 p50 vs the historical-baseline 2050 p50,p50_scen/p50_hist - 1,the 12.4% / 23.9% of the Results
+cri.incr.ssp245.p50_vs_2023_pct,53.399437618900315,%,1,Climate\output\results\shanghai_city_cri_projection.csv,2050-12 p50 vs the 2023-12 terminal value,p50_2050/cri_2023_12 - 1,documented alternative definition; NOT the quoted increment
+cri.incr.ssp585.p50_vs_hist2050_pct,23.918687466657417,%,1,Climate\output\results\shanghai_city_cri_projection.csv,2050-12 p50 vs the historical-baseline 2050 p50,p50_scen/p50_hist - 1,the 12.4% / 23.9% of the Results
+cri.incr.ssp585.p50_vs_2023_pct,69.12556401442886,%,1,Climate\output\results\shanghai_city_cri_projection.csv,2050-12 p50 vs the 2023-12 terminal value,p50_2050/cri_2023_12 - 1,documented alternative definition; NOT the quoted increment
+hsi.hist.peak,254.1836272843416,index,0,Finance\output\results\shanghai_finance_risk_index.csv,date=2023-02-01,max(fri_index),the peak quoted in the Results
+hsi.hist.last,231.32939080259547,index,0,Finance\output\results\shanghai_finance_risk_index.csv,date=2025-06-01 (end of the series),fri_index,the terminal HSI quoted in the Results
+hsi.hist.first,100.0,index,1,Finance\output\results\shanghai_finance_risk_index.csv,date=2011-12-01,fri_index,index base
+hsi.hist.2023_12,223.1457590833054,index,0,Finance\output\results\shanghai_finance_risk_index.csv,date=2023-12,fri_index,
+hsi.hist.first_year,2011,year,0,Finance\output\results\shanghai_finance_risk_index.csv,first valid row,year,
+hsi.hist.last_year,2025,year,0,Finance\output\results\shanghai_finance_risk_index.csv,last valid row,year,
+hsi.hist.peak_year,2023,year,0,Finance\output\results\shanghai_finance_risk_index.csv,argmax row,year,
+hsi.proj.hist.p10,229.94513901311964,index,0,Finance\output\results\shanghai_fri_projection.csv,scenario=Historical Baseline date=2050-12,fri_index_p10,Table 4 column p10
+hsi.proj.hist.p50,265.3268157345475,index,0,Finance\output\results\shanghai_fri_projection.csv,scenario=Historical Baseline date=2050-12,fri_index_p50,Table 4 column p50
+hsi.proj.hist.p90,329.37021913244814,index,0,Finance\output\results\shanghai_fri_projection.csv,scenario=Historical Baseline date=2050-12,fri_index_p90,Table 4 column p90
+hsi.proj.ssp245.p10,250.9779983483339,index,0,Finance\output\results\shanghai_fri_projection.csv,scenario=SSP2-4.5 date=2050-12,fri_index_p10,Table 4 column p10
+hsi.proj.ssp245.p50,287.0701771889062,index,0,Finance\output\results\shanghai_fri_projection.csv,scenario=SSP2-4.5 date=2050-12,fri_index_p50,Table 4 column p50
+hsi.proj.ssp245.p90,354.0986663383418,index,0,Finance\output\results\shanghai_fri_projection.csv,scenario=SSP2-4.5 date=2050-12,fri_index_p90,Table 4 column p90
+hsi.proj.ssp585.p10,269.6917944378006,index,0,Finance\output\results\shanghai_fri_projection.csv,scenario=SSP5-8.5 date=2050-12,fri_index_p10,Table 4 column p10
+hsi.proj.ssp585.p50,307.18826279116865,index,0,Finance\output\results\shanghai_fri_projection.csv,scenario=SSP5-8.5 date=2050-12,fri_index_p50,Table 4 column p50
+hsi.proj.ssp585.p90,375.01098249105286,index,0,Finance\output\results\shanghai_fri_projection.csv,scenario=SSP5-8.5 date=2050-12,fri_index_p90,Table 4 column p90
+cchi.hist.first,129.77844935203674,index,0,Composite\output\results\shanghai_cfci_historical.csv,date=2011-12-01,cfci,first historical CCHI
+cchi.hist.2023_12,313.436705844142,index,1,Composite\output\results\shanghai_cfci_historical.csv,date=2023-12-01,cfci,the 313 quoted in the Results
+cchi.hist.first_cri,168.42445916219168,index,1,Composite\output\results\shanghai_cfci_historical.csv,date=2011-12-01,cri_index,
+cchi.hist.first_hsi,100.0,index,1,Composite\output\results\shanghai_cfci_historical.csv,date=2011-12-01,fri_index,
+cchi.proj.hist.p10,353.9516779451405,index,0,Composite\output\results\shanghai_cfci_projection.csv,scenario=Historical Baseline date=2050-12,cfci_p10,Table 5 column p10
+cchi.proj.hist.p50,399.12752265663255,index,0,Composite\output\results\shanghai_cfci_projection.csv,scenario=Historical Baseline date=2050-12,cfci_p50,Table 5 column p50
+cchi.proj.hist.p90,457.0119778323587,index,0,Composite\output\results\shanghai_cfci_projection.csv,scenario=Historical Baseline date=2050-12,cfci_p90,Table 5 column p90
+cchi.proj.ssp245.p10,393.7298484640384,index,0,Composite\output\results\shanghai_cfci_projection.csv,scenario=SSP2-4.5 date=2050-12,cfci_p10,Table 5 column p10
+cchi.proj.ssp245.p50,440.7708955815974,index,0,Composite\output\results\shanghai_cfci_projection.csv,scenario=SSP2-4.5 date=2050-12,cfci_p50,Table 5 column p50
+cchi.proj.ssp245.p90,498.8846078441248,index,0,Composite\output\results\shanghai_cfci_projection.csv,scenario=SSP2-4.5 date=2050-12,cfci_p90,Table 5 column p90
+cchi.proj.ssp585.p10,435.3355610616021,index,0,Composite\output\results\shanghai_cfci_projection.csv,scenario=SSP5-8.5 date=2050-12,cfci_p10,Table 5 column p10
+cchi.proj.ssp585.p50,478.8951600576338,index,0,Composite\output\results\shanghai_cfci_projection.csv,scenario=SSP5-8.5 date=2050-12,cfci_p50,Table 5 column p50
+cchi.proj.ssp585.p90,533.9633068955269,index,0,Composite\output\results\shanghai_cfci_projection.csv,scenario=SSP5-8.5 date=2050-12,cfci_p90,Table 5 column p90
+cchi.incr.ssp245.p50_pct,40.62516845132138,%,0,Composite\output\results\shanghai_cfci_projection.csv,2050-12 p50 vs 2023-12-01,p50_2050/cfci_2023_12 - 1,the '53%' of the Abstract
+cchi.incr.ssp585.p50_pct,52.78847407736822,%,0,Composite\output\results\shanghai_cfci_projection.csv,2050-12 p50 vs 2023-12-01,p50_2050/cfci_2023_12 - 1,the '53%' of the Abstract
+dep.spearman,0.3231262793260904,rho,3,Composite\output\results\shanghai_cfci_historical.csv,2011-12..2023-12 (145 months),Spearman rank correlation of the CRI and HSI monthly series,the empirical *rank* correlation the manuscript calls 0.358
+dep.pearson,0.3592762254889951,r,3,Composite\output\results\shanghai_cfci_historical.csv,2011-12..2023-12 (145 months),Pearson correlation of the same two series,the linear analogue; compare with the figure annotation
+dep.n_months,145,months,0,Composite\output\results\shanghai_cfci_historical.csv,rows of shanghai_cfci_historical.csv,len(rows),the 2011-2023 overlap window
+dep.start_year,2011,year,0,Composite\output\results\shanghai_cfci_historical.csv,first row,year,
+dep.end_year,2023,year,0,Composite\output\results\shanghai_cfci_historical.csv,last row,year,
+cchi.hist.start_year,2011,year,0,Composite\output\results\shanghai_cfci_historical.csv,first row,year,
+cchi.hist.end_year,2023,year,0,Composite\output\results\shanghai_cfci_historical.csv,last row,year,
+t8.r2.index_baseline,24.20351226430165,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=SURGE_MDR_CALIBRATION_SCALE is_baseline,DEF_EAL_historical_baseline_nodef,
+t8.r2.index_min,21.4989817246171,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=SURGE_MDR_CALIBRATION_SCALE over 5 values,min(DEF_EAL_historical_baseline_nodef),
+t8.r2.index_max,28.61616735536592,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=SURGE_MDR_CALIBRATION_SCALE over 5 values,max(DEF_EAL_historical_baseline_nodef),
+t8.r2.dev_min,-11.174124276473416,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=SURGE_MDR_CALIBRATION_SCALE,(min-baseline)/baseline*100,
+t8.r2.dev_max,18.231465924772426,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=SURGE_MDR_CALIBRATION_SCALE,(max-baseline)/baseline*100,
+t8.r2.primary,EAL,text,0,_sensitivity_results\sensitivity_latest.csv,SURGE_MDR_CALIBRATION_SCALE,primary index of the sweep,
+t8.r2.param_baseline,0.176,param,3,config\sensitivity_sweep.json,sweeps[SURGE_MDR_CALIBRATION_SCALE].baseline,literal,
+t8.r2.param_lo,0.1,param,3,config\sensitivity_sweep.json,sweeps[SURGE_MDR_CALIBRATION_SCALE].values,min(values),
+t8.r2.param_hi,0.3,param,3,config\sensitivity_sweep.json,sweeps[SURGE_MDR_CALIBRATION_SCALE].values,max(values),
+t8.r3.index_baseline,24.20351226430165,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=TC_V_HALF_BASE_SCALE is_baseline,DEF_EAL_historical_baseline_nodef,
+t8.r3.index_min,21.140437205141605,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=TC_V_HALF_BASE_SCALE over 5 values,min(DEF_EAL_historical_baseline_nodef),
+t8.r3.index_max,28.154545819992336,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=TC_V_HALF_BASE_SCALE over 5 values,max(DEF_EAL_historical_baseline_nodef),
+t8.r3.dev_min,-12.655498200886528,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=TC_V_HALF_BASE_SCALE,(min-baseline)/baseline*100,
+t8.r3.dev_max,16.324215727641153,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=TC_V_HALF_BASE_SCALE,(max-baseline)/baseline*100,
+t8.r3.primary,EAL,text,0,_sensitivity_results\sensitivity_latest.csv,TC_V_HALF_BASE_SCALE,primary index of the sweep,
+t8.r3.param_baseline,1.0,param,3,config\sensitivity_sweep.json,sweeps[TC_V_HALF_BASE_SCALE].baseline,literal,
+t8.r3.param_lo,0.95,param,3,config\sensitivity_sweep.json,sweeps[TC_V_HALF_BASE_SCALE].values,min(values),
+t8.r3.param_hi,1.05,param,3,config\sensitivity_sweep.json,sweeps[TC_V_HALF_BASE_SCALE].values,max(values),
+t8.r4.index_baseline,24.20351226430165,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=TC_IMPACT_V_THRESH is_baseline,DEF_EAL_historical_baseline_nodef,
+t8.r4.index_min,18.692775801590905,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=TC_IMPACT_V_THRESH over 5 values,min(DEF_EAL_historical_baseline_nodef),
+t8.r4.index_max,31.691831567656234,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=TC_IMPACT_V_THRESH over 5 values,max(DEF_EAL_historical_baseline_nodef),
+t8.r4.dev_min,-22.768333796077464,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=TC_IMPACT_V_THRESH,(min-baseline)/baseline*100,
+t8.r4.dev_max,30.93897787057661,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=TC_IMPACT_V_THRESH,(max-baseline)/baseline*100,
+t8.r4.primary,EAL,text,0,_sensitivity_results\sensitivity_latest.csv,TC_IMPACT_V_THRESH,primary index of the sweep,
+t8.r4.param_baseline,25.7,param,3,config\sensitivity_sweep.json,sweeps[TC_IMPACT_V_THRESH].baseline,literal,
+t8.r4.param_lo,23.0,param,3,config\sensitivity_sweep.json,sweeps[TC_IMPACT_V_THRESH].values,min(values),
+t8.r4.param_hi,28.5,param,3,config\sensitivity_sweep.json,sweeps[TC_IMPACT_V_THRESH].values,max(values),
+t8.r5.index_baseline,24.20351226430165,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=GAMMA_SVI is_baseline,DEF_EAL_historical_baseline_nodef,
+t8.r5.index_min,22.636594275466408,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=GAMMA_SVI over 5 values,min(DEF_EAL_historical_baseline_nodef),
+t8.r5.index_max,25.770430253136894,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=GAMMA_SVI over 5 values,max(DEF_EAL_historical_baseline_nodef),
+t8.r5.dev_min,-6.473928129622446,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=GAMMA_SVI,(min-baseline)/baseline*100,
+t8.r5.dev_max,6.473928129622446,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=GAMMA_SVI,(max-baseline)/baseline*100,
+t8.r5.primary,EAL,text,0,_sensitivity_results\sensitivity_latest.csv,GAMMA_SVI,primary index of the sweep,
+t8.r5.param_baseline,0.15,param,3,config\sensitivity_sweep.json,sweeps[GAMMA_SVI].baseline,literal,
+t8.r5.param_lo,0.0,param,3,config\sensitivity_sweep.json,sweeps[GAMMA_SVI].values,min(values),
+t8.r5.param_hi,0.3,param,3,config\sensitivity_sweep.json,sweeps[GAMMA_SVI].values,max(values),
+t8.r6.index_baseline,24.20351226430165,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_A_old is_baseline,DEF_EAL_historical_baseline_nodef,
+t8.r6.index_min,22.668944419960404,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_A_old over 5 values,min(DEF_EAL_historical_baseline_nodef),
+t8.r6.index_max,27.59632778013262,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_A_old over 5 values,max(DEF_EAL_historical_baseline_nodef),
+t8.r6.dev_min,-6.3402692451567,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_A_old,(min-baseline)/baseline*100,
+t8.r6.dev_max,14.017864344569169,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_A_old,(max-baseline)/baseline*100,
+t8.r6.primary,EAL,text,0,_sensitivity_results\sensitivity_latest.csv,V_HALF_ADJ_A_old,primary index of the sweep,
+t8.r6.param_baseline,0.8,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_old].baseline,literal,
+t8.r6.param_lo,0.68,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_old].values,min(values),
+t8.r6.param_hi,0.92,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_old].values,max(values),
+t8.r7.index_baseline,24.20351226430165,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_A_new is_baseline,DEF_EAL_historical_baseline_nodef,
+t8.r7.index_min,23.136960728046326,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_A_new over 5 values,min(DEF_EAL_historical_baseline_nodef),
+t8.r7.index_max,26.46404046096408,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_A_new over 5 values,max(DEF_EAL_historical_baseline_nodef),
+t8.r7.dev_min,-4.406598201982479,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_A_new,(min-baseline)/baseline*100,
+t8.r7.dev_max,9.339670094065372,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_A_new,(max-baseline)/baseline*100,
+t8.r7.primary,EAL,text,0,_sensitivity_results\sensitivity_latest.csv,V_HALF_ADJ_A_new,primary index of the sweep,
+t8.r7.param_baseline,0.9,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_new].baseline,literal,
+t8.r7.param_lo,0.77,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_new].values,min(values),
+t8.r7.param_hi,1.03,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_new].values,max(values),
+t8.r8.index_baseline,24.20351226430165,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_B_old is_baseline,DEF_EAL_historical_baseline_nodef,
+t8.r8.index_min,22.084121877384238,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_B_old over 5 values,min(DEF_EAL_historical_baseline_nodef),
+t8.r8.index_max,28.723870269048582,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_B_old over 5 values,max(DEF_EAL_historical_baseline_nodef),
+t8.r8.dev_min,-8.756540636638725,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_B_old,(min-baseline)/baseline*100,
+t8.r8.dev_max,18.676454703700664,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_B_old,(max-baseline)/baseline*100,
+t8.r8.primary,EAL,text,0,_sensitivity_results\sensitivity_latest.csv,V_HALF_ADJ_B_old,primary index of the sweep,
+t8.r8.param_baseline,0.95,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_old].baseline,literal,
+t8.r8.param_lo,0.81,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_old].values,min(values),
+t8.r8.param_hi,1.09,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_old].values,max(values),
+t8.r9.index_baseline,24.20351226430165,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_B_new is_baseline,DEF_EAL_historical_baseline_nodef,
+t8.r9.index_min,22.237181312887024,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_B_new over 5 values,min(DEF_EAL_historical_baseline_nodef),
+t8.r9.index_max,28.431711059158616,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_B_new over 5 values,max(DEF_EAL_historical_baseline_nodef),
+t8.r9.dev_min,-8.124155411587996,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_B_new,(min-baseline)/baseline*100,
+t8.r9.dev_max,17.46936043283783,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_B_new,(max-baseline)/baseline*100,
+t8.r9.primary,EAL,text,0,_sensitivity_results\sensitivity_latest.csv,V_HALF_ADJ_B_new,primary index of the sweep,
+t8.r9.param_baseline,1.0,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_new].baseline,literal,
+t8.r9.param_lo,0.85,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_new].values,min(values),
+t8.r9.param_hi,1.15,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_new].values,max(values),
+t8.r10.index_baseline,24.20351226430165,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_C is_baseline,DEF_EAL_historical_baseline_nodef,
+t8.r10.index_min,24.201927190982865,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_C over 5 values,min(DEF_EAL_historical_baseline_nodef),
+t8.r10.index_max,24.206934387918807,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_C over 5 values,max(DEF_EAL_historical_baseline_nodef),
+t8.r10.dev_min,-0.006548939267481787,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_C,(min-baseline)/baseline*100,
+t8.r10.dev_max,0.01413895462686362,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_C,(max-baseline)/baseline*100,
+t8.r10.primary,EAL,text,0,_sensitivity_results\sensitivity_latest.csv,V_HALF_ADJ_C,primary index of the sweep,
+t8.r10.param_baseline,1.05,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_C].baseline,literal,
+t8.r10.param_lo,0.89,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_C].values,min(values),
+t8.r10.param_hi,1.21,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_C].values,max(values),
+t8.r11.index_baseline,24.20351226430165,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_D is_baseline,DEF_EAL_historical_baseline_nodef,
+t8.r11.index_min,23.5429896427723,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_D over 5 values,min(DEF_EAL_historical_baseline_nodef),
+t8.r11.index_max,25.517106922425274,CNY billion,1,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_D over 5 values,max(DEF_EAL_historical_baseline_nodef),
+t8.r11.dev_min,-2.729036241998527,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_D,(min-baseline)/baseline*100,
+t8.r11.dev_max,5.427289410640933,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=V_HALF_ADJ_D,(max-baseline)/baseline*100,
+t8.r11.primary,EAL,text,0,_sensitivity_results\sensitivity_latest.csv,V_HALF_ADJ_D,primary index of the sweep,
+t8.r11.param_baseline,1.1,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_D].baseline,literal,
+t8.r11.param_lo,0.94,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_D].values,min(values),
+t8.r11.param_hi,1.27,param,3,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_D].values,max(values),
+t8.r13.index_baseline,600.8741549850199,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=CRI_EWMA_ALPHA is_baseline,CRI_2050_p50_Historical Baseline,
+t8.r13.index_min,595.8287268876641,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=CRI_EWMA_ALPHA over 5 values,min(CRI_2050_p50_Historical Baseline),
+t8.r13.index_max,611.7561132669509,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=CRI_EWMA_ALPHA over 5 values,max(CRI_2050_p50_Historical Baseline),
+t8.r13.dev_min,-0.8396813301916168,%,1,_sensitivity_results\sensitivity_latest.csv,sweep=CRI_EWMA_ALPHA,(min-baseline)/baseline*100,
+t8.r13.dev_max,1.8110211916507395,%,1,_sensitivity_results\sensitivity_latest.csv,sweep=CRI_EWMA_ALPHA,(max-baseline)/baseline*100,
+t8.r13.primary,CRI,text,0,_sensitivity_results\sensitivity_latest.csv,CRI_EWMA_ALPHA,primary index of the sweep,
+t8.r13.param_baseline,0.85,param,3,config\sensitivity_sweep.json,sweeps[CRI_EWMA_ALPHA].baseline,literal,
+t8.r13.param_lo,0.7,param,3,config\sensitivity_sweep.json,sweeps[CRI_EWMA_ALPHA].values,min(values),
+t8.r13.param_hi,0.95,param,3,config\sensitivity_sweep.json,sweeps[CRI_EWMA_ALPHA].values,max(values),
+t8.r14.index_baseline,600.8741549850199,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=CRI_DAMAGE_KAPPA is_baseline,CRI_2050_p50_Historical Baseline,
+t8.r14.index_min,590.0009843728949,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=CRI_DAMAGE_KAPPA over 5 values,min(CRI_2050_p50_Historical Baseline),
+t8.r14.index_max,607.4161439880219,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=CRI_DAMAGE_KAPPA over 5 values,max(CRI_2050_p50_Historical Baseline),
+t8.r14.dev_min,-1.8095587107413693,%,1,_sensitivity_results\sensitivity_latest.csv,sweep=CRI_DAMAGE_KAPPA,(min-baseline)/baseline*100,
+t8.r14.dev_max,1.0887452803099933,%,1,_sensitivity_results\sensitivity_latest.csv,sweep=CRI_DAMAGE_KAPPA,(max-baseline)/baseline*100,
+t8.r14.primary,CRI,text,0,_sensitivity_results\sensitivity_latest.csv,CRI_DAMAGE_KAPPA,primary index of the sweep,
+t8.r14.param_baseline,0.5,param,3,config\sensitivity_sweep.json,sweeps[CRI_DAMAGE_KAPPA].baseline,literal,
+t8.r14.param_lo,0.0,param,3,config\sensitivity_sweep.json,sweeps[CRI_DAMAGE_KAPPA].values,min(values),
+t8.r14.param_hi,1.0,param,3,config\sensitivity_sweep.json,sweeps[CRI_DAMAGE_KAPPA].values,max(values),
+t8.r15.index_baseline,265.3268157345475,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=HP_LAMBDA is_baseline,FRI_2050_p50_Historical Baseline,
+t8.r15.index_min,258.80808020339407,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=HP_LAMBDA over 5 values,min(FRI_2050_p50_Historical Baseline),
+t8.r15.index_max,275.7950393089136,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=HP_LAMBDA over 5 values,max(FRI_2050_p50_Historical Baseline),
+t8.r15.dev_min,-2.456870223654758,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=HP_LAMBDA,(min-baseline)/baseline*100,
+t8.r15.dev_max,3.9454073066023185,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=HP_LAMBDA,(max-baseline)/baseline*100,
+t8.r15.primary,HSI,text,0,_sensitivity_results\sensitivity_latest.csv,HP_LAMBDA,primary index of the sweep,
+t8.r15.param_baseline,129600,param,3,config\sensitivity_sweep.json,sweeps[HP_LAMBDA].baseline,literal,
+t8.r15.param_lo,97200,param,3,config\sensitivity_sweep.json,sweeps[HP_LAMBDA].values,min(values),
+t8.r15.param_hi,162000,param,3,config\sensitivity_sweep.json,sweeps[HP_LAMBDA].values,max(values),
+t8.r16.index_baseline,265.3268157345475,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=VOLATILITY_WINDOW is_baseline,FRI_2050_p50_Historical Baseline,
+t8.r16.index_min,265.0634469587462,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=VOLATILITY_WINDOW over 5 values,min(FRI_2050_p50_Historical Baseline),
+t8.r16.index_max,272.194349538373,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=VOLATILITY_WINDOW over 5 values,max(FRI_2050_p50_Historical Baseline),
+t8.r16.dev_min,-0.09926202712384788,%,1,_sensitivity_results\sensitivity_latest.csv,sweep=VOLATILITY_WINDOW,(min-baseline)/baseline*100,
+t8.r16.dev_max,2.5883300882396605,%,1,_sensitivity_results\sensitivity_latest.csv,sweep=VOLATILITY_WINDOW,(max-baseline)/baseline*100,
+t8.r16.primary,HSI,text,0,_sensitivity_results\sensitivity_latest.csv,VOLATILITY_WINDOW,primary index of the sweep,
+t8.r16.param_baseline,12,param,3,config\sensitivity_sweep.json,sweeps[VOLATILITY_WINDOW].baseline,literal,
+t8.r16.param_lo,6,param,3,config\sensitivity_sweep.json,sweeps[VOLATILITY_WINDOW].values,min(values),
+t8.r16.param_hi,24,param,3,config\sensitivity_sweep.json,sweeps[VOLATILITY_WINDOW].values,max(values),
+t8.r17.index_baseline,600.8741549850199,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=CFI_WEIGHT_SLA is_baseline,CRI_2050_p50_Historical Baseline,
+t8.r17.index_min,576.2341800504023,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=CFI_WEIGHT_SLA over 5 values,min(CRI_2050_p50_Historical Baseline),
+t8.r17.index_max,632.5921135239339,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=CFI_WEIGHT_SLA over 5 values,max(CRI_2050_p50_Historical Baseline),
+t8.r17.dev_min,-4.100688094203669,%,1,_sensitivity_results\sensitivity_latest.csv,sweep=CFI_WEIGHT_SLA,(min-baseline)/baseline*100,
+t8.r17.dev_max,5.278635846753091,%,1,_sensitivity_results\sensitivity_latest.csv,sweep=CFI_WEIGHT_SLA,(max-baseline)/baseline*100,
+t8.r17.primary,CRI,text,0,_sensitivity_results\sensitivity_latest.csv,CFI_WEIGHT_SLA,primary index of the sweep,
+t8.r17.param_baseline,0.25,param,3,config\sensitivity_sweep.json,sweeps[CFI_WEIGHT_SLA].baseline,literal,
+t8.r17.param_lo,0.1,param,3,config\sensitivity_sweep.json,sweeps[CFI_WEIGHT_SLA].values,min(values),
+t8.r17.param_hi,0.5,param,3,config\sensitivity_sweep.json,sweeps[CFI_WEIGHT_SLA].values,max(values),
+t8.r18.index_baseline,265.3268157345475,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=FRI_WEIGHT_GAP is_baseline,FRI_2050_p50_Historical Baseline,
+t8.r18.index_min,225.33761743997928,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=FRI_WEIGHT_GAP over 5 values,min(FRI_2050_p50_Historical Baseline),
+t8.r18.index_max,311.4754103219353,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=FRI_WEIGHT_GAP over 5 values,max(FRI_2050_p50_Historical Baseline),
+t8.r18.dev_min,-15.071676107769052,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=FRI_WEIGHT_GAP,(min-baseline)/baseline*100,
+t8.r18.dev_max,17.3931136434993,%,0,_sensitivity_results\sensitivity_latest.csv,sweep=FRI_WEIGHT_GAP,(max-baseline)/baseline*100,
+t8.r18.primary,HSI,text,0,_sensitivity_results\sensitivity_latest.csv,FRI_WEIGHT_GAP,primary index of the sweep,
+t8.r18.param_baseline,0.333,param,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].baseline,literal,
+t8.r18.param_tuples,"[0.4, 0.3, 0.3]; [0.35, 0.35, 0.3]; [0.333, 0.333, 0.333]; [0.3, 0.3, 0.4]; [0.3, 0.35, 0.35]",text,0,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples,literal,
+t8.r20.index_baseline,399.12752265663255,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=CFCI_TARGET_RHO is_baseline,CFCI_2050_p50_Historical Baseline,
+t8.r20.index_min,397.4625916612109,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=CFCI_TARGET_RHO over 5 values,min(CFCI_2050_p50_Historical Baseline),
+t8.r20.index_max,400.1174227147209,index,0,_sensitivity_results\sensitivity_latest.csv,sweep=CFCI_TARGET_RHO over 5 values,max(CFCI_2050_p50_Historical Baseline),
+t8.r20.dev_min,-0.4171426175623473,%,1,_sensitivity_results\sensitivity_latest.csv,sweep=CFCI_TARGET_RHO,(min-baseline)/baseline*100,
+t8.r20.dev_max,0.24801598534209082,%,1,_sensitivity_results\sensitivity_latest.csv,sweep=CFCI_TARGET_RHO,(max-baseline)/baseline*100,
+t8.r20.primary,CCHI,text,0,_sensitivity_results\sensitivity_latest.csv,CFCI_TARGET_RHO,primary index of the sweep,
+t8.r20.param_baseline,0.358,param,3,config\sensitivity_sweep.json,sweeps[CFCI_TARGET_RHO].baseline,literal,
+t8.r20.param_lo,0.0,param,3,config\sensitivity_sweep.json,sweeps[CFCI_TARGET_RHO].values,min(values),
+t8.r20.param_hi,0.8,param,3,config\sensitivity_sweep.json,sweeps[CFCI_TARGET_RHO].values,max(values),
+sweep.CRI_EWMA_ALPHA.v0,0.7,param,6,config\sensitivity_sweep.json,sweeps[CRI_EWMA_ALPHA].values[0],literal,
+sweep.CRI_EWMA_ALPHA.v1,0.8,param,6,config\sensitivity_sweep.json,sweeps[CRI_EWMA_ALPHA].values[1],literal,
+sweep.CRI_EWMA_ALPHA.v2,0.85,param,6,config\sensitivity_sweep.json,sweeps[CRI_EWMA_ALPHA].values[2],literal,
+sweep.CRI_EWMA_ALPHA.v3,0.9,param,6,config\sensitivity_sweep.json,sweeps[CRI_EWMA_ALPHA].values[3],literal,
+sweep.CRI_EWMA_ALPHA.v4,0.95,param,6,config\sensitivity_sweep.json,sweeps[CRI_EWMA_ALPHA].values[4],literal,
+sweep.CRI_EWMA_ALPHA.n,5,count,0,config\sensitivity_sweep.json,sweeps[CRI_EWMA_ALPHA].values,len(values),
+sweep.CRI_DAMAGE_KAPPA.v0,0.0,param,6,config\sensitivity_sweep.json,sweeps[CRI_DAMAGE_KAPPA].values[0],literal,
+sweep.CRI_DAMAGE_KAPPA.v1,0.25,param,6,config\sensitivity_sweep.json,sweeps[CRI_DAMAGE_KAPPA].values[1],literal,
+sweep.CRI_DAMAGE_KAPPA.v2,0.5,param,6,config\sensitivity_sweep.json,sweeps[CRI_DAMAGE_KAPPA].values[2],literal,
+sweep.CRI_DAMAGE_KAPPA.v3,0.75,param,6,config\sensitivity_sweep.json,sweeps[CRI_DAMAGE_KAPPA].values[3],literal,
+sweep.CRI_DAMAGE_KAPPA.v4,1.0,param,6,config\sensitivity_sweep.json,sweeps[CRI_DAMAGE_KAPPA].values[4],literal,
+sweep.CRI_DAMAGE_KAPPA.n,5,count,0,config\sensitivity_sweep.json,sweeps[CRI_DAMAGE_KAPPA].values,len(values),
+sweep.SURGE_MDR_CALIBRATION_SCALE.v0,0.1,param,6,config\sensitivity_sweep.json,sweeps[SURGE_MDR_CALIBRATION_SCALE].values[0],literal,
+sweep.SURGE_MDR_CALIBRATION_SCALE.v1,0.14,param,6,config\sensitivity_sweep.json,sweeps[SURGE_MDR_CALIBRATION_SCALE].values[1],literal,
+sweep.SURGE_MDR_CALIBRATION_SCALE.v2,0.176,param,6,config\sensitivity_sweep.json,sweeps[SURGE_MDR_CALIBRATION_SCALE].values[2],literal,
+sweep.SURGE_MDR_CALIBRATION_SCALE.v3,0.22,param,6,config\sensitivity_sweep.json,sweeps[SURGE_MDR_CALIBRATION_SCALE].values[3],literal,
+sweep.SURGE_MDR_CALIBRATION_SCALE.v4,0.3,param,6,config\sensitivity_sweep.json,sweeps[SURGE_MDR_CALIBRATION_SCALE].values[4],literal,
+sweep.SURGE_MDR_CALIBRATION_SCALE.n,5,count,0,config\sensitivity_sweep.json,sweeps[SURGE_MDR_CALIBRATION_SCALE].values,len(values),
+sweep.TC_V_HALF_BASE_SCALE.v0,0.95,param,6,config\sensitivity_sweep.json,sweeps[TC_V_HALF_BASE_SCALE].values[0],literal,
+sweep.TC_V_HALF_BASE_SCALE.v1,0.975,param,6,config\sensitivity_sweep.json,sweeps[TC_V_HALF_BASE_SCALE].values[1],literal,
+sweep.TC_V_HALF_BASE_SCALE.v2,1.0,param,6,config\sensitivity_sweep.json,sweeps[TC_V_HALF_BASE_SCALE].values[2],literal,
+sweep.TC_V_HALF_BASE_SCALE.v3,1.025,param,6,config\sensitivity_sweep.json,sweeps[TC_V_HALF_BASE_SCALE].values[3],literal,
+sweep.TC_V_HALF_BASE_SCALE.v4,1.05,param,6,config\sensitivity_sweep.json,sweeps[TC_V_HALF_BASE_SCALE].values[4],literal,
+sweep.TC_V_HALF_BASE_SCALE.n,5,count,0,config\sensitivity_sweep.json,sweeps[TC_V_HALF_BASE_SCALE].values,len(values),
+sweep.TC_IMPACT_V_THRESH.v0,23.0,param,6,config\sensitivity_sweep.json,sweeps[TC_IMPACT_V_THRESH].values[0],literal,
+sweep.TC_IMPACT_V_THRESH.v1,24.5,param,6,config\sensitivity_sweep.json,sweeps[TC_IMPACT_V_THRESH].values[1],literal,
+sweep.TC_IMPACT_V_THRESH.v2,25.7,param,6,config\sensitivity_sweep.json,sweeps[TC_IMPACT_V_THRESH].values[2],literal,
+sweep.TC_IMPACT_V_THRESH.v3,27.0,param,6,config\sensitivity_sweep.json,sweeps[TC_IMPACT_V_THRESH].values[3],literal,
+sweep.TC_IMPACT_V_THRESH.v4,28.5,param,6,config\sensitivity_sweep.json,sweeps[TC_IMPACT_V_THRESH].values[4],literal,
+sweep.TC_IMPACT_V_THRESH.n,5,count,0,config\sensitivity_sweep.json,sweeps[TC_IMPACT_V_THRESH].values,len(values),
+sweep.V_HALF_ADJ_A_old.v0,0.68,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_old].values[0],literal,
+sweep.V_HALF_ADJ_A_old.v1,0.74,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_old].values[1],literal,
+sweep.V_HALF_ADJ_A_old.v2,0.8,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_old].values[2],literal,
+sweep.V_HALF_ADJ_A_old.v3,0.86,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_old].values[3],literal,
+sweep.V_HALF_ADJ_A_old.v4,0.92,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_old].values[4],literal,
+sweep.V_HALF_ADJ_A_old.n,5,count,0,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_old].values,len(values),
+sweep.V_HALF_ADJ_A_new.v0,0.77,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_new].values[0],literal,
+sweep.V_HALF_ADJ_A_new.v1,0.83,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_new].values[1],literal,
+sweep.V_HALF_ADJ_A_new.v2,0.9,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_new].values[2],literal,
+sweep.V_HALF_ADJ_A_new.v3,0.97,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_new].values[3],literal,
+sweep.V_HALF_ADJ_A_new.v4,1.03,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_new].values[4],literal,
+sweep.V_HALF_ADJ_A_new.n,5,count,0,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_A_new].values,len(values),
+sweep.V_HALF_ADJ_B_old.v0,0.81,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_old].values[0],literal,
+sweep.V_HALF_ADJ_B_old.v1,0.88,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_old].values[1],literal,
+sweep.V_HALF_ADJ_B_old.v2,0.95,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_old].values[2],literal,
+sweep.V_HALF_ADJ_B_old.v3,1.02,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_old].values[3],literal,
+sweep.V_HALF_ADJ_B_old.v4,1.09,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_old].values[4],literal,
+sweep.V_HALF_ADJ_B_old.n,5,count,0,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_old].values,len(values),
+sweep.V_HALF_ADJ_B_new.v0,0.85,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_new].values[0],literal,
+sweep.V_HALF_ADJ_B_new.v1,0.925,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_new].values[1],literal,
+sweep.V_HALF_ADJ_B_new.v2,1.0,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_new].values[2],literal,
+sweep.V_HALF_ADJ_B_new.v3,1.075,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_new].values[3],literal,
+sweep.V_HALF_ADJ_B_new.v4,1.15,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_new].values[4],literal,
+sweep.V_HALF_ADJ_B_new.n,5,count,0,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_B_new].values,len(values),
+sweep.V_HALF_ADJ_C.v0,0.89,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_C].values[0],literal,
+sweep.V_HALF_ADJ_C.v1,0.97,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_C].values[1],literal,
+sweep.V_HALF_ADJ_C.v2,1.05,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_C].values[2],literal,
+sweep.V_HALF_ADJ_C.v3,1.13,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_C].values[3],literal,
+sweep.V_HALF_ADJ_C.v4,1.21,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_C].values[4],literal,
+sweep.V_HALF_ADJ_C.n,5,count,0,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_C].values,len(values),
+sweep.V_HALF_ADJ_D.v0,0.94,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_D].values[0],literal,
+sweep.V_HALF_ADJ_D.v1,1.02,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_D].values[1],literal,
+sweep.V_HALF_ADJ_D.v2,1.1,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_D].values[2],literal,
+sweep.V_HALF_ADJ_D.v3,1.18,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_D].values[3],literal,
+sweep.V_HALF_ADJ_D.v4,1.27,param,6,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_D].values[4],literal,
+sweep.V_HALF_ADJ_D.n,5,count,0,config\sensitivity_sweep.json,sweeps[V_HALF_ADJ_D].values,len(values),
+sweep.GAMMA_SVI.v0,0.0,param,6,config\sensitivity_sweep.json,sweeps[GAMMA_SVI].values[0],literal,
+sweep.GAMMA_SVI.v1,0.1,param,6,config\sensitivity_sweep.json,sweeps[GAMMA_SVI].values[1],literal,
+sweep.GAMMA_SVI.v2,0.15,param,6,config\sensitivity_sweep.json,sweeps[GAMMA_SVI].values[2],literal,
+sweep.GAMMA_SVI.v3,0.2,param,6,config\sensitivity_sweep.json,sweeps[GAMMA_SVI].values[3],literal,
+sweep.GAMMA_SVI.v4,0.3,param,6,config\sensitivity_sweep.json,sweeps[GAMMA_SVI].values[4],literal,
+sweep.GAMMA_SVI.n,5,count,0,config\sensitivity_sweep.json,sweeps[GAMMA_SVI].values,len(values),
+sweep.HP_LAMBDA.v0,97200.0,param,6,config\sensitivity_sweep.json,sweeps[HP_LAMBDA].values[0],literal,
+sweep.HP_LAMBDA.v1,113400.0,param,6,config\sensitivity_sweep.json,sweeps[HP_LAMBDA].values[1],literal,
+sweep.HP_LAMBDA.v2,129600.0,param,6,config\sensitivity_sweep.json,sweeps[HP_LAMBDA].values[2],literal,
+sweep.HP_LAMBDA.v3,145800.0,param,6,config\sensitivity_sweep.json,sweeps[HP_LAMBDA].values[3],literal,
+sweep.HP_LAMBDA.v4,162000.0,param,6,config\sensitivity_sweep.json,sweeps[HP_LAMBDA].values[4],literal,
+sweep.HP_LAMBDA.n,5,count,0,config\sensitivity_sweep.json,sweeps[HP_LAMBDA].values,len(values),
+sweep.VOLATILITY_WINDOW.v0,6.0,param,6,config\sensitivity_sweep.json,sweeps[VOLATILITY_WINDOW].values[0],literal,
+sweep.VOLATILITY_WINDOW.v1,9.0,param,6,config\sensitivity_sweep.json,sweeps[VOLATILITY_WINDOW].values[1],literal,
+sweep.VOLATILITY_WINDOW.v2,12.0,param,6,config\sensitivity_sweep.json,sweeps[VOLATILITY_WINDOW].values[2],literal,
+sweep.VOLATILITY_WINDOW.v3,18.0,param,6,config\sensitivity_sweep.json,sweeps[VOLATILITY_WINDOW].values[3],literal,
+sweep.VOLATILITY_WINDOW.v4,24.0,param,6,config\sensitivity_sweep.json,sweeps[VOLATILITY_WINDOW].values[4],literal,
+sweep.VOLATILITY_WINDOW.n,5,count,0,config\sensitivity_sweep.json,sweeps[VOLATILITY_WINDOW].values,len(values),
+sweep.CFCI_TARGET_RHO.v0,0.0,param,6,config\sensitivity_sweep.json,sweeps[CFCI_TARGET_RHO].values[0],literal,
+sweep.CFCI_TARGET_RHO.v1,0.2,param,6,config\sensitivity_sweep.json,sweeps[CFCI_TARGET_RHO].values[1],literal,
+sweep.CFCI_TARGET_RHO.v2,0.358,param,6,config\sensitivity_sweep.json,sweeps[CFCI_TARGET_RHO].values[2],literal,
+sweep.CFCI_TARGET_RHO.v3,0.6,param,6,config\sensitivity_sweep.json,sweeps[CFCI_TARGET_RHO].values[3],literal,
+sweep.CFCI_TARGET_RHO.v4,0.8,param,6,config\sensitivity_sweep.json,sweeps[CFCI_TARGET_RHO].values[4],literal,
+sweep.CFCI_TARGET_RHO.n,5,count,0,config\sensitivity_sweep.json,sweeps[CFCI_TARGET_RHO].values,len(values),
+sweep.CFI_WEIGHT_SLA.v0,0.1,param,6,config\sensitivity_sweep.json,sweeps[CFI_WEIGHT_SLA].values[0],literal,
+sweep.CFI_WEIGHT_SLA.v1,0.2,param,6,config\sensitivity_sweep.json,sweeps[CFI_WEIGHT_SLA].values[1],literal,
+sweep.CFI_WEIGHT_SLA.v2,0.25,param,6,config\sensitivity_sweep.json,sweeps[CFI_WEIGHT_SLA].values[2],literal,
+sweep.CFI_WEIGHT_SLA.v3,0.35,param,6,config\sensitivity_sweep.json,sweeps[CFI_WEIGHT_SLA].values[3],literal,
+sweep.CFI_WEIGHT_SLA.v4,0.5,param,6,config\sensitivity_sweep.json,sweeps[CFI_WEIGHT_SLA].values[4],literal,
+sweep.CFI_WEIGHT_SLA.n,5,count,0,config\sensitivity_sweep.json,sweeps[CFI_WEIGHT_SLA].values,len(values),
+sweep.FRI_WEIGHT_GAP.v0.0,0.4,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[0][0],literal,
+sweep.FRI_WEIGHT_GAP.v0.1,0.3,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[0][1],literal,
+sweep.FRI_WEIGHT_GAP.v0.2,0.3,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[0][2],literal,
+sweep.FRI_WEIGHT_GAP.v1.0,0.35,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[1][0],literal,
+sweep.FRI_WEIGHT_GAP.v1.1,0.35,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[1][1],literal,
+sweep.FRI_WEIGHT_GAP.v1.2,0.3,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[1][2],literal,
+sweep.FRI_WEIGHT_GAP.v2.0,0.333,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[2][0],literal,
+sweep.FRI_WEIGHT_GAP.v2.1,0.333,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[2][1],literal,
+sweep.FRI_WEIGHT_GAP.v2.2,0.333,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[2][2],literal,
+sweep.FRI_WEIGHT_GAP.v3.0,0.3,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[3][0],literal,
+sweep.FRI_WEIGHT_GAP.v3.1,0.3,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[3][1],literal,
+sweep.FRI_WEIGHT_GAP.v3.2,0.4,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[3][2],literal,
+sweep.FRI_WEIGHT_GAP.v4.0,0.3,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[4][0],literal,
+sweep.FRI_WEIGHT_GAP.v4.1,0.35,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[4][1],literal,
+sweep.FRI_WEIGHT_GAP.v4.2,0.35,weight,3,config\sensitivity_sweep.json,sweeps[FRI_WEIGHT_GAP].values_tuples[4][2],literal,
+p.Climate.FABDEM_NODATA_VALUE,-9999.0,param,6,Climate\00_config.py,line 61,ast literal,
+p.Climate.LANDSCAN_REFERENCE_YEAR,2024,param,6,Climate\00_config.py,line 79,ast literal,
+p.Climate.SHANGHAI_BBOX,"(120.85, 30.65, 122.0, 31.9)",param,6,Climate\00_config.py,line 142,ast literal,
+p.Climate.CRS_STANDARD,EPSG:4326,param,6,Climate\00_config.py,line 143,ast literal,
+p.Climate.MODEL_RESOLUTION_DEG,0.01,param,6,Climate\00_config.py,line 144,ast literal,
+p.Climate.SHANGHAI_CENTER_LON,121.47,param,6,Climate\00_config.py,line 145,ast literal,
+p.Climate.SHANGHAI_CENTER_LAT,31.23,param,6,Climate\00_config.py,line 146,ast literal,
+p.Climate.TC_FILTER_RADIUS_DEG,3.0,param,6,Climate\00_config.py,line 147,ast literal,
+p.Climate.SHANGHAI_DISTRICTS,"['黄浦区', '徐汇区', '长宁区', '静安区', '普陀区', '虹口区', '杨浦区', '闵行区', '宝山区', '嘉定区', '浦东新区', '金山区', '松江区', '青浦区', '奉贤区', '崇明区']",param,6,Climate\00_config.py,line 149,ast literal,
+p.Climate.ADMIN_DISTRICT_RENAME,"{'崇明县': '崇明区', '闸北区': '静安区'}",param,6,Climate\00_config.py,line 156,ast literal,
+p.Climate.TC_WIND_MODEL,H10,param,6,Climate\00_config.py,line 162,ast literal,
+p.Climate.NB_SYNTH_TRACKS,10,param,6,Climate\00_config.py,line 163,ast literal,
+p.Climate.RANDOM_SEED,42,param,6,Climate\00_config.py,line 164,ast literal,
+p.Climate.MAX_MEMORY_GB,4.0,param,6,Climate\00_config.py,line 166,ast literal,
+p.Climate.SSP_TC_INTENSITY_FACTOR_2050,"{'SSP2-4.5': 1.05, 'SSP5-8.5': 1.1}",param,6,Climate\00_config.py,line 169,ast literal,
+p.Climate.RHO_AIR,1.225,param,6,Climate\00_config.py,line 175,ast literal,
+p.Climate.RHO_WATER,1025.0,param,6,Climate\00_config.py,line 176,ast literal,
+p.Climate.G,9.81,param,6,Climate\00_config.py,line 177,ast literal,
+p.Climate.P_ENV_DEFAULT_HPA,1013.25,param,6,Climate\00_config.py,line 178,ast literal,
+p.Climate.CD_MAX,0.0025,param,6,Climate\00_config.py,line 179,ast literal,
+p.Climate.L_SHELF_M,550000.0,param,6,Climate\00_config.py,line 182,ast literal,
+p.Climate.H_SHELF_M,55.0,param,6,Climate\00_config.py,line 183,ast literal,
+p.Climate.HOLLAND_B_DEFAULT,1.5,param,6,Climate\00_config.py,line 184,ast literal,
+p.Climate.RMAX_DEFAULT_KM,50.0,param,6,Climate\00_config.py,line 185,ast literal,
+p.Climate.FETCH_RMAX_FACTOR,3.0,param,6,Climate\00_config.py,line 186,ast literal,
+p.Climate.SSP_SEA_LEVEL_RISE_2050,"{'SSP2-4.5': 0.3, 'SSP5-8.5': 0.5}",param,6,Climate\00_config.py,line 188,ast literal,
+p.Climate.COASTAL_DEFENSE_CREST_M,0.0,param,6,Climate\00_config.py,line 191,ast literal,
+p.Climate.COASTAL_MIN_REACH_M,500.0,param,6,Climate\00_config.py,line 192,ast literal,
+p.Climate.COASTAL_OVERLAND_ATTENUATION_RATE,0.0001,param,6,Climate\00_config.py,line 193,ast literal,
+p.Climate.COASTAL_ATTENUATION_EXPONENT,3.0,param,6,Climate\00_config.py,line 194,ast literal,
+p.Climate.COASTAL_MIN_INUNDATION_DEPTH_M,0.1,param,6,Climate\00_config.py,line 195,ast literal,
+p.Climate.HYBRID_HUANGPU_OVERBANK_ENABLED,True,param,6,Climate\00_config.py,line 198,ast literal,
+p.Climate.HYBRID_HUANGPU_EVENT_DRIVEN_ENABLED,True,param,6,Climate\00_config.py,line 199,ast literal,
+p.Climate.HYBRID_HUANGPU_RESPONSE_MODE,smoothstep,param,6,Climate\00_config.py,line 200,ast literal,
+p.Climate.HYBRID_HUANGPU_TRIGGER_TWL_M,2.86,param,6,Climate\00_config.py,line 201,ast literal,
+p.Climate.HYBRID_HUANGPU_REFERENCE_TWL_M,3.11,param,6,Climate\00_config.py,line 202,ast literal,
+p.Climate.HYBRID_HUANGPU_FULL_RESPONSE_TWL_M,4.03,param,6,Climate\00_config.py,line 203,ast literal,
+p.Climate.HYBRID_HUANGPU_MAX_SCALE,1.0,param,6,Climate\00_config.py,line 204,ast literal,
+p.Climate.HYBRID_HUANGPU_BANKFULL_DEPTH_M,2.0,param,6,Climate\00_config.py,line 205,ast literal,
+p.Climate.HYBRID_HUANGPU_DECAY_DISTANCE_M,1500.0,param,6,Climate\00_config.py,line 206,ast literal,
+p.Climate.HYBRID_HUANGPU_MAX_REACH_M,5000.0,param,6,Climate\00_config.py,line 207,ast literal,
+p.Climate.HYBRID_HUANGPU_MIN_RIVER_DEPTH_M,0.05,param,6,Climate\00_config.py,line 208,ast literal,
+p.Climate.HYBRID_HUANGPU_NODEF_TRIGGER_TWL_M,0.0,param,6,Climate\00_config.py,line 209,ast literal,
+p.Climate.HYBRID_HUANGPU_NODEF_REFERENCE_TWL_M,0.0,param,6,Climate\00_config.py,line 210,ast literal,
+p.Climate.HYBRID_HUANGPU_NODEF_FULL_RESPONSE_TWL_M,0.0,param,6,Climate\00_config.py,line 211,ast literal,
+p.Climate.HYBRID_HUANGPU_NODEF_DECAY_DISTANCE_M,900.0,param,6,Climate\00_config.py,line 212,ast literal,
+p.Climate.HYBRID_HUANGPU_NODEF_MAX_REACH_M,2500.0,param,6,Climate\00_config.py,line 213,ast literal,
+p.Climate.HYBRID_HUANGPU_OPEN_BOUNDARY_REFERENCE_TWL_M,4.03,param,6,Climate\00_config.py,line 214,ast literal,
+p.Climate.HYBRID_HUANGPU_PRIORITY_DISTRICTS,"['黄浦区', '徐汇区', '静安区', '虹口区', '杨浦区', '浦东新区']",param,6,Climate\00_config.py,line 215,ast literal,
+p.Climate.HYBRID_ZONE_COASTAL_FRINGE_MAX_DISTANCE_M,15000.0,param,6,Climate\00_config.py,line 220,ast literal,
+p.Climate.HYBRID_ZONE_COASTAL_DISTRICTS,"['浦东新区', '金山区', '奉贤区', '崇明区', '宝山区']",param,6,Climate\00_config.py,line 221,ast literal,
+p.Climate.DEFENSE_PROFILES,"[{'profile_name': 'baseline_nodef', 'coastal_defense_enabled': False, 'coastal_defense_crest_m': 0.0, 'huangpu_template_scenario_tag': '90m_nodef', 'huangpu_overbank_enabled': True, 'huangpu_event_driven_enabled': True, 'huangpu_trigger_twl_m': 0.0, 'huangpu_reference_twl_m': 0.0, 'huangpu_full_response_twl_m': 0.0}, {'profile_name': 'current_def_gap', 'coastal_defense_enabled': True, 'coastal_defense_crest_m': 6.0, 'huangpu_template_scenario_tag': '90m_def_gap', 'huangpu_overbank_enabled': True, 'huangpu_event_driven_enabled': True, 'huangpu_trigger_twl_m': 2.86, 'huangpu_reference_twl_m': 3.11, 'huangpu_full_response_twl_m': 4.03}]",param,6,Climate\00_config.py,line 226,ast literal,
+p.Climate.BUILDING_FLOOR_HEIGHT_M,3.0,param,6,Climate\00_config.py,line 255,ast literal,
+p.Climate.MATCH_DISTANCE_MAX_M,1000,param,6,Climate\00_config.py,line 256,ast literal,
+p.Climate.BUILDING_CATEGORIES,"{'A_old': {'floors_max': 6, 'age_before': 1990, 'function': 'residential'}, 'A_new': {'floors_max': 6, 'age_after': 2002, 'function': 'residential'}, 'B_old': {'floors_min': 7, 'floors_max': 30, 'age_before': 2001, 'function': 'residential'}, 'B_new': {'floors_min': 7, 'floors_max': 30, 'age_after': 2002, 'function': 'residential'}, 'C': {'floors_min': 31, 'function': 'residential'}, 'D': {'function': 'commercial'}}",param,6,Climate\00_config.py,line 258,ast literal,
+p.Climate.CATEGORY_TO_SURGE_CLASS,"{'A_old': 'low_rise', 'A_new': 'low_rise', 'B_old': 'mid_rise', 'B_new': 'mid_rise', 'C': 'high_rise', 'D': 'commercial'}",param,6,Climate\00_config.py,line 267,ast literal,
+p.Climate.TC_IMPACT_V_THRESH,25.7,param,6,Climate\00_config.py,line 278,ast literal,
+p.Climate.TC_IMPACT_INTENSITY_MAX,180.0,param,6,Climate\00_config.py,line 279,ast literal,
+p.Climate.TC_IMPACT_INTENSITY_STEP,1.0,param,6,Climate\00_config.py,line 280,ast literal,
+p.Climate.TC_V_HALF_BASE_SCALE,1.0,param,6,Climate\00_config.py,line 281,ast literal,
+p.Climate.V_HALF_ADJUSTMENT,"{'A_old': 0.8, 'A_new': 0.9, 'B_old': 0.95, 'B_new': 1.0, 'C': 1.05, 'D': 1.1}",param,6,Climate\00_config.py,line 284,ast literal,
+p.Climate.IMPF_TC_IDS,"{'A_old': 1, 'A_new': 2, 'B_old': 3, 'B_new': 4, 'C': 5, 'D': 6}",param,6,Climate\00_config.py,line 288,ast literal,
+p.Climate.SURGE_MDR_CALIBRATION_SCALE,0.176,param,6,Climate\00_config.py,line 293,ast literal,
+p.Climate.SURGE_DEPTH_DAMAGE,"{'low_rise': {'depths': [0.0, 0.3, 0.6, 1.2, 1.8, 2.4, 3.0], 'mdr': [0.0, 0.08, 0.15, 0.3, 0.42, 0.5, 0.55]}, 'mid_rise': {'depths': [0.0, 0.3, 0.6, 1.2, 1.8, 2.4, 3.0], 'mdr': [0.0, 0.04, 0.08, 0.18, 0.25, 0.3, 0.35]}, 'high_rise': {'depths': [0.0, 0.3, 0.6, 1.2, 1.8, 2.4, 3.0], 'mdr': [0.0, 0.02, 0.04, 0.1, 0.15, 0.18, 0.22]}, 'commercial': {'depths': [0.0, 0.3, 0.6, 1.2, 1.8, 2.4, 3.0], 'mdr': [0.0, 0.05, 0.1, 0.22, 0.32, 0.38, 0.42]}}",param,6,Climate\00_config.py,line 294,ast literal,
+p.Climate.IMPF_SS_IDS,"{'low_rise': 11, 'mid_rise': 12, 'high_rise': 13, 'commercial': 14}",param,6,Climate\00_config.py,line 304,ast literal,
+p.Climate.KAPPA,"{'low_rise': 0.6, 'mid_rise': 0.4, 'high_rise': 0.25, 'commercial': 0.5}",param,6,Climate\00_config.py,line 307,ast literal,
+p.Climate.SURGE_EXPOSED_FLOOR_EQUIV,"{'mid_rise': 1.5, 'high_rise': 1.2, 'commercial': 2.0}",param,6,Climate\00_config.py,line 310,ast literal,
+p.Climate.SURGE_EXPOSED_VALUE_MIN_RATIO,"{'mid_rise': 0.08, 'high_rise': 0.05, 'commercial': 0.12}",param,6,Climate\00_config.py,line 311,ast literal,
+p.Climate.SURGE_EXPOSED_VALUE_MAX_RATIO,"{'mid_rise': 0.3, 'high_rise': 0.2, 'commercial': 0.4}",param,6,Climate\00_config.py,line 312,ast literal,
+p.Climate.GAMMA_SVI,0.15,param,6,Climate\00_config.py,line 318,ast literal,
+p.Climate.TEMP_RISK_ELASTICITY,0.05,param,6,Climate\00_config.py,line 319,ast literal,
+p.Climate.DISTRICT_TC_EVENT_COUNT_WIND_THRESHOLD_MPS,25.7,param,6,Climate\00_config.py,line 320,ast literal,
+p.Climate.DISTRICT_SURGE_EVENT_COUNT_DEPTH_THRESHOLD_M,0.05,param,6,Climate\00_config.py,line 321,ast literal,
+p.Climate.CLIMATE_INDEX_TREND_WINDOW_MONTHS,12,param,6,Climate\00_config.py,line 327,ast literal,
+p.Climate.CLIMATE_INDEX_WINSORIZE_LOWER,0.01,param,6,Climate\00_config.py,line 328,ast literal,
+p.Climate.CLIMATE_INDEX_WINSORIZE_UPPER,0.99,param,6,Climate\00_config.py,line 329,ast literal,
+p.Climate.CLIMATE_INDEX_COMPONENT_WEIGHTS,"{'loss_pressure': 0.5, 'loss_burden': 0.3, 'compound_amplification': 0.2}",param,6,Climate\00_config.py,line 330,ast literal,
+p.Climate.CFI_TREND_YEAR_START,1993,param,6,Climate\00_config.py,line 335,ast literal,
+p.Climate.CFI_TREND_YEAR_END,2023,param,6,Climate\00_config.py,line 336,ast literal,
+p.Climate.CFI_PRICE_YEAR_START,2015,param,6,Climate\00_config.py,line 337,ast literal,
+p.Climate.CFI_PRICE_YEAR_END,2023,param,6,Climate\00_config.py,line 338,ast literal,
+p.Climate.CFI_WEIGHT_PRECIP,0.25,param,6,Climate\00_config.py,line 339,ast literal,
+p.Climate.CFI_WEIGHT_WIND,0.25,param,6,Climate\00_config.py,line 340,ast literal,
+p.Climate.CFI_WEIGHT_HEAT,0.25,param,6,Climate\00_config.py,line 341,ast literal,
+p.Climate.CFI_WEIGHT_SLA,0.25,param,6,Climate\00_config.py,line 342,ast literal,
+p.Climate.CFI_HEAT_BASE_TEMP,28.0,param,6,Climate\00_config.py,line 343,ast literal,
+p.Climate.CRI_EWMA_ALPHA,0.85,param,6,Climate\00_config.py,line 346,ast literal,
+p.Climate.CRI_DAMAGE_KAPPA,0.5,param,6,Climate\00_config.py,line 347,ast literal,
+p.Climate.CRI_EXPOSURE_FLOOR,0.5,param,6,Climate\00_config.py,line 348,ast literal,
+p.Climate.CRI_VULNERABILITY_FLOOR,0.5,param,6,Climate\00_config.py,line 349,ast literal,
+p.Climate.CRI_BASE_INDEX,100.0,param,6,Climate\00_config.py,line 350,ast literal,
+p.Climate.CRI_PROJECTION_END_YEAR,2050,param,6,Climate\00_config.py,line 353,ast literal,
+p.Climate.CRI_N_SIM,500,param,6,Climate\00_config.py,line 354,ast literal,
+p.Climate.CRI_SSP_H_DRIFT_MULT,"{'Historical Baseline': 1.0, 'SSP2-4.5': 1.5, 'SSP5-8.5': 2.0}",param,6,Climate\00_config.py,line 362,ast literal,
+p.Climate.CRI_SSP_DAMAGE_ADJ,"{'Historical Baseline': (1.0, 0.0), 'SSP2-4.5': (1.05, 0.068), 'SSP5-8.5': (1.08, 0.095)}",param,6,Climate\00_config.py,line 373,ast literal,
+p.Finance.HP_LAMBDA,129600,param,6,Finance\00_config.py,line 57,ast literal,
+p.Finance.VOLATILITY_WINDOW,12,param,6,Finance\00_config.py,line 61,ast literal,
+p.Finance.FRI_BASE_INDEX,100.0,param,6,Finance\00_config.py,line 70,ast literal,
+p.Finance.FRI_PROJECTION_END_YEAR,2050,param,6,Finance\00_config.py,line 76,ast literal,
+p.Finance.FRI_N_SIM,500,param,6,Finance\00_config.py,line 77,ast literal,
+p.Composite.CFCI_METHOD,geometric_mean,param,6,Composite\00_config.py,line 49,ast literal,
+p.Composite.CFCI_BASE_INDEX,100.0,param,6,Composite\00_config.py,line 52,ast literal,
+p.Composite.CFCI_PROJECTION_END_YEAR,2050,param,6,Composite\00_config.py,line 55,ast literal,
+p.Composite._SCENARIO_KEYS,"['baseline', 'ssp245', 'ssp585']",param,6,Composite\00_config.py,line 62,ast literal,
+p.Composite._SCENARIO_LABELS,"['Historical Baseline', 'SSP2-4.5', 'SSP5-8.5']",param,6,Composite\00_config.py,line 63,ast literal,
+p.Composite.CFCI_TARGET_RHO,0.358,param,6,Composite\00_config.py,line 76,ast literal,
+calib.aal_pred_obs,0.9999,ratio,4,Climate\00_config.py,source comment (v6 04b validation),literal from comment,NOT recomputed by the v8 pipeline; window 1995-2023
+calib.window_start,1995,year,0,Climate\00_config.py,source comment,literal from comment,
+calib.window_end,2023,year,0,Climate\00_config.py,source comment,literal from comment,
+defence.baseline_nodef.coastal_defense_crest_m,0.0,m,2,Climate\00_config.py,DEFENSE_PROFILES[baseline_nodef].coastal_defense_crest_m,literal,
+defence.baseline_nodef.huangpu_trigger_twl_m,0.0,m,2,Climate\00_config.py,DEFENSE_PROFILES[baseline_nodef].huangpu_trigger_twl_m,literal,
+defence.baseline_nodef.huangpu_reference_twl_m,0.0,m,2,Climate\00_config.py,DEFENSE_PROFILES[baseline_nodef].huangpu_reference_twl_m,literal,
+defence.baseline_nodef.huangpu_full_response_twl_m,0.0,m,2,Climate\00_config.py,DEFENSE_PROFILES[baseline_nodef].huangpu_full_response_twl_m,literal,
+defence.current_def_gap.coastal_defense_crest_m,6.0,m,2,Climate\00_config.py,DEFENSE_PROFILES[current_def_gap].coastal_defense_crest_m,literal,
+defence.current_def_gap.huangpu_trigger_twl_m,2.86,m,2,Climate\00_config.py,DEFENSE_PROFILES[current_def_gap].huangpu_trigger_twl_m,literal,
+defence.current_def_gap.huangpu_reference_twl_m,3.11,m,2,Climate\00_config.py,DEFENSE_PROFILES[current_def_gap].huangpu_reference_twl_m,literal,
+defence.current_def_gap.huangpu_full_response_twl_m,4.03,m,2,Climate\00_config.py,DEFENSE_PROFILES[current_def_gap].huangpu_full_response_twl_m,literal,
+defence.nodef.huangpu_decay_m,900.0,m,0,Climate\00_config.py,HYBRID_HUANGPU_NODEF_DECAY_DISTANCE_M,literal,
+shelf.width_km,550.0,km,0,Climate\00_config.py,L_SHELF_M / 1000,unit conversion,Table B1 reports the shelf width in km
+vhalf.adj.A_old,0.8,factor,2,Climate\00_config.py,V_HALF_ADJUSTMENT.A_old,literal,Table 6 Adjustment
+vhalf.adj.A_new,0.9,factor,2,Climate\00_config.py,V_HALF_ADJUSTMENT.A_new,literal,Table 6 Adjustment
+vhalf.adj.B_old,0.95,factor,2,Climate\00_config.py,V_HALF_ADJUSTMENT.B_old,literal,Table 6 Adjustment
+vhalf.adj.B_new,1.0,factor,2,Climate\00_config.py,V_HALF_ADJUSTMENT.B_new,literal,Table 6 Adjustment
+vhalf.adj.C,1.05,factor,2,Climate\00_config.py,V_HALF_ADJUSTMENT.C,literal,Table 6 Adjustment
+vhalf.adj.D,1.1,factor,2,Climate\00_config.py,V_HALF_ADJUSTMENT.D,literal,Table 6 Adjustment
+vhalf.class.A_old,low_rise,text,0,Climate\00_config.py,CATEGORY_TO_SURGE_CLASS.A_old,literal,Table 6 Surge Class
+vhalf.class.A_new,low_rise,text,0,Climate\00_config.py,CATEGORY_TO_SURGE_CLASS.A_new,literal,Table 6 Surge Class
+vhalf.class.B_old,mid_rise,text,0,Climate\00_config.py,CATEGORY_TO_SURGE_CLASS.B_old,literal,Table 6 Surge Class
+vhalf.class.B_new,mid_rise,text,0,Climate\00_config.py,CATEGORY_TO_SURGE_CLASS.B_new,literal,Table 6 Surge Class
+vhalf.class.C,high_rise,text,0,Climate\00_config.py,CATEGORY_TO_SURGE_CLASS.C,literal,Table 6 Surge Class
+vhalf.class.D,commercial,text,0,Climate\00_config.py,CATEGORY_TO_SURGE_CLASS.D,literal,Table 6 Surge Class
+build.A_old.floors_max,6,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.A_old.floors_max,literal,Table 6 Floors / Age / Function
+build.A_old.age_before,1990,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.A_old.age_before,literal,Table 6 Floors / Age / Function
+build.A_old.function,residential,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.A_old.function,literal,Table 6 Floors / Age / Function
+build.A_new.floors_max,6,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.A_new.floors_max,literal,Table 6 Floors / Age / Function
+build.A_new.age_after,2002,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.A_new.age_after,literal,Table 6 Floors / Age / Function
+build.A_new.function,residential,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.A_new.function,literal,Table 6 Floors / Age / Function
+build.B_old.floors_min,7,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.B_old.floors_min,literal,Table 6 Floors / Age / Function
+build.B_old.floors_max,30,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.B_old.floors_max,literal,Table 6 Floors / Age / Function
+build.B_old.age_before,2001,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.B_old.age_before,literal,Table 6 Floors / Age / Function
+build.B_old.function,residential,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.B_old.function,literal,Table 6 Floors / Age / Function
+build.B_new.floors_min,7,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.B_new.floors_min,literal,Table 6 Floors / Age / Function
+build.B_new.floors_max,30,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.B_new.floors_max,literal,Table 6 Floors / Age / Function
+build.B_new.age_after,2002,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.B_new.age_after,literal,Table 6 Floors / Age / Function
+build.B_new.function,residential,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.B_new.function,literal,Table 6 Floors / Age / Function
+build.C.floors_min,31,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.C.floors_min,literal,Table 6 Floors / Age / Function
+build.C.function,residential,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.C.function,literal,Table 6 Floors / Age / Function
+build.D.function,commercial,rule,0,Climate\00_config.py,BUILDING_CATEGORIES.D.function,literal,Table 6 Floors / Age / Function
+kappa.low_rise,0.6,factor,2,Climate\00_config.py,KAPPA.low_rise,literal,Table 6 last column
+kappa.mid_rise,0.4,factor,2,Climate\00_config.py,KAPPA.mid_rise,literal,Table 6 last column
+kappa.high_rise,0.25,factor,2,Climate\00_config.py,KAPPA.high_rise,literal,Table 6 last column
+kappa.commercial,0.5,factor,2,Climate\00_config.py,KAPPA.commercial,literal,Table 6 last column
+surge.dd.low_rise.d0,0.0,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.low_rise.mdr[0],literal,Table 7 body
+surge.dd.low_rise.d1,0.08,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.low_rise.mdr[1],literal,Table 7 body
+surge.dd.low_rise.d2,0.15,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.low_rise.mdr[2],literal,Table 7 body
+surge.dd.low_rise.d3,0.3,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.low_rise.mdr[3],literal,Table 7 body
+surge.dd.low_rise.d4,0.42,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.low_rise.mdr[4],literal,Table 7 body
+surge.dd.low_rise.d5,0.5,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.low_rise.mdr[5],literal,Table 7 body
+surge.dd.low_rise.d6,0.55,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.low_rise.mdr[6],literal,Table 7 body
+surge.dd.mid_rise.d0,0.0,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.mid_rise.mdr[0],literal,Table 7 body
+surge.dd.mid_rise.d1,0.04,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.mid_rise.mdr[1],literal,Table 7 body
+surge.dd.mid_rise.d2,0.08,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.mid_rise.mdr[2],literal,Table 7 body
+surge.dd.mid_rise.d3,0.18,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.mid_rise.mdr[3],literal,Table 7 body
+surge.dd.mid_rise.d4,0.25,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.mid_rise.mdr[4],literal,Table 7 body
+surge.dd.mid_rise.d5,0.3,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.mid_rise.mdr[5],literal,Table 7 body
+surge.dd.mid_rise.d6,0.35,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.mid_rise.mdr[6],literal,Table 7 body
+surge.dd.high_rise.d0,0.0,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.high_rise.mdr[0],literal,Table 7 body
+surge.dd.high_rise.d1,0.02,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.high_rise.mdr[1],literal,Table 7 body
+surge.dd.high_rise.d2,0.04,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.high_rise.mdr[2],literal,Table 7 body
+surge.dd.high_rise.d3,0.1,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.high_rise.mdr[3],literal,Table 7 body
+surge.dd.high_rise.d4,0.15,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.high_rise.mdr[4],literal,Table 7 body
+surge.dd.high_rise.d5,0.18,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.high_rise.mdr[5],literal,Table 7 body
+surge.dd.high_rise.d6,0.22,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.high_rise.mdr[6],literal,Table 7 body
+surge.dd.commercial.d0,0.0,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.commercial.mdr[0],literal,Table 7 body
+surge.dd.commercial.d1,0.05,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.commercial.mdr[1],literal,Table 7 body
+surge.dd.commercial.d2,0.1,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.commercial.mdr[2],literal,Table 7 body
+surge.dd.commercial.d3,0.22,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.commercial.mdr[3],literal,Table 7 body
+surge.dd.commercial.d4,0.32,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.commercial.mdr[4],literal,Table 7 body
+surge.dd.commercial.d5,0.38,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.commercial.mdr[5],literal,Table 7 body
+surge.dd.commercial.d6,0.42,MDR,3,Climate\00_config.py,SURGE_DEPTH_DAMAGE.commercial.mdr[6],literal,Table 7 body
+surge.depth.d0,0.0,m,1,Climate\00_config.py,SURGE_DEPTH_DAMAGE.depths[0],literal,Table 7 first column
+surge.depth.d1,0.3,m,1,Climate\00_config.py,SURGE_DEPTH_DAMAGE.depths[1],literal,Table 7 first column
+surge.depth.d2,0.6,m,1,Climate\00_config.py,SURGE_DEPTH_DAMAGE.depths[2],literal,Table 7 first column
+surge.depth.d3,1.2,m,1,Climate\00_config.py,SURGE_DEPTH_DAMAGE.depths[3],literal,Table 7 first column
+surge.depth.d4,1.8,m,1,Climate\00_config.py,SURGE_DEPTH_DAMAGE.depths[4],literal,Table 7 first column
+surge.depth.d5,2.4,m,1,Climate\00_config.py,SURGE_DEPTH_DAMAGE.depths[5],literal,Table 7 first column
+surge.depth.d6,3.0,m,1,Climate\00_config.py,SURGE_DEPTH_DAMAGE.depths[6],literal,Table 7 first column
+cri.ssp.Historical Baseline.dmg_mult,1.0,factor,2,Climate\00_config.py,CRI_SSP_DAMAGE_ADJ[Historical Baseline][0],literal,
+cri.ssp.Historical Baseline.sev_shift,0.0,log-shift,3,Climate\00_config.py,CRI_SSP_DAMAGE_ADJ[Historical Baseline][1],literal,
+cri.ssp.SSP2-4.5.dmg_mult,1.05,factor,2,Climate\00_config.py,CRI_SSP_DAMAGE_ADJ[SSP2-4.5][0],literal,
+cri.ssp.SSP2-4.5.sev_shift,0.068,log-shift,3,Climate\00_config.py,CRI_SSP_DAMAGE_ADJ[SSP2-4.5][1],literal,
+cri.ssp.SSP5-8.5.dmg_mult,1.08,factor,2,Climate\00_config.py,CRI_SSP_DAMAGE_ADJ[SSP5-8.5][0],literal,
+cri.ssp.SSP5-8.5.sev_shift,0.095,log-shift,3,Climate\00_config.py,CRI_SSP_DAMAGE_ADJ[SSP5-8.5][1],literal,
+cri.ssp.Historical Baseline.h_drift,1.0,factor,2,Climate\00_config.py,CRI_SSP_H_DRIFT_MULT[Historical Baseline],literal,
+cri.ssp.SSP2-4.5.h_drift,1.5,factor,2,Climate\00_config.py,CRI_SSP_H_DRIFT_MULT[SSP2-4.5],literal,
+cri.ssp.SSP5-8.5.h_drift,2.0,factor,2,Climate\00_config.py,CRI_SSP_H_DRIFT_MULT[SSP5-8.5],literal,
+cfi.CFI_WEIGHT_PRECIP,0.25,weight,2,Climate\00_config.py,CFI_WEIGHT_PRECIP,literal,
+cfi.CFI_WEIGHT_WIND,0.25,weight,2,Climate\00_config.py,CFI_WEIGHT_WIND,literal,
+cfi.CFI_WEIGHT_HEAT,0.25,weight,2,Climate\00_config.py,CFI_WEIGHT_HEAT,literal,
+cfi.CFI_WEIGHT_SLA,0.25,weight,2,Climate\00_config.py,CFI_WEIGHT_SLA,literal,
+cri.component_weight.0,0.5,weight,2,Climate\00_config.py,CLIMATE_INDEX_COMPONENT_WEIGHTS,literal,
+cri.component_weight.1,0.3,weight,2,Climate\00_config.py,CLIMATE_INDEX_COMPONENT_WEIGHTS,literal,
+cri.component_weight.2,0.2,weight,2,Climate\00_config.py,CLIMATE_INDEX_COMPONENT_WEIGHTS,literal,
+fweights.0,0.3333333333333333,weight,6,Finance\00_config.py,FRI_WEIGHTS[0],ast arithmetic on the source term,
+fweights.1,0.3333333333333333,weight,6,Finance\00_config.py,FRI_WEIGHTS[1],ast arithmetic on the source term,
+fweights.2,0.3333333333333333,weight,6,Finance\00_config.py,FRI_WEIGHTS[2],ast arithmetic on the source term,
+bbox.west,120.85,deg,2,Climate\00_config.py,SHANGHAI_BBOX,tuple component,Table B1 first row
+bbox.south,30.65,deg,2,Climate\00_config.py,SHANGHAI_BBOX,tuple component,Table B1 first row
+bbox.east,122.0,deg,2,Climate\00_config.py,SHANGHAI_BBOX,tuple component,Table B1 first row
+bbox.north,31.9,deg,2,Climate\00_config.py,SHANGHAI_BBOX,tuple component,Table B1 first row
+cvar.n_perturb,100.0,count,0,Finance\01a_climate_cvar.py,literal 'args\\.test else (\\d+)',regex on the module source,
+cvar.alpha,0.05,quantile,2,Finance\01a_climate_cvar.py,literal 'CVAR_ALPHA = ([0-9.]+)',regex on the module source,
+cvar.alpha_pct,5.0,percent,0,Finance\01a_climate_cvar.py,literal 'CVAR_ALPHA = ([0-9.]+)',regex on the module source,
+cvar.window_years,5.0,years,0,Finance\01a_climate_cvar.py,literal 'ROLLING_WINDOW_YEARS = (\\d+)',regex on the module source,
+jump.mult.SSP2-4.5,1.1,factor,2,Finance\02_fri_projection.py,scenario_lambda_mult,regex on the module source,
+jump.mult.SSP5-8.5,1.2,factor,2,Finance\02_fri_projection.py,scenario_lambda_mult,regex on the module source,
+log.tc.n_tracks_all,2304.0,count,0,Climate\output\logs\log_01_hazard_tc_20261017_212736.log,regex 1,Loaded (\d+) WP tracks,
+log.tc.n_tracks_hist,107.0,count,0,Climate\output\logs\log_01_hazard_tc_20261017_212736.log,regex 1,Filtered: (\d+)/(\d+) tracks affect Shanghai,the 107 historical events
+log.tc.n_synth_total,1177.0,count,0,Climate\output\logs\log_01_hazard_tc_20261017_212736.log,regex 1,Synthetic: (\d+) tracks,
+log.tc.knutson_ssp245,1.0324,factor,4,Climate\output\logs\log_01_hazard_tc_20261017_212736.log,regex 1,SSP2-4\.5: intensity factor = ([0-9.]+),effective Knutson WP intensity factor at 2050
+log.tc.knutson_ssp585,1.0442,factor,4,Climate\output\logs\log_01_hazard_tc_20261017_212736.log,regex 1,SSP5-8\.5: intensity factor = ([0-9.]+),effective Knutson WP intensity factor at 2050
+log.tc.temp_slope,0.066785,degC/yr,6,Climate\output\logs\log_01_hazard_tc_20261017_212736.log,regex 1,Temp trend: slope=([0-9.]+) C/yr,
+log.tc.alpha_min,0.9307,factor,4,Climate\output\logs\log_01_hazard_tc_20261017_212736.log,regex 1,"alpha range \[([0-9.]+), ([0-9.]+)\]",
+log.tc.alpha_max,1.0744,factor,4,Climate\output\logs\log_01_hazard_tc_20261017_212736.log,regex 2,"alpha range \[([0-9.]+), ([0-9.]+)\]",
+log.tc.max_wind,55.5,m/s,1,Climate\output\logs\log_01_hazard_tc_20261017_212736.log,regex 1,"Hist wind: \d+ events, max=([0-9.]+) m/s",
+log.risk.n_buildings,585033.0,count,0,Climate\output\logs\log_05_risk_20261017_213548.log,regex 1,"Buildings: ([\d,]+)",
+log.risk.risk_panel_rows,4336.0,count,0,Climate\output\logs\log_05_risk_20261017_213548.log,regex 1,"Risk panel: ([\d,]+) rows",
+log.exp.n_buildings,585033.0,count,0,Climate\output\logs\log_03_exposure_20261017_213258.log,regex 1,"Total buildings loaded: ([\d,]+)",
+log.exp.age_filled,429906.0,count,0,Climate\output\logs\log_03_exposure_20261017_213258.log,regex 1,"Age enrichment from Lianjia: ([\d,]+) buildings",buildings whose age comes from the POI join
+log.exp.price_level1,497848.0,count,0,Climate\output\logs\log_03_exposure_20261017_213258.log,regex 1,"L1 Lianjia match: ([\d,]+)/([\d,]+)",
+log.exp.price_level2,87185.0,count,0,Climate\output\logs\log_03_exposure_20261017_213258.log,regex 2,"Price tiers: \{1: (\d+), 2: (\d+)\}",
+log.exp.commercial_n,181879.0,count,0,Climate\output\logs\log_03_exposure_20261017_213258.log,regex 1,"Commercial adjustment: ([\d,]+) buildings",
+log.exp.commercial_capped,8854.0,count,0,Climate\output\logs\log_03_exposure_20261017_213258.log,regex 1,"(\d[\d,]*) footprints capped at 5000m2",
+log.exp.exposure_trillion,63.33,CNY trillion,2,Climate\output\logs\log_03_exposure_20261017_213258.log,regex 1,Total exposure: ([0-9.]+) trillion CNY,
+log.exp.city_price,62700.0,CNY/m2,0,Climate\output\logs\log_03_exposure_20261017_213258.log,regex 1,City-wide latest price: ([0-9.]+) CNY/m2,
+log.surge.slr_245,0.3,m,1,Climate\output\logs\log_02_hazard_surge_20261017_213327.log,regex 1,SSP2-4\.5: SLR \+([0-9.]+)m,
+log.surge.slr_585,0.5,m,1,Climate\output\logs\log_02_hazard_surge_20261017_213327.log,regex 1,SSP5-8\.5: SLR \+([0-9.]+)m,
+log.surge.shelf_L,550000.0,m,0,Climate\output\logs\log_02_hazard_surge_20261017_213327.log,regex 1,Shelf params: L=([0-9.]+)m,
+log.surge.shelf_h,55.0,m,1,Climate\output\logs\log_02_hazard_surge_20261017_213327.log,regex 1,"Shelf params: L=[0-9.]+m, h=([0-9.]+)m",
+log.surge.elev_mean,2.7,m,1,Climate\output\logs\log_02_hazard_surge_20261017_213327.log,regex 1,Building elevation: mean=([0-9.]+)m,
+log.surge.elev_low_pct,70.6,%,1,Climate\output\logs\log_02_hazard_surge_20261017_213327.log,regex 1,low\(≤3m\)=([0-9.]+)%,
+log.surge.huangpu_nonzero_def,2.0,m,2,Climate\output\logs\log_02_hazard_surge_20261017_213327.log,regex 1,"nonzero=74924, max=([0-9.]+)m, bankfull=([0-9.]+), decay=([0-9.]+)m",
+log.surge.huangpu_decay_def,1500.0,m,0,Climate\output\logs\log_02_hazard_surge_20261017_213327.log,regex 1,"nonzero=74924, max=[0-9.]+m, bankfull=[0-9.]+, decay=([0-9.]+)m",
+log.surge.huangpu_decay_nodef,900.0,m,0,Climate\output\logs\log_06_defense_sensitivity_20261017_214009.log,regex 1,"nonzero=37198, max=[0-9.]+m, bankfull=[0-9.]+, decay=([0-9.]+)m",
+log.vuln.vhalf_base,112.8,m/s,1,Climate\output\logs\log_04_vulnerability_20261017_213543.log,regex 1,WP3 base v_half = ([0-9.]+) m/s,
+log.vuln.mdr_scale,0.176,factor,3,Climate\output\logs\log_04_vulnerability_20261017_213543.log,regex 1,SURGE_MDR_CALIBRATION_SCALE = ([0-9.]+),
+log.vuln.pca_var,0.7311,fraction,4,Climate\output\logs\log_04_vulnerability_20261017_213543.log,regex 1,PCA variance explained: ([0-9.]+),
+log.cri.cri_end,440.3,index,1,Climate\output\logs\log_07_climate_index_20261017_214943.log,regex 1,"CRI index \(base 100\): start=[0-9.]+, end=([0-9.]+)",
+log.cri.eal,1450000000.0,CNY/yr,0,Climate\output\logs\log_07_climate_index_20261017_214943.log,regex 1,EAL=([0-9.e+]+)/yr,
+log.cri.hist_mean,0.2254,raw,4,Climate\output\logs\log_07_climate_index_20261017_214943.log,regex 1,CRI raw: mean=([0-9.]+),
+log.cri.slow_theta,0.026,per month,3,Climate\output\logs\log_07_climate_index_20261017_214943.log,regex 1,Z-slow: \S+=([0-9.]+),
+log.cri.slow_sigma,0.00325,per month,5,Climate\output\logs\log_07_climate_index_20261017_214943.log,regex 1,"Z-slow: \S+=[0-9.]+, \S+=([0-9.]+)",
+log.tc.n_synth_added,1070.0,count,0,Climate\output\logs\log_01_hazard_tc_20261017_212736.log,1177 - 107,n_synth_total - n_tracks_hist,"the 1,070 of the Results prose"
+cvar.n_realisations,10807.0,count,0,Climate\output\logs\log_01_hazard_tc_20261017_212736.log,107 x 101,n_tracks_hist*(n_perturb+1),"the 10,807 realisations of the Methods"
+log.exp.age_proxy,155127.0,count,0,Climate\output\logs\log_03_exposure_20261017_213258.log,585033 - 429906,n_buildings - age_filled,"the 155,127 of the Data section"
+log.exp.age_coverage_pct,73.48405987354559,%,1,Climate\output\logs\log_03_exposure_20261017_213258.log,429906/585033,age_filled/n_buildings*100,the 73.5% of the Data and Limitations sections
+p.fit.theta_mr,0.06351768281459803,per month,4,Finance\02_fri_projection.py,fit_jump_diffusion(174 months of price/price_trend),re-executed from the pipeline source via ast,HSI mean-reversion speed
+p.fit.sigma_diff,0.017760045957027938,per month,5,Finance\02_fri_projection.py,fit_jump_diffusion(174 months of price/price_trend),re-executed from the pipeline source via ast,HSI diffusion volatility
+p.fit.lambda_jump,0.046242774566473986,per month,5,Finance\02_fri_projection.py,fit_jump_diffusion(174 months of price/price_trend),re-executed from the pipeline source via ast,HSI jump intensity
+p.fit.mu_jump,0.00569689534015172,log-return,5,Finance\02_fri_projection.py,fit_jump_diffusion(174 months of price/price_trend),re-executed from the pipeline source via ast,HSI mean jump size
+p.fit.sigma_jump,0.08571621606282315,log-return,5,Finance\02_fri_projection.py,fit_jump_diffusion(174 months of price/price_trend),re-executed from the pipeline source via ast,HSI jump-size volatility
+p.fit.trend_growth,0.033709268693511873,per year,5,Finance\02_fri_projection.py,fit_jump_diffusion(174 months of price/price_trend),re-executed from the pipeline source via ast,Recent HP trend growth for the projection anchor
+boundary.union_area_km2,7205.070548413121,km2,3,data\我国乡镇（街道）行政区划数据\_官方_天地图GS2024-0650\上海_区级_GS2024-0650.shp,16 polygons,union().area in EPSG:32651 / 1e6,"the 'approximately 7,205 km2' of the Data section"
+boundary.n_polygons,16,count,0,data\我国乡镇（街道）行政区划数据\_官方_天地图GS2024-0650\上海_区级_GS2024-0650.shp,features,len(gdf),the 16 district polygons
+boundary.residual_offset_max_pct,0.2098828383822804,%,4,output_archive\baseline_legacy_20261016_212711\Climate\output\results\defense_sensitivity\defense_profile_eal.csv,6 scenario x profile city cells,max|A/legacy - 1|*100,the '+0.21%' of the Data section
+boundary.hist_nodef_vs_legacy_pct,0.2098828383822804,%,4,output_archive\baseline_legacy_20261016_212711\Climate\output\results\defense_sensitivity\defense_profile_eal.csv,historical / baseline_nodef,A/legacy - 1,the single cell behind the headline offset
+data.n_buildings_npy,585033,count,0,Climate\output\intermediate\building_elevation.npy,array length,a.size,"cross-check of the 585,033 buildings"
+data.elev_mean,2.7369794845581055,m,2,Climate\output\intermediate\building_elevation.npy,nanmean,mean(building_elevation),
+data.elev_median,2.71583890914917,m,2,Climate\output\intermediate\building_elevation.npy,nanmedian,median(building_elevation),the 'median building site' of the Introduction
+data.elev_share_le3_pct,70.575847858155,%,1,Climate\output\intermediate\building_elevation.npy,share(a <= 3 m),mean(a<=3)*100,
+data.coast_dist_mean,18598.236328125,m,0,Climate\output\intermediate\building_coast_distance_m.npy,nanmean,mean(building_coast_distance_m),
+data.coast_dist_max,37098.23046875,m,0,Climate\output\intermediate\building_coast_distance_m.npy,nanmax,max(building_coast_distance_m),
+exposure.age_match_radius_m,500.0,m,0,Climate\03_exposure.py,literal 'max_dist_age_deg = (\\d+) / 111000',regex on the module source,
+exposure.commercial_area_cap_m2,5000.0,m2,0,Climate\03_exposure.py,literal 'COMMERCIAL_FOOTPRINT_CAP_M2 = ([0-9.]+)',regex on the module source,
+exposure.commercial_cost_cny_m2,9800.0,m2,0,Climate\03_exposure.py,literal 'COMMERCIAL_CONSTRUCTION_COST = ([0-9.]+)',regex on the module source,
+knutson.baseline_start,1985,year,0,Climate\01_hazard_tc.py,get_knutson_scaling_factor(baseline=...),regex,
+knutson.baseline_end,2005,year,0,Climate\01_hazard_tc.py,get_knutson_scaling_factor(baseline=...),regex,
+knutson.percentile,50,percentile,0,Climate\01_hazard_tc.py,get_knutson_scaling_factor(percentile=...),regex,
+temp.anomaly.base_y0,1990,year,0,Climate\01_hazard_tc.py,annual temperature anomaly baseline,regex,the 1990-2020 reference period
+temp.anomaly.base_y1,2020,year,0,Climate\01_hazard_tc.py,annual temperature anomaly baseline,regex,the 1990-2020 reference period
+districts.n,16,count,0,Climate\00_config.py,len(SHANGHAI_DISTRICTS),len(),the 16 municipal districts
+calib.aal_pred_obs_v8,1.0019986185009844,ratio,4,Climate\00_config.py,v6 ratio scaled by the boundary offset,v6_ratio * (1 + boundary.hist_nodef_vs_legacy_pct/100),"expectation for the official boundary; the observed-loss workbook in data/ carries no Shanghai row, so the ratio cannot be recomputed from data - the manuscript states it as ~1.00"
+log.tc.year_min,1945,year,0,Climate\output\logs\log_05_risk_20261017_213548.log,events window,regex,
+log.tc.year_max,2025,year,0,Climate\output\logs\log_05_risk_20261017_213548.log,events window,regex,
+data.landscan.y0,2000,year,0,Climate\00_config.py,LANDSCAN_DIR line carries 2000-2024,regex,annual ambient population raster
+data.landscan.y1,2024,year,0,Climate\00_config.py,LANDSCAN_DIR line carries 2000-2024,regex,annual ambient population raster
+data.isr.y0,1985,year,0,Climate\00_config.py,ISR_DIR line carries 1985-2020,regex,impervious-surface-ratio raster
+data.isr.y1,2020,year,0,Climate\00_config.py,ISR_DIR line carries 1985-2020,regex,impervious-surface-ratio raster
+data.temp.y0,1981,year,0,Climate\00_config.py,TMIN_RASTER_DIR line carries 1981-2024,regex,monthly minimum-temperature raster
+data.temp.y1,2024,year,0,Climate\00_config.py,TMIN_RASTER_DIR line carries 1981-2024,regex,monthly minimum-temperature raster
+data.sla.y0,1993,year,0,Climate\00_config.py,SLA_DIR line carries 1993-2023,regex,monthly sea-level-anomaly raster
+data.sla.y1,2023,year,0,Climate\00_config.py,SLA_DIR line carries 1993-2023,regex,monthly sea-level-anomaly raster
+data.dprice.y0,2015,year,0,Climate\00_config.py,DISTRICT_PRICE_DIR line carries 2015-2025,regex,district monthly price panel
+data.dprice.y1,2025,year,0,Climate\00_config.py,DISTRICT_PRICE_DIR line carries 2015-2025,regex,district monthly price panel
+data.cprice.y0,2011,year,0,Climate\00_config.py,CITY_PRICE_DIR line carries 2011-2025,regex,city monthly price panel
+data.cprice.y1,2025,year,0,Climate\00_config.py,CITY_PRICE_DIR line carries 2011-2025,regex,city monthly price panel
+data.wind.y0,1951,year,0,Climate\00_config.py,WIND_RASTER_DIR line carries 1951-2024,regex,monthly wind raster
+data.wind.y1,2024,year,0,Climate\00_config.py,WIND_RASTER_DIR line carries 1951-2024,regex,monthly wind raster
+data.precip.y0,1960,year,0,Climate\00_config.py,PRECIP_RASTER_DIR line carries 1960-2024,regex,monthly precipitation raster
+data.precip.y1,2024,year,0,Climate\00_config.py,PRECIP_RASTER_DIR line carries 1960-2024,regex,monthly precipitation raster
+data.tempbase.y0,1981,year,0,Climate\00_config.py,TMIN_RASTER_DIR,regex,anomaly baseline of the warming elasticity
+data.tempbase.y1,2024,year,0,Climate\00_config.py,TMIN_RASTER_DIR,regex,anomaly baseline of the warming elasticity
+data.fri_start_year,2011,year,0,Finance\output\results\shanghai_finance_risk_index.csv,first valid fri_index,year,
+data.fri_end_year,2025,year,0,Finance\output\results\shanghai_finance_risk_index.csv,last valid fri_index,year,
+data.isr.epoch_n,8,count,0,Climate\00_config.py,(y1-y0)/5+1,derived,the eight ISR epochs
+cri.proj.start_year,2024,year,0,Climate\output\results\shanghai_city_cri_projection.csv,min(year),year,the 2024 of the section title

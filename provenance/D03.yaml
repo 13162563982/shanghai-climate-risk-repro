@@ -1,0 +1,27 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D03"
+dataset: "ETOPO 2022 全球地形"
+producer: "NOAA NCEI"
+product_version: "ETOPO 2022 15 arc-s（bed）"
+coverage: "全球 43200×21600"
+upstream_identifier: "https://doi.org/10.25921/fd45-gt74"
+acquisition_channel: "NOAA NCEI 公开下载"
+acquisition_evidence: "栅格指纹（30 arc-s 全球 bed）+ 稿件参考文献 NOAA NCEI (2022)"
+licence: "NOAA 开放数据"
+provenance_level: "强"
+redistributable: "否(1.6 GB)"
+archive_scope: "不含"
+da_action: "写入"
+da_clause: "ETOPO 2022 from NOAA NCEI (https://doi.org/10.25921/fd45-gt74), from which the shelf-geometry parameters (550 km width, 55 m mean depth) were derived"
+known_gap: "G7"
+note: "**栅格本体从不被读取**：只有 L_SHELF_M/H_SHELF_M 两个常数；措辞必须由「data were taken from」改为「parameters were derived from」"
+pipeline_usage: "参数派生：仅 L_SHELF_M=550 km / H_SHELF_M=55 m 两个常数取自 ETOPO，栅格本体从不被读取"
+
+package_status: "included"
+files_in_package: 1
+files_in_release: 1
+bytes_in_package: 1624895430
+package_paths:
+  - "data/Hazard_data/ETOPO_2022_v1_30s_N90W180_bed.tif"

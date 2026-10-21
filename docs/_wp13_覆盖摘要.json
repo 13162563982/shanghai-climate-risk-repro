@@ -1,0 +1,68 @@
+{
+  "generated": "2026-10-20T15:10:09",
+  "label": "v15",
+  "docx": "PAPER_MANUSCRIPT_v15.docx",
+  "tokens_total": 1520,
+  "tokens_wt": 1433,
+  "tokens_math": 97,
+  "extra_rows": 48,
+  "orphan_mapping": 0,
+  "classes": {
+    "结构编号": 329,
+    "模型输出": 169,
+    "模型参数": 329,
+    "引文/外部": 98,
+    "输入数据": 84,
+    "说明量": 44,
+    "参考文献": 370,
+    "公式": 97
+  },
+  "verdicts": {
+    "OK-STRUCT": 298,
+    "OK-MODEL": 170,
+    "OK-PARAM": 332,
+    "OK-CITE": 81,
+    "OK-EXT": 43,
+    "OK-DATA": 84,
+    "OK-NOTE": 34,
+    "OK-DATA-EPOCH": 1,
+    "OK-NOTE-SRC": 4,
+    "OK-NOTE-EXT": 6,
+    "OK-BIB": 370,
+    "OK-MATH-CONST": 17,
+    "OK-MATH-NOTATION": 67,
+    "OK-MATH-FRAC": 6,
+    "OK-MATH-SRC": 6,
+    "OK-MATH-IDENT": 1
+  },
+  "ok": 1520,
+  "blockers": 0,
+  "findings": [],
+  "figures_tables": {
+    "checks": 108,
+    "blockers": 0,
+    "prose": 1
+  },
+  "math_census": {
+    "generated": "2026-10-18T19:41:16",
+    "docx": "PAPER_MANUSCRIPT_v12.docx",
+    "docx_sha": "F86428EDBF44C5465A880AFD2527F6A3448E2C29C7D09E21369CEB4CD5B0E195",
+    "w_t_tokens_live": 1385,
+    "w_t_tokens_frozen": 1385,
+    "w_t_drift": 0,
+    "math_elements": 46,
+    "math_numbers": 97,
+    "math_substantive": 30,
+    "math_notation": 67,
+    "verdicts": {
+      "OK-MATH-CONST": 17,
+      "OK-MATH-NOTATION": 67,
+      "OK-MATH-FRAC": 6,
+      "OK-MATH-SRC": 6,
+      "OK-MATH-IDENT": 1
+    },
+    "unclassified": [],
+    "result": "CENSUS-OK"
+  },
+  "result": "LEDGER-OK"
+}

@@ -1,0 +1,152 @@
+{
+  "generated": "2026-10-18T20:20:59",
+  "checks": [
+    {
+      "name": "G13-1a FINAL untouched",
+      "pass": true,
+      "detail": "39240D38FCF71ADB"
+    },
+    {
+      "name": "G13-1b v10 untouched",
+      "pass": true,
+      "detail": "40E306B03E2E5491"
+    },
+    {
+      "name": "G13-1c v11 untouched",
+      "pass": true,
+      "detail": "7417FDE618D6C511"
+    },
+    {
+      "name": "G13-1d v12 present",
+      "pass": true,
+      "detail": "28193084 B F86428EDBF44C546"
+    },
+    {
+      "name": "G13-2a OMML census complete",
+      "pass": true,
+      "detail": "97 equation numbers, 30 substantive, drift 0"
+    },
+    {
+      "name": "G13-2b w:t inventory frozen",
+      "pass": true,
+      "detail": "1385 tokens, 0 drift"
+    },
+    {
+      "name": "G13-3a ledger covers every token",
+      "pass": true,
+      "detail": "1482 rows (1385 w:t + 97 OMML), orphan 0"
+    },
+    {
+      "name": "G13-3b every verdict in the closed set",
+      "pass": true,
+      "detail": "16 distinct OK verdicts, 0 UNVERIFIED"
+    },
+    {
+      "name": "G13-4a zero numeric blockers",
+      "pass": true,
+      "detail": "0 blockers"
+    },
+    {
+      "name": "G13-4b zero figure/table blockers",
+      "pass": true,
+      "detail": "108 checks, 0 blockers, 1 prose notes"
+    },
+    {
+      "name": "G13-5 truth table zero drift",
+      "pass": true,
+      "detail": "regenerated identical, problems 0"
+    },
+    {
+      "name": "G13-6 WP11 alignment regression",
+      "pass": true,
+      "detail": "677 checks, 0 findings"
+    },
+    {
+      "name": "G13-7a figure set closes",
+      "pass": true,
+      "detail": "{\"drawings\": 37, \"inline\": 1, \"captions\": 38, \"index_rows\": 38}"
+    },
+    {
+      "name": "G13-7b figure provenance 37/37",
+      "pass": true,
+      "detail": "37/37 resolved, sa_01..04 re-render True"
+    },
+    {
+      "name": "G13-8 table geometry",
+      "pass": true,
+      "detail": "11 blocks, 9 numbered"
+    },
+    {
+      "name": "G13-9 cross-reference closure",
+      "pass": true,
+      "detail": "figures 38/38 cited; tables not cited in prose: ['4', '5', '7', 'B1']"
+    },
+    {
+      "name": "G13-10 bibliography",
+      "pass": true,
+      "detail": "59 entries / 49 DOI resolved; uncited: ['McNamara 2015']"
+    },
+    {
+      "name": "G13-11 deliverables present",
+      "pass": true,
+      "detail": "ledger 1482 rows, findings md, xlsx with 6 sheets"
+    },
+    {
+      "name": "G13-12 v12 structural invariants",
+      "pass": true,
+      "detail": "{\"m_oMath\": 131, \"m_oMathPara\": 41, \"w_drawing\": 37, \"paragraphs\": 409, \"tables\": 11}, 49 parts, 1273 w:t runs"
+    },
+    {
+      "name": "G13-13 v13 present and exact",
+      "pass": true,
+      "detail": "28193192 B 380DE7EB7C641831"
+    },
+    {
+      "name": "G13-14 v13 is v12 + exactly five edits",
+      "pass": true,
+      "detail": "1385 -> 1389 tokens (+4), 5 elements changed"
+    },
+    {
+      "name": "G13-15 all nine numbered tables cited",
+      "pass": true,
+      "detail": "uncited: none"
+    },
+    {
+      "name": "G13-16 bibliography closes in v13",
+      "pass": true,
+      "detail": "59 entries, uncited none, unmatched none"
+    },
+    {
+      "name": "G13-17 v13 ledger and workbook",
+      "pass": true,
+      "detail": "1486 rows, 0 blockers, workbook present"
+    },
+    {
+      "name": "G13-18 v14 present and exact",
+      "pass": true,
+      "detail": "28192778 B C34F42F875FD341D"
+    },
+    {
+      "name": "G13-19 v14 is v13 minus two paragraphs",
+      "pass": true,
+      "detail": "1162 -> 1160 elements, 1389 -> 1379 tokens"
+    },
+    {
+      "name": "G13-20 statement files carry the removed numbers",
+      "pass": true,
+      "detail": "DA 9 tokens, code 1 tokens, 3 placeholders pending"
+    },
+    {
+      "name": "G13-21 v14 ledger and workbook",
+      "pass": true,
+      "detail": "1486 rows (1,476 manuscript + 10 statements), 0 blockers, workbook present"
+    },
+    {
+      "name": "G13-22 v14 structural invariants",
+      "pass": true,
+      "detail": "{\"m_oMath\": 131, \"m_oMathPara\": 41, \"w_drawing\": 37, \"paragraphs\": 407, \"tables\": 11}, 49 parts, 1271 w:t runs"
+    }
+  ],
+  "ledger_rows": 1482,
+  "verdict": "PASS"
+}

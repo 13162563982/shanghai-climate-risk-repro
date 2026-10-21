@@ -1,0 +1,36 @@
+{
+  "n_datasets": 25,
+  "self_made": [
+    {
+      "id": "D25",
+      "name": "处理后面板与结果表",
+      "where": "Climate\\output\\results + Finance\\results + Composite\\results"
+    },
+    {
+      "id": "D26",
+      "name": "图表源数据与渲染图（41 张 + 表 1–8）",
+      "where": "manuscript\\figures + Climate\\output\\figures"
+    },
+    {
+      "id": "D27",
+      "name": "模型代码与灵敏度配置",
+      "where": "run_v8.py + Climate\\ + Finance\\ + Composite\\ + config\\ + env\\"
+    }
+  ],
+  "data_total_files": 15288,
+  "data_total_bytes": 15288104882,
+  "covered_files": 15288,
+  "covered_bytes": 15288104882,
+  "coverage_pct_files": 100.0,
+  "leftover_files": [],
+  "leftover_count": 0,
+  "usage_count": {
+    "runtime-read": 16,
+    "unused": 6,
+    "figure-only": 2,
+    "preprocess-only": 1
+  },
+  "problems": [],
+  "problem_count": 0,
+  "csv": "_wp14_数据盘点.csv"
+}

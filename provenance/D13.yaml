@@ -1,0 +1,36 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D13"
+dataset: "逐年不透水面比例栅格"
+producer: "中国农业大学 UEMM 团队（Gong et al., 2020, GAIA）"
+product_version: "GAIA 30 m 年度不透水面（1985–2020）→ 上海 0.01° 比例"
+coverage: "1985/90/…/2020，10 期，115×125"
+upstream_identifier: "https://doi.org/10.1016/j.rse.2019.111510（论文；数据集本体无独立 DOI）"
+acquisition_channel: "iEarth 数据中心（data-starcloud.pcl.ac.cn/resource/13）→ 立方（关键词 778）"
+acquisition_evidence: "`数据介绍.pdf`「数据来源 / 数据引用格式」全文"
+licence: "开放（论文 CC BY；数据平台条款盘上无文本）"
+provenance_level: "强"
+redistributable: "否"
+archive_scope: "不含"
+da_action: "方法描述"
+da_clause: "annual impervious-surface-ratio rasters (1985-2020) derived from GAIA (Gong et al., 2020)"
+known_gap: ""
+note: "ISR 面板由 0.01° 重采样得到（`04_vulnerability.py:216`）"
+pipeline_usage: ""
+
+package_status: "included"
+files_in_package: 10
+files_in_release: 0
+bytes_in_package: 2662041
+package_paths:
+  - "data/Hazard_data/1985-2020年上海逐年不透水面栅格数据/impervious_ratio_1985.tif"
+  - "data/Hazard_data/1985-2020年上海逐年不透水面栅格数据/impervious_ratio_1990.tif"
+  - "data/Hazard_data/1985-2020年上海逐年不透水面栅格数据/impervious_ratio_1995.tif"
+  - "data/Hazard_data/1985-2020年上海逐年不透水面栅格数据/impervious_ratio_2000.tif"
+  - "data/Hazard_data/1985-2020年上海逐年不透水面栅格数据/impervious_ratio_2005.tif"
+  - "data/Hazard_data/1985-2020年上海逐年不透水面栅格数据/impervious_ratio_2010.tif"
+  - "data/Hazard_data/1985-2020年上海逐年不透水面栅格数据/impervious_ratio_2015.tif"
+  - "data/Hazard_data/1985-2020年上海逐年不透水面栅格数据/impervious_ratio_2020.tif"
+  - "data/Hazard_data/1985-2020年上海逐年不透水面栅格数据/preprocess_impervious.py"
+  - "data/Hazard_data/1985-2020年上海逐年不透水面栅格数据/数据介绍.pdf"

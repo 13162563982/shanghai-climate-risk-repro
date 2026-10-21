@@ -1,0 +1,32 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D23"
+dataset: "高德 POI「商务住宅」"
+producer: "高德地图（Amap）"
+product_version: "POI 分类导出（商务住宅）"
+coverage: "40.8 MB"
+upstream_identifier: "（无）"
+acquisition_channel: "平台导出"
+acquisition_evidence: "同上（高德 schema）"
+licence: "平台服务条款禁止批量转存"
+provenance_level: "中"
+redistributable: "否"
+archive_scope: "不含"
+da_action: "不写"
+da_clause: ""
+known_gap: "G8"
+note: "仅被 preprocess_exposure.py 原样复制，无下游读取"
+pipeline_usage: "仅被 preprocess_exposure.py 原样复制，无下游读取"
+
+package_status: "included"
+files_in_package: 6
+files_in_release: 0
+bytes_in_package: 42807615
+package_paths:
+  - "data/Exposure_data/房屋/上海小区数据（高德）/商务住宅.cpg"
+  - "data/Exposure_data/房屋/上海小区数据（高德）/商务住宅.csv"
+  - "data/Exposure_data/房屋/上海小区数据（高德）/商务住宅.dbf"
+  - "data/Exposure_data/房屋/上海小区数据（高德）/商务住宅.prj"
+  - "data/Exposure_data/房屋/上海小区数据（高德）/商务住宅.shp"
+  - "data/Exposure_data/房屋/上海小区数据（高德）/商务住宅.shx"

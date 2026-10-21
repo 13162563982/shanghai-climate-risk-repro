@@ -1,0 +1,30 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D21"
+dataset: "《中国海洋灾害公报》与 1995–2023 损失转录表"
+producer: "自然资源部（国家海洋局）《中国海洋灾害公报》"
+product_version: "1995–2023 逐年海洋灾害损失统计（作者逐表转录）"
+coverage: "29 个年度 sheet（**结构不统一**：1995 为事件级表 / 1999 空表 / 其余为省×指标）"
+upstream_identifier: "https://www.mnr.gov.cn/sj/sjfw/hy/gbgg/zghyzhgb/（政府出版物，无 DOI）"
+acquisition_channel: "自然资源部「中国海洋灾害公报」专栏（**1995–2023 全 29 年在线**，独立 HTML 页）+ 国家海洋信息中心镜像（2000–2023）"
+acquisition_evidence: "全 29 年官方在线可核；2013 年表 3「沿海各省风暴潮灾害损失统计」与转录件**逐字抽检一致**；1995 PDF / 1996 DOC / 1998 PDF 三份原件在盘（`风暴潮台风损害影响1995_2023.xlsx`）"
+licence: "公开政府信息"
+provenance_level: "强"
+redistributable: "否"
+archive_scope: "不含"
+da_action: "写入"
+da_clause: "reported annual ocean-disaster loss series compiled from the China Marine Disaster Bulletins (Ministry of Natural Resources; 1995-2023)"
+known_gap: "G4b"
+note: "**不参与运行**，但是 P17「校准到报告损失序列」的目标值 → 声明必须提；等级 中→强（2026-10-20 作者提供公报专栏网址；**1999 sheet 为空、1995 为事件级表**，且 WP11 已核该表为全国沿海表、无上海行）"
+pipeline_usage: "不参与运行；1995–2023 报告损失序列是该模型校准与验证的目标"
+
+package_status: "included"
+files_in_package: 4
+files_in_release: 0
+bytes_in_package: 1206531
+package_paths:
+  - "data/中国海洋灾害公报/1995年《中国海洋灾害公报》.pdf"
+  - "data/中国海洋灾害公报/1996年《中国海洋灾害公报》.doc"
+  - "data/中国海洋灾害公报/1998年《中国海洋灾害公报》.pdf"
+  - "data/风暴潮台风损害影响1995_2023.xlsx"

@@ -1,0 +1,35 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D20"
+dataset: "乡镇（街道）边界层（文件名「2021」，**实测 2015 年前口径**；来源=立方 631 包）"
+producer: "**无上游**（分发方自述「没有明确来源，从互联网收集」）"
+product_version: "全国乡镇（街道）边界，43,656 记录；字段 `省/市/县/乡`（UTF-8）"
+coverage: "全国；**仅行政区外形（岸线）在用**，乡镇级归属已完全不用"
+upstream_identifier: "（无）"
+acquisition_channel: "立方数据学社公众号（关键词 **631**，2025-03-19 发布）"
+acquisition_evidence: "**决定性凭证**：同目录 `我国乡镇（街道）行政区划数据.pdf`（4,169,544 B，立方原文）逐字写明——「在我国，乡镇（街道）行政区划数据没有官方来源……**我们本次分享的乡镇（街道）行政区划数据也没有明确来源，是从互联网收集的**」；字段 `省/市/县/乡` 与该文所述完全一致，文中标称「数据年份 2021 年」"
+licence: "**「只能用于个人练习，不得用于商业及其它目的」（分发方原文）**"
+provenance_level: "无"
+redistributable: "否"
+archive_scope: "不含"
+da_action: "写入"
+da_clause: "the shoreline geometry used by the surge model was taken from a third-party layer distributed by 立方数据学社 (Lifang Data Academy), whose upstream provenance could not be established; that layer supplies only the shoreline polyline (the land-sea mask is derived from the FABDEM terrain) and is not redistributed. We independently verified that layer against official reference data before use, and its Shanghai outline is consistent with the official division product"
+known_gap: "G1"
+note: "**用途已核（作者 2026-10-18）**：乡镇级归属确实已不用（`00_config.py:35` 用官方 GS(2024)0650）；**但岸线仍在用**：`00_config.py:51 COASTLINE_BOUNDARY_SHP = ADMIN_BOUNDARY_LEGACY_SHP` → `climate_functions.py:465`：**shoreline = 行政边界线 ∩ DEM 海面掩膜** → `02_hazard_surge.py:173` → `building_coast_distance_m.npy` → `05_risk.py:99`/`06_defense_sensitivity.py:94`。**年代影响评估**：取 `dissolve()` 后市域外形，区县改名/合并不改变外形 →岸线长度对该年代差**稳健**；残留不确定度 = 2014→2021 围垦/促淤。官方层替代实测 −13.7%（`docs\\_潮损偏移复核报告.md`）。**几何已独立核实（2026-10-20）**：市域外形面积 7,845.27 km² vs 官方市域面积 7,823.44 km²（**+0.28%**）；西/北/南三处四至偏差 **≤0.7 km**（南界浮山岛点 38 m）；最东极点与国务院 1996 年领海基线声明第 11 点**佘山岛基点相距 52 m**；11 个多边形逐一对应官方岛屿名录（崇明/长兴/横沙/九段沙/大金山 0.288 km²/小金山/浮山/佘山）→ **分发方虽无溯源渠道，数据本身经官方口径交叉核对无误**；许可措辞经作者裁定不写入声明"
+pipeline_usage: ""
+
+package_status: "included"
+files_in_package: 9
+files_in_release: 8
+bytes_in_package: 381323251
+package_paths:
+  - "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.cpg"
+  - "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.dbf"
+  - "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.prj"
+  - "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.sbn"
+  - "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.sbx"
+  - "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.shp"
+  - "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.shp.xml"
+  - "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.shx"
+  - "data/我国乡镇（街道）行政区划数据/我国乡镇（街道）行政区划数据.pdf"

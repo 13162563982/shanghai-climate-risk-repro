@@ -1,0 +1,206 @@
+{
+  "generated": "20261016_205138",
+  "v8root": "D:\\桌面real\\陈剑老师研究工作\\Shanghai_Climate_Risk_Analysis\\复现公报台风研究结果\\model_房地产风险_v8",
+  "newroot": "D:\\桌面real\\陈剑老师研究工作\\Shanghai_Climate_Risk_Analysis\\复现公报台风研究结果\\model_房地产风险_v8\\期刊投稿\\Nature-JF投稿\\Nature npj Natural Hazards",
+  "per_tree": {
+    "Climate": {
+      "files": 829,
+      "bytes": 1128122422
+    },
+    "Finance": {
+      "files": 16,
+      "bytes": 573895779
+    },
+    "Composite": {
+      "files": 8,
+      "bytes": 1621765
+    },
+    "config": {
+      "files": 1,
+      "bytes": 5884
+    },
+    "root": {
+      "files": 2,
+      "bytes": 19928
+    }
+  },
+  "copied_count": 856,
+  "skipped": [
+    {
+      "path": "Climate\\_check_dip.py",
+      "reason": "relocated to tools\\_diagnostics"
+    },
+    {
+      "path": "Climate\\_diagnose_dip.py",
+      "reason": "relocated to tools\\_diagnostics"
+    },
+    {
+      "path": "Climate\\_diagnose_drop.py",
+      "reason": "relocated to tools\\_diagnostics"
+    },
+    {
+      "path": "Climate\\_diagnose_projection.py",
+      "reason": "relocated to tools\\_diagnostics"
+    },
+    {
+      "path": "Climate\\_rolling_analysis.py",
+      "reason": "relocated to tools\\_diagnostics"
+    },
+    {
+      "path": "Climate\\_step02_err.log",
+      "reason": "ad-hoc run log"
+    },
+    {
+      "path": "Climate\\_step03.log",
+      "reason": "ad-hoc run log"
+    },
+    {
+      "path": "Climate\\_step03_err.log",
+      "reason": "ad-hoc run log"
+    },
+    {
+      "path": "Climate\\_step03_out.log",
+      "reason": "ad-hoc run log"
+    },
+    {
+      "path": "Climate\\_step04_err.log",
+      "reason": "ad-hoc run log"
+    },
+    {
+      "path": "Climate\\_step05_err.log",
+      "reason": "ad-hoc run log"
+    },
+    {
+      "path": "Climate\\_step06_err.log",
+      "reason": "ad-hoc run log"
+    },
+    {
+      "path": "Climate\\_step07_err.log",
+      "reason": "ad-hoc run log"
+    },
+    {
+      "path": "Climate\\_stepfig_err.log",
+      "reason": "ad-hoc run log"
+    },
+    {
+      "path": "Climate\\_stepfig_out.log",
+      "reason": "ad-hoc run log"
+    },
+    {
+      "path": "Climate\\_test_integration.py",
+      "reason": "relocated to tools\\_nonpipeline"
+    },
+    {
+      "path": "Climate\\download_cmip6_test.py",
+      "reason": "relocated to tools\\_nonpipeline"
+    },
+    {
+      "path": "Climate\\tc_did_synth.py",
+      "reason": "relocated to tools\\_nonpipeline"
+    },
+    {
+      "path": "Composite\\_diag_linearity.py",
+      "reason": "relocated to tools\\_diagnostics"
+    },
+    {
+      "path": "Finance\\_analyze_price.py",
+      "reason": "relocated to tools\\_diagnostics"
+    },
+    {
+      "path": "Finance\\_cvar_full_stderr.log",
+      "reason": "relocated to tools\\_diagnostics"
+    },
+    {
+      "path": "Finance\\_cvar_stderr.log",
+      "reason": "relocated to tools\\_diagnostics"
+    },
+    {
+      "path": "Finance\\slide31_shape6.png",
+      "reason": "PowerPoint asset, not modelling code"
+    },
+    {
+      "path": "Finance\\slide31_shape6.png",
+      "reason": "PowerPoint asset, not modelling code"
+    },
+    {
+      "path": "Finance\\slide31_shape7.png",
+      "reason": "PowerPoint asset, not modelling code"
+    },
+    {
+      "path": "Finance\\slide31_shape7.png",
+      "reason": "PowerPoint asset, not modelling code"
+    }
+  ],
+  "relocated": [
+    {
+      "from": "Climate\\tc_did_synth.py",
+      "to": "tools\\_nonpipeline\\tc_did_synth.py",
+      "reason": "difference-in-differences synthetic experiment; not in the 11-step pipeline"
+    },
+    {
+      "from": "Climate\\_test_integration.py",
+      "to": "tools\\_nonpipeline\\_test_integration.py",
+      "reason": "environment integration smoke test; hardcodes conda env path"
+    },
+    {
+      "from": "Climate\\download_cmip6_test.py",
+      "to": "tools\\_nonpipeline\\download_cmip6_test.py",
+      "reason": "CMIP6 download probe; not in pipeline"
+    },
+    {
+      "from": "scripts\\download_cmip6.py",
+      "to": "tools\\_nonpipeline\\download_cmip6.py",
+      "reason": "CMIP6 download utility; not in pipeline"
+    },
+    {
+      "from": "scripts\\convert_manuscript_to_mdpi.ps1",
+      "to": "tools\\_nonpipeline\\convert_manuscript_to_mdpi.ps1",
+      "reason": "manuscript conversion helper"
+    },
+    {
+      "from": "Climate\\_check_dip.py",
+      "to": "tools\\_diagnostics\\_check_dip.py",
+      "reason": "one-off diagnostic"
+    },
+    {
+      "from": "Climate\\_diagnose_dip.py",
+      "to": "tools\\_diagnostics\\_diagnose_dip.py",
+      "reason": "one-off diagnostic"
+    },
+    {
+      "from": "Climate\\_diagnose_drop.py",
+      "to": "tools\\_diagnostics\\_diagnose_drop.py",
+      "reason": "one-off diagnostic"
+    },
+    {
+      "from": "Climate\\_diagnose_projection.py",
+      "to": "tools\\_diagnostics\\_diagnose_projection.py",
+      "reason": "one-off diagnostic"
+    },
+    {
+      "from": "Climate\\_rolling_analysis.py",
+      "to": "tools\\_diagnostics\\_rolling_analysis.py",
+      "reason": "one-off rolling-window analysis"
+    },
+    {
+      "from": "Finance\\_analyze_price.py",
+      "to": "tools\\_diagnostics\\_analyze_price.py",
+      "reason": "one-off price analysis"
+    },
+    {
+      "from": "Finance\\_cvar_stderr.log",
+      "to": "tools\\_diagnostics\\_cvar_stderr.log",
+      "reason": "stderr capture of a one-off run"
+    },
+    {
+      "from": "Finance\\_cvar_full_stderr.log",
+      "to": "tools\\_diagnostics\\_cvar_full_stderr.log",
+      "reason": "stderr capture of a one-off run"
+    },
+    {
+      "from": "Composite\\_diag_linearity.py",
+      "to": "tools\\_diagnostics\\_diag_linearity.py",
+      "reason": "one-off linearity diagnostic"
+    }
+  ]
+}

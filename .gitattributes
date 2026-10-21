@@ -1,0 +1,17 @@
+# The files in this repository are published byte-for-byte as they were used by
+# the model.  Any end-of-line normalisation would break SHA256SUMS.txt, so we
+# turn it off globally and only mark the binary formats for diffing purposes.
+* -text
+
+*.tif   binary
+*.tiff  binary
+*.hdf5  binary
+*.parquet binary
+*.npz   binary
+*.pkl   binary
+*.nc    binary
+*.shp   binary
+*.dbf   binary
+*.shx   binary
+*.sbn   binary
+*.sbx   binary

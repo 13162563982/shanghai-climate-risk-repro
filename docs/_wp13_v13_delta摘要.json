@@ -1,0 +1,56 @@
+{
+  "generated": "2026-10-18T19:47:09",
+  "v12_tokens": 1385,
+  "v13_tokens": 1389,
+  "new_tokens": [
+    {
+      "位置": "P48",
+      "数字": "4",
+      "判定": "OK-STRUCT"
+    },
+    {
+      "位置": "P49",
+      "数字": "5",
+      "判定": "OK-STRUCT"
+    },
+    {
+      "位置": "P121",
+      "数字": "7",
+      "判定": "OK-STRUCT"
+    },
+    {
+      "位置": "P78",
+      "数字": "2015",
+      "判定": "OK-CITE"
+    }
+  ],
+  "changed_elements": [
+    "P121",
+    "P48",
+    "P49",
+    "P78",
+    "P85"
+  ],
+  "tables_cited": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "B1"
+  ],
+  "tables_uncited": [],
+  "uncited_references": [],
+  "structure": {
+    "m_oMath": 131,
+    "m_oMathPara": 41,
+    "w_drawing": 37,
+    "paragraphs": 409,
+    "tables": 11
+  },
+  "failures": [],
+  "result": "DELTA-OK"
+}

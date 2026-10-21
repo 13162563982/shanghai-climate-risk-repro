@@ -1,0 +1,45 @@
+﻿位置,数字,判定,证据,说明
+DA,"585,033",OK-MODEL,v14 稿件同一数字；WP11 真值表 585033,"he processed building exposure inventory (585,033 records), district-level loss panels, ind"
+DA,2024,OK-EXT,GS(2024)0650 审图号年份,". District boundaries follow the official 2024 county-level division product (Tianditu, "
+DA,2024,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,"sion product (Tianditu, map review no. GS(2024)0650); the boundary vector is not redistr"
+DA,0650,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,"product (Tianditu, map review no. GS(2024)0650); the boundary vector is not redistribute"
+DA,2025,OK-EXT,出版物年份,"tes were derived from CMAB (Zhang et al., 2025; https://doi.org/10.1038/s41597-025-04730"
+DA,10.1038,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,"CMAB (Zhang et al., 2025; https://doi.org/10.1038/s41597-025-04730-5). Source data: IBTrACS"
+DA,41597,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,"ng et al., 2025; https://doi.org/10.1038/s41597-025-04730-5). Source data: IBTrACS v4r01 "
+DA,025,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,"al., 2025; https://doi.org/10.1038/s41597-025-04730-5). Source data: IBTrACS v4r01 from"
+DA,04730,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实, 2025; https://doi.org/10.1038/s41597-025-04730-5). Source data: IBTrACS v4r01 from NOAA 
+DA,5,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实, https://doi.org/10.1038/s41597-025-04730-5). Source data: IBTrACS v4r01 from NOAA NC
+DA,4,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,41597-025-04730-5). Source data: IBTrACS v4r01 from NOAA NCEI (https://doi.org/10.259
+DA,01,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,597-025-04730-5). Source data: IBTrACS v4r01 from NOAA NCEI (https://doi.org/10.25921/
+DA,10.25921,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,ACS v4r01 from NOAA NCEI (https://doi.org/10.25921/82ty-9e16); FABDEM V1-2 from the Universi
+DA,82,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实, from NOAA NCEI (https://doi.org/10.25921/82ty-9e16); FABDEM V1-2 from the University 
+DA,9e16,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实, NOAA NCEI (https://doi.org/10.25921/82ty-9e16); FABDEM V1-2 from the University of Bris
+DA,1,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,ps://doi.org/10.25921/82ty-9e16); FABDEM V1-2 from the University of Bristol data rep
+DA,2,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,://doi.org/10.25921/82ty-9e16); FABDEM V1-2 from the University of Bristol data repos
+DA,2022,OK-EXT,Hawker et al. 2022 / NOAA NCEI 2022 出版物年份,"f Bristol data repository (Hawker et al., 2022); LandScan population grids from Oak Ridg"
+DA,10.48690,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,ttps://landscan.ornl.gov; https://doi.org/10.48690/1524213); ETOPO 2022 from NOAA NCEI (http
+DA,1524213,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,ndscan.ornl.gov; https://doi.org/10.48690/1524213); ETOPO 2022 from NOAA NCEI (https://doi.
+DA,2022,OK-EXT,Hawker et al. 2022 / NOAA NCEI 2022 出版物年份, https://doi.org/10.48690/1524213); ETOPO 2022 from NOAA NCEI (https://doi.org/10.25921/
+DA,10.25921,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,"TOPO 2022 from NOAA NCEI (https://doi.org/10.25921/fd45-gt74), from which the shelf-geometry"
+DA,45,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,"rom NOAA NCEI (https://doi.org/10.25921/fd45-gt74), from which the shelf-geometry para"
+DA,74,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,"OAA NCEI (https://doi.org/10.25921/fd45-gt74), from which the shelf-geometry parameter"
+DA,550,OK-PARAM,00_config.py L_SHELF_M = 550000 m（约 550 km）,"from which the shelf-geometry parameters (550 km width, 55 m mean depth) were derived; "
+DA,55,OK-PARAM,00_config.py H_SHELF_M = 55.0 m," shelf-geometry parameters (550 km width, 55 m mean depth) were derived; gridded near-"
+DA,2.0,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,"the China Meteorological Forcing Dataset v2.0 (He et al., 2024; National Tibetan Platea"
+DA,2024,OK-EXT,GS(2024)0650 审图号年份,"ological Forcing Dataset v2.0 (He et al., 2024; National Tibetan Plateau Data Center); p"
+DA,2,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,"Data Center); precipitation from CHM_PRE V2 (Hu and Miao, 2025; https://doi.org/10.52"
+DA,2025,OK-EXT,出版物年份,"ecipitation from CHM_PRE V2 (Hu and Miao, 2025; https://doi.org/10.5281/zenodo.14634575)"
+DA,10.5281,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,"RE V2 (Hu and Miao, 2025; https://doi.org/10.5281/zenodo.14634575); altimeter sea-level ano"
+DA,14634575,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,"iao, 2025; https://doi.org/10.5281/zenodo.14634575); altimeter sea-level anomalies from the "
+DA,10.48670,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,opernicus Marine Service (https://doi.org/10.48670/moi-00148); annual impervious-surface-rat
+DA,00148,OK-EXT,DOI/URL 内数字，标识已在 _wp14_标识核验.csv 核实,ine Service (https://doi.org/10.48670/moi-00148); annual impervious-surface-ratio rasters
+DA,1985,OK-EXT,GAIA 起始年（数据介绍.pdf）," annual impervious-surface-ratio rasters (1985–2020) derived from GAIA (Gong et al., 202"
+DA,2020,OK-EXT,GAIA 序列终止年,"al impervious-surface-ratio rasters (1985–2020) derived from GAIA (Gong et al., 2020); d"
+DA,2020,OK-EXT,GAIA 序列终止年,"985–2020) derived from GAIA (Gong et al., 2020); district-level demographic indicators c"
+DA,5,OK-EXT,Chinas 5th census,"ographic indicators compiled from China's 5th, 6th and 7th national population census"
+DA,6,OK-EXT,6th census,"hic indicators compiled from China's 5th, 6th and 7th national population censuses; m"
+DA,7,OK-EXT,7th census,"cators compiled from China's 5th, 6th and 7th national population censuses; monthly g"
+DA,0.05,OK-DATA,D10/D11 栅格指纹 0.05°（_wp14_栅格指纹.csv）,"dded minimum and maximum air temperature (0.05°), interpolated by inverse-distance weigh"
+DA,1995,OK-EXT,海洋灾害公报起始年,Bulletins (Ministry of Natural Resources; 1995–2023). Three source groups are not redist
+DA,2023,OK-EXT,海洋灾害公报终止年,tins (Ministry of Natural Resources; 1995–2023). Three source groups are not redistribut
+CODE,42,OK-PARAM,00_config.py RANDOM_SEED = 42,"ersion], including the fixed random seed (42) configuration for full reproducibility."

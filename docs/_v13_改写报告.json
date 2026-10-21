@@ -1,0 +1,62 @@
+{
+  "generated": "2026-10-18T19:46:56",
+  "source": {
+    "name": "PAPER_MANUSCRIPT_v12.docx",
+    "bytes": 28193084,
+    "sha256": "F86428EDBF44C5465A880AFD"
+  },
+  "edits": [
+    {
+      "loc": "P48",
+      "old": "when elevated volatility and climate-tail-risk conditions coincided.",
+      "new": "when elevated volatility and climate-tail-risk conditions coincided. Forward projections under the three scenarios are summarised in Table 4.",
+      "why": "F1: Table 4 carries the HSI 2050 percentiles and was never called out",
+      "status": "planned"
+    },
+    {
+      "loc": "P49",
+      "old": "visible only when the two domains are projected together.",
+      "new": "visible only when the two domains are projected together. Scenario percentiles for the composite index are given in Table 5.",
+      "why": "F1: Table 5 carries the CCHI 2050 percentiles and was never called out",
+      "status": "planned"
+    },
+    {
+      "loc": "P121",
+      "old": "allowing this factor to be varied in sensitivity analysis.",
+      "new": "allowing this factor to be varied in sensitivity analysis. The reference curves are listed in Table 7.",
+      "why": "F1: Table 7 carries the HAZUS reference curves and was never called out",
+      "status": "planned"
+    },
+    {
+      "loc": "P85",
+      "old": "and the interpretation of outputs.",
+      "new": "and the interpretation of outputs. Every model parameter, with its unit and literature source, is listed in Table B1.",
+      "why": "F1: Table B1 had no body call-out at all",
+      "status": "planned"
+    },
+    {
+      "loc": "P78",
+      "old": "(McNamara and Keeler, 2013; Chandra-Putra and Andrews, 2020)",
+      "new": "(McNamara and Keeler, 2013; McNamara et al., 2015; Chandra-Putra and Andrews, 2020)",
+      "why": "F2: McNamara et al. (2015) was in the reference list but never cited",
+      "status": "planned"
+    }
+  ],
+  "structure": {
+    "m_oMath": 131,
+    "m_oMathPara": 41,
+    "w_drawing": 37,
+    "paragraphs": 409,
+    "tables": 11
+  },
+  "w_t_runs": [
+    1273,
+    1273
+  ],
+  "other_parts_changed": [],
+  "output": {
+    "name": "PAPER_MANUSCRIPT_v13.docx",
+    "bytes": 28193192,
+    "sha256": "380DE7EB7C6418319C2E20D82C8F09F55BB2E881BA2ABDBDC3808FFE84E9FB0A"
+  }
+}

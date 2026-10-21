@@ -1,0 +1,104 @@
+{
+ "10.25921/82ty-9e16": {
+  "source": "datacite",
+  "title": "International Best Track Archive for Climate Stewardship (IBTrACS) Project, Version 4",
+  "year": "2019",
+  "first_author": "Kenneth",
+  "volume": "",
+  "page": "",
+  "container": "NOAA National Centers for Environmental Information"
+ },
+ "10.25921/fd45-gt74": {
+  "source": "datacite",
+  "title": "ETOPO 2022 15 Arc-Second Global Relief Model",
+  "year": "2022",
+  "first_author": "NOAA National Centers for Environmental Information",
+  "volume": "",
+  "page": "",
+  "container": "NOAA National Centers for Environmental Information"
+ },
+ "10.48690/1524213": {
+  "source": "datacite",
+  "title": "LandScan Global 2018",
+  "year": "2019",
+  "first_author": "Rose",
+  "volume": "",
+  "page": "",
+  "container": "Oak Ridge National Laboratory"
+ },
+ "10.11888/Atmos.tpdc.302088": {
+  "error": "HTTP 404"
+ },
+ "10.1038/s41597-020-0369-y": {
+  "source": "crossref",
+  "title": "The first high-resolution meteorological forcing dataset for land process studies over China",
+  "year": "2020",
+  "first_author": "He",
+  "volume": "7",
+  "page": "",
+  "container": "Scientific Data"
+ },
+ "10.5281/zenodo.14634575": {
+  "source": "datacite",
+  "title": "CHM_PRE V2: An upgraded high-precision gridded precipitation dataset for the Chinese mainland considering spatial autocorrelation and covariates",
+  "year": "2025",
+  "first_author": "Hu",
+  "volume": "",
+  "page": "",
+  "container": "Zenodo"
+ },
+ "10.48670/moi-00148": {
+  "source": "datacite",
+  "title": "GLOBAL OCEAN GRIDDED L4 SEA SURFACE HEIGHTS AND DERIVED VARIABLES REPROCESSED (1993-ONGOING)",
+  "year": "2021",
+  "first_author": "European Union-Copernicus Marine Service",
+  "volume": "",
+  "page": "",
+  "container": "Mercator Ocean International"
+ },
+ "10.1016/j.rse.2019.111510": {
+  "source": "crossref",
+  "title": "Annual maps of global artificial impervious area (GAIA) between 1985 and 2018",
+  "year": "2020",
+  "first_author": "Gong",
+  "volume": "236",
+  "page": "111510",
+  "container": "Remote Sensing of Environment"
+ },
+ "10.1038/s41597-025-04730-5": {
+  "source": "crossref",
+  "title": "CMAB: A Multi-Attribute Building Dataset of China",
+  "year": "2025",
+  "first_author": "Zhang",
+  "volume": "12",
+  "page": "",
+  "container": "Scientific Data"
+ },
+ "10.6084/m9.figshare.27992417": {
+  "source": "datacite",
+  "title": "CMAB-The World's First National-Scale Multi-Attribute Building Dataset",
+  "year": "2025",
+  "first_author": "Zhang",
+  "volume": "",
+  "page": "",
+  "container": "figshare"
+ },
+ "10.1088/1748-9326/ac4d4f": {
+  "source": "crossref",
+  "title": "A 30 m global map of elevation with forests and buildings removed",
+  "year": "2022",
+  "first_author": "Hawker",
+  "volume": "17",
+  "page": "024016",
+  "container": "Environmental Research Letters"
+ },
+ "10.57760/sciencedb.11249": {
+  "source": "datacite",
+  "title": "GHSL-based Chinese urban entities (1975-2020)",
+  "year": "2024",
+  "first_author": "Jiazheng Han",
+  "volume": "",
+  "page": "",
+  "container": "Science Data Bank"
+ }
+}

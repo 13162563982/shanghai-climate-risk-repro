@@ -1,0 +1,27 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D24"
+dataset: "影响上海的台风名录"
+producer: "作者整理"
+product_version: "2000–2023 影响上海的台风列表（26 行）"
+coverage: "—"
+upstream_identifier: "（无）"
+acquisition_channel: "作者整理（台风编号 + 名称）"
+acquisition_evidence: "无"
+licence: "—"
+provenance_level: "无"
+redistributable: "否"
+archive_scope: "不含"
+da_action: "不写"
+da_clause: ""
+known_gap: "G8"
+note: "不参与运行"
+pipeline_usage: "不参与运行（preprocess_copy_typhoon.py 仅作归档参考）"
+
+package_status: "included"
+files_in_package: 1
+files_in_release: 0
+bytes_in_package: 10648
+package_paths:
+  - "data/影响上海的台风记录2000_2023.xlsx"

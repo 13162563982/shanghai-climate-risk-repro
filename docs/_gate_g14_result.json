@@ -1,0 +1,77 @@
+{
+  "generated": "2026-10-20T15:10:10",
+  "checks": [
+    {
+      "name": "G14-1 on-disk coverage = 100%",
+      "pass": true,
+      "detail": "15288 files / 100.0%, leftover 0"
+    },
+    {
+      "name": "G14-2 ledger shape + required columns",
+      "pass": true,
+      "detail": "ledger 29 / audit 25, covered=True, blanks none"
+    },
+    {
+      "name": "G14-3 runtime-read rows have a producer",
+      "pass": true,
+      "detail": "bad none"
+    },
+    {
+      "name": "G14-4 level/action domains + gap ids",
+      "pass": true,
+      "detail": "bad none"
+    },
+    {
+      "name": "G14-5 statement DOIs all verified",
+      "pass": true,
+      "detail": "9 DOIs, unverified none"
+    },
+    {
+      "name": "G14-6 every '写入' row is present in the text",
+      "pass": true,
+      "detail": "missing none"
+    },
+    {
+      "name": "G14-7 placeholders whitelisted",
+      "pass": true,
+      "detail": "['[GitHub repository, release version]', '[Zenodo DOI to be assigned]']"
+    },
+    {
+      "name": "G14-8 weak rows own their uncertainty",
+      "pass": true,
+      "detail": "weak ['D20'], missing none"
+    },
+    {
+      "name": "G14-9 v14 and earlier docx untouched",
+      "pass": true,
+      "detail": "bad none"
+    },
+    {
+      "name": "G14-10 statement docx structure",
+      "pass": true,
+      "detail": "16/6 paras (8 citations), 585,033=True, seed42=True"
+    },
+    {
+      "name": "G14-11 zenodo manifest excludes restricted sources",
+      "pass": true,
+      "detail": "bad none"
+    },
+    {
+      "name": "G14-12 v15 numeric ledger 100%",
+      "pass": true,
+      "detail": "1520 / 1520, blockers 0"
+    },
+    {
+      "name": "G14-13 G13 unchanged",
+      "pass": true,
+      "detail": "G13 29/29 PASS"
+    },
+    {
+      "name": "G14-14 unused datasets absent from statement",
+      "pass": true,
+      "detail": "leaks none"
+    }
+  ],
+  "ledger_rows": 29,
+  "verdict": "PASS"
+}

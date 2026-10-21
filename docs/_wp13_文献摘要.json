@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-18T19:41:24",
+  "docx": "PAPER_MANUSCRIPT_v12.docx",
+  "entries": 59,
+  "with_doi": 49,
+  "verdicts": {
+    "OK-BIB-STRUCT": 10,
+    "OK-BIB-DOI": 44,
+    "OK-BIB-DOI-MINOR": 5
+  },
+  "citations": 56,
+  "unmatched_citations": [],
+  "uncited_entries": [
+    "McNamara 2015"
+  ],
+  "findings": [],
+  "result": "BIB-OK"
+}

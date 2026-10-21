@@ -1,0 +1,537 @@
+{
+  "generated": "2026-10-18T17:19:05",
+  "newroot": "D:\\桌面real\\陈剑老师研究工作\\Shanghai_Climate_Risk_Analysis\\复现公报台风研究结果\\model_房地产风险_v8\\期刊投稿\\Nature-JF投稿\\Nature npj Natural Hazards",
+  "roles": {
+    "manuscript": {
+      "manuscript\\PAPER_MANUSCRIPT_FINAL.docx": {
+        "bytes": 28933946,
+        "mtime": "2026-10-12T11:01:36",
+        "sha256": "39240D38FCF71ADB72BEA285249AFE5757E0327F26253D48BE45FA899C772F14"
+      },
+      "manuscript\\PAPER_MANUSCRIPT_v10.docx": {
+        "bytes": 28193015,
+        "mtime": "2026-10-17T23:42:51",
+        "sha256": "40E306B03E2E54913CACF37CF62007226487BC3F879CE5ECADC186075BD1AD91"
+      },
+      "manuscript\\PAPER_MANUSCRIPT_v11.docx": {
+        "bytes": 28193070,
+        "mtime": "2026-10-18T16:53:58",
+        "sha256": "7417FDE618D6C5114628B28C76C7E676141415EFA7BF50016BB13C2D472523CC"
+      },
+      "manuscript\\PAPER_MANUSCRIPT_v10.pdf": {
+        "bytes": 3206965,
+        "mtime": "2026-10-17T23:43:24",
+        "sha256": "0C6039DBB9A55324F78AC508F38E9D3237F14CA01B9AA9088DDC15B9BD2654E9"
+      },
+      "manuscript\\PAPER_MANUSCRIPT_v11.pdf": {
+        "bytes": 3210289,
+        "mtime": "2026-10-18T16:54:11",
+        "sha256": "375345AA76D7F57492F57F450248CB4A55D47A5A6C7CA977D329EFC5AB87E8FE"
+      },
+      "manuscript\\Cover_Letter_npjNaturalHazards_v2.docx": {
+        "bytes": 24065,
+        "mtime": "2026-10-18T10:12:37",
+        "sha256": "C43ABF5FF2C174444371C2DEBDF3CD92CFBC50E2A06B0600DD3589C30E5CAA6A"
+      }
+    },
+    "output": {
+      "Climate\\output\\results\\defense_sensitivity\\defense_profile_eal.csv": {
+        "bytes": 15716,
+        "mtime": "2026-10-17T21:49:42",
+        "sha256": "2F379FAE3119A6F599C141A9D2E5897D02EBB56BE73525534152B67898D2AF19"
+      },
+      "Climate\\output\\results\\risk_panel_high_confidence.csv": {
+        "bytes": 209245,
+        "mtime": "2026-10-17T21:40:04",
+        "sha256": "1B13EEAF825C99B0978E20B73C61B42D16B2E57AFAA1AD2D599BAFF4F60A87A6"
+      },
+      "Climate\\output\\results\\risk_panel_all_scenarios_high_confidence.csv": {
+        "bytes": 741078,
+        "mtime": "2026-10-17T21:40:04",
+        "sha256": "D280C51DC6D4789E259AA0C794B1385BF46C862042ECCBFEE6D93C49F985151E"
+      },
+      "Climate\\output\\results\\shanghai_city_cri_projection.csv": {
+        "bytes": 101341,
+        "mtime": "2026-10-17T21:49:48",
+        "sha256": "CD2741CD9922F8989A31B98A0A8AF7C9E800970DA77843B20A36C53954032D27"
+      },
+      "Climate\\output\\results\\shanghai_city_monthly_climate_hazard.csv": {
+        "bytes": 81049,
+        "mtime": "2026-10-17T21:49:45",
+        "sha256": "AE0E3FEA2DC62765782DB590C02BD818A05CE334A3DEE30A59889FE3106648CD"
+      },
+      "Climate\\output\\results\\tc_date_alignment_audit.csv": {
+        "bytes": 4772,
+        "mtime": "2026-10-17T21:40:04",
+        "sha256": "1A53A9DC6287B7D1874517C6E6862261BD3B878D3149793F29632DE4D4CA158E"
+      },
+      "Climate\\output\\intermediate\\svi_by_district.csv": {
+        "bytes": 1705,
+        "mtime": "2026-10-17T23:46:06",
+        "sha256": "A4D9F8378C7B4770C11615705110928D175F057C4FD48933E4CB3926EF5EF533"
+      },
+      "Climate\\output\\intermediate\\delta_isr_by_district.csv": {
+        "bytes": 1426,
+        "mtime": "2026-10-17T23:46:06",
+        "sha256": "3DBF9F0BCAB9B556739B16D80AD7206F5272350642F3BA26729E645DD86735C2"
+      },
+      "Climate\\output\\intermediate\\isr_panel.csv": {
+        "bytes": 20487,
+        "mtime": "2026-10-17T23:46:06",
+        "sha256": "42A66365132911F01DA02572227BBFB52562481D24E8FFE92FD1A355BB898E57"
+      },
+      "Climate\\output\\intermediate\\alpha_temp_series.csv": {
+        "bytes": 3711,
+        "mtime": "2026-10-17T21:32:55",
+        "sha256": "BBB2AEDDA7AA5D97739DC0BC209E359E1720E2C0E151272E60CC3791D9748EAB"
+      },
+      "Climate\\output\\intermediate\\sla_monthly.csv": {
+        "bytes": 13716,
+        "mtime": "2026-10-17T23:44:17",
+        "sha256": "13FA85C1D0AFAF567F327F21C45340E99E7D83B007C9048C14CE0474DDEBC178"
+      },
+      "Climate\\output\\intermediate\\surge_heights_hist.csv": {
+        "bytes": 21993,
+        "mtime": "2026-10-17T23:44:16",
+        "sha256": "3F56170A11521116006BCEA3D566309CE23F37538546EA461F8951881652B672"
+      },
+      "Finance\\output\\results\\shanghai_finance_risk_index.csv": {
+        "bytes": 37543,
+        "mtime": "2026-10-17T21:53:36",
+        "sha256": "23EBB9AFEAF22BFC6DA063C0A8E3523C0CBF016D9790BF9E83B1047B099F5D7A"
+      },
+      "Finance\\output\\results\\shanghai_fri_projection.csv": {
+        "bytes": 97470,
+        "mtime": "2026-10-17T21:53:39",
+        "sha256": "49BB4D8AA4671569A218BD784B41A360D4606D85F7E942B2997F5F4EF9C1AA57"
+      },
+      "Finance\\output\\results\\shanghai_climate_cvar_monthly.csv": {
+        "bytes": 33585,
+        "mtime": "2026-10-17T21:53:34",
+        "sha256": "4E156E5D824E2C82EEDFDF30E7A534E8B56CF57DC912E321F6F3CF8784CF84B2"
+      },
+      "Composite\\output\\results\\shanghai_cfci_historical.csv": {
+        "bytes": 9752,
+        "mtime": "2026-10-17T21:53:40",
+        "sha256": "FF9A2E9670F59D713AB41CC80D5C73331BE25F0B53FC358FF0E2CB83612925A4"
+      },
+      "Composite\\output\\results\\shanghai_cfci_projection.csv": {
+        "bytes": 123476,
+        "mtime": "2026-10-17T21:53:40",
+        "sha256": "CADCECA675EB3621FC62C3BC24A028110538BA1D36FAE81AA76F5BC904F308BD"
+      },
+      "_sensitivity_results\\sensitivity_latest.csv": {
+        "bytes": 57180,
+        "mtime": "2026-10-17T21:27:32",
+        "sha256": "0F53753D38300D4403363AF778334D8E5515F6B6740DDDBC10FA037904AEAF27"
+      },
+      "config\\sensitivity_sweep.json": {
+        "bytes": 5884,
+        "mtime": "2026-03-31T12:17:12",
+        "sha256": "EEC53DF7E58C1D728E6D080B19921D9DB4F24E5DC7D5DD41B0CF3E37984AE074"
+      },
+      "Composite\\output\\figures\\cf_01_composite_index.png": {
+        "bytes": 747511,
+        "mtime": "2026-10-17T22:14:43",
+        "sha256": "404EB1C231BCF94DF3B5678C3B83D5111D19427E179D3E52D94000E000D074AB"
+      },
+      "Composite\\output\\figures\\cf_02_triple_comparison.png": {
+        "bytes": 359001,
+        "mtime": "2026-10-17T22:14:44",
+        "sha256": "49D471F23A386CE8F91204BF468563B5D24A8CC8769A69D0D4F53A8C72CB17F8"
+      },
+      "Composite\\output\\figures\\cf_03_decomposition.png": {
+        "bytes": 329885,
+        "mtime": "2026-10-17T22:14:44",
+        "sha256": "FB0C19499F59941CCB670CF057EDDEF34A91C351253C4946402D052000C30E33"
+      }
+    },
+    "config": {
+      "Climate\\00_config.py": {
+        "bytes": 22946,
+        "mtime": "2026-10-16T23:06:40",
+        "sha256": "FBF0FE7E055E2F3E7EC9F80EAEC06F2C5F395C9483D9F0F4F693101B11CA09EB"
+      },
+      "Finance\\00_config.py": {
+        "bytes": 5316,
+        "mtime": "2026-10-16T20:52:19",
+        "sha256": "19F2E5402D26D3355AAF73E122F6261CA84D27DA1B36D158E38DFC2BE1C18784"
+      },
+      "Composite\\00_config.py": {
+        "bytes": 5053,
+        "mtime": "2026-10-16T20:52:19",
+        "sha256": "97FEE70B7A0C0A72A6D7BA4B3675CD251AF1314B0908B3A1F3D515FAB293E5E6"
+      },
+      "Climate\\01_hazard_tc.py": {
+        "bytes": 10896,
+        "mtime": "2026-03-24T20:32:35",
+        "sha256": "1DFEC6270911B42E668C8313C68F684CA47B1C88C1A4C24EB64FE51DFF627E58"
+      },
+      "Climate\\03_exposure.py": {
+        "bytes": 21562,
+        "mtime": "2026-03-28T09:19:37",
+        "sha256": "0057198CDE8EB37CE2E462B66B813BED0D77EB22AC9349A87E310C58E9E27610"
+      },
+      "Climate\\04_vulnerability.py": {
+        "bytes": 13692,
+        "mtime": "2026-03-29T22:19:01",
+        "sha256": "3A19B448EB1BE9F0E913F82FE317D6576793619BC8147E37DD490C8E969C5165"
+      },
+      "Climate\\05_risk.py": {
+        "bytes": 15818,
+        "mtime": "2026-03-29T10:31:15",
+        "sha256": "CBC899D5112A5B34CC41B00DA18BACBED2736A1CB1C3EF0DFF290E4EE841BA9E"
+      },
+      "Climate\\06_defense_sensitivity.py": {
+        "bytes": 14842,
+        "mtime": "2026-03-29T10:31:15",
+        "sha256": "EABF90C9EC3EE57BF1A6EEB902679177E872AD055F22470C3AFDF478C0A7FE44"
+      },
+      "Climate\\07_climate_index.py": {
+        "bytes": 30592,
+        "mtime": "2026-03-29T10:31:15",
+        "sha256": "9083BB04491FEA30138F10483A83DAB1569188FB06E9926A2172D3BFDDA4527E"
+      },
+      "Climate\\generate_figures_new.py": {
+        "bytes": 67684,
+        "mtime": "2026-10-16T20:52:11",
+        "sha256": "E854F37FA85FBB8AF932C61CEFEB7E9533A0EBD977018E63DFBD10EFAF7851AF"
+      },
+      "Finance\\generate_figures.py": {
+        "bytes": 28348,
+        "mtime": "2026-10-16T22:00:26",
+        "sha256": "C932DD0A853503917C18494C0CF4C02B6AB72B5EDC4EE8DE0994E380699FAFE5"
+      },
+      "Composite\\generate_figures.py": {
+        "bytes": 19904,
+        "mtime": "2026-10-16T22:00:26",
+        "sha256": "37ECCC29C9FAC462CAD3480A720EFBA33436E8D6BB4EB31DD626AD555BF8766D"
+      },
+      "Composite\\01_composite_index.py": {
+        "bytes": 13729,
+        "mtime": "2026-03-25T16:28:10",
+        "sha256": "81B9CC71FCE08432EA5B7057780A334E4138EEC7237FA6AC57AB77010C72CB6E"
+      },
+      "Finance\\01_finance_risk_index.py": {
+        "bytes": 13298,
+        "mtime": "2026-03-31T12:17:12",
+        "sha256": "E172CE881F64B089750F111F4B49612C8AB9CC853082041E2A382F102EC052F3"
+      },
+      "Finance\\02_fri_projection.py": {
+        "bytes": 22030,
+        "mtime": "2026-03-31T12:17:12",
+        "sha256": "2F80B8DFD542E6F349FAE1494E8E0F42000878DF16FAF59776C6F4F06734292E"
+      },
+      "Finance\\01a_climate_cvar.py": {
+        "bytes": 14532,
+        "mtime": "2026-03-25T14:16:12",
+        "sha256": "35E09ED862CF5239614F453D5312669D2B37386C8056009ED9A1C1EEBD5CE918"
+      },
+      "tools\\gen_sensitivity_figures.py": {
+        "bytes": 13389,
+        "mtime": "2026-10-16T20:52:43",
+        "sha256": "D5250C9783FB19FE476EB634E99DB8A103874F4CB59D30F888AB742375813588"
+      },
+      "tools\\wp6_table8_recompute.py": {
+        "bytes": 17130,
+        "mtime": "2026-10-17T21:56:43",
+        "sha256": "2E30590E5A299B6FF3F4080ABBB914E8A2A6B33466D5A692D5E5B524280141BB"
+      }
+    },
+    "input": {
+      "data\\Hazard_data\\WP台风数据\\IBTrACS.WP.v04r01.nc": {
+        "bytes": 7722045,
+        "mtime": "2026-07-25T14:10:05",
+        "sha256": "2A9C84745BF8344CED56AD435163ECC1E7F446106CCE9F5B55E252B6AF23C780"
+      },
+      "data\\Hazard_data\\WP台风数据\\IBTrACS.WP.v04r01_old_202510.nc": {
+        "bytes": 8904634,
+        "mtime": "2026-02-13T12:16:52",
+        "sha256": "DA05013357E6ADFC11DAE72C5830BED602A6C2AAFC3F3C228653850BA8DEF91D"
+      },
+      "data\\我国乡镇（街道）行政区划数据\\_官方_天地图GS2024-0650\\上海_区级_GS2024-0650.shp": {
+        "bytes": 13492,
+        "mtime": "2026-10-16T18:57:46",
+        "sha256": "D2EB3FC013591050BE1D45B0F834A8FCD1E12C0EC804DA52F4BE4F8624772932"
+      },
+      "data\\我国乡镇（街道）行政区划数据\\_官方_天地图GS2024-0650\\上海_区级_GS2024-0650.dbf": {
+        "bytes": 4946,
+        "mtime": "2026-10-16T18:57:46",
+        "sha256": "72C7772508EBF63658880E5F1E81EFFD28E7537584EDB64C2708652241748CBC"
+      },
+      "data\\我国乡镇（街道）行政区划数据\\_官方_天地图GS2024-0650\\上海_区级_GS2024-0650.prj": {
+        "bytes": 145,
+        "mtime": "2026-10-16T18:57:46",
+        "sha256": "A02A27B1D1982C8516D83398E85A3C8B1AEF1713C13EF4D84D7BDE17430C07C4"
+      },
+      "Climate\\output\\intermediate\\building_elevation.npy": {
+        "bytes": 2340260,
+        "mtime": "2026-10-17T23:44:26",
+        "sha256": "9982BA40AD04A9E2514BB08915E41176F9045F82E9A29EB608B9A06C8CAEE54E"
+      },
+      "Climate\\output\\intermediate\\building_coast_distance_m.npy": {
+        "bytes": 2340260,
+        "mtime": "2026-10-17T23:44:30",
+        "sha256": "D1681967CA4D5D1C16813CA007B0E0D67DB3E1EF70C21FE75C07A9DC2650DA73"
+      },
+      "output_archive\\baseline_legacy_20261016_212711\\Climate\\output\\results\\defense_sensitivity\\defense_profile_eal.csv": {
+        "bytes": 15715,
+        "mtime": "2026-10-16T21:54:48",
+        "sha256": "477F54AE879F76F550BF36BF77DE77E97E56AAD47FEEBED79B18BE4F3264E2A1"
+      }
+    },
+    "runlog": {
+      "_v8_logs\\run_20261016_230820.jsonl": {
+        "bytes": 1795,
+        "mtime": "2026-10-16T23:31:08",
+        "sha256": "EA482DC8AC25CF58159A05F4DC458614B73F0DFE0B4D2C2A249D15F4C2AA3C96"
+      },
+      "_v8_logs\\run_20261017_212732.jsonl": {
+        "bytes": 1796,
+        "mtime": "2026-10-17T21:53:41",
+        "sha256": "C71F237B6312347D9844B896DDE7CF3C43523FB7B8E5927ABC506842F29A4B2B"
+      },
+      "output_archive\\boundary_official_A_20261016_230820\\MANIFEST.json": {
+        "bytes": 57624,
+        "mtime": "2026-10-16T23:32:15",
+        "sha256": "6137662CD6D66B4C41317390A2F4651BF87A0CA7B7705953DC678E8806FEF633"
+      },
+      "output_archive\\boundary_official_A_20261016_230820\\_ARCHIVE_META.json": {
+        "bytes": 465,
+        "mtime": "2026-10-16T23:32:15",
+        "sha256": "052F3A2F40386226C390E9E505D49DCE73515A864C3EBE4FCE20350AEEEC89F1"
+      }
+    },
+    "figure": {
+      "manuscript\\figures\\bf_01_tc_annual_event_count.png": {
+        "bytes": 68388,
+        "mtime": "2026-10-17T22:13:38",
+        "sha256": "AD99E23F64E4D179C80375EC7FC1C685F70959E037B30E75F340AF77FC6D3D3B"
+      },
+      "manuscript\\figures\\bf_02_tc_monthly_count_heatmap.png": {
+        "bytes": 82302,
+        "mtime": "2026-10-17T22:13:39",
+        "sha256": "383B74510C8F9904DFE233C643F586FF9B9E70BC354F62B2C4F285565D4879CE"
+      },
+      "manuscript\\figures\\bf_03_historical_tc_tracks.png": {
+        "bytes": 1438132,
+        "mtime": "2026-10-17T22:13:40",
+        "sha256": "465B34C067FB5371A4A996FA0B8C610CF81F3382A37F9ED783023F5FBB32EDAC"
+      },
+      "manuscript\\figures\\bf_04_combined_exposure_map.png": {
+        "bytes": 854353,
+        "mtime": "2026-10-17T22:13:42",
+        "sha256": "2E2B7C5C497FF8AC4C6A3B5EE0FA18E71BACA0D446FD4EA94EB530A64C8E1A26"
+      },
+      "manuscript\\figures\\bf_05_tc_vulnerability_hexbin.png": {
+        "bytes": 820190,
+        "mtime": "2026-10-17T22:13:43",
+        "sha256": "6FB1241E6AE6E685D2EEEE3B58A4FB39923F82F0C351AC5A4B4C59E03ED8DAE8"
+      },
+      "manuscript\\figures\\bf_06_ss_vulnerability_hexbin.png": {
+        "bytes": 837519,
+        "mtime": "2026-10-17T22:13:44",
+        "sha256": "0E2AECEC4C4674F508679CF47D3264E959DBD39FD63EAADDEC6FF353802B4340"
+      },
+      "manuscript\\figures\\bf_07_historical_built_up_area.png": {
+        "bytes": 1167451,
+        "mtime": "2026-10-17T22:13:54",
+        "sha256": "D4F26B1B94A80029A946615BD09F5FF67F61924DA5340F8EA6EB35268B944F19"
+      },
+      "manuscript\\figures\\bf_08_historical_housing_price.png": {
+        "bytes": 727694,
+        "mtime": "2026-10-17T22:13:55",
+        "sha256": "39F4C983BEDD6D81863F16305B537C7B4F0344A44548CAD472CF5DB7B296A517"
+      },
+      "manuscript\\figures\\bf_09_historical_population.png": {
+        "bytes": 217207,
+        "mtime": "2026-10-17T22:13:55",
+        "sha256": "77D79C701E0B0141131CFE00058CA66FD8B188E6EFF53C093C621B49F5F4D261"
+      },
+      "manuscript\\figures\\bf_10_building_type_distribution_map.png": {
+        "bytes": 2998161,
+        "mtime": "2026-10-17T22:14:01",
+        "sha256": "59FCE457082D409B3145938D2A037301BD40C9FE2D4415DED2A97354D29FF6CA"
+      },
+      "manuscript\\figures\\cf_01_composite_index.png": {
+        "bytes": 747511,
+        "mtime": "2026-10-17T22:14:43",
+        "sha256": "404EB1C231BCF94DF3B5678C3B83D5111D19427E179D3E52D94000E000D074AB"
+      },
+      "manuscript\\figures\\cf_02_triple_comparison.png": {
+        "bytes": 359001,
+        "mtime": "2026-10-17T22:14:44",
+        "sha256": "49D471F23A386CE8F91204BF468563B5D24A8CC8769A69D0D4F53A8C72CB17F8"
+      },
+      "manuscript\\figures\\cf_03_decomposition.png": {
+        "bytes": 329885,
+        "mtime": "2026-10-17T22:14:44",
+        "sha256": "FB0C19499F59941CCB670CF057EDDEF34A91C351253C4946402D052000C30E33"
+      },
+      "manuscript\\figures\\ci_01_climate_risk_index.png": {
+        "bytes": 961931,
+        "mtime": "2026-10-17T22:14:37",
+        "sha256": "27E76847C3AB9C9FC34C9390339B59F9019BA1176B657F4E364A60DA1B314831"
+      },
+      "manuscript\\figures\\df_01_defense_evidence.png": {
+        "bytes": 312994,
+        "mtime": "2026-10-17T22:14:38",
+        "sha256": "13CC719534EC5280E4AB03BC6BB44C3C15A48D8A333D209678739380D1FBA9B8"
+      },
+      "manuscript\\figures\\fi_01_finance_risk_index.png": {
+        "bytes": 826559,
+        "mtime": "2026-10-17T22:14:40",
+        "sha256": "D1E4D4DAB9BEF28B656CD948D98EE00EF7249A6BE47C93E4C1D69B77F7F16A54"
+      },
+      "manuscript\\figures\\fi_02_sub_indicator_decomposition.png": {
+        "bytes": 776667,
+        "mtime": "2026-10-17T22:14:41",
+        "sha256": "67E992A546904373E43B6A7BE70F5874460DA80A7ABB53B279D1A72A251940DE"
+      },
+      "manuscript\\figures\\fi_03_price_hp_trend.png": {
+        "bytes": 304545,
+        "mtime": "2026-10-17T22:14:41",
+        "sha256": "54644A70A3B59F7BB54F4890F4E52AE5C74F5A682A28B8D6155F0C148D9FC084"
+      },
+      "manuscript\\figures\\fi_04_fri_vs_cri_overlay.png": {
+        "bytes": 315678,
+        "mtime": "2026-10-17T22:14:42",
+        "sha256": "3F000393C254749270E179D13FE222CB5390D8331749AE59BA20E563A1D1CB75"
+      },
+      "manuscript\\figures\\h_0101_tc_tracks_historical.png": {
+        "bytes": 1392444,
+        "mtime": "2026-10-17T22:14:02",
+        "sha256": "85B618625167537F0C23E53C0985968F15B414AE8F74C2C03C9F3159522BAEB0"
+      },
+      "manuscript\\figures\\h_0102_tc_damage_hexbin.png": {
+        "bytes": 808381,
+        "mtime": "2026-10-17T22:14:05",
+        "sha256": "137DBDDF2458F063924C795B27EBA32AD57A8A6C29E069ECC337BBA84618704F"
+      },
+      "manuscript\\figures\\h_0103_tc_damage_by_district.png": {
+        "bytes": 141457,
+        "mtime": "2026-10-17T22:14:06",
+        "sha256": "C61B9C8E08E53803ACA294413C6DE4EEF71649CA5CB179D64EEAAC7E81762293"
+      },
+      "manuscript\\figures\\h_0201_ss_depth_hexbin.png": {
+        "bytes": 791664,
+        "mtime": "2026-10-17T22:14:07",
+        "sha256": "EB5E384B7B2949F2FA421E846A8DA5AFF34C0EBA108F434879C18002832C1EE0"
+      },
+      "manuscript\\figures\\h_0202_ss_occurrence_hexbin.png": {
+        "bytes": 755184,
+        "mtime": "2026-10-17T22:14:08",
+        "sha256": "497CAF3AB68626C9683EDCD045D9B3F9F62A2BBB2E79DFDACCD9AD5052205ACF"
+      },
+      "manuscript\\figures\\h_0203_ss_damage_hexbin.png": {
+        "bytes": 811728,
+        "mtime": "2026-10-17T22:14:10",
+        "sha256": "8B6AB04210EA867743B4409AFC0DB3B53A5251B277954BB5FE2CB833C447F741"
+      },
+      "manuscript\\figures\\h_0204_ss_damage_by_district.png": {
+        "bytes": 142866,
+        "mtime": "2026-10-17T22:14:11",
+        "sha256": "8BF717B450931BA83EBE6130D845DBAD78E29A855F13597C655A10CEA344D878"
+      },
+      "manuscript\\figures\\h_0301_compound_damage_by_district.png": {
+        "bytes": 183124,
+        "mtime": "2026-10-17T22:14:11",
+        "sha256": "3EE46F554E472B77E8293CFAD8E442599C71BD0F4C9CDD89461C4C0DD1727FDF"
+      },
+      "manuscript\\figures\\if_01_tc_impact_functions.png": {
+        "bytes": 402719,
+        "mtime": "2026-10-17T22:14:01",
+        "sha256": "3DE9690871160B8EAAAF90177A1973CAFD98FBABD842D4FCC4633C7D3090B9BF"
+      },
+      "manuscript\\figures\\if_02_ss_impact_functions.png": {
+        "bytes": 303068,
+        "mtime": "2026-10-17T22:14:01",
+        "sha256": "2DB7D3BD52A6C3521119E6F4BF9CE0ACDBB94538379AEA7BB4B70DF6F9EAF7D9"
+      },
+      "manuscript\\figures\\s_0101_tc_tracks_synthetic.png": {
+        "bytes": 3179366,
+        "mtime": "2026-10-17T22:14:17",
+        "sha256": "6C6F5B1019C03CAE09C37E7413126B4A527D1C77D9EA1338F65001020DF8A8B3"
+      },
+      "manuscript\\figures\\s_0102_tc_damage_hexbin.png": {
+        "bytes": 2277872,
+        "mtime": "2026-10-17T22:14:21",
+        "sha256": "3A985B92348ADDA748B6459C6AA4D65D36BAA1AA7C43107B091B7104ACDBF0BD"
+      },
+      "manuscript\\figures\\s_0103_tc_damage_by_district.png": {
+        "bytes": 162258,
+        "mtime": "2026-10-17T22:14:22",
+        "sha256": "1AC05A93C82813F93548EE2FCDAB0E1CDDBE841E55FC54820DDF5C5E64FE782A"
+      },
+      "manuscript\\figures\\s_0201_ss_depth_hexbin.png": {
+        "bytes": 2331079,
+        "mtime": "2026-10-17T22:14:26",
+        "sha256": "02EC5CC9258C3D6B90141E33743BD3B8D42A545B7A0282ED3317421E735E88BC"
+      },
+      "manuscript\\figures\\s_0202_ss_occurrence_hexbin.png": {
+        "bytes": 2082731,
+        "mtime": "2026-10-17T22:14:30",
+        "sha256": "7B0B282390210F1DF0D56EFD293B0FD45B452D97203EFE2740CDAE2683292279"
+      },
+      "manuscript\\figures\\s_0203_ss_damage_hexbin.png": {
+        "bytes": 2301474,
+        "mtime": "2026-10-17T22:14:34",
+        "sha256": "1A72CEF7D7423E5DD43BDA0840962A270EA86532F3E3605171A698C7BB448BEA"
+      },
+      "manuscript\\figures\\s_0204_ss_damage_by_district.png": {
+        "bytes": 162251,
+        "mtime": "2026-10-17T22:14:36",
+        "sha256": "A603C2FB2FF5A898A4AC0606548F9061058BBC2EB924C8852F50B52C60E234FB"
+      },
+      "manuscript\\figures\\s_0301_compound_damage_by_district.png": {
+        "bytes": 230571,
+        "mtime": "2026-10-17T22:14:36",
+        "sha256": "18C2A1E90F6740EA97868A19C669B2042749CA6D284B4D7512F706595FCE48C7"
+      },
+      "manuscript\\figures\\sa_01_tc_vhalf_sensitivity.png": {
+        "bytes": 422161,
+        "mtime": "2026-10-17T22:14:46",
+        "sha256": "76BB7AFE8E5EA50D28EDBC1ED49EDACEADCA322F1DF8BADFB63D742E41251BD8"
+      },
+      "manuscript\\figures\\sa_02_tc_vthresh_sensitivity.png": {
+        "bytes": 302035,
+        "mtime": "2026-10-17T22:14:46",
+        "sha256": "8B0C9028DDA007CF66A65467D62103E10C349DF02265B57315EF0078DBC4F81C"
+      },
+      "manuscript\\figures\\sa_03_ss_mdr_sensitivity.png": {
+        "bytes": 633089,
+        "mtime": "2026-10-17T22:14:47",
+        "sha256": "A7CFD02928B828474C3ADCE393C48B0390BFE7684FA489471280345D09AE1814"
+      },
+      "manuscript\\figures\\sa_04_vulnerability_overview.png": {
+        "bytes": 607617,
+        "mtime": "2026-10-17T22:14:47",
+        "sha256": "89BDB172A7F20EF1499EDCC8DFCC8A31275CAD99F651B180110A5169ED15A221"
+      }
+    }
+  },
+  "expected_manuscript": {
+    "manuscript\\PAPER_MANUSCRIPT_FINAL.docx": {
+      "want_bytes": 28933946,
+      "want_sha256": "39240D38FCF71ADB72BEA285249AFE5757E0327F26253D48BE45FA899C772F14",
+      "got_bytes": 28933946,
+      "got_sha256": "39240D38FCF71ADB72BEA285249AFE5757E0327F26253D48BE45FA899C772F14",
+      "ok": true
+    },
+    "manuscript\\PAPER_MANUSCRIPT_v10.docx": {
+      "want_bytes": 28193015,
+      "want_sha256": "40E306B03E2E54913CACF37CF62007226487BC3F879CE5ECADC186075BD1AD91",
+      "got_bytes": 28193015,
+      "got_sha256": "40E306B03E2E54913CACF37CF62007226487BC3F879CE5ECADC186075BD1AD91",
+      "ok": true
+    },
+    "manuscript\\PAPER_MANUSCRIPT_v11.docx": {
+      "want_bytes": 28193070,
+      "want_sha256": "7417FDE618D6C5114628B28C76C7E676141415EFA7BF50016BB13C2D472523CC",
+      "got_bytes": 28193070,
+      "got_sha256": "7417FDE618D6C5114628B28C76C7E676141415EFA7BF50016BB13C2D472523CC",
+      "ok": true
+    }
+  },
+  "archive": "D:\\桌面real\\陈剑老师研究工作\\Shanghai_Climate_Risk_Analysis\\复现公报台风研究结果\\model_房地产风险_v8\\期刊投稿\\Nature-JF投稿\\Nature npj Natural Hazards\\output_archive\\_wp11_align_baseline"
+}

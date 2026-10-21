@@ -1,0 +1,167 @@
+{
+  "_doc": "One-way sensitivity sweep configuration for v8 pipeline.",
+  "_note": "Each entry defines a parameter, its module config, baseline value, test range, and which pipeline steps to re-run.",
+
+  "sweeps": [
+    {
+      "id": "CRI_EWMA_ALPHA",
+      "module": "Climate",
+      "config_attr": "CRI_EWMA_ALPHA",
+      "baseline": 0.85,
+      "values": [0.70, 0.80, 0.85, 0.90, 0.95],
+      "steps": ["C07", "X01"],
+      "description": "EWMA decay for damage signal memory"
+    },
+    {
+      "id": "CRI_DAMAGE_KAPPA",
+      "module": "Climate",
+      "config_attr": "CRI_DAMAGE_KAPPA",
+      "baseline": 0.5,
+      "values": [0.0, 0.25, 0.50, 0.75, 1.0],
+      "steps": ["C07", "X01"],
+      "description": "Damage channel amplification factor"
+    },
+    {
+      "id": "SURGE_MDR_CALIBRATION_SCALE",
+      "module": "Climate",
+      "config_attr": "SURGE_MDR_CALIBRATION_SCALE",
+      "baseline": 0.176,
+      "values": [0.10, 0.14, 0.176, 0.22, 0.30],
+      "steps": ["C04", "C05", "C06", "C07", "F03", "X01"],
+      "description": "Global scale on raw HAZUS surge depth-damage (runtime calibration)"
+    },
+    {
+      "id": "TC_V_HALF_BASE_SCALE",
+      "module": "Climate",
+      "config_attr": "TC_V_HALF_BASE_SCALE",
+      "baseline": 1.0,
+      "values": [0.95, 0.975, 1.0, 1.025, 1.05],
+      "steps": ["C04", "C05", "C06", "C07", "F01", "F02", "F03", "X01"],
+      "description": "Global multiplier on WP3 base v_half for all TC categories (±5% calibration uncertainty)"
+    },
+    {
+      "id": "TC_IMPACT_V_THRESH",
+      "module": "Climate",
+      "config_attr": "TC_IMPACT_V_THRESH",
+      "baseline": 25.7,
+      "values": [23.0, 24.5, 25.7, 27.0, 28.5],
+      "steps": ["C04", "C05", "C06", "C07", "F01", "F02", "F03", "X01"],
+      "description": "TC wind damage onset threshold (m/s)"
+    },
+    {
+      "id": "V_HALF_ADJ_A_old",
+      "module": "Climate",
+      "config_attr": "V_HALF_ADJUSTMENT.A_old",
+      "baseline": 0.80,
+      "values": [0.68, 0.74, 0.80, 0.86, 0.92],
+      "steps": ["C04", "C05", "C06", "C07", "F01", "F02", "F03", "X01"],
+      "description": "v_half adjustment for pre-2002 low-rise (A_old)"
+    },
+    {
+      "id": "V_HALF_ADJ_A_new",
+      "module": "Climate",
+      "config_attr": "V_HALF_ADJUSTMENT.A_new",
+      "baseline": 0.90,
+      "values": [0.77, 0.83, 0.90, 0.97, 1.03],
+      "steps": ["C04", "C05", "C06", "C07", "F01", "F02", "F03", "X01"],
+      "description": "v_half adjustment for post-2002 low-rise (A_new)"
+    },
+    {
+      "id": "V_HALF_ADJ_B_old",
+      "module": "Climate",
+      "config_attr": "V_HALF_ADJUSTMENT.B_old",
+      "baseline": 0.95,
+      "values": [0.81, 0.88, 0.95, 1.02, 1.09],
+      "steps": ["C04", "C05", "C06", "C07", "F01", "F02", "F03", "X01"],
+      "description": "v_half adjustment for pre-2002 mid-rise (B_old)"
+    },
+    {
+      "id": "V_HALF_ADJ_B_new",
+      "module": "Climate",
+      "config_attr": "V_HALF_ADJUSTMENT.B_new",
+      "baseline": 1.00,
+      "values": [0.85, 0.925, 1.00, 1.075, 1.15],
+      "steps": ["C04", "C05", "C06", "C07", "F01", "F02", "F03", "X01"],
+      "description": "v_half adjustment for post-2002 mid-rise (B_new, reference)"
+    },
+    {
+      "id": "V_HALF_ADJ_C",
+      "module": "Climate",
+      "config_attr": "V_HALF_ADJUSTMENT.C",
+      "baseline": 1.05,
+      "values": [0.89, 0.97, 1.05, 1.13, 1.21],
+      "steps": ["C04", "C05", "C06", "C07", "F01", "F02", "F03", "X01"],
+      "description": "v_half adjustment for high-rise (C)"
+    },
+    {
+      "id": "V_HALF_ADJ_D",
+      "module": "Climate",
+      "config_attr": "V_HALF_ADJUSTMENT.D",
+      "baseline": 1.10,
+      "values": [0.94, 1.02, 1.10, 1.18, 1.27],
+      "steps": ["C04", "C05", "C06", "C07", "F01", "F02", "F03", "X01"],
+      "description": "v_half adjustment for commercial (D)"
+    },
+    {
+      "id": "GAMMA_SVI",
+      "module": "Climate",
+      "config_attr": "GAMMA_SVI",
+      "baseline": 0.15,
+      "values": [0.0, 0.10, 0.15, 0.20, 0.30],
+      "steps": ["C05", "C06", "C07", "X01"],
+      "description": "Social vulnerability index amplification"
+    },
+    {
+      "id": "HP_LAMBDA",
+      "module": "Finance",
+      "config_attr": "HP_LAMBDA",
+      "baseline": 129600,
+      "values": [97200, 113400, 129600, 145800, 162000],
+      "steps": ["F02", "F03", "X01"],
+      "description": "HP filter smoothing parameter (±25% around Ravn-Uhlig monthly convention)"
+    },
+    {
+      "id": "VOLATILITY_WINDOW",
+      "module": "Finance",
+      "config_attr": "VOLATILITY_WINDOW",
+      "baseline": 12,
+      "values": [6, 9, 12, 18, 24],
+      "steps": ["F02", "F03", "X01"],
+      "description": "Rolling realized volatility window (months)"
+    },
+    {
+      "id": "CFCI_TARGET_RHO",
+      "module": "Composite",
+      "config_attr": "CFCI_TARGET_RHO",
+      "baseline": 0.358,
+      "values": [0.0, 0.2, 0.358, 0.6, 0.8],
+      "steps": ["X01"],
+      "description": "Iman-Conover target Spearman rho"
+    },
+    {
+      "id": "CFI_WEIGHT_SLA",
+      "module": "Climate",
+      "config_attr": "CFI_WEIGHT_SLA",
+      "baseline": 0.25,
+      "values": [0.10, 0.20, 0.25, 0.35, 0.50],
+      "steps": ["C07", "X01"],
+      "description": "Sea-level anomaly weight in climate hazard index"
+    },
+    {
+      "id": "FRI_WEIGHT_GAP",
+      "module": "Finance",
+      "config_attr": "FRI_WEIGHTS",
+      "config_type": "tuple_index_0",
+      "baseline": 0.333,
+      "values_tuples": [
+        [0.40, 0.30, 0.30],
+        [0.35, 0.35, 0.30],
+        [0.333, 0.333, 0.333],
+        [0.30, 0.30, 0.40],
+        [0.30, 0.35, 0.35]
+      ],
+      "steps": ["F02", "F03", "X01"],
+      "description": "FRI sub-indicator weights (gap, vol, CVaR) — ±0.07 around equal-weight"
+    }
+  ]
+}

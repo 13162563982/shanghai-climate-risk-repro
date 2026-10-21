@@ -1,0 +1,35 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D16"
+dataset: "小区级小区资料（POI + 信息表，35 字段）"
+producer: "安居客（Anjuke）"
+product_version: "小区 POI `上海小区POI.shp` + `上海小区信息表.csv`"
+coverage: "23,014 个小区 / 23,020 行，上海"
+upstream_identifier: "（无 DOI；`xiaoquurl` 指向 shanghai.anjuke.com）"
+acquisition_channel: "网页抓取（作者）；目录名与代码常量仍写作「链家 / Lianjia」（早期命名遗留）"
+acquisition_evidence: "**盘上直接证据**：`上海小区信息表.csv` 的 `xiaoquurl` 字段 **22,064 条全部指向** `https://shanghai.anjuke.com/community/view/<id>`；`.dbf` 另有 JGSJ/price/WYLX 等 35 字段"
+licence: "平台条款（盘上无文本）"
+provenance_level: "强"
+redistributable: "否"
+archive_scope: "不含"
+da_action: "限定句"
+da_clause: "community-level listings and completion years from Anjuke"
+known_gap: "G3b"
+note: "✅ **已证清**：URL 证据支持稿件 P194 的 Anjuke 表述；此前仅凭字段名（JGSJ）推断「链家系」**是错的**，该推断已作废"
+pipeline_usage: ""
+
+package_status: "included"
+files_in_package: 9
+files_in_release: 0
+bytes_in_package: 61828190
+package_paths:
+  - "data/Exposure_data/房屋/上海小区数据（链家）/上海小区POI.cpg"
+  - "data/Exposure_data/房屋/上海小区数据（链家）/上海小区POI.dbf"
+  - "data/Exposure_data/房屋/上海小区数据（链家）/上海小区POI.prj"
+  - "data/Exposure_data/房屋/上海小区数据（链家）/上海小区POI.sbn"
+  - "data/Exposure_data/房屋/上海小区数据（链家）/上海小区POI.sbx"
+  - "data/Exposure_data/房屋/上海小区数据（链家）/上海小区POI.shp"
+  - "data/Exposure_data/房屋/上海小区数据（链家）/上海小区POI.shx"
+  - "data/Exposure_data/房屋/上海小区数据（链家）/上海小区信息表.csv"
+  - "data/Exposure_data/房屋/上海小区数据（链家）/上海逐月小区二手房挂牌房价.xlsx"

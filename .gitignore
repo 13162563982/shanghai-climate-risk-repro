@@ -1,0 +1,20 @@
+# --- never commit garden-variety noise -------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- historical snapshot copies of the same outputs ------------------------
+# (kept in the private working tree, not published)
+output_archive/
+
+# --- manuscript production files (not needed to reproduce the model) -------
+manuscript/
+
+# --- local secrets ---------------------------------------------------------
+.secrets/
+*.token

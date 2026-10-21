@@ -1,0 +1,109 @@
+kind,id,verdict,severity,expected,got,detail
+figure,numbering,OK,,1..38 minus 15,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]","37 embedded drawings, Figure 15 is the inline table"
+figure,captions,OK,,1..38,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]",38 captions found (37 short labels + the Figure 15 caption)
+figure,index,OK,,1..38,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]",Appendix C index rows 1..38
+figure,Fig 1 embedded,OK,,3EE46F554E472B77,3EE46F554E472B77,media word/media/image1.png vs manuscript/figures/h_0301_compound_damage_by_district.png
+figure,Fig 1 provenance,OK,,live output render,Climate/output/figures_new/historical/03_compound/h_0301_compound_damage_by_district.png,byte-identical to the live pipeline render
+figure,Fig 2 embedded,OK,,18C2A1E90F6740EA,18C2A1E90F6740EA,media word/media/image2.png vs manuscript/figures/s_0301_compound_damage_by_district.png
+figure,Fig 2 provenance,OK,,live output render,Climate/output/figures_new/synthetic/03_compound/s_0301_compound_damage_by_district.png,byte-identical to the live pipeline render
+figure,Fig 3 embedded,OK,,137DBDDF2458F063,137DBDDF2458F063,media word/media/image3.png vs manuscript/figures/h_0102_tc_damage_hexbin.png
+figure,Fig 3 provenance,OK,,live output render,Climate/output/figures_new/historical/01_TC/h_0102_tc_damage_hexbin.png,byte-identical to the live pipeline render
+figure,Fig 4 embedded,OK,,C61B9C8E08E53803,C61B9C8E08E53803,media word/media/image4.png vs manuscript/figures/h_0103_tc_damage_by_district.png
+figure,Fig 4 provenance,OK,,live output render,Climate/output/figures_new/historical/01_TC/h_0103_tc_damage_by_district.png,byte-identical to the live pipeline render
+figure,Fig 5 embedded,OK,,497CAF3AB68626C9,497CAF3AB68626C9,media word/media/image5.png vs manuscript/figures/h_0202_ss_occurrence_hexbin.png
+figure,Fig 5 provenance,OK,,live output render,Climate/output/figures_new/historical/02_SS/h_0202_ss_occurrence_hexbin.png,byte-identical to the live pipeline render
+figure,Fig 6 embedded,OK,,8BF717B450931BA8,8BF717B450931BA8,media word/media/image6.png vs manuscript/figures/h_0204_ss_damage_by_district.png
+figure,Fig 6 provenance,OK,,live output render,Climate/output/figures_new/historical/02_SS/h_0204_ss_damage_by_district.png,byte-identical to the live pipeline render
+figure,Fig 7 embedded,OK,,27E76847C3AB9C9F,27E76847C3AB9C9F,media word/media/image7.png vs manuscript/figures/ci_01_climate_risk_index.png
+figure,Fig 7 provenance,OK,,live output render,Climate/output/figures_new/climate_index/ci_01_climate_risk_index.png,byte-identical to the live pipeline render
+figure,Fig 8 embedded,OK,,D1E4D4DAB9BEF28B,D1E4D4DAB9BEF28B,media word/media/image8.png vs manuscript/figures/fi_01_finance_risk_index.png
+figure,Fig 8 provenance,OK,,live output render,Finance/output/figures/fi_01_finance_risk_index.png,byte-identical to the live pipeline render
+figure,Fig 9 embedded,OK,,67E992A546904373,67E992A546904373,media word/media/image9.png vs manuscript/figures/fi_02_sub_indicator_decomposition.png
+figure,Fig 9 provenance,OK,,live output render,Finance/output/figures/fi_02_sub_indicator_decomposition.png,byte-identical to the live pipeline render
+figure,Fig 10 embedded,OK,,54644A70A3B59F7B,54644A70A3B59F7B,media word/media/image10.png vs manuscript/figures/fi_03_price_hp_trend.png
+figure,Fig 10 provenance,OK,,live output render,Finance/output/figures/fi_03_price_hp_trend.png,byte-identical to the live pipeline render
+figure,Fig 11 embedded,OK,,3F000393C2547492,3F000393C2547492,media word/media/image11.png vs manuscript/figures/fi_04_fri_vs_cri_overlay.png
+figure,Fig 11 provenance,OK,,live output render,Finance/output/figures/fi_04_fri_vs_cri_overlay.png,byte-identical to the live pipeline render
+figure,Fig 12 embedded,OK,,404EB1C231BCF94D,404EB1C231BCF94D,media word/media/image12.png vs manuscript/figures/cf_01_composite_index.png
+figure,Fig 12 provenance,OK,,live output render,Composite/output/figures/cf_01_composite_index.png,byte-identical to the live pipeline render
+figure,Fig 13 embedded,OK,,49D471F23A386CE8,49D471F23A386CE8,media word/media/image13.png vs manuscript/figures/cf_02_triple_comparison.png
+figure,Fig 13 provenance,OK,,live output render,Composite/output/figures/cf_02_triple_comparison.png,byte-identical to the live pipeline render
+figure,Fig 14 embedded,OK,,FB0C19499F59941C,FB0C19499F59941C,media word/media/image14.png vs manuscript/figures/cf_03_decomposition.png
+figure,Fig 14 provenance,OK,,live output render,Composite/output/figures/cf_03_decomposition.png,byte-identical to the live pipeline render
+figure,Fig 16 embedded,OK,,85B618625167537F,85B618625167537F,media word/media/image15.png vs manuscript/figures/h_0101_tc_tracks_historical.png
+figure,Fig 16 provenance,OK,,live output render,Climate/output/figures_new/historical/01_TC/h_0101_tc_tracks_historical.png,byte-identical to the live pipeline render
+figure,Fig 17 embedded,OK,,EB5E384B7B2949F2,EB5E384B7B2949F2,media word/media/image16.png vs manuscript/figures/h_0201_ss_depth_hexbin.png
+figure,Fig 17 provenance,OK,,live output render,Climate/output/figures_new/historical/02_SS/h_0201_ss_depth_hexbin.png,byte-identical to the live pipeline render
+figure,Fig 18 embedded,OK,,8B6AB04210EA8677,8B6AB04210EA8677,media word/media/image17.png vs manuscript/figures/h_0203_ss_damage_hexbin.png
+figure,Fig 18 provenance,OK,,live output render,Climate/output/figures_new/historical/02_SS/h_0203_ss_damage_hexbin.png,byte-identical to the live pipeline render
+figure,Fig 19 embedded,OK,,3DE9690871160B8E,3DE9690871160B8E,media word/media/image18.png vs manuscript/figures/if_01_tc_impact_functions.png
+figure,Fig 19 provenance,OK,,live output render,Climate/output/figures_new/02_impact_func/if_01_tc_impact_functions.png,byte-identical to the live pipeline render
+figure,Fig 20 embedded,OK,,2DB7D3BD52A6C352,2DB7D3BD52A6C352,media word/media/image19.png vs manuscript/figures/if_02_ss_impact_functions.png
+figure,Fig 20 provenance,OK,,live output render,Climate/output/figures_new/02_impact_func/if_02_ss_impact_functions.png,byte-identical to the live pipeline render
+figure,Fig 21 embedded,OK,,2E2B7C5C497FF8AC,2E2B7C5C497FF8AC,media word/media/image20.png vs manuscript/figures/bf_04_combined_exposure_map.png
+figure,Fig 21 provenance,OK,,live output render,Climate/output/figures_new/01_basic_facts/bf_04_combined_exposure_map.png,byte-identical to the live pipeline render
+figure,Fig 22 embedded,OK,,AD99E23F64E4D179,AD99E23F64E4D179,media word/media/image21.png vs manuscript/figures/bf_01_tc_annual_event_count.png
+figure,Fig 22 provenance,OK,,live output render,Climate/output/figures_new/01_basic_facts/bf_01_tc_annual_event_count.png,byte-identical to the live pipeline render
+figure,Fig 23 embedded,OK,,383B74510C8F9904,383B74510C8F9904,media word/media/image22.png vs manuscript/figures/bf_02_tc_monthly_count_heatmap.png
+figure,Fig 23 provenance,OK,,live output render,Climate/output/figures_new/01_basic_facts/bf_02_tc_monthly_count_heatmap.png,byte-identical to the live pipeline render
+figure,Fig 24 embedded,OK,,13CC719534EC5280,13CC719534EC5280,media word/media/image23.png vs manuscript/figures/df_01_defense_evidence.png
+figure,Fig 24 provenance,OK,,live output render,Climate/output/figures_new/04_defense/df_01_defense_evidence.png,byte-identical to the live pipeline render
+figure,Fig 25 embedded,OK,,6C6F5B1019C03CAE,6C6F5B1019C03CAE,media word/media/image24.png vs manuscript/figures/s_0101_tc_tracks_synthetic.png
+figure,Fig 25 provenance,OK,,live output render,Climate/output/figures_new/synthetic/01_TC/s_0101_tc_tracks_synthetic.png,byte-identical to the live pipeline render
+figure,Fig 26 embedded,OK,,3A985B92348ADDA7,3A985B92348ADDA7,media word/media/image25.png vs manuscript/figures/s_0102_tc_damage_hexbin.png
+figure,Fig 26 provenance,OK,,live output render,Climate/output/figures_new/synthetic/01_TC/s_0102_tc_damage_hexbin.png,byte-identical to the live pipeline render
+figure,Fig 27 embedded,OK,,02EC5CC9258C3D6B,02EC5CC9258C3D6B,media word/media/image26.png vs manuscript/figures/s_0201_ss_depth_hexbin.png
+figure,Fig 27 provenance,OK,,live output render,Climate/output/figures_new/synthetic/02_SS/s_0201_ss_depth_hexbin.png,byte-identical to the live pipeline render
+figure,Fig 28 embedded,OK,,465B34C067FB5371,465B34C067FB5371,media word/media/image27.png vs manuscript/figures/bf_03_historical_tc_tracks.png
+figure,Fig 28 provenance,OK,,live output render,Climate/output/figures_new/01_basic_facts/bf_03_historical_tc_tracks.png,byte-identical to the live pipeline render
+figure,Fig 29 embedded,OK,,6FB1241E6AE6E685,6FB1241E6AE6E685,media word/media/image28.png vs manuscript/figures/bf_05_tc_vulnerability_hexbin.png
+figure,Fig 29 provenance,OK,,live output render,Climate/output/figures_new/01_basic_facts/bf_05_tc_vulnerability_hexbin.png,byte-identical to the live pipeline render
+figure,Fig 30 embedded,OK,,0E2AECEC4C4674F5,0E2AECEC4C4674F5,media word/media/image29.png vs manuscript/figures/bf_06_ss_vulnerability_hexbin.png
+figure,Fig 30 provenance,OK,,live output render,Climate/output/figures_new/01_basic_facts/bf_06_ss_vulnerability_hexbin.png,byte-identical to the live pipeline render
+figure,Fig 31 embedded,OK,,D4F26B1B94A80029,D4F26B1B94A80029,media word/media/image30.png vs manuscript/figures/bf_07_historical_built_up_area.png
+figure,Fig 31 provenance,OK,,live output render,Climate/output/figures_new/01_basic_facts/bf_07_historical_built_up_area.png,byte-identical to the live pipeline render
+figure,Fig 32 embedded,OK,,39F4C983BEDD6D81,39F4C983BEDD6D81,media word/media/image31.png vs manuscript/figures/bf_08_historical_housing_price.png
+figure,Fig 32 provenance,OK,,live output render,Climate/output/figures_new/01_basic_facts/bf_08_historical_housing_price.png,byte-identical to the live pipeline render
+figure,Fig 33 embedded,OK,,77D79C701E0B0141,77D79C701E0B0141,media word/media/image32.png vs manuscript/figures/bf_09_historical_population.png
+figure,Fig 33 provenance,OK,,live output render,Climate/output/figures_new/01_basic_facts/bf_09_historical_population.png,byte-identical to the live pipeline render
+figure,Fig 34 embedded,OK,,59FCE457082D409B,59FCE457082D409B,media word/media/image33.png vs manuscript/figures/bf_10_building_type_distribution_map.png
+figure,Fig 34 provenance,OK,,live output render,Climate/output/figures_new/01_basic_facts/bf_10_building_type_distribution_map.png,byte-identical to the live pipeline render
+figure,Fig 35 embedded,OK,,89BDB172A7F20EF1,89BDB172A7F20EF1,media word/media/image34.png vs manuscript/figures/sa_04_vulnerability_overview.png
+figure,Fig 35 provenance,OK,,script + config constants,gen_sensitivity_figures.py,"sensitivity render, reproduced by gen_sensitivity_figures.py; byte-identical when re-rendered"
+figure,Fig 36 embedded,OK,,76BB7AFE8E5EA50D,76BB7AFE8E5EA50D,media word/media/image35.png vs manuscript/figures/sa_01_tc_vhalf_sensitivity.png
+figure,Fig 36 provenance,OK,,script + config constants,gen_sensitivity_figures.py,"sensitivity render, reproduced by gen_sensitivity_figures.py; byte-identical when re-rendered"
+figure,Fig 37 embedded,OK,,8B0C9028DDA007CF,8B0C9028DDA007CF,media word/media/image36.png vs manuscript/figures/sa_02_tc_vthresh_sensitivity.png
+figure,Fig 37 provenance,OK,,script + config constants,gen_sensitivity_figures.py,"sensitivity render, reproduced by gen_sensitivity_figures.py; byte-identical when re-rendered"
+figure,Fig 38 embedded,OK,,A7CFD02928B82847,A7CFD02928B82847,media word/media/image37.png vs manuscript/figures/sa_03_ss_mdr_sensitivity.png
+figure,Fig 38 provenance,OK,,script + config constants,gen_sensitivity_figures.py,"sensitivity render, reproduced by gen_sensitivity_figures.py; byte-identical when re-rendered"
+figure,sa constants V_HALF_ADJ,OK,,"{'A_old': 0.8, 'A_new': 0.9, 'B_old': 0.95, 'B_new': 1.0, 'C': 1.05, 'D': 1.1}","{'A_old': 0.8, 'A_new': 0.9, 'B_old': 0.95, 'B_new': 1.0, 'C': 1.05, 'D': 1.1}",gen_sensitivity_figures.py vs p.Climate.V_HALF_ADJUSTMENT
+figure,sa constants V_THRESH_BASE,OK,,25.7,25.7,gen_sensitivity_figures.py vs p.Climate.TC_IMPACT_V_THRESH
+figure,sa constants SURGE_SCALES,OK,,0.176,"[0.1, 0.14, 0.176, 0.22, 0.3]",the calibrated 0.176 is one of the plotted scales
+figure,sa constants TC_BASE_SCALES,OK,,"[0.95, 0.975, 1.0, 1.025, 1.05]","[0.95, 0.975, 1.0, 1.025, 1.05]",plotted TC base scales vs sweep.TC_V_HALF_BASE_SCALE v0..v4
+figure,citation closure,OK,,38/38 cited,38/38,every figure 1..38 is cited outside its own caption
+table,block count,OK,,11,11,table blocks in document order
+table,T0 dimension Table 1,OK,,"(4, 4)","(4, 4)",Table 1 block geometry
+table,T0 header Table 1,OK,,,,"header row: ['Scenario', 'No Defence', 'Current 6 m', 'Reduction']"
+table,T1 dimension Table 2,OK,,"(6, 4)","(6, 4)",Table 2 block geometry
+table,T1 header Table 2,OK,,,,"header row: ['District', 'EAL (CNY billion)', 'Exposure (CNY trillion)', 'EAL Ratio (‰)']"
+table,T2 dimension Table 3,OK,,"(4, 4)","(4, 4)",Table 3 block geometry
+table,T2 header Table 3,OK,,,,"header row: ['Scenario', '10th percentile', 'Median (50th)', '90th percentile']"
+table,T3 dimension Table 4,OK,,"(4, 4)","(4, 4)",Table 4 block geometry
+table,T3 header Table 4,OK,,,,"header row: ['Scenario', '10th percentile', 'Median (50th)', '90th percentile']"
+table,T4 dimension Table 5,OK,,"(4, 4)","(4, 4)",Table 5 block geometry
+table,T4 header Table 5,OK,,,,"header row: ['Scenario', '10th percentile', 'Median (50th)', '90th percentile']"
+table,T5 dimension Figure 15 (inline module table),OK,,"(4, 5)","(4, 5)",Figure 15 (inline module table) block geometry
+table,T5 header Figure 15 (inline module table),OK,,,,"header row: ['Module', 'Analytical role', 'Main inputs', 'Processing chain']"
+table,T6 dimension Table 6,OK,,"(7, 7)","(7, 7)",Table 6 block geometry
+table,T6 header Table 6,OK,,,,"header row: ['Category', 'Floors', 'Age', 'Function']"
+table,T7 dimension Table 7,OK,,"(8, 5)","(8, 5)",Table 7 block geometry
+table,T7 header Table 7,OK,,,,"header row: ['Depth (m)', 'Low-rise', 'Mid-rise', 'High-rise']"
+table,T8 dimension Table 8,OK,,"(21, 7)","(21, 7)",Table 8 block geometry
+table,T8 header Table 8,OK,,,,"header row: ['Parameter', 'Baseline', 'Range tested', 'Primary index']"
+table,T9 dimension Table B1,OK,,"(73, 4)","(73, 4)",Table B1 block geometry
+table,T9 header Table B1,OK,,,,"header row: ['Parameter', 'Symbol', 'Value', 'Unit']"
+table,T10 dimension Appendix C figure index,OK,,"(39, 3)","(39, 3)",Appendix C figure index block geometry
+table,T10 header Appendix C figure index,OK,,,,"header row: ['Figure', 'Description', 'File']"
+table,caption order,OK,,"[1, 2, 3, 4, 5, 6, 7, 8]","[1, 2, 3, 4, 5, 6, 7, 8]",numbered table captions in document order
+table,Table B1 caption,OK,,1,1,one Table B1 caption
+table,citation closure,MISMATCH,PROSE,"['1', '2', '3', '4', '5', '6', '7', '8', 'B1']","['1', '2', '3', '6', '8']",every numbered table is cited outside its own caption

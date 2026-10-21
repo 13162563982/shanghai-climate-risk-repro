@@ -1,0 +1,18 @@
+﻿row,sweep_id,label,primary_index,old_baseline,new_baseline,baseline_changed,old_range,new_range,range_changed,old_max_dev,new_max_dev,dev_changed,n_values,bl_raw,min_raw,max_raw,pmin,pmax
+1,SURGE_MDR_CALIBRATION_SCALE,Surge MDR calibration scale,EAL,24.2B,24.2B,False,21.5–28.6B,21.5–28.6B,False,−11% to +18%,−11% to +18%,False,5,2.420351226e+10,2.149898172e+10,2.861616736e+10,-11.174124,18.231466
+2,TC_V_HALF_BASE_SCALE,TC $V_{half}$ base scale,EAL,24.2B,24.2B,False,21.1–28.1B,21.1–28.2B,True,−13% to +16%,−13% to +16%,False,5,2.420351226e+10,2.114043721e+10,2.815454582e+10,-12.655498,16.324216
+3,TC_IMPACT_V_THRESH,TC onset threshold $V_{thresh}$,EAL,24.2B,24.2B,False,18.7–31.6B,18.7–31.7B,True,−23% to +31%,−23% to +31%,False,5,2.420351226e+10,1.86927758e+10,3.169183157e+10,-22.768334,30.938978
+4,GAMMA_SVI,Surge vulnerability index $\gamma_{SVI}$,EAL,24.2B,24.2B,False,22.6–25.7B,22.6–25.8B,True,−6.3% to +6.3%,−6% to +6%,True,5,2.420351226e+10,2.263659428e+10,2.577043025e+10,-6.473928,6.473928
+5,V_HALF_ADJ_A_old,$V_{half}$ adj. A\_old (pre-02 low-rise),EAL,24.2B,24.2B,False,22.6–27.5B,22.7–27.6B,True,−6% to +14%,−6% to +14%,False,5,2.420351226e+10,2.266894442e+10,2.759632778e+10,-6.340269,14.017864
+6,V_HALF_ADJ_A_new,$V_{half}$ adj. A\_new (02+ low-rise),EAL,24.2B,24.2B,False,23.1–26.4B,23.1–26.5B,True,−4% to +9%,−4% to +9%,False,5,2.420351226e+10,2.313696073e+10,2.646404046e+10,-4.406598,9.339670
+7,V_HALF_ADJ_B_old,$V_{half}$ adj. B\_old (pre-10 mid-rise),EAL,24.2B,24.2B,False,22.0–28.7B,22.1–28.7B,True,−9% to +19%,−9% to +19%,False,5,2.420351226e+10,2.208412188e+10,2.872387027e+10,-8.756541,18.676455
+8,V_HALF_ADJ_B_new,$V_{half}$ adj. B\_new (10+ mid-rise),EAL,24.2B,24.2B,False,22.2–28.4B,22.2–28.4B,False,−8% to +18%,−8% to +18%,False,5,2.420351226e+10,2.223718131e+10,2.843171106e+10,-8.124155,17.469360
+9,V_HALF_ADJ_C,$V_{half}$ adj. C (high-rise),EAL,24.2B,24.2B,False,24.2–24.2B,24.2–24.2B,False,0%,$\approx$0%,True,5,2.420351226e+10,2.420192719e+10,2.420693439e+10,-0.006549,0.014139
+10,V_HALF_ADJ_D,$V_{half}$ adj. D (commercial),EAL,24.2B,24.2B,False,23.5–25.5B,23.5–25.5B,False,−3% to +5%,−3% to +5%,False,5,2.420351226e+10,2.354298964e+10,2.551710692e+10,-2.729036,5.427289
+11,CRI_EWMA_ALPHA,CRI EWMA decay ($\alpha$),CRI,599,601,True,594–610,596–612,True,±1.8%,±1.8%,False,5,600.874155,595.8287269,611.7561133,-0.839681,1.811021
+12,CRI_DAMAGE_KAPPA,CRI damage boost cap ($\kappa_d$),CRI,599,601,True,588–606,590–607,True,−1.8% to +1.1%,±1.8%,True,5,600.874155,590.0009844,607.416144,-1.809559,1.088745
+13,HP_LAMBDA,HP filter $\lambda$,FRI,265,265,False,259–276,259–276,False,−2.3% to +4.2%,−2% to +4%,True,5,265.3268157,258.8080802,275.7950393,-2.456870,3.945407
+14,VOLATILITY_WINDOW,Volatility window,FRI,265,265,False,265–272,265–272,False,≈0% to +2.6%,−0.1% to +2.6%,True,5,265.3268157,265.063447,272.1943495,-0.099262,2.588330
+15,CFI_WEIGHT_SLA,Hazard SLA weight,CRI,599,601,True,574–631,576–633,True,−4.1% to +5.3%,−4.1% to +5.3%,False,5,600.874155,576.2341801,632.5921135,-4.100688,5.278636
+16,FRI_WEIGHT_GAP,FRI sub-indicator weights,FRI,265,265,False,225–311,225–311,False,−15% to +17%,−15% to +17%,False,5,265.3268157,225.3376174,311.4754103,-15.071676,17.393114
+17,CFCI_TARGET_RHO,CFCI target $\rho$,CFCI,399,399,False,396–399,397–400,True,−0.8% to ≈0%,−0.2% to +0.6%,True,5,399.1275227,397.4625917,400.1174227,-0.417143,0.248016

@@ -1,0 +1,76 @@
+{
+  "generated": "2026-10-18T20:21:01",
+  "checks": [
+    {
+      "name": "G12-1a FINAL untouched",
+      "pass": true,
+      "detail": "39240D38FCF71ADB"
+    },
+    {
+      "name": "G12-1b v10 untouched",
+      "pass": true,
+      "detail": "40E306B03E2E5491"
+    },
+    {
+      "name": "G12-1c v11 untouched",
+      "pass": true,
+      "detail": "7417FDE618D6C511"
+    },
+    {
+      "name": "G12-1d v12 exists",
+      "pass": true,
+      "detail": "28193084 B F86428EDBF44C546"
+    },
+    {
+      "name": "G12-2 structure invariants",
+      "pass": true,
+      "detail": "{\"m_oMath\": 131, \"m_oMathPara\": 41, \"w_drawing\": 37, \"paragraphs\": 409, \"tables\": 11}, 49 parts"
+    },
+    {
+      "name": "G12-3 only document.xml differs",
+      "pass": true,
+      "detail": "48 parts equal"
+    },
+    {
+      "name": "G12-4 <w:t> run count preserved",
+      "pass": true,
+      "detail": "1273"
+    },
+    {
+      "name": "G12-5 all corrections present",
+      "pass": true,
+      "detail": "13/13 sites"
+    },
+    {
+      "name": "G12-6 v12 alignment clean",
+      "pass": true,
+      "detail": "677 checks, 0 findings"
+    },
+    {
+      "name": "G12-7 v11 baseline findings intact",
+      "pass": true,
+      "detail": "677 checks, 15 findings (expected 15)"
+    },
+    {
+      "name": "G12-8 every token classified and bound",
+      "pass": true,
+      "detail": "1385 tokens, 582 verified, 0 unclassified"
+    },
+    {
+      "name": "G12-9 figures byte-identical to renders",
+      "pass": true,
+      "detail": "37/37 ok"
+    },
+    {
+      "name": "G12-10 correction report",
+      "pass": true,
+      "detail": "12 text + 6 style edits, output F86428EDBF44C546"
+    },
+    {
+      "name": "G12-11 no heading-styled body prose",
+      "pass": true,
+      "detail": "0 long paragraphs carry a heading style"
+    }
+  ],
+  "verdict": "PASS"
+}

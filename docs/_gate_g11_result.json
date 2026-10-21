@@ -1,0 +1,43 @@
+{
+  "gate": "G11",
+  "target": "manuscript/PAPER_MANUSCRIPT_v11.docx",
+  "checks": [
+    "G11-1a 冻结版未被动过",
+    "G11-1b 冻结版大小不变",
+    "G11-2a v10 未被动过",
+    "G11-2b v10 大小不变",
+    "G11-3a v11 SHA 与登记值一致",
+    "G11-3b v11 大小",
+    "G11-3c 两个 zip 均完整",
+    "G11-3d 部件数 48 且条目顺序一致",
+    "G11-4 差异部件恰好只有 document.xml",
+    "G11-5a 修复段落 37 处",
+    "G11-5b 撤回插入后与 v10 逐字节相同",
+    "G11-5c v11 比 v10 只多 37x16 字符",
+    "G11-6 三段链 37/37 齐全且前后件正确",
+    "G11-7a <w:t> 文本序列逐条相同",
+    "G11-7b 结构计数不变",
+    "G11-7c styles.xml 与 v10 逐字节相同",
+    "G11-8a 媒体 37 个且逐字节相同",
+    "G11-9 修复工具报告 verdict=PASS"
+  ],
+  "failed": [],
+  "evidence": {
+    "changed_parts": [
+      "word/document.xml"
+    ],
+    "v11_sha256": "7417FDE618D6C5114628B28C76C7E676141415EFA7BF50016BB13C2D472523CC",
+    "v11_size": 28193070,
+    "inserted_keepnext": 37,
+    "diff_chars": 481,
+    "wf_texts": 1273,
+    "struct": {
+      "w_drawing": 37,
+      "m_oMath": 131,
+      "m_oMathPara": 41,
+      "w_tbl": 11,
+      "top_level_w_p": 1162
+    }
+  },
+  "verdict": "PASS"
+}

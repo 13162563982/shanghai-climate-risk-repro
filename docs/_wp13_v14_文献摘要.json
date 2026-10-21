@@ -1,0 +1,16 @@
+{
+  "generated": "2026-10-18T19:58:58",
+  "docx": "PAPER_MANUSCRIPT_v14.docx",
+  "entries": 59,
+  "with_doi": 49,
+  "verdicts": {
+    "OK-BIB-STRUCT": 10,
+    "OK-BIB-DOI": 44,
+    "OK-BIB-DOI-MINOR": 5
+  },
+  "citations": 57,
+  "unmatched_citations": [],
+  "uncited_entries": [],
+  "findings": [],
+  "result": "BIB-OK"
+}

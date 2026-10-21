@@ -1,0 +1,26 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D16b"
+dataset: "小区逐月挂牌价（147,537 行）"
+producer: "聚汇数据（gotohui.com）· **作者 2026-10-18 声明**"
+product_version: "小区 × 月的挂牌平均单价/总价（`挂牌日期` 形如 2023.02）"
+coverage: "147,537 行 × 8 列"
+upstream_identifier: "https://www.gotohui.com（平台；无数据集级 DOI）"
+acquisition_channel: "随「链家」目录一同取得；作者声明值源 = 聚汇数据"
+acquisition_evidence: "表头 `小区名称/所属省份/所属城市/所属区县/所属商圈/挂牌日期/挂牌平均单价/挂牌平均总价`；无 URL、无来源行 → 凭证仅作者声明"
+licence: "未知"
+provenance_level: "中"
+redistributable: "否"
+archive_scope: "不含"
+da_action: "不写"
+da_clause: ""
+known_gap: "G8"
+note: "**不参与运行**：全树 0 处代码读取「挂牌」；估值用的是 D16 的 POI `price` 字段。其 1 个文件已计入 D16 的 9 个文件内，此处不重复计数"
+pipeline_usage: ""
+
+package_status: "excluded"
+files_in_package: 0
+files_in_release: 0
+bytes_in_package: 0
+package_paths: []

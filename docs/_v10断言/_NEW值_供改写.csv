@@ -1,0 +1,158 @@
+section,item_id,label,OLD,OLD_source,NEW,NEW_source,digits,unit,status,note
+2.6 城市 EAL,city_eal_hist_nodef,城市复合 EAL hist / nodef,24.153,§2.6 冻结参考值（旧层口径）,24.204,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,3,bn CNY,,
+2.6 城市 EAL,city_eal_hist_def,城市复合 EAL hist / def,18.970,§2.6 冻结参考值（旧层口径）,19.006,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,3,bn CNY,,
+2.6 城市 EAL,city_eal_ssp245_nodef,城市复合 EAL ssp245 / nodef,33.326,§2.6 冻结参考值（旧层口径）,33.392,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,3,bn CNY,,
+2.6 城市 EAL,city_eal_ssp245_def,城市复合 EAL ssp245 / def,23.848,§2.6 冻结参考值（旧层口径）,23.893,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,3,bn CNY,,
+2.6 城市 EAL,city_eal_ssp585_nodef,城市复合 EAL ssp585 / nodef,40.225,§2.6 冻结参考值（旧层口径）,40.298,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,3,bn CNY,,
+2.6 城市 EAL,city_eal_ssp585_def,城市复合 EAL ssp585 / def,26.469,§2.6 冻结参考值（旧层口径）,26.519,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,3,bn CNY,,
+2.6 防御削减率,def_reduction_hist,6 m 海塘削减率 hist,21.46,§2.6 冻结参考值（旧层口径）,21.48,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,2,%,,
+2.6 防御削减率,def_reduction_ssp245,6 m 海塘削减率 ssp245,28.44,§2.6 冻结参考值（旧层口径）,28.45,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,2,%,,
+2.6 防御削减率,def_reduction_ssp585,6 m 海塘削减率 ssp585,34.20,§2.6 冻结参考值（旧层口径）,34.19,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,2,%,,
+2.6 风/潮占比,wind_share,风损占比 hist/nodef,74.14,§2.6 冻结参考值（旧层口径）,74.12,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,2,%,,
+2.6 风/潮占比,surge_share,潮损占比 hist/nodef,25.86,§2.6 冻结参考值（旧层口径）,25.88,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,2,%,,
+2.6 风/潮占比,surge_eal_bn,潮损 EAL hist/nodef (bn),6.2471,§2.6 冻结参考值（旧层口径）,6.2631,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,bn CNY,,OLD = 旧层实测 6.2471（WP4 基线）；NEW = A 基线
+2.6 派生文本量,wind_eal_bn,风损 EAL hist/nodef (bn),17.9059,§2.6 冻结参考值（旧层口径）,17.9404,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,bn CNY,,
+2.6 派生文本量,surge_eal_ssp585_bn,潮损 EAL SSP5-8.5/nodef (bn),—,§2.6 冻结参考值（旧层口径）,15.9401,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,bn CNY,,"P16 的 ""about CNY 6.2 bn to roughly CNY 16 bn"" 中的 16"
+2.6 派生文本量,eal_incr_ssp245,城市 EAL 相对历史无防御增幅 ssp245,—,§2.6 冻结参考值（旧层口径）,38,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,0,%,,P16 稿件写 +38%；OLD 不是可复算量（按稿件现值记录，NEW 由 A 基线算得 37.96%）
+2.6 派生文本量,eal_incr_ssp585,城市 EAL 相对历史无防御增幅 ssp585,—,§2.6 冻结参考值（旧层口径）,66,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,0,%,,P16 稿件写 +66%；OLD 不是可复算量（按稿件现值记录，NEW 由 A 基线算得 66.50%）
+2.6 派生文本量,compound_share_wind_pct,风损占复合 EAL (%),74.12,§2.6 冻结参考值（旧层口径）,74.12,,2,%,,
+2.6 总暴露,exposure_total_t,总暴露 (T CNY),63.3272,§2.6 冻结参考值（旧层口径）,63.3279,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,T CNY,,
+2.6 区级 Top5 EAL,top5_eal_1_浦东新区,区级 EAL #1 浦东新区,5.9286,§2.6 冻结参考值（旧层口径）,5.9944,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,bn CNY,,
+2.6 区级 Top5 EAL,top5_eal_2_杨浦区,区级 EAL #2 杨浦区,2.6410,§2.6 冻结参考值（旧层口径）,2.6341,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,bn CNY,,
+2.6 区级 Top5 EAL,top5_eal_3_徐汇区,区级 EAL #3 徐汇区,2.2898,§2.6 冻结参考值（旧层口径）,2.2211,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,bn CNY,,
+2.6 区级 Top5 EAL,top5_eal_4_闵行区,区级 EAL #4 闵行区,2.2530,§2.6 冻结参考值（旧层口径）,2.2685,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,bn CNY,,
+2.6 区级 Top5 EAL,top5_eal_5_虹口区,区级 EAL #5 虹口区,1.6692,§2.6 冻结参考值（旧层口径）,1.6663,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,bn CNY,,
+2.6 区级 EAL/暴露,ratio_浦东新区,浦东新区 EAL/暴露,0.3995,§2.6 冻结参考值（旧层口径）,0.4043,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,‰,,
+2.6 区级 EAL/暴露,ratio_杨浦区,杨浦区 EAL/暴露,0.7690,§2.6 冻结参考值（旧层口径）,0.7678,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,‰,,
+2.6 区级 EAL/暴露,ratio_徐汇区,徐汇区 EAL/暴露,0.5573,§2.6 冻结参考值（旧层口径）,0.5575,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,‰,,
+2.6 区级 EAL/暴露,ratio_闵行区,闵行区 EAL/暴露,0.2815,§2.6 冻结参考值（旧层口径）,0.2825,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,‰,,
+2.6 区级 EAL/暴露,ratio_虹口区,虹口区 EAL/暴露,0.8266,§2.6 冻结参考值（旧层口径）,0.8214,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,‰,,
+2.6 区级 EAL/暴露,ratio_黄浦区,黄浦区 EAL/暴露,0.6762,§2.6 冻结参考值（旧层口径）,0.6678,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,4,‰,,
+2.6 派生文本量,city_mean_ratio,全市平均 EAL/暴露（16 区均值）,0.39,§2.6 冻结参考值（旧层口径）,0.39,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,2,‰,,P19 正文写 0.38‰；OLD 取自 WP4 旧层归档
+2.6 CRI,cri_2023_12,CRI 2023-12,438.8918,§2.6 冻结参考值（旧层口径）,440.2619,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_historical.csv,4,,,
+2.6 CRI,cri_1993_fold,CRI 2023-12 相对 1993-06 基线的倍数,4.4,§2.6 冻结参考值（旧层口径）,4.4,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_historical.csv,1,x,,稿件 P41 写 4.4-fold（基线 100）；表内按 1 位小数
+2.6 CRI,cri2050_p50_hist,CRI 2050 p50 hist,599.032,§2.6 冻结参考值（旧层口径）,600.874,boundary_official_A_20261016_230820/Climate/output/results/shanghai_city_cri_projection.csv,3,,,
+2.6 CRI,cri2050_p10_hist,CRI 2050 p10 hist,489.59,§2.6 冻结参考值（旧层口径）,491.08,boundary_official_A_20261016_230820/Climate/output/results/shanghai_city_cri_projection.csv,2,,,
+2.6 CRI,cri2050_p90_hist,CRI 2050 p90 hist,689.49,§2.6 冻结参考值（旧层口径）,691.59,boundary_official_A_20261016_230820/Climate/output/results/shanghai_city_cri_projection.csv,2,,,
+2.6 CRI,cri2050_p50_ssp245,CRI 2050 p50 ssp245,673.318,§2.6 冻结参考值（旧层口径）,675.359,boundary_official_A_20261016_230820/Climate/output/results/shanghai_city_cri_projection.csv,3,,,
+2.6 CRI,cri2050_p10_ssp245,CRI 2050 p10 ssp245,563.55,§2.6 冻结参考值（旧层口径）,565.29,boundary_official_A_20261016_230820/Climate/output/results/shanghai_city_cri_projection.csv,2,,,
+2.6 CRI,cri2050_p90_ssp245,CRI 2050 p90 ssp245,767.91,§2.6 冻结参考值（旧层口径）,770.27,boundary_official_A_20261016_230820/Climate/output/results/shanghai_city_cri_projection.csv,2,,,
+2.6 CRI,cri2050_p50_ssp585,CRI 2050 p50 ssp585,742.326,§2.6 冻结参考值（旧层口径）,744.595,boundary_official_A_20261016_230820/Climate/output/results/shanghai_city_cri_projection.csv,3,,,
+2.6 CRI,cri2050_p10_ssp585,CRI 2050 p10 ssp585,641.30,§2.6 冻结参考值（旧层口径）,643.28,boundary_official_A_20261016_230820/Climate/output/results/shanghai_city_cri_projection.csv,2,,,
+2.6 CRI,cri2050_p90_ssp585,CRI 2050 p90 ssp585,836.98,§2.6 冻结参考值（旧层口径）,839.59,boundary_official_A_20261016_230820/Climate/output/results/shanghai_city_cri_projection.csv,2,,,
+2.6 HSI,hsi_terminal,HSI 末值,231.33,§2.6 冻结参考值（旧层口径）,231.33,boundary_official_A_20261016_230820/Finance/output/results/shanghai_finance_risk_index.csv,2,,,
+2.6 HSI,hsi_peak,HSI 峰值,254.18,§2.6 冻结参考值（旧层口径）,254.18,boundary_official_A_20261016_230820/Finance/output/results/shanghai_finance_risk_index.csv,2,,,
+2.6 HSI,hsi2050_p50_hist,HSI 2050 p50 hist,265.330,§2.6 冻结参考值（旧层口径）,265.327,boundary_official_A_20261016_230820/Finance/output/results/shanghai_fri_projection.csv,3,,,
+2.6 HSI,hsi2050_p10_hist,HSI 2050 p10 hist,229.95,§2.6 冻结参考值（旧层口径）,229.95,boundary_official_A_20261016_230820/Finance/output/results/shanghai_fri_projection.csv,2,,,
+2.6 HSI,hsi2050_p90_hist,HSI 2050 p90 hist,329.37,§2.6 冻结参考值（旧层口径）,329.37,boundary_official_A_20261016_230820/Finance/output/results/shanghai_fri_projection.csv,2,,,
+2.6 HSI,hsi2050_p50_ssp245,HSI 2050 p50 ssp245,287.071,§2.6 冻结参考值（旧层口径）,287.070,boundary_official_A_20261016_230820/Finance/output/results/shanghai_fri_projection.csv,3,,,
+2.6 HSI,hsi2050_p10_ssp245,HSI 2050 p10 ssp245,250.98,§2.6 冻结参考值（旧层口径）,250.98,boundary_official_A_20261016_230820/Finance/output/results/shanghai_fri_projection.csv,2,,,
+2.6 HSI,hsi2050_p90_ssp245,HSI 2050 p90 ssp245,354.10,§2.6 冻结参考值（旧层口径）,354.10,boundary_official_A_20261016_230820/Finance/output/results/shanghai_fri_projection.csv,2,,,
+2.6 HSI,hsi2050_p50_ssp585,HSI 2050 p50 ssp585,307.189,§2.6 冻结参考值（旧层口径）,307.188,boundary_official_A_20261016_230820/Finance/output/results/shanghai_fri_projection.csv,3,,,
+2.6 HSI,hsi2050_p10_ssp585,HSI 2050 p10 ssp585,269.69,§2.6 冻结参考值（旧层口径）,269.69,boundary_official_A_20261016_230820/Finance/output/results/shanghai_fri_projection.csv,2,,,
+2.6 HSI,hsi2050_p90_ssp585,HSI 2050 p90 ssp585,375.01,§2.6 冻结参考值（旧层口径）,375.01,boundary_official_A_20261016_230820/Finance/output/results/shanghai_fri_projection.csv,2,,,
+2.6 CCHI,cchi_2011_12,CCHI 2011-12,129.775,§2.6 冻结参考值（旧层口径）,129.778,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_historical.csv,3,,,
+2.6 CCHI,cchi_2023_12,CCHI 2023-12,312.949,§2.6 冻结参考值（旧层口径）,313.437,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_historical.csv,3,,,
+2.6 CCHI,cchi2050_p50_hist,CCHI 2050 p50 hist,398.793,§2.6 冻结参考值（旧层口径）,399.128,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_projection.csv,3,,,
+2.6 CCHI,cchi2050_p10_hist,CCHI 2050 p10 hist,351.23,§2.6 冻结参考值（旧层口径）,353.95,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_projection.csv,2,,,
+2.6 CCHI,cchi2050_p90_hist,CCHI 2050 p90 hist,456.21,§2.6 冻结参考值（旧层口径）,457.01,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_projection.csv,2,,,
+2.6 CCHI,cchi2050_p50_ssp245,CCHI 2050 p50 ssp245,439.019,§2.6 冻结参考值（旧层口径）,440.771,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_projection.csv,3,,,
+2.6 CCHI,cchi2050_p10_ssp245,CCHI 2050 p10 ssp245,394.50,§2.6 冻结参考值（旧层口径）,393.73,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_projection.csv,2,,,
+2.6 CCHI,cchi2050_p90_ssp245,CCHI 2050 p90 ssp245,497.55,§2.6 冻结参考值（旧层口径）,498.88,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_projection.csv,2,,,
+2.6 CCHI,cchi2050_p50_ssp585,CCHI 2050 p50 ssp585,476.949,§2.6 冻结参考值（旧层口径）,478.895,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_projection.csv,3,,,
+2.6 CCHI,cchi2050_p10_ssp585,CCHI 2050 p10 ssp585,434.86,§2.6 冻结参考值（旧层口径）,435.34,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_projection.csv,2,,,
+2.6 CCHI,cchi2050_p90_ssp585,CCHI 2050 p90 ssp585,533.15,§2.6 冻结参考值（旧层口径）,533.96,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_projection.csv,2,,,
+2.6 派生文本量,cchi_ssp585_vs_terminal_pct,CCHI SSP5-8.5 相对 2023 末值增幅,52,§2.6 冻结参考值（旧层口径）,53,boundary_official_A_20261016_230820/Composite/output/results/shanghai_cfci_projection.csv,0,%,,
+2.6 派生文本量,cri_incr_ssp245,CRI 2050 中位增量 ssp245,12.4,§2.6 冻结参考值（旧层口径）,12.4,boundary_official_A_20261016_230820/Climate/output/results/shanghai_city_cri_projection.csv,1,%,,
+2.6 派生文本量,cri_incr_ssp585,CRI 2050 中位增量 ssp585,23.9,§2.6 冻结参考值（旧层口径）,23.9,boundary_official_A_20261016_230820/Climate/output/results/shanghai_city_cri_projection.csv,1,%,,
+2.6 计数,n_buildings,建筑数,"585,033",§2.6 冻结参考值（旧层口径）,—,,0,count,,"A 基线未变（585,033）；WP7.2 不改"
+2.6 计数,n_districts,区县数,16,§2.6 冻结参考值（旧层口径）,—,,0,count,,不变
+2.6 计数,synthetic_catalogue_n,合成路径数（= 107 × 10，按 _genN 计数）,"1,070",§2.6 冻结参考值（旧层口径）,"1,070",boundary_official_A_20261016_230820/Climate/output/intermediate/haz_TC_synth.hdf5,0,count,,"稿件 P17 写 1,070 条合成实现；扫描件实测 _gen 路径 1070 条，事件总数 1177（含 107 条历史路径）"
+2.6 派生文本量,tc_calibration_ratio,TC 标定比 AAL pred/obs (1995-2023),0.9999,§2.6 冻结参考值（旧层口径）,—,,4,,,WP7.2 不改数值；但边界与潮损口径已变，需在 WP6/WP7 复核后决定是否重算与披露
+2.6 派生文本量,residual_above_hist_nodef_pct,SSP5-8.5 防御后 EAL ÷ 历史无防御 EAL − 1（候选解释）,—,§2.6 冻结参考值（旧层口径）,9.6,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,1,%,,稿件 P16/P79/P83 写 39.5%。该句的算术只给出约 9.6%（旧层同为 9.6%），故 39.5% 无法由本口径复现 —— 不要自动改，须作者确认定义
+Table 1,t1_nodef_hist,T1 Historical No Defence,24.2,§2.6 冻结参考值（旧层口径）,24.2,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,bn,,
+Table 1,t1_def_hist,T1 Historical Current 6 m,19.0,§2.6 冻结参考值（旧层口径）,19.0,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,bn,,
+Table 1,t1_red_hist,T1 Historical Reduction,21.5,§2.6 冻结参考值（旧层口径）,21.5,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,%,,T1 第 1 行稿件写 21.5%（1 位小数）；SSP 两行写整数
+Table 1,t1_nodef_ssp245,T1 SSP2-4.5 (+0.3 m SLR) No Defence,33.3,§2.6 冻结参考值（旧层口径）,33.4,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,bn,,
+Table 1,t1_def_ssp245,T1 SSP2-4.5 (+0.3 m SLR) Current 6 m,23.8,§2.6 冻结参考值（旧层口径）,23.9,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,bn,,
+Table 1,t1_red_ssp245,T1 SSP2-4.5 (+0.3 m SLR) Reduction,28,§2.6 冻结参考值（旧层口径）,28,boundary_official_A_20261016_230820/defense_profile_eal.csv,0,%,,T1 第 1 行稿件写 21.5%（1 位小数）；SSP 两行写整数
+Table 1,t1_nodef_ssp585,T1 SSP5-8.5 (+0.5 m SLR) No Defence,40.2,§2.6 冻结参考值（旧层口径）,40.3,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,bn,,
+Table 1,t1_def_ssp585,T1 SSP5-8.5 (+0.5 m SLR) Current 6 m,26.5,§2.6 冻结参考值（旧层口径）,26.5,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,bn,,
+Table 1,t1_red_ssp585,T1 SSP5-8.5 (+0.5 m SLR) Reduction,34,§2.6 冻结参考值（旧层口径）,34,boundary_official_A_20261016_230820/defense_profile_eal.csv,0,%,,T1 第 1 行稿件写 21.5%（1 位小数）；SSP 两行写整数
+Table 2,t2_r1_name,T2 第1行 区名,,§2.6 冻结参考值（旧层口径）,,boundary_official_A_20261016_230820/defense_profile_eal.csv,0,,,名次未变：Pudong（浦东新区）
+Table 2,t2_r1_eal,T2 第1行 EAL（Pudong 行）,5.9,§2.6 冻结参考值（旧层口径）,6.0,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,bn,,名次未变：Pudong（浦东新区）
+Table 2,t2_r1_expo,T2 第1行 暴露（Pudong 行）,14.8,§2.6 冻结参考值（旧层口径）,14.8,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,T,,名次未变：Pudong（浦东新区）
+Table 2,t2_r1_ratio,T2 第1行 比值（Pudong 行）,0.40,§2.6 冻结参考值（旧层口径）,0.40,boundary_official_A_20261016_230820/defense_profile_eal.csv,2,‰,,名次未变：Pudong（浦东新区）
+Table 2,t2_r2_name,T2 第2行 区名,,§2.6 冻结参考值（旧层口径）,,boundary_official_A_20261016_230820/defense_profile_eal.csv,0,,,名次未变：Yangpu（杨浦区）
+Table 2,t2_r2_eal,T2 第2行 EAL（Yangpu 行）,2.6,§2.6 冻结参考值（旧层口径）,2.6,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,bn,,名次未变：Yangpu（杨浦区）
+Table 2,t2_r2_expo,T2 第2行 暴露（Yangpu 行）,3.4,§2.6 冻结参考值（旧层口径）,3.4,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,T,,名次未变：Yangpu（杨浦区）
+Table 2,t2_r2_ratio,T2 第2行 比值（Yangpu 行）,0.77,§2.6 冻结参考值（旧层口径）,0.77,boundary_official_A_20261016_230820/defense_profile_eal.csv,2,‰,,名次未变：Yangpu（杨浦区）
+Table 2,t2_r3_name,T2 第3行 区名,,§2.6 冻结参考值（旧层口径）,,boundary_official_A_20261016_230820/defense_profile_eal.csv,0,,,名次未变：Xuhui（徐汇区）
+Table 2,t2_r3_eal,T2 第3行 EAL（Xuhui 行）,2.3,§2.6 冻结参考值（旧层口径）,2.2,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,bn,,名次未变：Xuhui（徐汇区）
+Table 2,t2_r3_expo,T2 第3行 暴露（Xuhui 行）,4.1,§2.6 冻结参考值（旧层口径）,4.0,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,T,,名次未变：Xuhui（徐汇区）
+Table 2,t2_r3_ratio,T2 第3行 比值（Xuhui 行）,0.56,§2.6 冻结参考值（旧层口径）,0.56,boundary_official_A_20261016_230820/defense_profile_eal.csv,2,‰,,名次未变：Xuhui（徐汇区）
+Table 2,t2_r4_name,T2 第4行 区名,,§2.6 冻结参考值（旧层口径）,,boundary_official_A_20261016_230820/defense_profile_eal.csv,0,,,名次未变：Minhang（闵行区）
+Table 2,t2_r4_eal,T2 第4行 EAL（Minhang 行）,2.3,§2.6 冻结参考值（旧层口径）,2.3,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,bn,,名次未变：Minhang（闵行区）
+Table 2,t2_r4_expo,T2 第4行 暴露（Minhang 行）,8.0,§2.6 冻结参考值（旧层口径）,8.0,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,T,,名次未变：Minhang（闵行区）
+Table 2,t2_r4_ratio,T2 第4行 比值（Minhang 行）,0.28,§2.6 冻结参考值（旧层口径）,0.28,boundary_official_A_20261016_230820/defense_profile_eal.csv,2,‰,,名次未变：Minhang（闵行区）
+Table 2,t2_r5_name,T2 第5行 区名,,§2.6 冻结参考值（旧层口径）,,boundary_official_A_20261016_230820/defense_profile_eal.csv,0,,,名次未变：Hongkou（虹口区）
+Table 2,t2_r5_eal,T2 第5行 EAL（Hongkou 行）,1.7,§2.6 冻结参考值（旧层口径）,1.7,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,bn,,名次未变：Hongkou（虹口区）
+Table 2,t2_r5_expo,T2 第5行 暴露（Hongkou 行）,2.0,§2.6 冻结参考值（旧层口径）,2.0,boundary_official_A_20261016_230820/defense_profile_eal.csv,1,T,,名次未变：Hongkou（虹口区）
+Table 2,t2_r5_ratio,T2 第5行 比值（Hongkou 行）,0.83,§2.6 冻结参考值（旧层口径）,0.82,boundary_official_A_20261016_230820/defense_profile_eal.csv,2,‰,,名次未变：Hongkou（虹口区）
+Table 3,t3_p10_hist,T3 hist p10,490,§2.6 冻结参考值（旧层口径）,491,boundary_official_A_20261016_230820/shanghai_city_cri_projection.csv,0,,,
+Table 3,t3_p50_hist,T3 hist p50,599,§2.6 冻结参考值（旧层口径）,601,boundary_official_A_20261016_230820/shanghai_city_cri_projection.csv,0,,,
+Table 3,t3_p90_hist,T3 hist p90,689,§2.6 冻结参考值（旧层口径）,692,boundary_official_A_20261016_230820/shanghai_city_cri_projection.csv,0,,,
+Table 3,t3_p10_ssp245,T3 ssp245 p10,564,§2.6 冻结参考值（旧层口径）,565,boundary_official_A_20261016_230820/shanghai_city_cri_projection.csv,0,,,
+Table 3,t3_p50_ssp245,T3 ssp245 p50,673,§2.6 冻结参考值（旧层口径）,675,boundary_official_A_20261016_230820/shanghai_city_cri_projection.csv,0,,,
+Table 3,t3_p90_ssp245,T3 ssp245 p90,768,§2.6 冻结参考值（旧层口径）,770,boundary_official_A_20261016_230820/shanghai_city_cri_projection.csv,0,,,
+Table 3,t3_p10_ssp585,T3 ssp585 p10,641,§2.6 冻结参考值（旧层口径）,643,boundary_official_A_20261016_230820/shanghai_city_cri_projection.csv,0,,,
+Table 3,t3_p50_ssp585,T3 ssp585 p50,742,§2.6 冻结参考值（旧层口径）,745,boundary_official_A_20261016_230820/shanghai_city_cri_projection.csv,0,,,
+Table 3,t3_p90_ssp585,T3 ssp585 p90,837,§2.6 冻结参考值（旧层口径）,840,boundary_official_A_20261016_230820/shanghai_city_cri_projection.csv,0,,,
+Table 4,t4_p10_hist,T4 hist p10,230,§2.6 冻结参考值（旧层口径）,230,boundary_official_A_20261016_230820/shanghai_fri_projection.csv,0,,,
+Table 4,t4_p50_hist,T4 hist p50,265,§2.6 冻结参考值（旧层口径）,265,boundary_official_A_20261016_230820/shanghai_fri_projection.csv,0,,,
+Table 4,t4_p90_hist,T4 hist p90,329,§2.6 冻结参考值（旧层口径）,329,boundary_official_A_20261016_230820/shanghai_fri_projection.csv,0,,,
+Table 4,t4_p10_ssp245,T4 ssp245 p10,251,§2.6 冻结参考值（旧层口径）,251,boundary_official_A_20261016_230820/shanghai_fri_projection.csv,0,,,
+Table 4,t4_p50_ssp245,T4 ssp245 p50,287,§2.6 冻结参考值（旧层口径）,287,boundary_official_A_20261016_230820/shanghai_fri_projection.csv,0,,,
+Table 4,t4_p90_ssp245,T4 ssp245 p90,354,§2.6 冻结参考值（旧层口径）,354,boundary_official_A_20261016_230820/shanghai_fri_projection.csv,0,,,
+Table 4,t4_p10_ssp585,T4 ssp585 p10,270,§2.6 冻结参考值（旧层口径）,270,boundary_official_A_20261016_230820/shanghai_fri_projection.csv,0,,,
+Table 4,t4_p50_ssp585,T4 ssp585 p50,307,§2.6 冻结参考值（旧层口径）,307,boundary_official_A_20261016_230820/shanghai_fri_projection.csv,0,,,
+Table 4,t4_p90_ssp585,T4 ssp585 p90,375,§2.6 冻结参考值（旧层口径）,375,boundary_official_A_20261016_230820/shanghai_fri_projection.csv,0,,,
+Table 5,t5_p10_hist,T5 hist p10,351,§2.6 冻结参考值（旧层口径）,354,boundary_official_A_20261016_230820/shanghai_cfci_projection.csv,0,,,
+Table 5,t5_p50_hist,T5 hist p50,399,§2.6 冻结参考值（旧层口径）,399,boundary_official_A_20261016_230820/shanghai_cfci_projection.csv,0,,,
+Table 5,t5_p90_hist,T5 hist p90,456,§2.6 冻结参考值（旧层口径）,457,boundary_official_A_20261016_230820/shanghai_cfci_projection.csv,0,,,
+Table 5,t5_p10_ssp245,T5 ssp245 p10,394,§2.6 冻结参考值（旧层口径）,394,boundary_official_A_20261016_230820/shanghai_cfci_projection.csv,0,,,
+Table 5,t5_p50_ssp245,T5 ssp245 p50,439,§2.6 冻结参考值（旧层口径）,441,boundary_official_A_20261016_230820/shanghai_cfci_projection.csv,0,,,
+Table 5,t5_p90_ssp245,T5 ssp245 p90,498,§2.6 冻结参考值（旧层口径）,499,boundary_official_A_20261016_230820/shanghai_cfci_projection.csv,0,,,
+Table 5,t5_p10_ssp585,T5 ssp585 p10,435,§2.6 冻结参考值（旧层口径）,435,boundary_official_A_20261016_230820/shanghai_cfci_projection.csv,0,,,
+Table 5,t5_p50_ssp585,T5 ssp585 p50,477,§2.6 冻结参考值（旧层口径）,479,boundary_official_A_20261016_230820/shanghai_cfci_projection.csv,0,,,
+Table 5,t5_p90_ssp585,T5 ssp585 p90,533,§2.6 冻结参考值（旧层口径）,534,boundary_official_A_20261016_230820/shanghai_cfci_projection.csv,0,,,
+2.6 派生文本量,ssp585_eal_杨浦区,SSP5-8.5 区级 EAL Yangpu,5.4,§2.6 冻结参考值（旧层口径）,5.4,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,1,bn CNY,,P21 引用的区级 SSP5-8.5 值；OLD = 稿件现值
+2.6 派生文本量,ssp585_ratio_杨浦区,SSP5-8.5 区级 EAL/暴露 Yangpu,1.57,§2.6 冻结参考值（旧层口径）,1.56,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,2,‰,,
+2.6 派生文本量,ssp585_eal_虹口区,SSP5-8.5 区级 EAL Hongkou,3.5,§2.6 冻结参考值（旧层口径）,3.5,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,1,bn CNY,,P21 引用的区级 SSP5-8.5 值；OLD = 稿件现值
+2.6 派生文本量,ssp585_ratio_虹口区,SSP5-8.5 区级 EAL/暴露 Hongkou,1.73,§2.6 冻结参考值（旧层口径）,1.72,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,2,‰,,
+2.6 派生文本量,ssp585_growth_杨浦区,SSP5-8.5 区级 EAL 增幅 Yangpu,100.0,§2.6 冻结参考值（旧层口径）,103.3,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,1,%,,"P21 的 ""more than doubles"" 判据；OLD = 稿件表述 100%（doubles）。若 NEW < 100 则该措辞不再成立，必须改"
+2.6 派生文本量,ssp585_ratio_growth_杨浦区,SSP5-8.5 区级比值增幅 Yangpu,100.0,§2.6 冻结参考值（旧层口径）,103.3,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,1,%,,P21 用；历史比值 0.77‰ → SSP5-8.5 1.56‰
+2.6 派生文本量,ssp585_growth_虹口区,SSP5-8.5 区级 EAL 增幅 Hongkou,100.0,§2.6 冻结参考值（旧层口径）,109.2,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,1,%,,"P21 的 ""more than doubles"" 判据；OLD = 稿件表述 100%（doubles）。若 NEW < 100 则该措辞不再成立，必须改"
+2.6 派生文本量,ssp585_ratio_growth_虹口区,SSP5-8.5 区级比值增幅 Hongkou,100.0,§2.6 冻结参考值（旧层口径）,109.2,boundary_official_A_20261016_230820/Climate/output/results/defense_sensitivity/defense_profile_eal.csv,1,%,,P21 用；历史比值 0.82‰ → SSP5-8.5 1.72‰
+2.6 派生文本量,cchi_target_rho,CFCI 目标 Spearman 秩相关 ρ,0.358,§2.6 冻结参考值（旧层口径）,0.358,boundary_official_A_20261016_230820/Composite/00_config.py,3,,,已核对：`Composite\00_config.py:76 CFCI_TARGET_RHO = 0.358`，`config\sensitivity_sweep.json` 的 baseline/取值也含 0.358；稿件 P49/P62 与 T8 第 20 行一致，边界切换不影响该常量
+Table 8 派生带,cri_param_band_pct,CRI 构造参数带（P42 的 ±2%）,±1.8% / −1.8% to +1.1%,稿件现值（旧层口径）,±1.8% / ±1.8%,docs\_Table8_WP6重算.csv（WP6 实测）,1,%,CHANGE,P42；Max deviation 实测 OLD=±1.8% / −1.8% to +1.1% → NEW=±1.8% / ±1.8%
+Table 8 派生带,t8_HSI_WEIGHT_BAND,HSI 权重带（P66 的 ±17%）,−15% to +17%,稿件现值（旧层口径）,−15% to +17%,docs\_Table8_WP6重算.csv（WP6 实测）,1,%,same,P66；Max deviation 实测 OLD=−15% to +17% → NEW=−15% to +17%
+Table 8 派生带,t8_CFCI_TARGET_RHO_BAND,CFCI 目标 ρ 带（P66 的 −0.8% to ≈0%）,−0.8% to ≈0%,稿件现值（旧层口径）,−0.2% to +0.6%,docs\_Table8_WP6重算.csv（WP6 实测）,1,%,CHANGE,P66；Max deviation 实测 OLD=−0.8% to ≈0% → NEW=−0.2% to +0.6%
+Table 8 派生带,t8_TC_IMPACT_V_THRESH,TC 起损阈值带（P79 的 −23% to +31%）,−23% to +31%,稿件现值（旧层口径）,−23% to +31%,docs\_Table8_WP6重算.csv（WP6 实测）,1,%,same,P79；Max deviation 实测 OLD=−23% to +31% → NEW=−23% to +31%
+Table 8,t8_SURGE_MDR_CALIBRATION_SCALE,Surge MDR calibration scale,−11% to +18%,稿件 Table 8 现状（旧层口径）,−11% to +18%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,same,baseline=0.176 range=0.10–0.30 index=EAL dev=range0 metric=DEF_EAL_historical_baseline_nodef [扫描件 2 个] | OLD dev=−11% to +18% → NEW dev=−11% to +18%
+Table 8,t8_TC_V_HALF_BASE_SCALE,TC $V_{half}$ base scale,−13% to +16%,稿件 Table 8 现状（旧层口径）,−13% to +16%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,CHANGE,baseline=1.0 range=0.85–1.15 index=EAL dev=range0 metric=DEF_EAL_historical_baseline_nodef [扫描件 2 个] | OLD dev=−13% to +16% → NEW dev=−13% to +16%
+Table 8,t8_TC_IMPACT_V_THRESH,TC onset threshold $V_{thresh}$,−23% to +31%,稿件 Table 8 现状（旧层口径）,−23% to +31%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,CHANGE,baseline=25.7 m/s range=23.0–28.5 index=EAL dev=range0 metric=DEF_EAL_historical_baseline_nodef [扫描件 2 个] | OLD dev=−23% to +31% → NEW dev=−23% to +31%
+Table 8,t8_GAMMA_SVI,Surge vulnerability index $\gamma_{SVI}$,−6.3% to +6.3%,稿件 Table 8 现状（旧层口径）,−6% to +6%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,CHANGE,baseline=0.15 range=0.00–0.30 index=EAL dev=range0 metric=DEF_EAL_historical_baseline_nodef [扫描件 2 个] | OLD dev=−6.3% to +6.3% → NEW dev=−6% to +6%
+Table 8,t8_V_HALF_ADJ_A_old,$V_{half}$ adj. A\_old (pre-02 low-rise),−6% to +14%,稿件 Table 8 现状（旧层口径）,−6% to +14%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,CHANGE,baseline=0.80 range=0.68–0.92 index=EAL dev=range0 metric=DEF_EAL_historical_baseline_nodef [扫描件 2 个] | OLD dev=−6% to +14% → NEW dev=−6% to +14%
+Table 8,t8_V_HALF_ADJ_A_new,$V_{half}$ adj. A\_new (02+ low-rise),−4% to +9%,稿件 Table 8 现状（旧层口径）,−4% to +9%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,CHANGE,baseline=0.90 range=0.77–1.03 index=EAL dev=range0 metric=DEF_EAL_historical_baseline_nodef [扫描件 2 个] | OLD dev=−4% to +9% → NEW dev=−4% to +9%
+Table 8,t8_V_HALF_ADJ_B_old,$V_{half}$ adj. B\_old (pre-10 mid-rise),−9% to +19%,稿件 Table 8 现状（旧层口径）,−9% to +19%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,CHANGE,baseline=0.95 range=0.81–1.09 index=EAL dev=range0 metric=DEF_EAL_historical_baseline_nodef [扫描件 2 个] | OLD dev=−9% to +19% → NEW dev=−9% to +19%
+Table 8,t8_V_HALF_ADJ_B_new,$V_{half}$ adj. B\_new (10+ mid-rise),−8% to +18%,稿件 Table 8 现状（旧层口径）,−8% to +18%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,same,baseline=1.00 range=0.85–1.15 index=EAL dev=range0 metric=DEF_EAL_historical_baseline_nodef [扫描件 2 个] | OLD dev=−8% to +18% → NEW dev=−8% to +18%
+Table 8,t8_V_HALF_ADJ_C,$V_{half}$ adj. C (high-rise),0%,稿件 Table 8 现状（旧层口径）,$\approx$0%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,CHANGE,baseline=1.05 range=0.89–1.21 index=EAL dev=approx0 metric=DEF_EAL_historical_baseline_nodef [扫描件 2 个] | OLD dev=0% → NEW dev=$\approx$0% | ⏸保留稿件 0%（重算 ≈0%，数值等价）— 裁定 #16 未表态，默认不改
+Table 8,t8_V_HALF_ADJ_D,$V_{half}$ adj. D (commercial),−3% to +5%,稿件 Table 8 现状（旧层口径）,−3% to +5%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,same,baseline=1.10 range=0.94–1.27 index=EAL dev=range0 metric=DEF_EAL_historical_baseline_nodef [扫描件 2 个] | OLD dev=−3% to +5% → NEW dev=−3% to +5%
+Table 8,t8_CRI_EWMA_ALPHA,CRI EWMA decay ($\alpha$),±1.8%,稿件 Table 8 现状（旧层口径）,±1.8%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,CHANGE,baseline=0.85 range=0.70–0.95 index=CRI dev=pm1 metric=CRI_2050_p50_Historical Baseline [扫描件 2 个] | OLD dev=±1.8% → NEW dev=±1.8%
+Table 8,t8_CRI_DAMAGE_KAPPA,CRI damage boost cap ($\kappa_d$),−1.8% to +1.1%,稿件 Table 8 现状（旧层口径）,±1.8%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,CHANGE,baseline=0.50 range=0.00–1.00 index=CRI dev=pm1 metric=CRI_2050_p50_Historical Baseline [扫描件 2 个] | OLD dev=−1.8% to +1.1% → NEW dev=±1.8%
+Table 8,t8_HP_LAMBDA,HP filter $\lambda$,−2.3% to +4.2%,稿件 Table 8 现状（旧层口径）,−2% to +4%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,CHANGE,"baseline=129,600 range=14,400–518,400 index=FRI dev=range0 metric=FRI_2050_p50_Historical Baseline [扫描件 2 个] | OLD dev=−2.3% to +4.2% → NEW dev=−2% to +4%"
+Table 8,t8_VOLATILITY_WINDOW,Volatility window,≈0% to +2.6%,稿件 Table 8 现状（旧层口径）,−0.1% to +2.6%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,CHANGE,baseline=12 mo range=6–24 mo index=FRI dev=range1 metric=FRI_2050_p50_Historical Baseline [扫描件 2 个] | OLD dev=≈0% to +2.6% → NEW dev=−0.1% to +2.6% | ★采用重算值 −0.1% to +2.6%（原 ≈0% to +2.6%）— 作者裁定 #15
+Table 8,t8_CFI_WEIGHT_SLA,Hazard SLA weight,−4.1% to +5.3%,稿件 Table 8 现状（旧层口径）,−4.1% to +5.3%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,CHANGE,baseline=0.25 range=0.10–0.50 index=CRI dev=range1 metric=CRI_2050_p50_Historical Baseline [扫描件 2 个] | OLD dev=−4.1% to +5.3% → NEW dev=−4.1% to +5.3%
+Table 8,t8_FRI_WEIGHT_GAP,FRI sub-indicator weights,−15% to +17%,稿件 Table 8 现状（旧层口径）,−15% to +17%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,same,baseline=Equal range=See note index=FRI dev=range0 metric=FRI_2050_p50_Historical Baseline [扫描件 2 个] | OLD dev=−15% to +17% → NEW dev=−15% to +17%
+Table 8,t8_CFCI_TARGET_RHO,CFCI target $\rho$,−0.8% to ≈0%,稿件 Table 8 现状（旧层口径）,−0.2% to +0.6%,docs\_Table8_WP6重算.csv（WP6 实测）,1,,CHANGE,baseline=0.411 range=0.0–0.8 index=CFCI dev=range1 metric=CFCI_2050_p50_Historical Baseline [扫描件 2 个] | OLD dev=−0.8% to ≈0% → NEW dev=−0.2% to +0.6% | ★采用重算值 −0.2% to +0.6%（原 −0.8% to ≈0%）— 作者裁定 #14

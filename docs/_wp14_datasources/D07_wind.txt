@@ -1,0 +1,173 @@
+【会员专享数据】1951—2024年我国逐日\逐月\逐年全风速栅格
+数据
+小黄鸭 立方数据学社 2025年11月2日 12:00 上海   听全文
+
+
+近地表气象数据集在各项研究中使用频率非常高，陆地、水文和生态系统模型等都需要输入
+
+网格化的近地表气象数据集。尤其是高精度、高分辨率、长时间序列的数据产品使用人数较
+
+多。之前我们分享了1951—2024年中国逐3小时\逐日\逐月\逐年多指标气象数据（   戳我
+
+跳转）。原始数据集下载于国家青藏高原科学数据中心，包括11个指标的气象数据，数据格
+
+式为nc格式！为了方便大家使用，我们将数据转为更经常使用的栅格（tif）格式数据分享给
+
+大家！
+
+
+本次我们分享的是1951—2024年我国逐日\逐月\逐年全风速（wind）栅格数据！数据时间
+
+分辨率包括逐日平均、逐月平均、逐年平均三种时间精度。空间分辨率为0.1°，数据格式为
+
+栅格（tif）格式。数据单位为m s -1 。
+
+
+该数据只对立方数据学社会员开放，在本公众号后台回复关键词 会员 可得到会员规则和办理
+方式。对于已经是会员的同学，请向会员客服发放关词 252A 获取该数据。以下为数据的详
+
+细介绍：
+
+
+ 01    数据展示
+
+1951-2024年逐日、逐月和逐年的数据各自汇总为一个文件夹：
+
+
+
+
+三种时间精度的文件夹均按照年份对栅格文件进行汇总，1951-2024年共有74个文件夹，以
+
+逐日数据为例来预览一下：
+我们具体来预览一下2024年12月31日的全风速栅格数据：
+
+
+
+
+  02    数据的其他信息
+
+数据来源：
+
+原始数据集由来自清华大学地球系统科学系阳坤教授课题组研究完成，并于2020年1月21日
+
+发 表 在 《 Scientific Data 》 期 刊 上 ， 论 文 题 目 为 《 The first high-resolution
+
+meteorological forcing dataset for land process studies over China》。该篇论文发
+
+布了过去十年间阳坤团队开发的一套服务于陆面、水文、生态等地表过程模型的中国高时空
+
+分辨率气象数据集。该套数据是通过将地面原位站点观测数据与遥感产品和再分析数据集的
+几个融合而成，因其2.0版本（CMFD 2.0）融合了欧洲中期天气预报中心ERA5再分析数据与
+
+气象台站观测数据，并在辐射、降水数据产品中集成了采用人工智能技术制作的ISCCP-ITP-
+
+CNN和TPHiPr数据产品，其数据精度较CMFD的上一代产品有显著提升。目前该数据集已在
+National Tibetan Plateau / Third Pole Environment Data Center平台更新至2024年。
+
+数据下载：
+
+原始数据可从国家青藏高原科学数据中心下载获取，具体网址为：
+
+https://data.tpdc.ac.cn/en/data/e60dfd96-5fd8-493f-beae-e8e5d24dece4
+
+数据格式：
+
+栅格（tif）
+
+数据时间：
+
+1951年至2024年
+
+时间分辨率：
+日平均、月平均、年平均
+
+数据单位：
+
+m s -1
+
+空间分辨率：
+
+0.1°
+
+地理坐标系：
+
+GCS_WGS_1984
+
+空间范围：
+
+70°E~140°E，15°N~55°N空间范围内的陆地区域（包含中国大陆）
+
+数据引用：
+
+He, J., Yang, K., Li, X., Tang, W., Shao, C., Jiang, Y., Ding, B. (2024). China
+
+meteorological forcing dataset v2.0 (1951-2024). National Tibetan Plateau / Third
+
+Pole Environment Data Center. https://doi.org/10.11888/Atmos.tpdc.302088.
+
+https://cstr.cn/18406.11.Atmos.tpdc.302088.
+
+论文引用：
+
+1、He, J., Yang, K., Tang, W., Lu, H., Qin, J., Chen, Y. Y., & Li, X. (2020). The first
+
+high-resolution meteorological forcing dataset for land process studies over
+
+China. Scientific Data, 7(1), 25. https://doi.org/10.1038/s41597-020-0369-y
+
+2、Tang, W., Yang, K., Qin, J., Li, X., & Niu, X. (2019). A 16-year dataset (2000–
+
+2015) of high-resolution (3h, 10km) global surface solar radiation. Earth Syst. Sci.
+
+Data, 11, 1905–1915, https://doi.org/10.5194/essd-11-1905-2019.
+
+3、Jiang, Y., Yang, K., Qi, Y., Zhou, X., He, J., Lu, H., Li, X., Chen, Y., Li, X.D., Zhou, B.,
+
+Mamtimin, A., Shao, C., Ma, X., Tian, J., & Zhou, J. (2023). TPHiPr: a long-term
+
+(1979–2020) high-accuracy precipitation dataset (1/30◦, daily) for the Third Pole
+
+region based on high-resolution atmospheric modeling and dense observations.
+
+Earth Syst. Sci. Data 15, 621–638. https://doi.org/10.5194/essd-15-621-2023
+
+4、Shao, C., Yang, K., Tang, W., He, Y., Jiang, Y., Lu, H., Fu, H., & Zheng, J. (2022).
+
+Convolutional neural network-based homogenization for constructing a long-term
+
+global surface solar radiation dataset. Renewable and Sustainable Energy Reviews,
+
+169(September), 112952. DOI: 10.1016/j.rser.2022.112952
+
+如有数据使用需求请按照官方平台的要求进行引用，更多数据详情可以查看官网获悉！
+
+
+   03     数据获取
+该数据只向数据会员开放
+
+ 在公众号回复关键词
+
+     会员
+
+可得到会员规则和办理方式
+
+
+
+ 对于已经是会员的同学
+
+请向会员客服发放关键词
+
+    252A
+   获取该数据
+-----------关注公众号----------
+          立方数据学社
+          公众号持续分享各类开源城市数据！目前已分享几百种数据！
+          507篇原创内容
+
+
+ 公众号
+
+
+
+阅读 1071
+

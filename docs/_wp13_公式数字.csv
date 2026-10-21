@@ -1,0 +1,98 @@
+row_id,kind,carrier,seq,token,value,digits,cls,bind,expected,verdict,evidence,context,note
+P59,paragraph,m:t,1,"129,600",129600.0,0,MATH-CONST,metric:p.Finance.HP_LAMBDA,129600,OK-MATH-CONST,p.Finance.HP_LAMBDA = 129600 (Finance\00_config.py),"λ=129,600","HP monthly smoothing parameter, Figure 10 caption"
+P62,paragraph,m:t,1,0.358,0.358,3,MATH-CONST,metric:p.Composite.CFCI_TARGET_RHO,0.358,OK-MATH-CONST,p.Composite.CFCI_TARGET_RHO = 0.358 (Composite\00_config.py),ρ=0.358,"dependence target, Figure 11 caption"
+T5#r1c3,table_cell,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",CRI=H×E×V×(1+κ_dS),constant term of (1 + kappa_d S)
+T5#r2c3,table_cell,m:t,1,1,1.0,0,MATH-FRAC,frac:1/3,1/3,OK-MATH-FRAC,"FRI_WEIGHTS = [0.333333, 0.333333, 0.333333] vs 1/3",HSI_t^raw=(1)/(3)(G_t+σ_t+CVaR_t),"equal weight, numerator"
+T5#r2c3,table_cell,m:t,2,3,3.0,0,MATH-FRAC,frac:1/3,1/3,OK-MATH-FRAC,"FRI_WEIGHTS = [0.333333, 0.333333, 0.333333] vs 1/3",HSI_t^raw=(1)/(3)(G_t+σ_t+CVaR_t),"equal weight, denominator"
+P136,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",(1+ΔISR_d)(1+κ⋅MDR_wind) | κ,constant term of (1 + dISR)
+P136,paragraph,m:t,2,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",(1+ΔISR_d)(1+κ⋅MDR_wind) | κ,constant term of (1 + kappa MDR)
+P157,paragraph,m:t,1,"129,600",129600.0,0,MATH-CONST,metric:p.Finance.HP_LAMBDA,129600,OK-MATH-CONST,p.Finance.HP_LAMBDA = 129600 (Finance\00_config.py),"λ=129,600",HP monthly smoothing parameter (Methods 1.7)
+P160,paragraph,m:t,1,1,1.0,0,MATH-FRAC,frac:1/3,1/3,OK-MATH-FRAC,"FRI_WEIGHTS = [0.333333, 0.333333, 0.333333] vs 1/3",HSI_t^raw=(1)/(3)(G_t+σ_t+CVaR_t) | HSI_t^raw,"equal weight, numerator"
+P160,paragraph,m:t,2,3,3.0,0,MATH-FRAC,frac:1/3,1/3,OK-MATH-FRAC,"FRI_WEIGHTS = [0.333333, 0.333333, 0.333333] vs 1/3",HSI_t^raw=(1)/(3)(G_t+σ_t+CVaR_t) | HSI_t^raw,"equal weight, denominator"
+P192,paragraph,m:t,1,550,550.0,0,MATH-CONST,metric:p.Climate.L_SHELF_M,550,OK-MATH-CONST,p.Climate.L_SHELF_M = 550000.0 (Climate\00_config.py),L_shelf=550 | h_shelf=55,"effective shelf width printed in km (L_SHELF_M = 550,000 m)"
+P192,paragraph,m:t,2,55,55.0,0,MATH-CONST,metric:p.Climate.H_SHELF_M,55,OK-MATH-CONST,p.Climate.H_SHELF_M = 55.0 (Climate\00_config.py),L_shelf=550 | h_shelf=55,mean shelf depth printed in m
+P320,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",CRI(t)=H(t)×E(t)×V(t)×1+κ_d⋅S(t),constant term of (1 + kappa_d S)
+P322,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","d_t=(ln 1+M_t/EAL_mo)/(s_max), S_t=α⋅S_t-1+(1-α)⋅d_t",constant term inside ln(1 + M/EAL)
+P322,paragraph,m:t,2,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","d_t=(ln 1+M_t/EAL_mo)/(s_max), S_t=α⋅S_t-1+(1-α)⋅d_t",lag weight constant
+P322,paragraph,m:t,3,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","d_t=(ln 1+M_t/EAL_mo)/(s_max), S_t=α⋅S_t-1+(1-α)⋅d_t",constant term of (1 - alpha)
+P323,paragraph,m:t,1,0.85,0.85,2,MATH-CONST,metric:p.Climate.CRI_EWMA_ALPHA,0.85,OK-MATH-CONST,p.Climate.CRI_EWMA_ALPHA = 0.85 (Climate\00_config.py),α=0.85 | M_t | s_max,EWMA smoothing parameter
+P326,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",V(r)=V_max(R_max)/(r)^Bexp 1-(R_max)/(r)^B,constant term of the Holland profile
+P334,paragraph,m:t,1,2,2.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",S_wind=(ρ_a)/(ρ_w)⋅C_d⋅(V_coast^2⋅L_eff)/(g⋅h_shelf),squared wind speed in the surge set-up
+P335,paragraph,m:t,1,3,3.0,0,MATH-CONST,metric:p.Climate.FETCH_RMAX_FACTOR,3,OK-MATH-CONST,p.Climate.FETCH_RMAX_FACTOR = 3.0 (Climate\00_config.py),"L_eff=min(L_shelf, 3×R_max)",effective fetch = 3 x R_max
+P337,paragraph,m:t,1,0.75,0.75,2,MATH-SRC,src:Climate/climate_functions.py:0.75,0.75,OK-MATH-SRC,Climate/climate_functions.py: '0.75' x1,"C_d=min 0.75+0.067⋅V_coast×10^-3, 2.5×10^-3",drag coefficient intercept
+P337,paragraph,m:t,2,0.067,0.067,3,MATH-SRC,src:Climate/climate_functions.py:0.067,0.067,OK-MATH-SRC,Climate/climate_functions.py: '0.067' x1,"C_d=min 0.75+0.067⋅V_coast×10^-3, 2.5×10^-3",drag coefficient slope per m/s
+P337,paragraph,m:t,3,10^-3,0.001,0,MATH-SRC,src:Climate/climate_functions.py:1e-3,0.001,OK-MATH-SRC,Climate/climate_functions.py: '1e-3' x1,"C_d=min 0.75+0.067⋅V_coast×10^-3, 2.5×10^-3",10^-3 scaling of the drag coefficients
+P337,paragraph,m:t,4,2.5,2.5,1,MATH-CONST,metric:p.Climate.CD_MAX,2.5,OK-MATH-CONST,p.Climate.CD_MAX = 0.0025 (Climate\00_config.py),"C_d=min 0.75+0.067⋅V_coast×10^-3, 2.5×10^-3",cap of the drag coefficient (printed as 2.5 x 10^-3)
+P337,paragraph,m:t,5,10^-3,0.001,0,MATH-SRC,src:Climate/climate_functions.py:1e-3,0.001,OK-MATH-SRC,Climate/climate_functions.py: '1e-3' x1,"C_d=min 0.75+0.067⋅V_coast×10^-3, 2.5×10^-3",10^-3 scaling of the drag cap
+P339,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","h_inundation(x)=1_{d_coast(x)≤R_pen}⋅minmax(TWL-z_terrain(x), 0), h_over⋅exp-γ⋅(d_coast(x))/(R_pen)",indicator function 1{...}
+P339,paragraph,m:t,2,0,0.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","h_inundation(x)=1_{d_coast(x)≤R_pen}⋅minmax(TWL-z_terrain(x), 0), h_over⋅exp-γ⋅(d_coast(x))/(R_pen)",depth floor inside max(...)
+P342,paragraph,m:t,1,0,0.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","h_over=max(TWL-z_defense, 0)",overtopping depth floor
+P346,paragraph,m:t,1,0,0.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","u=clamp(TWL-TWL_trigger)/(TWL_ref-TWL_trigger), 0, 1, s_0(u)=u^2(3-2u)",clamp lower bound
+P346,paragraph,m:t,2,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","u=clamp(TWL-TWL_trigger)/(TWL_ref-TWL_trigger), 0, 1, s_0(u)=u^2(3-2u)",clamp upper bound
+P346,paragraph,m:t,3,0,0.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","u=clamp(TWL-TWL_trigger)/(TWL_ref-TWL_trigger), 0, 1, s_0(u)=u^2(3-2u)",clamp lower bound
+P346,paragraph,m:t,4,2,2.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","u=clamp(TWL-TWL_trigger)/(TWL_ref-TWL_trigger), 0, 1, s_0(u)=u^2(3-2u)",exponent of the smoothstep
+P346,paragraph,m:t,5,3,3.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","u=clamp(TWL-TWL_trigger)/(TWL_ref-TWL_trigger), 0, 1, s_0(u)=u^2(3-2u)",smoothstep polynomial coefficient
+P346,paragraph,m:t,6,2,2.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","u=clamp(TWL-TWL_trigger)/(TWL_ref-TWL_trigger), 0, 1, s_0(u)=u^2(3-2u)",smoothstep polynomial coefficient
+P347,paragraph,m:t,1,0,0.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","s(TWL)=clampmaxs_0(u), (TWL-TWL_ref)/(TWL_full-TWL_ref), 0, 1",clamp lower bound
+P347,paragraph,m:t,2,0,0.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","s(TWL)=clampmaxs_0(u), (TWL-TWL_ref)/(TWL_full-TWL_ref), 0, 1",clamp lower bound
+P347,paragraph,m:t,3,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","s(TWL)=clampmaxs_0(u), (TWL-TWL_ref)/(TWL_full-TWL_ref), 0, 1",clamp upper bound
+P349,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","s_nodef(TWL)=1_{TWL>0}⋅smoothstepclamp(TWL)/(TWL_open), 0, 1",indicator function 1{TWL>0}
+P349,paragraph,m:t,2,0,0.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","s_nodef(TWL)=1_{TWL>0}⋅smoothstepclamp(TWL)/(TWL_open), 0, 1",indicator threshold
+P349,paragraph,m:t,3,0,0.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","s_nodef(TWL)=1_{TWL>0}⋅smoothstepclamp(TWL)/(TWL_open), 0, 1",clamp lower bound
+P349,paragraph,m:t,4,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","s_nodef(TWL)=1_{TWL>0}⋅smoothstepclamp(TWL)/(TWL_open), 0, 1",clamp upper bound
+P351,paragraph,m:t,1,2,2.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",wind factor=f_intensity^2,exponent of the intensity factor
+P354,paragraph,m:t,1,3,3.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","MDR(v)=(v^3)/(1+v^3), v=(max(|V|-V_thresh, 0))/(V_half-V_thresh)",exponent of the Emanuel MDR sigmoid
+P354,paragraph,m:t,2,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","MDR(v)=(v^3)/(1+v^3), v=(max(|V|-V_thresh, 0))/(V_half-V_thresh)",constant term of 1 + v^3
+P354,paragraph,m:t,3,3,3.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","MDR(v)=(v^3)/(1+v^3), v=(max(|V|-V_thresh, 0))/(V_half-V_thresh)",exponent of the Emanuel MDR sigmoid
+P354,paragraph,m:t,4,0,0.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","MDR(v)=(v^3)/(1+v^3), v=(max(|V|-V_thresh, 0))/(V_half-V_thresh)","floor of max(|V|-V_thresh, 0)"
+P356,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",Risk_corrected=Risk_base×α_temp(t)×(1+γ_SVI×SVI),constant term of the SVI amplifier
+P361,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","MDR_compound=1-(1-MDR_wind)(1-MDR_surge,eff)",outer constant term of the compound MDR
+P361,paragraph,m:t,2,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","MDR_compound=1-(1-MDR_wind)(1-MDR_surge,eff)",wind-damage constant term
+P361,paragraph,m:t,3,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","MDR_compound=1-(1-MDR_wind)(1-MDR_surge,eff)",surge-damage constant term
+P363,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",h_eff=h_base×(1+Δ_ISR)×(1+κ⋅MDR_wind),constant term of (1 + dISR)
+P363,paragraph,m:t,2,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",h_eff=h_base×(1+Δ_ISR)×(1+κ⋅MDR_wind),constant term of (1 + kappa MDR)
+P366,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",CRI_t^raw=H_t×E_t×V_t×(1+κ_dS_t),constant term of (1 + kappa_d S)
+P368,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","M_t=j=1N_tL_t,j, N_t∼Poisson(λ_s), L_t,j∼LogNormal(μ_log+δ_s, σ_log)",lower summation bound j = 1
+P369,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","d_t=(log 1+M_t/EAL_mo)/(s_max), S_t=α_EWMAS_t-1+(1-α_EWMA)d_t",constant term inside log(1 + M/EAL)
+P369,paragraph,m:t,2,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","d_t=(log 1+M_t/EAL_mo)/(s_max), S_t=α_EWMAS_t-1+(1-α_EWMA)d_t",lag weight constant
+P369,paragraph,m:t,3,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","d_t=(log 1+M_t/EAL_mo)/(s_max), S_t=α_EWMAS_t-1+(1-α_EWMA)d_t",constant term of (1 - alpha)
+P371,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",Z_t+1=Z_t+θ_slow(0-Z_t)+σ_slowε_t^Z,time index t+1
+P371,paragraph,m:t,2,0,0.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",Z_t+1=Z_t+θ_slow(0-Z_t)+σ_slowε_t^Z,mean-reversion level of Z
+P372,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",H_t+1^ds=H_t^ds+θ_Hμ_H+β_st+Z_t+1-H_t^ds+σ_Hε_t^H,time index t+1
+P372,paragraph,m:t,2,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",H_t+1^ds=H_t^ds+θ_Hμ_H+β_st+Z_t+1-H_t^ds+σ_Hε_t^H,time index t+1
+P373,paragraph,m:t,1,0,0.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","H_t=clipH_t^ds+a_m(t), 0, 1",clip lower bound
+P373,paragraph,m:t,2,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","H_t=clipH_t^ds+a_m(t), 0, 1",clip upper bound
+P375,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","E_y+1=clipE_y+r_EE_y 1-(E_y)/(K_E)+σ_EE_y 1-(E_y)/(K_E)ε_y^E, E_floor, K_E",logistic capacity term
+P375,paragraph,m:t,2,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","E_y+1=clipE_y+r_EE_y 1-(E_y)/(K_E)+σ_EE_y 1-(E_y)/(K_E)ε_y^E, E_floor, K_E",logistic capacity term
+P375,paragraph,m:t,3,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","E_y+1=clipE_y+r_EE_y 1-(E_y)/(K_E)+σ_EE_y 1-(E_y)/(K_E)ε_y^E, E_floor, K_E",logistic capacity term
+P376,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","V_y+1=clipV_y+r_VV_y 1-(V_y)/(K_V)+σ_VV_y 1-(V_y)/(K_V)ε_y^V, V_floor, K_V",logistic capacity term
+P376,paragraph,m:t,2,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","V_y+1=clipV_y+r_VV_y 1-(V_y)/(K_V)+σ_VV_y 1-(V_y)/(K_V)ε_y^V, V_floor, K_V",logistic capacity term
+P376,paragraph,m:t,3,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","V_y+1=clipV_y+r_VV_y 1-(V_y)/(K_V)+σ_VV_y 1-(V_y)/(K_V)ε_y^V, V_floor, K_V",logistic capacity term
+P378,paragraph,m:t,1,100,100.0,0,MATH-CONST,metric:p.Climate.CRI_BASE_INDEX,100,OK-MATH-CONST,p.Climate.CRI_BASE_INDEX = 100.0 (Climate\00_config.py),CRI_t=100×(MA_12(CRI_t^raw))/(MA_12(CRI_t_0^raw)),CRI base level
+P378,paragraph,m:t,2,12,12.0,0,MATH-SRC,src:Climate/07_climate_index.py:rolling(12,12,OK-MATH-SRC,Climate/07_climate_index.py: 'rolling(12' x1,CRI_t=100×(MA_12(CRI_t^raw))/(MA_12(CRI_t_0^raw)),moving-average window in the CRI normalisation
+P378,paragraph,m:t,3,12,12.0,0,MATH-SRC,src:Climate/07_climate_index.py:rolling(12,12,OK-MATH-SRC,Climate/07_climate_index.py: 'rolling(12' x1,CRI_t=100×(MA_12(CRI_t^raw))/(MA_12(CRI_t_0^raw)),moving-average window in the CRI normalisation
+P378,paragraph,m:t,4,0,0.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",CRI_t=100×(MA_12(CRI_t^raw))/(MA_12(CRI_t_0^raw)),subscript of the base month t0
+P381,paragraph,m:t,1,1,1.0,0,MATH-FRAC,frac:1/3,1/3,OK-MATH-FRAC,"FRI_WEIGHTS = [0.333333, 0.333333, 0.333333] vs 1/3",HSI_t^raw=(1)/(3)(G_t+σ_t+CVaR_t),"equal weight, numerator"
+P381,paragraph,m:t,2,3,3.0,0,MATH-FRAC,frac:1/3,1/3,OK-MATH-FRAC,"FRI_WEIGHTS = [0.333333, 0.333333, 0.333333] vs 1/3",HSI_t^raw=(1)/(3)(G_t+σ_t+CVaR_t),"equal weight, denominator"
+P383,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",G_t=|P_t/P_t-1|,constant term of the relative gap
+P385,paragraph,m:t,1,12,12.0,0,MATH-CONST,metric:p.Finance.VOLATILITY_WINDOW,12,OK-MATH-CONST,p.Finance.VOLATILITY_WINDOW = 12 (Finance\00_config.py),σ_t=sd_12(ΔlogP_t),rolling window of the realised volatility
+P387,paragraph,m:t,1,1600,1600.0,0,MATH-IDENT,ident:1600*(12/4)**4,129600,OK-MATH-IDENT,identity 1600*(12/4)**4 = 129600.0; equation closes on 129600.0,"λ=1600×(12/4)^4=129,600",annual HP smoothing parameter; the printed identity must close
+P387,paragraph,m:t,2,12,12.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","λ=1600×(12/4)^4=129,600",months per year in the conversion
+P387,paragraph,m:t,3,4,4.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","λ=1600×(12/4)^4=129,600",months per quarter in the conversion
+P387,paragraph,m:t,4,4,4.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","λ=1600×(12/4)^4=129,600",power-law exponent of the HP convention
+P387,paragraph,m:t,5,"129,600",129600.0,0,MATH-CONST,metric:p.Finance.HP_LAMBDA,129600,OK-MATH-CONST,p.Finance.HP_LAMBDA = 129600 (Finance\00_config.py),"λ=1600×(12/4)^4=129,600",monthly HP smoothing parameter = 1600 x (12/4)^4
+P389,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","logP_t+1=logP_t+θlogP_t+1-logP_t+σε_t+k=1N_tY_t,k",time index t+1
+P389,paragraph,m:t,2,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","logP_t+1=logP_t+θlogP_t+1-logP_t+σε_t+k=1N_tY_t,k",time index t+1
+P389,paragraph,m:t,3,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","logP_t+1=logP_t+θlogP_t+1-logP_t+σε_t+k=1N_tY_t,k",lower summation bound k = 1
+P390,paragraph,m:t,1,2,2.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","N_t∼Poisson(λ_s), Y_t,k∼N(μ_J,σ_J^2)",variance exponent of the jump size
+P394,paragraph,m:t,1,2025,2025.0,0,MATH-CONST,metric:data.cprice.y1,2025,OK-MATH-CONST,data.cprice.y1 = 2025 (Climate\00_config.py),CVaR_y^scaled=CVaR_y^raw×(P_y)/(P_2025),"last year of the city price series, the CVaR deflator base"
+P396,paragraph,m:t,1,100,100.0,0,MATH-CONST,metric:p.Finance.FRI_BASE_INDEX,100,OK-MATH-CONST,p.Finance.FRI_BASE_INDEX = 100.0 (Finance\00_config.py),HSI_t=100×(MA_12(HSI_t^raw))/(MA_12(HSI_t_0^raw)),HSI base level
+P396,paragraph,m:t,2,12,12.0,0,MATH-CONST,metric:p.Finance.VOLATILITY_WINDOW,12,OK-MATH-CONST,p.Finance.VOLATILITY_WINDOW = 12 (Finance\00_config.py),HSI_t=100×(MA_12(HSI_t^raw))/(MA_12(HSI_t_0^raw)),moving-average window in the HSI normalisation
+P396,paragraph,m:t,3,12,12.0,0,MATH-CONST,metric:p.Finance.VOLATILITY_WINDOW,12,OK-MATH-CONST,p.Finance.VOLATILITY_WINDOW = 12 (Finance\00_config.py),HSI_t=100×(MA_12(HSI_t^raw))/(MA_12(HSI_t_0^raw)),moving-average window in the HSI normalisation
+P396,paragraph,m:t,4,0,0.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content",HSI_t=100×(MA_12(HSI_t^raw))/(MA_12(HSI_t_0^raw)),subscript of the base month t0
+P401,paragraph,m:t,1,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","C_i=(1)/(T)t=1TCRI_i,t, H_i=(1)/(T)t=1THSI_i,t",numerator of 1/T
+P401,paragraph,m:t,2,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","C_i=(1)/(T)t=1TCRI_i,t, H_i=(1)/(T)t=1THSI_i,t",numerator of 1/T
+P401,paragraph,m:t,3,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","C_i=(1)/(T)t=1TCRI_i,t, H_i=(1)/(T)t=1THSI_i,t",lower summation bound
+P401,paragraph,m:t,4,1,1.0,0,MATH-NOTATION,notation,,OK-MATH-NOTATION,"symbol index / exponent, no data content","C_i=(1)/(T)t=1TCRI_i,t, H_i=(1)/(T)t=1THSI_i,t",lower summation bound
+P402,paragraph,m:t,1,0.358,0.358,3,MATH-CONST,metric:p.Composite.CFCI_TARGET_RHO,0.358,OK-MATH-CONST,p.Composite.CFCI_TARGET_RHO = 0.358 (Composite\00_config.py),ρ=0.358,dependence target of the Iman-Conover reordering
+P404,paragraph,m:t,1,0.358,0.358,3,MATH-CONST,metric:p.Composite.CFCI_TARGET_RHO,0.358,OK-MATH-CONST,p.Composite.CFCI_TARGET_RHO = 0.358 (Composite\00_config.py),ρ=0.358,dependence target of the Iman-Conover reordering

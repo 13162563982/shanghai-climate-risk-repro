@@ -1,0 +1,61 @@
+row_id,kind,surname,year,doi,verdict,detail
+P255,reference,Arcadis,2020,,OK-BIB-STRUCT,no DOI: structural check only (report / working paper / web)
+P256,reference,Aznar-Siguan,2019,10.5194/gmd-12-3085-2019,OK-BIB-DOI,OK: year '2019' ; OK: volume '12' ; OK: pages '3085–3097' ; OK: author 'Aznar-Siguan' ; record: crossref | CLIMADA v1: a global weather and climate risk assessment platform 2019
+P257,reference,Bakkensen,2017,10.3386/w23854,OK-BIB-DOI,OK: year '2017' ; OK: author 'Bakkensen' ; record: crossref | Flood Risk Belief Heterogeneity and Coastal Home Price Dynamics: Going 2017
+P258,reference,Baldauf,2020,10.1093/rfs/hhz073,OK-BIB-DOI,OK: year '2020' ; OK: volume '33' ; OK: pages '1256–1295' ; OK: author 'Baldauf' ; record: crossref | Does Climate Change Affect Real Estate Prices? Only If You Believe In  2020
+P259,reference,Bernstein,2019,10.1016/j.jfineco.2019.03.013,OK-BIB-DOI,OK: year '2019' ; OK: volume '134' ; OK: pages '253–272' ; OK: author 'Bernstein' ; record: crossref | Disaster on the horizon: The price effect of sea level rise 2019
+P260,reference,Bin,2013,10.1016/j.jeem.2012.12.002,OK-BIB-DOI,OK: year '2013' ; OK: volume '65' ; OK: pages '361–376' ; OK: author 'Bin' ; record: crossref | Changes in implicit flood risk premiums: Empirical evidence from the h 2013
+P261,reference,Bresch,2021,10.5194/gmd-14-351-2021,OK-BIB-DOI,OK: year '2021' ; OK: volume '14' ; OK: pages '351–363' ; OK: author 'Bresch' ; record: crossref | CLIMADA v1.4.1: towards a globally consistent  adaptation options appr 2021
+P262,reference,Case,1989,,OK-BIB-STRUCT,no DOI: structural check only (report / working paper / web)
+P263,reference,Chan,2000,10.1175/1520-0442(2000)013<2960:TCAOTW>2.0.CO;2,OK-BIB-DOI,OK: year '2000' ; OK: volume '13' ; OK: pages '2960–2972' ; OK: author 'Chan' ; record: crossref | Tropical Cyclone Activity over the Western North Pacific Associated wi 2000
+P264,reference,Chandra-Putra,2020,10.1111/jiec.12957,OK-BIB-DOI-MINOR,MINOR: year 2020 vs record 2019 ; OK: volume '24' ; OK: pages '424–435' ; OK: author 'Chandra-Putra' ; record: crossref | An integrated model of real estate market responses to coastal floodin 2019
+P265,reference,Clayton,2021,10.3905/jpm.2021.1.278,OK-BIB-DOI,OK: year '2021' ; OK: volume '47' ; OK: pages '75–90' ; OK: author 'Clayton' ; record: crossref | Climate Risk and Real Estate Prices: What Do We Know? 2021
+P266,reference,Cutter,2003,10.1111/1540-6237.8402002,OK-BIB-DOI,"OK: year '2003' ; OK: volume '84' ; OK: pages '242–261' ; OK: author 'Cutter' ; record: crossref | Social Vulnerability to Environmental Hazards
+                    <sup 2003"
+P267,reference,Dean,1991,,OK-BIB-STRUCT,no DOI: structural check only (report / working paper / web)
+P268,reference,Du,2015,10.1007/s11069-014-1463-2,OK-BIB-DOI,OK: year '2015' ; OK: volume '76' ; OK: pages '1457–1471' ; OK: author 'Du' ; record: crossref | Quantifying the impact of impervious surface location on flood peak di 2015
+P269,reference,Eberenz,2021,10.5194/nhess-21-393-2021,OK-BIB-DOI,OK: year '2021' ; OK: volume '21' ; OK: pages '393–415' ; OK: author 'Eberenz' ; record: crossref | Regional tropical cyclone impact functions for globally consistent ris 2021
+P270,reference,Emanuel,2011,10.1175/WCAS-D-11-00007.1,OK-BIB-DOI,OK: year '2011' ; OK: volume '3' ; OK: pages '261–268' ; OK: author 'Emanuel' ; record: crossref | Global Warming Effects on U.S. Hurricane Damage 2011
+P271,reference,Emanuel,2006,10.1175/BAMS-87-3-299,OK-BIB-DOI,OK: year '2006' ; OK: volume '87' ; OK: pages '299–314' ; OK: author 'Emanuel' ; record: crossref | A Statistical Deterministic Approach to Hurricane Risk Assessment 2006
+P272,reference,Embrechts,1997,10.1007/978-3-642-33483-2,OK-BIB-DOI,OK: year '1997' ; OK: author 'Embrechts' ; record: crossref | Modelling Extremal Events 1997
+P273,reference,FEMA,2022,,OK-BIB-STRUCT,no DOI: structural check only (report / working paper / web)
+P274,reference,Fox-Kemper,2021,10.1017/9781009157896.011,OK-BIB-DOI-MINOR,"MINOR: year 2021 vs record 2023 ; record: crossref | Ocean, Cryosphere and Sea Level Change 2023"
+P275,reference,Giglio,2021,10.1146/annurev-financial-102620-103311,OK-BIB-DOI,OK: year '2021' ; OK: volume '13' ; OK: pages '15–36' ; OK: author 'Giglio' ; record: crossref | Climate Finance 2021
+P276,reference,Gill,1982,,OK-BIB-STRUCT,no DOI: structural check only (report / working paper / web)
+P277,reference,Hallegatte,2013,10.1038/nclimate1979,OK-BIB-DOI,OK: year '2013' ; OK: volume '3' ; OK: pages '802–806' ; OK: author 'Hallegatte' ; record: crossref | Future flood losses in major coastal cities 2013
+P278,reference,Hawker,2022,10.1088/1748-9326/ac4d4f,OK-BIB-DOI,OK: year '2022' ; OK: volume '17' ; OK: pages '024016' ; OK: author 'Hawker' ; record: crossref | A 30 m global map of elevation with forests and buildings removed 2022
+P279,reference,Hodrick,1997,10.2307/2953682,OK-BIB-DOI,OK: year '1997' ; OK: volume '29' ; OK: pages start 1 ('1–16' vs '1') ; OK: author 'Hodrick' ; record: crossref | Postwar U.S. Business Cycles: An Empirical Investigation 1997
+P280,reference,Holland,1980,10.1175/1520-0493(1980)108<1212:AAMOTW>2.0.CO;2,OK-BIB-DOI,OK: year '1980' ; OK: volume '108' ; OK: pages '1212–1218' ; OK: author 'Holland' ; record: crossref | An Analytic Model of the Wind and Pressure Profiles in Hurricanes 1980
+P281,reference,Holland,2008,10.1175/2008MWR2395.1,OK-BIB-DOI,OK: year '2008' ; OK: volume '136' ; OK: pages '3432–3445' ; OK: author 'Holland' ; record: crossref | A Revised Hurricane Pressure–Wind Model 2008
+P282,reference,Holland,2010,10.1175/2010MWR3317.1,OK-BIB-DOI,OK: year '2010' ; OK: volume '138' ; OK: pages '4393–4401' ; OK: author 'Holland' ; record: crossref | A Revised Model for Radial Profiles of Hurricane Winds 2010
+P283,reference,Iman,1982,10.1080/03610918208812265,OK-BIB-DOI,OK: year '1982' ; OK: volume '11' ; OK: pages '311–334' ; OK: author 'Iman' ; record: crossref | A distribution-free approach to inducing rank correlation among input  1982
+P284,reference,IPCC,2021,10.1017/9781009157896.001,OK-BIB-DOI-MINOR,MINOR: year 2021 vs record 2023 ; record: crossref | Summary for Policymakers 2023
+P285,reference,Irish,2008,10.1175/2008JPO3727.1,OK-BIB-DOI,OK: year '2008' ; OK: volume '38' ; OK: pages '2003–2013' ; OK: author 'Irish' ; record: crossref | The Influence of Storm Size on Hurricane Surge 2008
+P286,reference,Junker,2005,10.1111/j.1368-423X.2005.00173.x,OK-BIB-DOI,OK: year '2005' ; OK: volume '8' ; OK: pages '428–454' ; OK: author 'Junker' ; record: crossref | Measurement of aggregate risk with copulas 2005
+P287,reference,Knapp,2018,10.25921/82ty-9e16,OK-BIB-DOI-MINOR,MINOR: year 2018 vs record 2019 ; record: datacite | International Best Track Archive for Climate Stewardship (IBTrACS) Pro 2019
+P288,reference,Knapp,2010,10.1175/2009BAMS2755.1,OK-BIB-DOI,OK: year '2010' ; OK: volume '91' ; OK: pages '363–376' ; OK: author 'Knapp' ; record: crossref | The International Best Track Archive for Climate Stewardship (IBTrACS) 2010
+P289,reference,Knutson,2020,10.1175/BAMS-D-18-0194.1,OK-BIB-DOI,OK: year '2020' ; OK: volume '101' ; OK: pages 'E303–E322' ; OK: author 'Knutson' ; record: crossref | Tropical Cyclones and Climate Change Assessment: Part II: Projected Re 2020
+P290,reference,Large,1981,10.1175/1520-0485(1981)011<0324:OOMFMI>2.0.CO;2,OK-BIB-DOI,OK: year '1981' ; OK: volume '11' ; OK: pages '324–336' ; OK: author 'Large' ; record: crossref | Open Ocean Momentum Flux Measurements in Moderate to Strong Winds 1981
+P291,reference,McNamara,2015,10.1371/journal.pone.0121278,OK-BIB-DOI,OK: year '2015' ; OK: volume '10' ; OK: pages 'e0121278' ; OK: author 'McNamara' ; record: crossref | Climate Adaptation and Policy-Induced Inflation of Coastal Property Va 2015
+P292,reference,McNamara,2013,10.1038/nclimate1826,OK-BIB-DOI,OK: year '2013' ; OK: volume '3' ; OK: pages '559–562' ; OK: author 'McNamara' ; record: crossref | A coupled physical and economic model of the response of coastal real  2013
+P293,reference,Merton,1974,10.1111/j.1540-6261.1974.tb03058.x,OK-BIB-DOI,OK: year '1974' ; OK: volume '29' ; OK: pages '449–470' ; OK: author 'Merton' ; record: crossref | ON THE PRICING OF CORPORATE DEBT: THE RISK STRUCTURE OF INTEREST RATES 1974
+P294,reference,Merton,1976,10.1016/0304-405X(76)90022-2,OK-BIB-DOI,OK: year '1976' ; OK: author 'Merton' ; record: crossref | Option pricing when underlying stock returns are discontinuous 1976
+P295,reference,Murfin,2020,10.1093/rfs/hhz134,OK-BIB-DOI,OK: year '2020' ; OK: volume '33' ; OK: pages '1217–1255' ; OK: author 'Murfin' ; record: crossref | Is the Risk of Sea Level Rise Capitalized in Residential Real Estate? 2020
+P296,reference,Nicholls,2008,10.1787/011766488208,OK-BIB-DOI,OK: year '2008' ; OK: author 'Nicholls' ; record: crossref | Ranking Port Cities with High Exposure and Vulnerability to Climate Ex 2008
+P297,reference,NOAA,2022,10.25921/fd45-gt74,OK-BIB-DOI,OK: year '2022' ; record: datacite | ETOPO 2022 15 Arc-Second Global Relief Model 2022
+P298,reference,Ortega,2018,10.1016/j.jue.2018.06.005,OK-BIB-DOI,OK: year '2018' ; OK: volume '106' ; OK: pages '81–100' ; OK: author 'Ortega' ; record: crossref | Rising sea levels and sinking property values: Hurricane Sandy and New 2018
+P299,reference,Powell,2003,10.1038/nature01481,OK-BIB-DOI,OK: year '2003' ; OK: author 'Powell' ; record: crossref | Reduced drag coefficient for high wind speeds in tropical cyclones 2003
+P300,reference,Ravn,2002,10.1162/003465302317411604,OK-BIB-DOI,OK: year '2002' ; OK: volume '84' ; OK: pages '371–376' ; OK: author 'Ravn' ; record: crossref | On Adjusting the Hodrick-Prescott Filter for the Frequency of Observat 2002
+P301,reference,Reinders,2023,10.1016/j.jimonfin.2022.102797,OK-BIB-DOI,OK: year '2023' ; OK: volume '131' ; OK: pages '102797' ; OK: author 'Reinders' ; record: crossref | A finance approach to climate stress testing 2023
+P302,reference,Rockafellar,2000,,OK-BIB-STRUCT,no DOI: structural check only (report / working paper / web)
+P303,reference,Rockafellar,2002,10.1016/S0378-4266(02)00271-6,OK-BIB-DOI,OK: year '2002' ; OK: volume '26' ; OK: pages '1443–1471' ; OK: author 'Rockafellar' ; record: crossref | Conditional value-at-risk for general loss distributions 2002
+P304,reference,Rose,2020,10.48690/1524213,OK-BIB-DOI-MINOR,MINOR: year 2020 vs record 2019 ; record: datacite | LandScan Global 2018 2019
+P305,reference,Singh,2023,10.3390/ijgi12030086,OK-BIB-DOI,"OK: year '2023' ; OK: volume '12' ; OK: pages '86' ; OK: author 'Singh' ; record: crossref | Coastal Flooding Hazard, Exposure, and Readiness of Buildings in Hong  2023"
+P306,reference,Uhlenbeck,1930,10.1103/PhysRev.36.823,OK-BIB-DOI,OK: year '1930' ; OK: volume '36' ; OK: pages '823–841' ; OK: author 'Uhlenbeck' ; record: crossref | On the Theory of the Brownian Motion 1930
+P307,reference,UNDP,2010,,OK-BIB-STRUCT,no DOI: structural check only (report / working paper / web)
+P308,reference,USDA,1986,,OK-BIB-STRUCT,no DOI: structural check only (report / working paper / web)
+P309,reference,Wahl,2015,10.1038/nclimate2736,OK-BIB-DOI,OK: year '2015' ; OK: volume '5' ; OK: pages '1093–1097' ; OK: author 'Wahl' ; record: crossref | Increasing risk of compound flooding from storm surge and rainfall for 2015
+P310,reference,Wang,2012,10.1007/s10584-012-0468-7,OK-BIB-DOI,"OK: year '2012' ; OK: author 'Wang' ; record: crossref | Evaluation of the combined risk of sea level rise, land subsidence, an 2012"
+P311,reference,Westcott,2020,10.3905/jai.2020.1.100,OK-BIB-DOI,OK: year '2020' ; OK: volume '23' ; OK: pages '24–34' ; OK: author 'Westcott' ; record: crossref | Be Prepared: <i>Exploring Future Climate-Related Risk for Residential  2020
+P312,reference,WMO,2011,,OK-BIB-STRUCT,no DOI: structural check only (report / working paper / web)
+P313,reference,WMO,2019,,OK-BIB-STRUCT,no DOI: structural check only (report / working paper / web)

@@ -1,0 +1,33 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D06"
+dataset: "逐年乡镇人口（LandScan 聚合派生）"
+producer: "ORNL LandScan → 立方按乡镇边界聚合"
+product_version: "2000–2024 乡镇逐年人口"
+coverage: "上海乡镇级"
+upstream_identifier: "（派生数据）"
+acquisition_channel: "立方数据学社会员包（关键词 A224）"
+acquisition_evidence: "`数据介绍.pdf`（纯图片，已目视：明确「依据乡镇（街道）边界合计 LandScan 人口总量」）"
+licence: "同上"
+provenance_level: "中"
+redistributable: "否"
+archive_scope: "不含"
+da_action: "不写"
+da_clause: ""
+known_gap: "G8"
+note: "**不参与运行**：仅 basic_facts.py 出图（Figure 33 人口趋势）"
+pipeline_usage: "仅 basic_facts.py 出图使用"
+
+package_status: "included"
+files_in_package: 7
+files_in_release: 0
+bytes_in_package: 2379511
+package_paths:
+  - "data/Exposure_data/人口/2000-2024年上海逐年乡镇人口数量数据/excel格式的数据/上海乡镇层级_人口数.xlsx"
+  - "data/Exposure_data/人口/2000-2024年上海逐年乡镇人口数量数据/shp格式的数据/上海乡镇层级_人口数.cpg"
+  - "data/Exposure_data/人口/2000-2024年上海逐年乡镇人口数量数据/shp格式的数据/上海乡镇层级_人口数.dbf"
+  - "data/Exposure_data/人口/2000-2024年上海逐年乡镇人口数量数据/shp格式的数据/上海乡镇层级_人口数.prj"
+  - "data/Exposure_data/人口/2000-2024年上海逐年乡镇人口数量数据/shp格式的数据/上海乡镇层级_人口数.shp"
+  - "data/Exposure_data/人口/2000-2024年上海逐年乡镇人口数量数据/shp格式的数据/上海乡镇层级_人口数.shx"
+  - "data/Exposure_data/人口/2000-2024年上海逐年乡镇人口数量数据/数据介绍.pdf"

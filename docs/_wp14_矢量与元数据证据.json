@@ -1,0 +1,157 @@
+{
+  "shp": {
+    "D17_buildings_shanghai": {
+      "records": 471297,
+      "fields": [
+        "merged_id",
+        "Height",
+        "Function",
+        "Age",
+        "Quality",
+        "Structure",
+        "Style"
+      ],
+      "bytes": 208784829,
+      "path": "Exposure_data\\房屋\\2024年上海多属性建筑矢量数据\\processed_shanghai_20201231_all.dbf"
+    },
+    "D16_anjuke_community": {
+      "records": 23014,
+      "fields": [
+        "id",
+        "name",
+        "price",
+        "change",
+        "cityname",
+        "pname",
+        "address",
+        "WYLX",
+        "QSLB",
+        "JGSJ",
+        "CQNX",
+        "ZHS",
+        "ZJZMJ",
+        "RJL",
+        "LHL",
+        "JZLX",
+        "business",
+        "TYGN",
+        "GSGD",
+        "TCW",
+        "WYF",
+        "TCF",
+        "CWGLF",
+        "WYGS",
+        "XQDZ",
+        "KFS",
+        "ZSTS",
+        "ZZFY",
+        "lon_wgs84",
+        "lat_wgs84",
+        "lon_gcj02",
+        "lat_gcj02",
+        "lon_bd09",
+        "lat_bd09",
+        "xiaoquurl"
+      ],
+      "bytes": 43106376,
+      "path": "Exposure_data\\房屋\\上海小区数据（链家）\\上海小区POI.dbf"
+    },
+    "D20_township_2021": {
+      "records": 43656,
+      "fields": [
+        "ç",
+        "å¸",
+        "å¿",
+        "ä¹¡"
+      ],
+      "bytes": 44398314,
+      "path": "我国乡镇（街道）行政区划数据\\2021年我国乡镇（街道）边界数据.dbf"
+    },
+    "D19_official_district": {
+      "records": 16,
+      "fields": [
+        "ç",
+        "å¸",
+        "å¿",
+        "adcode",
+        "adcode_cit",
+        "adcode_pro"
+      ],
+      "bytes": 4946,
+      "path": "我国乡镇（街道）行政区划数据\\_官方_天地图GS2024-0650\\上海_区级_GS2024-0650.dbf"
+    }
+  },
+  "nc": {
+    "D01_IBTrACS_pinned": {
+      "bytes": 8904634,
+      "strings": {
+        "doi": [
+          "10.25921/82ty-9e16"
+        ],
+        "producer": [
+          "NOAA, U.S. Department of Commerce"
+        ],
+        "team": [
+          "IBTrACS Science Team (Jennifer Gahtan, Ken Knapp, Carl Schreck, Howard Diamond)"
+        ],
+        "version_tag": [
+          "v04r01.nc\nThu Feb 12 05:51:19 2026: ncrcat -6",
+          "v04r01.nc\nProduced by IBTrACS for individual t",
+          "v04r01.nc",
+          "v04r01, Position, intensity and other informat"
+        ],
+        "command": [
+          "ncrcat -6 -H -O --no_cell_methods netcdf/ibtracs.WP.v04r01.nc\nProduced by IBTrACS for individual tracks and merged into basin",
+          "ncrcat)"
+        ],
+        "title": [
+          "IBTrACS Serial ID)",
+          "IBTrACS.WP.v04r01.nc\nThu Feb 12 05:51:19 2026: ncrcat -6 -H -O --no_cell_methods netcdf/ibtracs.W",
+          "IBTrACS for individual tracks and merged into basin and temporal collections using netCDF operato",
+          "IBTrACS Science Team (Jennifer Gahtan, Ken Knapp, Carl Schreck, Howard Diamond)"
+        ]
+      },
+      "path": "Hazard_data\\WP台风数据\\IBTrACS.WP.v04r01_old_202510.nc"
+    },
+    "D01_IBTrACS_live": {
+      "bytes": 7722045,
+      "strings": {
+        "doi": [
+          "10.25921/82ty-9e16"
+        ],
+        "producer": [
+          "NOAA, U.S. Department of Commerce"
+        ],
+        "team": [
+          "IBTrACS Science Team (Jennifer Gahtan, Ken Knapp, Carl Schreck, Howard Diamond)\u0003"
+        ],
+        "version_tag": [
+          "v04r01.nc\u0003",
+          "v04r01.nc\nThu Jul 23 04:57:25 2026: ncrcat -6",
+          "v04r01.nc\nProduced by IBTrACS for individual t",
+          "v04r01, Position, intensity and other informat"
+        ],
+        "command": [
+          "ncrcat -6 -H -O --no_cell_methods netcdf/ibtracs.ALL.v04r01.nc\nProduced by IBTrACS for individual tracks and merged into basin",
+          "ncrcat)"
+        ],
+        "title": [
+          "IBTrACS.ALL.v04r01.nc\nThu Jul 23 04:57:25 2026: ncrcat -6 -H -O --no_cell_methods netcdf/ibtracs.",
+          "IBTrACS for individual tracks and merged into basin and temporal collections using netCDF operato",
+          "IBTrACS Science Team (Jennifer Gahtan, Ken Knapp, Carl Schreck, Howard Diamond)\u0003",
+          "IBTrACS.\u0003"
+        ]
+      },
+      "path": "Hazard_data\\WP台风数据\\IBTrACS.WP.v04r01.nc"
+    }
+  },
+  "township_metadata": {
+    "CreaDate": "20250317",
+    "linkage": "file://\\\\DESKTOP-0R0JC0P\\C$\\Users\\admin\\Desktop\\2021年我国乡镇（街道）边界数据\\2021年我国乡镇（街道）边界数据.shp",
+    "resTitle": "2021年我国乡镇（街道）边界数据",
+    "has_originator": false,
+    "has_source": false,
+    "has_distributor": false,
+    "bytes": 5923
+  }
+}

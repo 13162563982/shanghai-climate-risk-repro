@@ -1,0 +1,43 @@
+{
+  "gate": "G8",
+  "verdict": "PENDING",
+  "pass": 5,
+  "pending": 1,
+  "fail": 0,
+  "checks": [
+    {
+      "id": "G8-1",
+      "status": "PASS",
+      "detail": "20 行 D01–D16 全覆盖，档位齐全，官方层/不转存/Zenodo/GitHub 齐备"
+    },
+    {
+      "id": "G8-2",
+      "status": "PENDING",
+      "detail": "3 个占位符均在待决名单内：[GitHub repository, release version]; [Zenodo DOI to be assigned]; [data provider, with access conditions]"
+    },
+    {
+      "id": "G8-3",
+      "status": "PASS",
+      "detail": "28193070 B / SHA 7417FDE618D6… / 131·41·11·37 / verdict pass"
+    },
+    {
+      "id": "G8-4",
+      "status": "PASS",
+      "detail": "17 段 / 495 词 / A4 / 1440 twips / 6 换 6 / 1 页"
+    },
+    {
+      "id": "G8-5",
+      "status": "PASS",
+      "detail": "18 篇问答 + README 全覆盖 + 核对表 + 版本行"
+    },
+    {
+      "id": "G8-6",
+      "status": "PASS",
+      "detail": "A1–A7 齐备 / 影响文件 8 处 / G8-1..6 定义 / 已裁定清单 / 收尾命令"
+    }
+  ],
+  "v11": {
+    "bytes": 28193070,
+    "sha256": "7417FDE618D6C5114628B28C76C7E676141415EFA7BF50016BB13C2D472523CC"
+  }
+}

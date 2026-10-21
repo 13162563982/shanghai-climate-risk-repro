@@ -1,0 +1,26 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D08"
+dataset: "逐月平均气温栅格（含全国逐日母产品）"
+producer: "NOAA NCEI GSOD 站点 → 立方反距离权重插值"
+product_version: "全国逐日 0.05°（2005–2025 包）"
+coverage: "全国逐日 11,672 文件 / 10.9 GB；上海月均 132 幅"
+upstream_identifier: "（无 DOI；上游 https://www.ncei.noaa.gov/data/global-summary-of-the-day/archive/）"
+acquisition_channel: "立方数据学社（关键词 655）"
+acquisition_evidence: "`数据介绍.pdf`（写明「数据来源请写上面的原始数据来源」= NOAA NCEI GSOD）"
+licence: "NOAA 开放数据 + 立方加工件"
+provenance_level: "强"
+redistributable: "否(10.9 GB)"
+archive_scope: "不含"
+da_action: "不写"
+da_clause: ""
+known_gap: "G8b"
+note: "**不参与运行**（生成 tmean_shanghai.xlsx 后无人读取；热应激用 Tmax）；**占整包 71.6% 体积**；目录名 2005–2025 与 PDF 标题 1981–2024 不一致"
+pipeline_usage: "生成 tmean_shanghai.xlsx 后无任何步骤读取（热应激用 Tmax）"
+
+package_status: "excluded"
+files_in_package: 0
+files_in_release: 0
+bytes_in_package: 0
+package_paths: []

@@ -1,0 +1,1957 @@
+ID,kind,style,has_math,token_idx,token,context
+P0,paragraph,1,False,,,
+P1,paragraph,FirstParagraph,False,,,
+P2,paragraph,a0,False,,,
+P3,paragraph,a0,False,,,
+P4,paragraph,a0,False,1,2050,"and dependence-preserving projection to 2050. We show that expected annual loss (EAL"
+P4,paragraph,a0,False,2,24.2 billion,"expected annual loss (EAL) reaches CNY 24.2 billion without coastal defence, and that the 6"
+P4,paragraph,a0,False,3,6 m,"n without coastal defence, and that the 6 m seawall reduces EAL by only 21.5%—becau"
+P4,paragraph,a0,False,4,21.5%,"hat the 6 m seawall reduces EAL by only 21.5%—because wind, 74% of losses, bypasses c"
+P4,paragraph,a0,False,5,74%,"reduces EAL by only 21.5%—because wind, 74% of losses, bypasses coastal protection"
+P4,paragraph,a0,False,6,8.5,"coastal protection entirely. Under SSP5-8.5, EAL rises by 66% to CNY 40.2 billion b"
+P4,paragraph,a0,False,7,66%,"entirely. Under SSP5-8.5, EAL rises by 66% to CNY 40.2 billion by 2050, with storm"
+P4,paragraph,a0,False,8,40.2 billion,"Under SSP5-8.5, EAL rises by 66% to CNY 40.2 billion by 2050, with storm-surge inundation—th"
+P4,paragraph,a0,False,9,2050,"EAL rises by 66% to CNY 40.2 billion by 2050, with storm-surge inundation—the driver"
+P4,paragraph,a0,False,10,26%,"iver of urban waterlogging—growing from 26% to 40% of losses and nearly tripling in"
+P4,paragraph,a0,False,11,40%,"urban waterlogging—growing from 26% to 40% of losses and nearly tripling in absolu"
+P4,paragraph,a0,False,12,52%,"omposite climate-housing index rises by 52%. Risk is highly uneven: Hongkou, Yangpu"
+P5,paragraph,a0,False,,,
+P6,paragraph,FirstParagraph,False,1,2008,"t exposed of them all (Nicholls et al., 2008; Hallegatte et al., 2013). The city hos"
+P6,paragraph,FirstParagraph,False,2,2013,"cholls et al., 2008; Hallegatte et al., 2013). The city hosts 24.87 million resident"
+P6,paragraph,FirstParagraph,False,3,24.87 million,"allegatte et al., 2013). The city hosts 24.87 million residents and holds CNY 63.3 trillion o"
+P6,paragraph,FirstParagraph,False,4,63.3 trillion,"s 24.87 million residents and holds CNY 63.3 trillion of real-estate assets in the building-l"
+P6,paragraph,FirstParagraph,False,5,2.7 m,"lying: the median building site sits at 2.7 m elevation. Climate change is now loadin"
+P6,paragraph,FirstParagraph,False,6,2020,"stal inundation occurs (Knutson et al., 2020; Fox-Kemper et al., 2021), while rapid"
+P6,paragraph,FirstParagraph,False,7,2021,"nutson et al., 2020; Fox-Kemper et al., 2021), while rapid impervious-surface expans"
+P6,paragraph,FirstParagraph,False,8,1986,"during coastal flooding episodes (USDA, 1986; Du et al., 2015). The resulting questi"
+P6,paragraph,FirstParagraph,False,9,2015,"ooding episodes (USDA, 1986; Du et al., 2015). The resulting question is not how lar"
+P7,paragraph,FirstParagraph,False,1,2019,"oss estimates (Aznar-Siguan and Bresch, 2019; Bresch and Aznar-Siguan, 2021), buildi"
+P7,paragraph,FirstParagraph,False,2,2021,"Bresch, 2019; Bresch and Aznar-Siguan, 2021), building-level assessments translate"
+P7,paragraph,FirstParagraph,False,3,2023,"-specific risk profiles (Singh and Cai, 2023), and Shanghai-specific studies show th"
+P7,paragraph,FirstParagraph,False,4,2012,"must be evaluated jointly (Wang et al., 2012). Yet this tradition stops at engineeri"
+P7,paragraph,FirstParagraph,False,5,2017,"ocal protection (Bakkensen and Barrage, 2017; Baldauf et al., 2020; Bernstein et al."
+P7,paragraph,FirstParagraph,False,6,2020,"nsen and Barrage, 2017; Baldauf et al., 2020; Bernstein et al., 2019; Bin and Landry"
+P7,paragraph,FirstParagraph,False,7,2019,"Baldauf et al., 2020; Bernstein et al., 2019; Bin and Landry, 2013; Clayton et al.,"
+P7,paragraph,FirstParagraph,False,8,2013,"Bernstein et al., 2019; Bin and Landry, 2013; Clayton et al., 2021; Murfin and Spieg"
+P7,paragraph,FirstParagraph,False,9,2021,"; Bin and Landry, 2013; Clayton et al., 2021; Murfin and Spiegel, 2020; Ortega and T"
+P7,paragraph,FirstParagraph,False,10,2020,"ayton et al., 2021; Murfin and Spiegel, 2020; Ortega and Taspinar, 2018)—and it infe"
+P7,paragraph,FirstParagraph,False,11,2018,"and Spiegel, 2020; Ortega and Taspinar, 2018)—and it infers risk from observed price"
+P8,paragraph,FirstParagraph,False,1,2013,"an stress-testing (McNamara and Keeler, 2013; Chandra-Putra and Andrews, 2020). This"
+P8,paragraph,FirstParagraph,False,2,2020,"eeler, 2013; Chandra-Putra and Andrews, 2020). This gap is especially consequential"
+P9,paragraph,FirstParagraph,False,1,2050,"and dependence-preserving projection to 2050 (Fig. 15). The framework rests on three"
+P9,paragraph,FirstParagraph,False,2,15,"nce-preserving projection to 2050 (Fig. 15). The framework rests on three design c"
+P9,paragraph,FirstParagraph,False,3,585,033,"ng scale: the exposure inventory covers 585,033 structures valued at CNY 63.3 trillion,"
+P9,paragraph,FirstParagraph,False,4,63.3 trillion,"covers 585,033 structures valued at CNY 63.3 trillion, and wind–surge compounding enters thro"
+P9,paragraph,FirstParagraph,False,5,0.9999,"l losses with a period-matched ratio of 0.9999 (1995–2023), and all scenario runs shar"
+P9,paragraph,FirstParagraph,False,6,1995,"with a period-matched ratio of 0.9999 (1995–2023), and all scenario runs share a co"
+P9,paragraph,FirstParagraph,False,7,2023,"a period-matched ratio of 0.9999 (1995–2023), and all scenario runs share a common"
+P9,paragraph,FirstParagraph,False,8,10,"s share a common synthetic catalogue of 10 perturbed tracks per historical event."
+P10,paragraph,FirstParagraph,False,1,6 m,"d the residual blind spot of the city's 6 m seawall; it introduces a climate-tail-r"
+P10,paragraph,FirstParagraph,False,2,2050,"ection of joint climate-housing risk to 2050 under three scenarios. These elements t"
+P11,paragraph,2,False,,,
+P12,paragraph,FirstParagraph,False,,,
+P13,paragraph,4,False,,,
+P14,paragraph,FirstParagraph,False,1,24.2 billion,"d expected annual loss (EAL) totals CNY 24.2 billion, of which wind damage contributes CNY 1"
+P14,paragraph,FirstParagraph,False,2,17.9 billion,"n, of which wind damage contributes CNY 17.9 billion (74%) and storm surge CNY 6.2 billion ("
+P14,paragraph,FirstParagraph,False,3,74%,"nd damage contributes CNY 17.9 billion (74%) and storm surge CNY 6.2 billion (26%)"
+P14,paragraph,FirstParagraph,False,4,6.2 billion,"17.9 billion (74%) and storm surge CNY 6.2 billion (26%) (Table 1). The current 6 m seawal"
+P14,paragraph,FirstParagraph,False,5,26%,"(74%) and storm surge CNY 6.2 billion (26%) (Table 1). The current 6 m seawall sta"
+P14,paragraph,FirstParagraph,False,6,1,"torm surge CNY 6.2 billion (26%) (Table 1). The current 6 m seawall standard redu"
+P14,paragraph,FirstParagraph,False,7,6 m,".2 billion (26%) (Table 1). The current 6 m seawall standard reduces compound EAL t"
+P14,paragraph,FirstParagraph,False,8,19.0 billion,"ll standard reduces compound EAL to CNY 19.0 billion—a 21.5% reduction concentrated almost e"
+P14,paragraph,FirstParagraph,False,9,21.5%,"uces compound EAL to CNY 19.0 billion—a 21.5% reduction concentrated almost entirely"
+P15,paragraph,a0,False,1,1,"Table 1. City-wide compound expected annual los"
+T0#r0c0,table_cell,Compact,False,,,
+T0#r0c1,table_cell,Compact,False,,,
+T0#r0c2,table_cell,Compact,False,1,6 m,"Current 6 m"
+T0#r0c3,table_cell,Compact,False,,,
+T0#r1c0,table_cell,Compact,False,,,
+T0#r1c1,table_cell,Compact,False,1,24.2,"24.2"
+T0#r1c2,table_cell,Compact,False,1,19.0,"19.0"
+T0#r1c3,table_cell,Compact,False,1,21.5%,"21.5%"
+T0#r2c0,table_cell,Compact,False,1,4.5,"SSP2-4.5 (+0.3 m SLR)"
+T0#r2c0,table_cell,Compact,False,2,+0.3 m,"SSP2-4.5 (+0.3 m SLR)"
+T0#r2c1,table_cell,Compact,False,1,33.3,"33.3"
+T0#r2c2,table_cell,Compact,False,1,23.8,"23.8"
+T0#r2c3,table_cell,Compact,False,1,28%,"28%"
+T0#r3c0,table_cell,Compact,False,1,8.5,"SSP5-8.5 (+0.5 m SLR)"
+T0#r3c0,table_cell,Compact,False,2,+0.5 m,"SSP5-8.5 (+0.5 m SLR)"
+T0#r3c1,table_cell,Compact,False,1,40.2,"40.2"
+T0#r3c2,table_cell,Compact,False,1,26.5,"26.5"
+T0#r3c3,table_cell,Compact,False,1,34%,"34%"
+P16,paragraph,a0,False,1,4.5,"nant wind channel untouched. Under SSP2-4.5 and SSP5-8.5, EAL rises to CNY 33.3 bil"
+P16,paragraph,a0,False,2,8.5,"nnel untouched. Under SSP2-4.5 and SSP5-8.5, EAL rises to CNY 33.3 billion (+38%) a"
+P16,paragraph,a0,False,3,33.3 billion,"SSP2-4.5 and SSP5-8.5, EAL rises to CNY 33.3 billion (+38%) and CNY 40.2 billion (+66%) resp"
+P16,paragraph,a0,False,4,+38%,"SP5-8.5, EAL rises to CNY 33.3 billion (+38%) and CNY 40.2 billion (+66%) respective"
+P16,paragraph,a0,False,5,40.2 billion,"ises to CNY 33.3 billion (+38%) and CNY 40.2 billion (+66%) respectively, and the surge shar"
+P16,paragraph,a0,False,6,+66%,".3 billion (+38%) and CNY 40.2 billion (+66%) respectively, and the surge share of l"
+P16,paragraph,a0,False,7,26%,"nd the surge share of losses grows from 26% to 33% and 40% as sea-level rise nonlin"
+P16,paragraph,a0,False,8,33%,"surge share of losses grows from 26% to 33% and 40% as sea-level rise nonlinearly i"
+P16,paragraph,a0,False,9,40%,"are of losses grows from 26% to 33% and 40% as sea-level rise nonlinearly intensifi"
+P16,paragraph,a0,False,10,1,"ly intensifies the flood pathway (Table 1). In absolute terms, surge-driven losse"
+P16,paragraph,a0,False,11,6.2 billion,"surge-driven losses grow from about CNY 6.2 billion to roughly CNY 16 billion under SSP5-8."
+P16,paragraph,a0,False,12,16 billion,"om about CNY 6.2 billion to roughly CNY 16 billion under SSP5-8.5—nearly three times today"
+P16,paragraph,a0,False,13,8.5,"on to roughly CNY 16 billion under SSP5-8.5—nearly three times today’s level. Even"
+P16,paragraph,a0,False,14,6 m,"hree times today’s level. Even with the 6 m defence in place, residual EAL reaches"
+P16,paragraph,a0,False,15,26.5 billion,"ence in place, residual EAL reaches CNY 26.5 billion under SSP5-8.5—39.5% above the historic"
+P16,paragraph,a0,False,16,8.5,"EAL reaches CNY 26.5 billion under SSP5-8.5—39.5% above the historical no-defence l"
+P16,paragraph,a0,False,17,39.5%,"reaches CNY 26.5 billion under SSP5-8.5—39.5% above the historical no-defence level—b"
+P16,paragraph,a0,False,18,6 m,"seawall, extreme water levels exceeding 6 m become more frequent, and wind losses r"
+P17,paragraph,4,False,1,1995,"gn with the observed annual losses over 1995–2023 (period-matched calibration fit ra"
+P17,paragraph,4,False,2,2023,"th the observed annual losses over 1995–2023 (period-matched calibration fit ratio o"
+P17,paragraph,4,False,3,0.9999,"period-matched calibration fit ratio of 0.9999). Calibration to historical loss report"
+P17,paragraph,4,False,4,8,"tic one-way sensitivity analysis (Table 8) provide the foundation for the forward"
+P17,paragraph,4,False,5,1,070,"ated on a common synthetic catalogue of 1,070 storm realisations, and the scenario in"
+P18,paragraph,4,False,,,
+P19,paragraph,FirstParagraph,False,1,5.9 billion,"ounts for the highest absolute EAL (CNY 5.9 billion), but relative risk tells a different s"
+P19,paragraph,FirstParagraph,False,2,1,"tive risk tells a different story (Fig. 1; Table 2). Measured by EAL-to-exposure"
+P19,paragraph,FirstParagraph,False,3,2,"tells a different story (Fig. 1; Table 2). Measured by EAL-to-exposure ratio, th"
+P19,paragraph,FirstParagraph,False,4,0.83‰,"most vulnerable districts are Hongkou (0.83‰), Yangpu (0.77‰) and Huangpu (0.68‰)—ro"
+P19,paragraph,FirstParagraph,False,5,0.77‰,"districts are Hongkou (0.83‰), Yangpu (0.77‰) and Huangpu (0.68‰)—roughly twice the"
+P19,paragraph,FirstParagraph,False,6,0.68‰,"ou (0.83‰), Yangpu (0.77‰) and Huangpu (0.68‰)—roughly twice the city-wide average of"
+P19,paragraph,FirstParagraph,False,7,0.38‰,"—roughly twice the city-wide average of 0.38‰—while Pudong's ratio (0.40‰) sits near"
+P19,paragraph,FirstParagraph,False,8,0.40‰,"average of 0.38‰—while Pudong's ratio (0.40‰) sits near the city mean despite its ab"
+P20,paragraph,a0,False,1,2,"Table 2. Top five districts by EAL (historical,"
+T1#r0c0,table_cell,Compact,False,,,
+T1#r0c1,table_cell,Compact,False,,,
+T1#r0c2,table_cell,Compact,False,,,
+T1#r0c3,table_cell,Compact,False,,,
+T1#r1c0,table_cell,Compact,False,,,
+T1#r1c1,table_cell,Compact,False,1,5.9,"5.9"
+T1#r1c2,table_cell,Compact,False,1,14.8,"14.8"
+T1#r1c3,table_cell,Compact,False,1,0.40,"0.40"
+T1#r2c0,table_cell,Compact,False,,,
+T1#r2c1,table_cell,Compact,False,1,2.6,"2.6"
+T1#r2c2,table_cell,Compact,False,1,3.4,"3.4"
+T1#r2c3,table_cell,Compact,False,1,0.77,"0.77"
+T1#r3c0,table_cell,Compact,False,,,
+T1#r3c1,table_cell,Compact,False,1,2.3,"2.3"
+T1#r3c2,table_cell,Compact,False,1,4.1,"4.1"
+T1#r3c3,table_cell,Compact,False,1,0.56,"0.56"
+T1#r4c0,table_cell,Compact,False,,,
+T1#r4c1,table_cell,Compact,False,1,2.3,"2.3"
+T1#r4c2,table_cell,Compact,False,1,8.0,"8.0"
+T1#r4c3,table_cell,Compact,False,1,0.28,"0.28"
+T1#r5c0,table_cell,Compact,False,,,
+T1#r5c1,table_cell,Compact,False,1,1.7,"1.7"
+T1#r5c2,table_cell,Compact,False,1,2.0,"2.0"
+T1#r5c3,table_cell,Compact,False,1,0.83,"0.83"
+P21,paragraph,a0,False,1,1990,"ost wind-vulnerable building stock (pre-1990 low-rise structures; Fig. 34). Under SS"
+P21,paragraph,a0,False,2,34,"ock (pre-1990 low-rise structures; Fig. 34). Under SSP5-8.5, Yangpu's EAL more tha"
+P21,paragraph,a0,False,3,8.5,"w-rise structures; Fig. 34). Under SSP5-8.5, Yangpu's EAL more than doubles (CNY 5."
+P21,paragraph,a0,False,4,5.4 billion,".5, Yangpu's EAL more than doubles (CNY 5.4 billion; ratio 1.57‰) and Hongkou's reaches CNY"
+P21,paragraph,a0,False,5,1.57‰,"re than doubles (CNY 5.4 billion; ratio 1.57‰) and Hongkou's reaches CNY 3.5 billion"
+P21,paragraph,a0,False,6,3.5 billion,"ratio 1.57‰) and Hongkou's reaches CNY 3.5 billion (1.73‰), widening the gap between the r"
+P21,paragraph,a0,False,7,1.73‰,"and Hongkou's reaches CNY 3.5 billion (1.73‰), widening the gap between the river co"
+P22,paragraph,CaptionedFigure,False,,,
+P23,paragraph,ImageCaption,False,1,1,"Figure 1: Historical compound damage by district"
+P24,paragraph,a0,False,1,1,"Figure 1. District-level compound (wind + surge)"
+P25,paragraph,CaptionedFigure,False,,,
+P26,paragraph,ImageCaption,False,1,2,"Figure 2: Compound damage by district — SSP scen"
+P27,paragraph,a0,False,1,2,"Figure 2. District-level compound EAL across SSP"
+P27,paragraph,a0,False,2,4.5,"District-level compound EAL across SSP2-4.5 and SSP5-8.5 on the common synthetic ca"
+P27,paragraph,a0,False,3,8.5,"l compound EAL across SSP2-4.5 and SSP5-8.5 on the common synthetic catalogue, show"
+P28,paragraph,CaptionedFigure,False,,,
+P29,paragraph,ImageCaption,False,1,3,"Figure 3: TC damage hexbin — historical"
+P30,paragraph,a0,False,1,3,"Figure 3. Spatial distribution of TC wind-damage"
+P31,paragraph,CaptionedFigure,False,,,
+P32,paragraph,ImageCaption,False,1,4,"Figure 4: TC damage by district"
+P33,paragraph,a0,False,1,4,"Figure 4. District-level TC wind-damage proxy un"
+P34,paragraph,CaptionedFigure,False,,,
+P35,paragraph,ImageCaption,False,1,5,"Figure 5: Surge occurrence hexbin"
+P36,paragraph,a0,False,1,5,"Figure 5. Surge event occurrence frequency (even"
+P36,paragraph,a0,False,2,0.05 m,"nce frequency (events with inundation > 0.05 m) under the historical-climate baseline"
+P37,paragraph,CaptionedFigure,False,,,
+P38,paragraph,ImageCaption,False,1,6,"Figure 6: Surge damage by district"
+P39,paragraph,a0,False,1,6,"Figure 6. District-level storm-surge damage prox"
+P40,paragraph,4,False,,,
+P41,paragraph,FirstParagraph,False,1,1993,"monthly series. It rises from its June 1993 baseline of 100 to 438.9 by December 20"
+P41,paragraph,FirstParagraph,False,2,100,"It rises from its June 1993 baseline of 100 to 438.9 by December 2023—a 4.4-fold in"
+P41,paragraph,FirstParagraph,False,3,438.9,"s from its June 1993 baseline of 100 to 438.9 by December 2023—a 4.4-fold increase th"
+P41,paragraph,FirstParagraph,False,4,2023,"93 baseline of 100 to 438.9 by December 2023—a 4.4-fold increase that compounds sea-"
+P41,paragraph,FirstParagraph,False,5,4.4,"line of 100 to 438.9 by December 2023—a 4.4-fold increase that compounds sea-level-"
+P41,paragraph,FirstParagraph,False,6,7,"and smoothed event-loss feedback (Fig. 7). The series is strongly seasonal, with"
+P42,paragraph,a0,False,1,500,"Stochastic projections (500 paths per scenario) to 2050 show that t"
+P42,paragraph,a0,False,2,2050,"projections (500 paths per scenario) to 2050 show that the historical escalation con"
+P42,paragraph,a0,False,3,599,"under all scenarios: median CRI reaches 599 under the historical baseline, 673 unde"
+P42,paragraph,a0,False,4,673,"ches 599 under the historical baseline, 673 under SSP2-4.5 and 742 under SSP5-8.5 a"
+P42,paragraph,a0,False,5,4.5,"the historical baseline, 673 under SSP2-4.5 and 742 under SSP5-8.5 at December 2050"
+P42,paragraph,a0,False,6,742,"orical baseline, 673 under SSP2-4.5 and 742 under SSP5-8.5 at December 2050 (Table"
+P42,paragraph,a0,False,7,8.5,", 673 under SSP2-4.5 and 742 under SSP5-8.5 at December 2050 (Table 3), implying 12"
+P42,paragraph,a0,False,8,2050,"-4.5 and 742 under SSP5-8.5 at December 2050 (Table 3), implying 12.4% and 23.9% med"
+P42,paragraph,a0,False,9,3,"under SSP5-8.5 at December 2050 (Table 3), implying 12.4% and 23.9% median incre"
+P42,paragraph,a0,False,10,12.4%,".5 at December 2050 (Table 3), implying 12.4% and 23.9% median increments over baseli"
+P42,paragraph,a0,False,11,23.9%,"mber 2050 (Table 3), implying 12.4% and 23.9% median increments over baseline under t"
+P42,paragraph,a0,False,12,10,"Notably, the spread between scenarios (10th–90th percentile ranges of 490–689, 56"
+P42,paragraph,a0,False,13,90,"bly, the spread between scenarios (10th–90th percentile ranges of 490–689, 564–768"
+P42,paragraph,a0,False,14,490,"enarios (10th–90th percentile ranges of 490–689, 564–768 and 641–837) is comparable"
+P42,paragraph,a0,False,15,689,"ios (10th–90th percentile ranges of 490–689, 564–768 and 641–837) is comparable to"
+P42,paragraph,a0,False,16,564,"10th–90th percentile ranges of 490–689, 564–768 and 641–837) is comparable to the s"
+P42,paragraph,a0,False,17,768,"–90th percentile ranges of 490–689, 564–768 and 641–837) is comparable to the scena"
+P42,paragraph,a0,False,18,641,"rcentile ranges of 490–689, 564–768 and 641–837) is comparable to the scenario incr"
+P42,paragraph,a0,False,19,837,"tile ranges of 490–689, 564–768 and 641–837) is comparable to the scenario incremen"
+P42,paragraph,a0,False,20,2050,"their full plausible ranges shifts the 2050 median by less than ±2% (Methods)."
+P42,paragraph,a0,False,21,2%,"es shifts the 2050 median by less than ±2% (Methods)."
+P43,paragraph,a0,False,1,3,"Table 3. CRI projection percentiles at December"
+P43,paragraph,a0,False,2,2050,"CRI projection percentiles at December 2050."
+T2#r0c0,table_cell,Compact,False,,,
+T2#r0c1,table_cell,Compact,False,1,10,"10th percentile"
+T2#r0c2,table_cell,Compact,False,1,50,"Median (50th)"
+T2#r0c3,table_cell,Compact,False,1,90,"90th percentile"
+T2#r1c0,table_cell,Compact,False,,,
+T2#r1c1,table_cell,Compact,False,1,490,"490"
+T2#r1c2,table_cell,Compact,False,1,599,"599"
+T2#r1c3,table_cell,Compact,False,1,689,"689"
+T2#r2c0,table_cell,Compact,False,1,4.5,"SSP2-4.5"
+T2#r2c1,table_cell,Compact,False,1,564,"564"
+T2#r2c2,table_cell,Compact,False,1,673,"673"
+T2#r2c3,table_cell,Compact,False,1,768,"768"
+T2#r3c0,table_cell,Compact,False,1,8.5,"SSP5-8.5"
+T2#r3c1,table_cell,Compact,False,1,641,"641"
+T2#r3c2,table_cell,Compact,False,1,742,"742"
+T2#r3c3,table_cell,Compact,False,1,837,"837"
+P44,paragraph,CaptionedFigure,False,,,
+P45,paragraph,ImageCaption,False,1,7,"Figure 7: CRI historical and projection"
+P46,paragraph,a0,False,1,7,"Figure 7. Shanghai Climate Risk Index (CRI): his"
+P46,paragraph,a0,False,2,1993,"ate Risk Index (CRI): historical series 1993–2023 and SDE Monte Carlo forward projec"
+P46,paragraph,a0,False,3,2023,"isk Index (CRI): historical series 1993–2023 and SDE Monte Carlo forward projections"
+P46,paragraph,a0,False,4,2050,"SDE Monte Carlo forward projections to 2050 under three scenarios. Shaded bands sho"
+P46,paragraph,a0,False,5,10,"three scenarios. Shaded bands show the 10th–90th percentile ensemble range; solid"
+P46,paragraph,a0,False,6,90,"e scenarios. Shaded bands show the 10th–90th percentile ensemble range; solid line"
+P47,paragraph,4,False,,,
+P48,paragraph,FirstParagraph,False,1,8,"from the stochastic TC loss set (Figs. 8 and 9). It rises from its December 2011"
+P48,paragraph,FirstParagraph,False,2,9,"the stochastic TC loss set (Figs. 8 and 9). It rises from its December 2011 basel"
+P48,paragraph,FirstParagraph,False,3,2011,"s. 8 and 9). It rises from its December 2011 baseline of 100 to 231 by June 2025, wi"
+P48,paragraph,FirstParagraph,False,4,100,"ises from its December 2011 baseline of 100 to 231 by June 2025, with a historical"
+P48,paragraph,FirstParagraph,False,5,231,"om its December 2011 baseline of 100 to 231 by June 2025, with a historical maximum"
+P48,paragraph,FirstParagraph,False,6,2025,"ber 2011 baseline of 100 to 231 by June 2025, with a historical maximum of 254 in Fe"
+P48,paragraph,FirstParagraph,False,7,254,"June 2025, with a historical maximum of 254 in February 2023, when elevated volatil"
+P48,paragraph,FirstParagraph,False,8,2023,"a historical maximum of 254 in February 2023, when elevated volatility and climate-t"
+P49,paragraph,a0,False,1,2011,"arallel or amplify each other. Over the 2011–2023 overlap period, the CRI and HSI co"
+P49,paragraph,a0,False,2,2023,"el or amplify each other. Over the 2011–2023 overlap period, the CRI and HSI co-move"
+P49,paragraph,a0,False,3,0.358,"th an empirical rank correlation of ρ = 0.358, and the geometric-mean Composite Clima"
+P49,paragraph,a0,False,4,130,"Climate-Housing Index (CCHI) rises from 130 to 313 (Figs. 12 and 13). Under depende"
+P49,paragraph,a0,False,5,313,"-Housing Index (CCHI) rises from 130 to 313 (Figs. 12 and 13). Under dependence-pre"
+P49,paragraph,a0,False,6,12,"dex (CCHI) rises from 130 to 313 (Figs. 12 and 13). Under dependence-preserving Mo"
+P49,paragraph,a0,False,7,13,"HI) rises from 130 to 313 (Figs. 12 and 13). Under dependence-preserving Monte Car"
+P49,paragraph,a0,False,8,399,"e Carlo projection, median CCHI reaches 399 (baseline), 439 (SSP2-4.5) and 477 (SSP"
+P49,paragraph,a0,False,9,439,"on, median CCHI reaches 399 (baseline), 439 (SSP2-4.5) and 477 (SSP5-8.5) by 2050—t"
+P49,paragraph,a0,False,10,4.5,"CCHI reaches 399 (baseline), 439 (SSP2-4.5) and 477 (SSP5-8.5) by 2050—the SSP5-8."
+P49,paragraph,a0,False,11,477,"ches 399 (baseline), 439 (SSP2-4.5) and 477 (SSP5-8.5) by 2050—the SSP5-8.5 value r"
+P49,paragraph,a0,False,12,8.5,"baseline), 439 (SSP2-4.5) and 477 (SSP5-8.5) by 2050—the SSP5-8.5 value representin"
+P49,paragraph,a0,False,13,2050,"), 439 (SSP2-4.5) and 477 (SSP5-8.5) by 2050—the SSP5-8.5 value representing a 52% i"
+P49,paragraph,a0,False,14,8.5,".5) and 477 (SSP5-8.5) by 2050—the SSP5-8.5 value representing a 52% increase over"
+P49,paragraph,a0,False,15,52%,"2050—the SSP5-8.5 value representing a 52% increase over the 2023 terminal level."
+P49,paragraph,a0,False,16,2023,"ue representing a 52% increase over the 2023 terminal level. The joint index therefo"
+P50,paragraph,a0,False,1,4,"Table 4. HSI projection percentiles at December"
+P50,paragraph,a0,False,2,2050,"HSI projection percentiles at December 2050."
+T3#r0c0,table_cell,Compact,False,,,
+T3#r0c1,table_cell,Compact,False,1,10,"10th percentile"
+T3#r0c2,table_cell,Compact,False,1,50,"Median (50th)"
+T3#r0c3,table_cell,Compact,False,1,90,"90th percentile"
+T3#r1c0,table_cell,Compact,False,,,
+T3#r1c1,table_cell,Compact,False,1,230,"230"
+T3#r1c2,table_cell,Compact,False,1,265,"265"
+T3#r1c3,table_cell,Compact,False,1,329,"329"
+T3#r2c0,table_cell,Compact,False,1,4.5,"SSP2-4.5"
+T3#r2c1,table_cell,Compact,False,1,251,"251"
+T3#r2c2,table_cell,Compact,False,1,287,"287"
+T3#r2c3,table_cell,Compact,False,1,354,"354"
+T3#r3c0,table_cell,Compact,False,1,8.5,"SSP5-8.5"
+T3#r3c1,table_cell,Compact,False,1,270,"270"
+T3#r3c2,table_cell,Compact,False,1,307,"307"
+T3#r3c3,table_cell,Compact,False,1,375,"375"
+P51,paragraph,CaptionedFigure,False,,,
+P52,paragraph,ImageCaption,False,1,8,"Figure 8: HSI historical"
+P53,paragraph,a0,False,1,8,"Figure 8. Shanghai Housing Stress Index (HSI), 2"
+P53,paragraph,a0,False,2,2011,"8. Shanghai Housing Stress Index (HSI), 2011–2025. The HSI rises from 100 to approxi"
+P53,paragraph,a0,False,3,2025,"anghai Housing Stress Index (HSI), 2011–2025. The HSI rises from 100 to approximatel"
+P53,paragraph,a0,False,4,100,"ex (HSI), 2011–2025. The HSI rises from 100 to approximately 231 over the observati"
+P53,paragraph,a0,False,5,231,"The HSI rises from 100 to approximately 231 over the observation period and reaches"
+P53,paragraph,a0,False,6,2023,"ches its historical maximum in February 2023, when elevated realised volatility and"
+P54,paragraph,CaptionedFigure,False,,,
+P55,paragraph,ImageCaption,False,1,9,"Figure 9: HSI sub-indicator decomposition"
+P56,paragraph,a0,False,1,9,"Figure 9. Decomposition of the HSI into its thre"
+P57,paragraph,CaptionedFigure,False,,,
+P58,paragraph,ImageCaption,False,1,10,"Figure 10: Price vs HP trend"
+P59,paragraph,a0,True,1,10,"Figure 10. Shanghai residential housing price (CN"
+P60,paragraph,CaptionedFigure,False,,,
+P61,paragraph,ImageCaption,False,1,11,"Figure 11: HSI vs CRI overlay"
+P62,paragraph,a0,True,1,11,"Figure 11. Historical CRI and HSI overlay (2011-1"
+P62,paragraph,a0,True,2,2011,"ure 11. Historical CRI and HSI overlay (2011-12 to 2023-12), demonstrating co-moveme"
+P62,paragraph,a0,True,3,12,"1. Historical CRI and HSI overlay (2011-12 to 2023-12), demonstrating co-movement"
+P62,paragraph,a0,True,4,2023,"torical CRI and HSI overlay (2011-12 to 2023-12), demonstrating co-movement that mot"
+P62,paragraph,a0,True,5,12,"al CRI and HSI overlay (2011-12 to 2023-12), demonstrating co-movement that motiva"
+P63,paragraph,a0,False,,,
+P64,paragraph,a0,False,,,
+P65,paragraph,a0,False,1,5,"Table 5. CCHI projection percentiles at Decembe"
+P65,paragraph,a0,False,2,2050,"CCHI projection percentiles at December 2050."
+T4#r0c0,table_cell,Compact,False,,,
+T4#r0c1,table_cell,Compact,False,1,10,"10th percentile"
+T4#r0c2,table_cell,Compact,False,1,50,"Median (50th)"
+T4#r0c3,table_cell,Compact,False,1,90,"90th percentile"
+T4#r1c0,table_cell,Compact,False,,,
+T4#r1c1,table_cell,Compact,False,1,351,"351"
+T4#r1c2,table_cell,Compact,False,1,399,"399"
+T4#r1c3,table_cell,Compact,False,1,456,"456"
+T4#r2c0,table_cell,Compact,False,1,4.5,"SSP2-4.5"
+T4#r2c1,table_cell,Compact,False,1,395,"395"
+T4#r2c2,table_cell,Compact,False,1,439,"439"
+T4#r2c3,table_cell,Compact,False,1,498,"498"
+T4#r3c0,table_cell,Compact,False,1,8.5,"SSP5-8.5"
+T4#r3c1,table_cell,Compact,False,1,435,"435"
+T4#r3c2,table_cell,Compact,False,1,477,"477"
+T4#r3c3,table_cell,Compact,False,1,533,"533"
+P66,paragraph,a0,False,1,0.0,"ank-correlation parameter (range tested 0.0–0.8; deviation −0.8% to ≈0%), so the 52"
+P66,paragraph,a0,False,2,0.8,"correlation parameter (range tested 0.0–0.8; deviation −0.8% to ≈0%), so the 52% in"
+P66,paragraph,a0,False,3,−0.8%,"ameter (range tested 0.0–0.8; deviation −0.8% to ≈0%), so the 52% increase is not an"
+P66,paragraph,a0,False,4,0%,"nge tested 0.0–0.8; deviation −0.8% to ≈0%), so the 52% increase is not an artefac"
+P66,paragraph,a0,False,5,52%,".0–0.8; deviation −0.8% to ≈0%), so the 52% increase is not an artefact of the depe"
+P66,paragraph,a0,False,6,8,"within a local plausibility band (Table 8; Methods); the equal-weight specificati"
+P66,paragraph,a0,False,7,17%,"tral baseline, and deviations of up to ±17% under extreme weight configurations do"
+P67,paragraph,CaptionedFigure,False,,,
+P68,paragraph,ImageCaption,False,1,12,"Figure 12: CCHI composite index"
+P69,paragraph,a0,False,1,12,"Figure 12. Composite Climate-Housing Index (CCHI)"
+P70,paragraph,CaptionedFigure,False,,,
+P71,paragraph,ImageCaption,False,1,13,"Figure 13: Triple comparison — CRI, HSI, CCHI"
+P72,paragraph,a0,False,1,13,"Figure 13. Joint time series of CRI, HSI, and CCH"
+P73,paragraph,CaptionedFigure,False,,,
+P74,paragraph,ImageCaption,False,1,14,"Figure 14: CCHI decomposition"
+P75,paragraph,a0,False,1,14,"Figure 14. CCHI decomposition into CRI and HSI co"
+P76,paragraph,3,False,,,
+P77,paragraph,3,False,1,74%,"isk is wind-dominated: wind contributes 74% of expected annual loss, and the city's"
+P77,paragraph,3,False,2,6 m,"of expected annual loss, and the city's 6 m seawall—its principal coastal defence—r"
+P77,paragraph,3,False,3,21.5%,"pal coastal defence—reduces EAL by only 21.5%, because it acts on the surge channel w"
+P77,paragraph,3,False,4,1993,"unevenly: the CRI has quadrupled since 1993 and is projected to reach 599–742 by 20"
+P77,paragraph,3,False,5,599,"ed since 1993 and is projected to reach 599–742 by 2050, with corridor districts su"
+P77,paragraph,3,False,6,742,"ince 1993 and is projected to reach 599–742 by 2050, with corridor districts such a"
+P77,paragraph,3,False,7,2050,"93 and is projected to reach 599–742 by 2050, with corridor districts such as Hongko"
+P77,paragraph,3,False,8,52%,"d jointly: the composite index rises by 52% under SSP5-8.5, a joint increment that"
+P77,paragraph,3,False,9,8.5,"composite index rises by 52% under SSP5-8.5, a joint increment that is not visible"
+P78,paragraph,3,False,1,2012,"e must be treated jointly (Wang et al., 2012) and compound-flooding evidence from ot"
+P78,paragraph,3,False,2,2015,"rom other coastal systems (Wahl et al., 2015). To the housing-market literature, the"
+P78,paragraph,3,False,3,2020,"dy priced climate risk (Baldauf et al., 2020; Bernstein et al., 2019; Murfin and Spi"
+P78,paragraph,3,False,4,2019,"Baldauf et al., 2020; Bernstein et al., 2019; Murfin and Spiegel, 2020), the climate"
+P78,paragraph,3,False,5,2020,"stein et al., 2019; Murfin and Spiegel, 2020), the climate-CVaR channel embeds hazar"
+P78,paragraph,3,False,6,2021,"risk in housing markets (Giglio et al., 2021; Reinders et al., 2023; Westcott et al."
+P78,paragraph,3,False,7,2023,"(Giglio et al., 2021; Reinders et al., 2023; Westcott et al., 2020). To the coupled"
+P78,paragraph,3,False,8,2020,"Reinders et al., 2023; Westcott et al., 2020). To the coupled-modelling literature,"
+P78,paragraph,3,False,9,2013,"onomic frameworks (McNamara and Keeler, 2013; Chandra-Putra and Andrews, 2020) from"
+P78,paragraph,3,False,10,2020,"eeler, 2013; Chandra-Putra and Andrews, 2020) from local policy experiments to proba"
+P79,paragraph,3,False,1,21.5%,"seawall: its efficiency gain rises from 21.5% to 34.2% under SSP5-8.5 (Fig. 24), yet"
+P79,paragraph,3,False,2,34.2%,"its efficiency gain rises from 21.5% to 34.2% under SSP5-8.5 (Fig. 24), yet absolute"
+P79,paragraph,3,False,3,8.5,"in rises from 21.5% to 34.2% under SSP5-8.5 (Fig. 24), yet absolute residual risk s"
+P79,paragraph,3,False,4,24,"rom 21.5% to 34.2% under SSP5-8.5 (Fig. 24), yet absolute residual risk still grow"
+P79,paragraph,3,False,5,39.5%,"t absolute residual risk still grows by 39.5%, because the incremental surge componen"
+P79,paragraph,3,False,6,8,"ices, dominate model sensitivity (Table 8): the damage-onset threshold and half-d"
+P79,paragraph,3,False,7,−23%,"and half-damage wind speeds move EAL by −23% to +31%, whereas index smoothing parame"
+P79,paragraph,3,False,8,+31%,"-damage wind speeds move EAL by −23% to +31%, whereas index smoothing parameters mov"
+P79,paragraph,3,False,9,2%,"thing parameters move CRI by less than ±2%. This hierarchy implies that the most v"
+P80,paragraph,3,False,1,1990,"retrofitting or code-upgrading the pre-1990 low-rise stock in the corridor district"
+P81,paragraph,3,False,1,1,"with a defined direction of influence. (1) The parametric surge model omits two-d"
+P81,paragraph,3,False,2,2,"en losses in complex estuary settings. (2) The 10× synthetic-track augmentation i"
+P81,paragraph,3,False,3,10×,"es in complex estuary settings. (2) The 10× synthetic-track augmentation is conserv"
+P81,paragraph,3,False,4,3,"probabilities are likely understated. (3) Building-age enrichment covers 73.5% o"
+P81,paragraph,3,False,5,73.5%,"ted. (3) Building-age enrichment covers 73.5% of structures, with the remainder using"
+P81,paragraph,3,False,6,4,"is modest but directionally ambiguous. (4) The housing-stress block covers the re"
+P81,paragraph,3,False,7,2011,"rs the residential market only, and the 2011–2025 sample is short for jump-diffusion"
+P81,paragraph,3,False,8,2025,"e residential market only, and the 2011–2025 sample is short for jump-diffusion cali"
+P81,paragraph,3,False,9,5,"ication rather than precise forecasts. (5) The dependence calibration is a single"
+P81,paragraph,3,False,10,6,"hown to be insensitive to this choice. (6) The projection assumes stationary proc"
+P82,paragraph,2,False,,,
+P83,paragraph,FirstParagraph,False,1,2050,"it under a historical baseline and two 2050 climate scenarios. Three findings stand"
+P83,paragraph,FirstParagraph,False,2,74%,"e cannot address this: wind contributes 74% of expected annual loss, the 6 m seawal"
+P83,paragraph,FirstParagraph,False,3,6 m,"ibutes 74% of expected annual loss, the 6 m seawall reduces EAL by only 21.5%, and"
+P83,paragraph,FirstParagraph,False,4,21.5%,"ss, the 6 m seawall reduces EAL by only 21.5%, and even under SSP5-8.5 the defended r"
+P83,paragraph,FirstParagraph,False,5,8.5,"EAL by only 21.5%, and even under SSP5-8.5 the defended residual loss (CNY 26.5 bi"
+P83,paragraph,FirstParagraph,False,6,26.5 billion,"SP5-8.5 the defended residual loss (CNY 26.5 billion) exceeds today's undefended baseline. S"
+P83,paragraph,FirstParagraph,False,7,1993,"rket stress: the CRI quadrupled between 1993 and 2023 and is projected to reach 599–"
+P83,paragraph,FirstParagraph,False,8,2023,"ss: the CRI quadrupled between 1993 and 2023 and is projected to reach 599–742 by 20"
+P83,paragraph,FirstParagraph,False,9,599,"1993 and 2023 and is projected to reach 599–742 by 2050, while the composite climat"
+P83,paragraph,FirstParagraph,False,10,742,"and 2023 and is projected to reach 599–742 by 2050, while the composite climate-ho"
+P83,paragraph,FirstParagraph,False,11,2050,"23 and is projected to reach 599–742 by 2050, while the composite climate-housing in"
+P83,paragraph,FirstParagraph,False,12,52%,"omposite climate-housing index rises by 52% under SSP5-8.5 through a tail-risk chan"
+P83,paragraph,FirstParagraph,False,13,8.5,"e-housing index rises by 52% under SSP5-8.5 through a tail-risk channel that price-"
+P84,paragraph,2,False,,,
+P85,paragraph,FirstParagraph,True,1,15,"nt climate-housing risk measure (Figure 15). Module I, the Climate Risk Module (Se"
+P85,paragraph,FirstParagraph,True,2,1.1,"le I, the Climate Risk Module (Sections 1.1–1.6), operationalises the standard clim"
+P85,paragraph,FirstParagraph,True,3,1.6,", the Climate Risk Module (Sections 1.1–1.6), operationalises the standard climate-"
+P85,paragraph,FirstParagraph,True,4,1.7,"II, the Housing Stress Module (Section 1.7), converts housing-market information i"
+P85,paragraph,FirstParagraph,True,5,1.8,"dule III, the Composite Module (Section 1.8), integrates both domains through geome"
+T5#r0c0,table_cell,Compact,False,,,
+T5#r0c1,table_cell,Compact,False,,,
+T5#r0c2,table_cell,Compact,False,,,
+T5#r0c3,table_cell,Compact,False,,,
+T5#r0c4,table_cell,Compact,False,,,
+T5#r1c0,table_cell,Compact,False,,,
+T5#r1c1,table_cell,Compact,True,,,
+T5#r1c2,table_cell,Compact,False,,,
+T5#r1c3,table_cell,Compact,True,1,2010,"Holland 2010 wind field -> parametric surge -> inund"
+T5#r1c3,table_cell,Compact,True,2,2050,"ce sensitivity -> -> SDE projection to 2050"
+T5#r1c4,table_cell,Compact,False,,,
+T5#r2c0,table_cell,Compact,False,,,
+T5#r2c1,table_cell,Compact,False,,,
+T5#r2c2,table_cell,Compact,False,,,
+T5#r2c3,table_cell,Compact,True,1,2050,"-> Merton jump-diffusion projection to 2050"
+T5#r2c4,table_cell,Compact,False,,,
+T5#r3c0,table_cell,Compact,False,,,
+T5#r3c1,table_cell,Compact,False,,,
+T5#r3c2,table_cell,Compact,False,,,
+T5#r3c3,table_cell,Compact,True,,,
+T5#r3c4,table_cell,Compact,False,1,2050,"HI, dependence-preserving paired paths, 2050 CCHI percentiles"
+P86,paragraph,a0,False,1,15,"Figure 15. Structured overview of the three-modul"
+P87,paragraph,3,False,1,1.1,"1.1 TC wind hazard"
+P88,paragraph,4,False,1,1.1,"1.1.1 Historical wind field generation"
+P89,paragraph,FirstParagraph,False,1,2010,"fields are generated using the Holland 2010 revised parametric model (Holland, 1980"
+P89,paragraph,FirstParagraph,False,2,1980,"2010 revised parametric model (Holland, 1980, 2008; Holland et al., 2010) as impleme"
+P89,paragraph,FirstParagraph,False,3,2008,"evised parametric model (Holland, 1980, 2008; Holland et al., 2010) as implemented i"
+P89,paragraph,FirstParagraph,False,4,2010,"l (Holland, 1980, 2008; Holland et al., 2010) as implemented in the CLIMADA platform"
+P89,paragraph,FirstParagraph,False,5,2019,"MADA platform (Aznar-Siguan and Bresch, 2019; Bresch and Aznar-Siguan, 2021). In pra"
+P89,paragraph,FirstParagraph,False,6,2021,"Bresch, 2019; Bresch and Aznar-Siguan, 2021). In practical terms, the model convert"
+P89,paragraph,FirstParagraph,False,7,0.01,"into a spatial wind field on a regular 0.01° grid covering Shanghai. The full radia"
+P90,paragraph,4,False,1,1.1,"1.1.2 Synthetic track augmentation"
+P91,paragraph,FirstParagraph,False,1,10,"e statistical estimates of rare events, 10 synthetic track variants are generated"
+P91,paragraph,FirstParagraph,False,2,2006,"ic perturbation method (Emanuel et al., 2006). All computations use a fixed random s"
+P91,paragraph,FirstParagraph,False,3,42,"l computations use a fixed random seed (42) for reproducibility."
+P92,paragraph,4,False,1,1.1,"1.1.3 Climate-change scaling"
+P93,paragraph,FirstParagraph,False,1,2020,"ios is scaled using the Knutson et al. (2020) framework. CLIMADA’s built-in function"
+P93,paragraph,FirstParagraph,False,2,50,"in-specific (WP) scaling factors at the 50th percentile for a 1985–2005 baseline."
+P93,paragraph,FirstParagraph,False,3,1985,"ng factors at the 50th percentile for a 1985–2005 baseline. The resulting intensity"
+P93,paragraph,FirstParagraph,False,4,2005,"ctors at the 50th percentile for a 1985–2005 baseline. The resulting intensity facto"
+P93,paragraph,FirstParagraph,False,5,2050,"ne. The resulting intensity factors for 2050 are 1.05 (SSP2-4.5) and 1.10 (SSP5-8.5)"
+P93,paragraph,FirstParagraph,False,6,1.05,"esulting intensity factors for 2050 are 1.05 (SSP2-4.5) and 1.10 (SSP5-8.5)."
+P93,paragraph,FirstParagraph,False,7,4.5,"tensity factors for 2050 are 1.05 (SSP2-4.5) and 1.10 (SSP5-8.5)."
+P93,paragraph,FirstParagraph,False,8,1.10,"actors for 2050 are 1.05 (SSP2-4.5) and 1.10 (SSP5-8.5)."
+P93,paragraph,FirstParagraph,False,9,8.5,"2050 are 1.05 (SSP2-4.5) and 1.10 (SSP5-8.5)."
+P94,paragraph,CaptionedFigure,False,,,
+P95,paragraph,ImageCaption,False,1,16,"Figure 16: Historical TC tracks over Shanghai"
+P96,paragraph,a0,False,1,16,"Figure 16. Historical TC tracks crossing the Shan"
+P97,paragraph,3,False,1,1.2,"1.2 Storm surge hazard"
+P98,paragraph,4,False,1,1.2,"1.2.1 Parametric surge model"
+P99,paragraph,FirstParagraph,False,1,1982,"rm driven by coastal wind stress (Gill, 1982; WMO, 2011; Dean and Dalrymple, 1991; I"
+P99,paragraph,FirstParagraph,False,2,2011,"y coastal wind stress (Gill, 1982; WMO, 2011; Dean and Dalrymple, 1991; Irish et al."
+P99,paragraph,FirstParagraph,False,3,1991,"l, 1982; WMO, 2011; Dean and Dalrymple, 1991; Irish et al., 2008). The implementatio"
+P99,paragraph,FirstParagraph,False,4,2008,"Dean and Dalrymple, 1991; Irish et al., 2008). The implementation uses standard seaw"
+P99,paragraph,FirstParagraph,False,5,1981,"g coefficient following Large and Pond (1981) and Powell et al. (2003). The full sur"
+P99,paragraph,FirstParagraph,False,6,2003,"arge and Pond (1981) and Powell et al. (2003). The full surge equations are collecte"
+P100,paragraph,4,False,1,1.2,"1.2.2 Coastal inundation propagation"
+P101,paragraph,FirstParagraph,False,,,
+P102,paragraph,4,False,1,1.2,"1.2.3 Huangpu River hybrid overbank model"
+P103,paragraph,FirstParagraph,False,1,17,"he Huangpu centreline is represented by 17 hard-coded waypoints, and inundation de"
+P104,paragraph,4,False,1,1.2,"1.2.4 SSP sea-level rise"
+P105,paragraph,FirstParagraph,False,1,0.3 m,"re scenarios incorporate SLR offsets of 0.3 m (SSP2-4.5) and 0.5 m (SSP5-8.5) by 2050"
+P105,paragraph,FirstParagraph,False,2,4.5,"incorporate SLR offsets of 0.3 m (SSP2-4.5) and 0.5 m (SSP5-8.5) by 2050 (Fox-Kemp"
+P105,paragraph,FirstParagraph,False,3,0.5 m,"ate SLR offsets of 0.3 m (SSP2-4.5) and 0.5 m (SSP5-8.5) by 2050 (Fox-Kemper et al.,"
+P105,paragraph,FirstParagraph,False,4,8.5,"ets of 0.3 m (SSP2-4.5) and 0.5 m (SSP5-8.5) by 2050 (Fox-Kemper et al., 2021). The"
+P105,paragraph,FirstParagraph,False,5,2050,".3 m (SSP2-4.5) and 0.5 m (SSP5-8.5) by 2050 (Fox-Kemper et al., 2021). These offset"
+P105,paragraph,FirstParagraph,False,6,2021,"(SSP5-8.5) by 2050 (Fox-Kemper et al., 2021). These offsets are added directly to t"
+P106,paragraph,CaptionedFigure,False,,,
+P107,paragraph,ImageCaption,False,1,17,"Figure 17: Storm surge inundation depth — histori"
+P108,paragraph,a0,False,1,17,"Figure 17. Spatial distribution of maximum storm-"
+P108,paragraph,a0,False,2,0.01,"efended flood map. Hexagonal binning at 0.01° resolution."
+P109,paragraph,CaptionedFigure,False,,,
+P110,paragraph,ImageCaption,False,1,18,"Figure 18: Surge damage — historical"
+P111,paragraph,a0,False,1,18,"Figure 18. Spatial distribution of storm-surge da"
+P112,paragraph,3,False,1,1.3,"1.3 Vulnerability functions"
+P113,paragraph,4,False,1,1.3,"1.3.1 TC wind damage"
+P114,paragraph,FirstParagraph,False,1,2011,"d damage is modelled using the Emanuel (2011) sigmoid function as implemented in CLI"
+P114,paragraph,FirstParagraph,False,2,2021,"3 regional calibration (Eberenz et al., 2021), and category-level multipliers in Tab"
+P114,paragraph,FirstParagraph,False,3,6,"and category-level multipliers in Table 6 adjust that baseline to reflect structu"
+P115,paragraph,a0,False,1,6,"Table 6. Building classification system and cor"
+T6#r0c0,table_cell,Compact,False,,,
+T6#r0c1,table_cell,Compact,False,,,
+T6#r0c2,table_cell,Compact,False,,,
+T6#r0c3,table_cell,Compact,False,,,
+T6#r0c4,table_cell,Compact,True,,,
+T6#r0c5,table_cell,Compact,False,,,
+T6#r0c6,table_cell,Compact,True,,,
+T6#r1c0,table_cell,Compact,False,,,
+T6#r1c1,table_cell,Compact,False,1,1,"1–6"
+T6#r1c1,table_cell,Compact,False,2,6,"1–6"
+T6#r1c2,table_cell,Compact,False,1,1990,"< 1990"
+T6#r1c3,table_cell,Compact,False,,,
+T6#r1c4,table_cell,Compact,False,1,0.80,"0.80"
+T6#r1c5,table_cell,Compact,False,,,
+T6#r1c6,table_cell,Compact,False,1,0.60,"0.60"
+T6#r2c0,table_cell,Compact,False,,,
+T6#r2c1,table_cell,Compact,False,1,1,"1–6"
+T6#r2c1,table_cell,Compact,False,2,6,"1–6"
+T6#r2c2,table_cell,Compact,False,1,2002,"≥ 2002"
+T6#r2c3,table_cell,Compact,False,,,
+T6#r2c4,table_cell,Compact,False,1,0.90,"0.90"
+T6#r2c5,table_cell,Compact,False,,,
+T6#r2c6,table_cell,Compact,False,1,0.60,"0.60"
+T6#r3c0,table_cell,Compact,False,,,
+T6#r3c1,table_cell,Compact,False,1,7,"7–30"
+T6#r3c1,table_cell,Compact,False,2,30,"7–30"
+T6#r3c2,table_cell,Compact,False,1,2001,"< 2001"
+T6#r3c3,table_cell,Compact,False,,,
+T6#r3c4,table_cell,Compact,False,1,0.95,"0.95"
+T6#r3c5,table_cell,Compact,False,,,
+T6#r3c6,table_cell,Compact,False,1,0.40,"0.40"
+T6#r4c0,table_cell,Compact,False,,,
+T6#r4c1,table_cell,Compact,False,1,7,"7–30"
+T6#r4c1,table_cell,Compact,False,2,30,"7–30"
+T6#r4c2,table_cell,Compact,False,1,2002,"≥ 2002"
+T6#r4c3,table_cell,Compact,False,,,
+T6#r4c4,table_cell,Compact,False,1,1.00,"1.00"
+T6#r4c5,table_cell,Compact,False,,,
+T6#r4c6,table_cell,Compact,False,1,0.40,"0.40"
+T6#r5c0,table_cell,Compact,False,,,
+T6#r5c1,table_cell,Compact,False,1,31,"≥ 31"
+T6#r5c2,table_cell,Compact,False,,,
+T6#r5c3,table_cell,Compact,False,,,
+T6#r5c4,table_cell,Compact,False,1,1.05,"1.05"
+T6#r5c5,table_cell,Compact,False,,,
+T6#r5c6,table_cell,Compact,False,1,0.25,"0.25"
+T6#r6c0,table_cell,Compact,False,,,
+T6#r6c1,table_cell,Compact,False,,,
+T6#r6c2,table_cell,Compact,False,,,
+T6#r6c3,table_cell,Compact,False,,,
+T6#r6c4,table_cell,Compact,False,1,1.10,"1.10"
+T6#r6c5,table_cell,Compact,False,,,
+T6#r6c6,table_cell,Compact,False,1,0.50,"0.50"
+P116,paragraph,a0,False,,,
+P117,paragraph,CaptionedFigure,False,,,
+P118,paragraph,ImageCaption,False,1,19,"Figure 19: TC impact functions"
+P119,paragraph,a0,False,1,19,"Figure 19. TC wind impact functions (Emanuel sigm"
+P119,paragraph,a0,False,2,1990,"tion of wind speed. Category A_old (pre-1990 low-rise) is most vulnerable; Category"
+P120,paragraph,4,False,1,1.3,"1.3.2 Storm surge damage"
+P121,paragraph,FirstParagraph,False,1,2022,"HAZUS-MH Flood Technical Manual (FEMA, 2022) for four surge classes (low-rise, mid-"
+P121,paragraph,FirstParagraph,False,2,0.176,"a regional calibration scale factor of 0.176 at runtime during impact-function const"
+P122,paragraph,a0,False,1,7,"Table 7. Raw HAZUS-MH depth–damage reference cu"
+P122,paragraph,a0,False,2,0.176,"class. Effective model MDR = raw MDR × 0.176 (runtime calibration scale)."
+T7#r0c0,table_cell,Compact,False,,,
+T7#r0c1,table_cell,Compact,False,,,
+T7#r0c2,table_cell,Compact,False,,,
+T7#r0c3,table_cell,Compact,False,,,
+T7#r0c4,table_cell,Compact,False,,,
+T7#r1c0,table_cell,Compact,False,1,0.0,"0.0"
+T7#r1c1,table_cell,Compact,False,1,0.000,"0.000"
+T7#r1c2,table_cell,Compact,False,1,0.000,"0.000"
+T7#r1c3,table_cell,Compact,False,1,0.000,"0.000"
+T7#r1c4,table_cell,Compact,False,1,0.000,"0.000"
+T7#r2c0,table_cell,Compact,False,1,0.3,"0.3"
+T7#r2c1,table_cell,Compact,False,1,0.080,"0.080"
+T7#r2c2,table_cell,Compact,False,1,0.040,"0.040"
+T7#r2c3,table_cell,Compact,False,1,0.020,"0.020"
+T7#r2c4,table_cell,Compact,False,1,0.050,"0.050"
+T7#r3c0,table_cell,Compact,False,1,0.6,"0.6"
+T7#r3c1,table_cell,Compact,False,1,0.150,"0.150"
+T7#r3c2,table_cell,Compact,False,1,0.080,"0.080"
+T7#r3c3,table_cell,Compact,False,1,0.040,"0.040"
+T7#r3c4,table_cell,Compact,False,1,0.100,"0.100"
+T7#r4c0,table_cell,Compact,False,1,1.2,"1.2"
+T7#r4c1,table_cell,Compact,False,1,0.300,"0.300"
+T7#r4c2,table_cell,Compact,False,1,0.180,"0.180"
+T7#r4c3,table_cell,Compact,False,1,0.100,"0.100"
+T7#r4c4,table_cell,Compact,False,1,0.220,"0.220"
+T7#r5c0,table_cell,Compact,False,1,1.8,"1.8"
+T7#r5c1,table_cell,Compact,False,1,0.420,"0.420"
+T7#r5c2,table_cell,Compact,False,1,0.250,"0.250"
+T7#r5c3,table_cell,Compact,False,1,0.150,"0.150"
+T7#r5c4,table_cell,Compact,False,1,0.320,"0.320"
+T7#r6c0,table_cell,Compact,False,1,2.4,"2.4"
+T7#r6c1,table_cell,Compact,False,1,0.500,"0.500"
+T7#r6c2,table_cell,Compact,False,1,0.300,"0.300"
+T7#r6c3,table_cell,Compact,False,1,0.180,"0.180"
+T7#r6c4,table_cell,Compact,False,1,0.380,"0.380"
+T7#r7c0,table_cell,Compact,False,1,3.0,"3.0"
+T7#r7c1,table_cell,Compact,False,1,0.550,"0.550"
+T7#r7c2,table_cell,Compact,False,1,0.350,"0.350"
+T7#r7c3,table_cell,Compact,False,1,0.220,"0.220"
+T7#r7c4,table_cell,Compact,False,1,0.420,"0.420"
+P123,paragraph,a0,False,1,0.176,"The regional calibration scale factor (0.176) is applied at runtime during impact-fu"
+P123,paragraph,a0,False,2,10 m,"ference. The depth range is extended to 10 m via exponential saturation extrapolatio"
+P124,paragraph,CaptionedFigure,False,,,
+P125,paragraph,ImageCaption,False,1,20,"Figure 20: Surge impact functions"
+P126,paragraph,a0,False,1,20,"Figure 20. Storm-surge depth–damage functions for"
+P127,paragraph,4,False,1,1.3,"1.3.3 Social Vulnerability Index"
+P128,paragraph,FirstParagraph,False,1,2003,"ty Index (SoVI) logic of Cutter et al. (2003). In the loss model, SVI enters as a di"
+P128,paragraph,FirstParagraph,False,2,1990,"n temperature anomalies relative to the 1990–2020 baseline, captures warming-related"
+P128,paragraph,FirstParagraph,False,3,2020,"perature anomalies relative to the 1990–2020 baseline, captures warming-related ampl"
+P129,paragraph,4,False,1,1.3,"1.3.4 Impervious surface ratio and runoff a"
+P130,paragraph,FirstParagraph,False,1,55,"lding level. This is consistent with TR-55-style imperviousness treatment and with"
+P130,paragraph,FirstParagraph,False,2,1986,"ocation affect urban flood peaks (USDA, 1986; Du et al., 2015)."
+P130,paragraph,FirstParagraph,False,3,2015,"ban flood peaks (USDA, 1986; Du et al., 2015)."
+P131,paragraph,3,False,1,1.4,"1.4 Compound risk calculation"
+P132,paragraph,4,False,1,1.4,"1.4.1 Compound MDR"
+P133,paragraph,FirstParagraph,False,,,
+P134,paragraph,FirstParagraph,False,,,
+P135,paragraph,4,False,1,1.4,"1.4.2 Wind–surge coupling"
+P136,paragraph,FirstParagraph,True,1,2015,"od interaction literature (Wahl et al., 2015), the effective surge depth is amplifie"
+P136,paragraph,FirstParagraph,True,2,0.25,"pecific coupling parameter ranges from 0.25 for high-rise buildings to 0.60 for low"
+P136,paragraph,FirstParagraph,True,3,0.60,"es from 0.25 for high-rise buildings to 0.60 for low-rise buildings. The exact coupl"
+P137,paragraph,4,False,1,1.4,"1.4.3 Exposed value adjustment for surge"
+P138,paragraph,FirstParagraph,True,,,
+P139,paragraph,4,False,1,1.4,"1.4.4 District-level expected annual loss"
+P140,paragraph,FirstParagraph,False,,,
+P141,paragraph,3,False,1,1.5,"1.5 Defence sensitivity analysis"
+P142,paragraph,FirstParagraph,False,1,0 m,"nce (baseline_nodef): crest elevation = 0 m, representing the counterfactual withou"
+P142,paragraph,FirstParagraph,False,2,6 m,"ap (current_def_gap): crest elevation = 6 m, representing Shanghai’s existing seawa"
+P143,paragraph,a0,False,,,
+P144,paragraph,a0,False,1,2050,"tic baseline without added SLR, and two 2050 SSP cases with scenario-specific SLR an"
+P145,paragraph,a0,False,,,
+P146,paragraph,3,False,1,1.6,"1.6 Climate Risk Index (CRI)"
+P147,paragraph,4,False,1,1.6,"1.6.1 Index construction"
+P148,paragraph,FirstParagraph,False,,,
+P149,paragraph,FirstParagraph,True,1,0.85,"med event-loss signal with decay factor 0.85. The multiplicative damage-boost parame"
+P149,paragraph,FirstParagraph,True,2,0.5,"ive damage-boost parameter is capped at 0.5. The raw CRI is then smoothed with a 12"
+P149,paragraph,FirstParagraph,True,3,12,".5. The raw CRI is then smoothed with a 12-month moving average and indexed to 100"
+P149,paragraph,FirstParagraph,True,4,100,"12-month moving average and indexed to 100 at the first available month (June 1993"
+P149,paragraph,FirstParagraph,True,5,1993,"100 at the first available month (June 1993). Additional definitions are summarised"
+P150,paragraph,4,False,1,1.6,"1.6.2 SDE forward projection (2024–2050)"
+P150,paragraph,4,False,2,2024,"1.6.2 SDE forward projection (2024–2050)"
+P150,paragraph,4,False,3,2050,"1.6.2 SDE forward projection (2024–2050)"
+P151,paragraph,FirstParagraph,False,1,1930,"beck structure (Uhlenbeck and Ornstein, 1930) with a fast component and a slower cli"
+P151,paragraph,FirstParagraph,False,2,2000,"ENSO-like multi-year variability (Chan, 2000). Exposure and vulnerability are projec"
+P152,paragraph,a0,True,1,1.0×,"d through: - H-trend drift multipliers: 1.0× (baseline), 1.5× (SSP2-4.5), 2.0× (SSP5"
+P152,paragraph,a0,True,2,1.5×,"end drift multipliers: 1.0× (baseline), 1.5× (SSP2-4.5), 2.0× (SSP5-8.5), grounded i"
+P152,paragraph,a0,True,3,4.5,"ultipliers: 1.0× (baseline), 1.5× (SSP2-4.5), 2.0× (SSP5-8.5), grounded in IPCC AR6"
+P152,paragraph,a0,True,4,2.0×,"iers: 1.0× (baseline), 1.5× (SSP2-4.5), 2.0× (SSP5-8.5), grounded in IPCC AR6 WG1 Ta"
+P152,paragraph,a0,True,5,8.5,"(baseline), 1.5× (SSP2-4.5), 2.0× (SSP5-8.5), grounded in IPCC AR6 WG1 Table SPM.1"
+P152,paragraph,a0,True,6,2021,"Table SPM.1 warming-rate ratios (IPCC, 2021) - Damage adjustments: Poisson rate mu"
+P152,paragraph,a0,True,7,1.05,"djustments: Poisson rate multiplied by 1.05 (SSP2-4.5) / 1.08 (SSP5-8.5) and log-se"
+P152,paragraph,a0,True,8,4.5,"Poisson rate multiplied by 1.05 (SSP2-4.5) / 1.08 (SSP5-8.5) and log-severity shi"
+P152,paragraph,a0,True,9,1.08,"n rate multiplied by 1.05 (SSP2-4.5) / 1.08 (SSP5-8.5) and log-severity shifted by"
+P152,paragraph,a0,True,10,8.5,"tiplied by 1.05 (SSP2-4.5) / 1.08 (SSP5-8.5) and log-severity shifted by +0.068 / +"
+P152,paragraph,a0,True,11,+0.068,"(SSP5-8.5) and log-severity shifted by +0.068 / +0.095, grounded in Knutson et al. (2"
+P152,paragraph,a0,True,12,+0.095,"5) and log-severity shifted by +0.068 / +0.095, grounded in Knutson et al. (2020) WNP"
+P152,paragraph,a0,True,13,2020,"8 / +0.095, grounded in Knutson et al. (2020) WNP TC projections"
+P153,paragraph,a0,False,,,
+P154,paragraph,3,False,1,1.7,"1.7 Housing Stress Index (HSI)"
+P155,paragraph,4,False,1,1.7,"1.7.1 Sub-indicator construction"
+P156,paragraph,FirstParagraph,False,,,
+P157,paragraph,,True,1,2002,"thing convention with (Ravn and Uhlig, 2002; Hodrick and Prescott, 1997)."
+P157,paragraph,,True,2,1997,"and Uhlig, 2002; Hodrick and Prescott, 1997)."
+P158,paragraph,,False,1,12,"Realised volatility: rolling 12-month standard deviation of log returns"
+P159,paragraph,,False,1,2000,"k framework of Rockafellar and Uryasev (2000, 2002) and the extremal-events literatu"
+P159,paragraph,,False,2,2002,"ework of Rockafellar and Uryasev (2000, 2002) and the extremal-events literature (Em"
+P159,paragraph,,False,3,1997,"al-events literature (Embrechts et al., 1997). The CVaR module expands the 107 histo"
+P159,paragraph,,False,4,107,"al., 1997). The CVaR module expands the 107 historical Shanghai-affecting tracks in"
+P159,paragraph,,False,5,10,807,"fecting tracks into a stochastic set of 10,807 realisations by adding 100 perturbation"
+P159,paragraph,,False,6,100,"ic set of 10,807 realisations by adding 100 perturbations per historical track and"
+P159,paragraph,,False,7,5,"-risk values are estimated on a centred 5-year window, scaled by the correspondin"
+P159,paragraph,,False,8,2021,"ility, high-loss states (Giglio et al., 2021; Reinders et al., 2023)."
+P159,paragraph,,False,9,2023,"(Giglio et al., 2021; Reinders et al., 2023)."
+P160,paragraph,FirstParagraph,True,1,12,"shed HSI is then obtained by applying a 12-month moving average to and reindexing"
+P160,paragraph,FirstParagraph,True,2,100,"exing the first valid smoothed month to 100 (December 2011)."
+P160,paragraph,FirstParagraph,True,3,2011,"t valid smoothed month to 100 (December 2011)."
+P161,paragraph,4,False,1,1.7,"1.7.2 Merton jump-diffusion projection"
+P162,paragraph,FirstParagraph,False,1,2050,"The HSI is projected to 2050 using a mean-reverting Merton jump-diff"
+P162,paragraph,FirstParagraph,False,2,1974,"ng Merton jump-diffusion model (Merton, 1974, 1976; Case and Shiller, 1989). In word"
+P162,paragraph,FirstParagraph,False,3,1976,"ton jump-diffusion model (Merton, 1974, 1976; Case and Shiller, 1989). In words, hou"
+P162,paragraph,FirstParagraph,False,4,1989,"(Merton, 1974, 1976; Case and Shiller, 1989). In words, house prices revert towards"
+P162,paragraph,FirstParagraph,False,5,2011,"ation window is limited to the observed 2011-01 to 2025-06 sample, the fitted jump p"
+P162,paragraph,FirstParagraph,False,6,01,"window is limited to the observed 2011-01 to 2025-06 sample, the fitted jump para"
+P162,paragraph,FirstParagraph,False,7,2025,"w is limited to the observed 2011-01 to 2025-06 sample, the fitted jump parameters s"
+P162,paragraph,FirstParagraph,False,8,06,"limited to the observed 2011-01 to 2025-06 sample, the fitted jump parameters shou"
+P163,paragraph,a0,True,1,1.10,"ump-arrival intensity is multiplied by 1.10 (SSP2-4.5) and 1.20 (SSP5-8.5), reflect"
+P163,paragraph,a0,True,2,4.5,"intensity is multiplied by 1.10 (SSP2-4.5) and 1.20 (SSP5-8.5), reflecting climat"
+P163,paragraph,a0,True,3,1.20,"y is multiplied by 1.10 (SSP2-4.5) and 1.20 (SSP5-8.5), reflecting climate-driven i"
+P163,paragraph,a0,True,4,8.5,"plied by 1.10 (SSP2-4.5) and 1.20 (SSP5-8.5), reflecting climate-driven increases i"
+P163,paragraph,a0,True,5,2020,"ptive repricing events (Baldauf et al., 2020). The climate-CVaR channel is not simul"
+P164,paragraph,3,False,1,1.8,"1.8 Composite Climate-Housing Index (CCHI)"
+P165,paragraph,4,False,1,1.8,"1.8.1 Historical CCHI"
+P166,paragraph,FirstParagraph,False,,,
+P167,paragraph,FirstParagraph,False,1,2010,"velopment Index (HDI) convention (UNDP, 2010) for combining heterogeneous sub-indice"
+P168,paragraph,4,False,1,1.8,"1.8.2 Projection via Iman–Conover rank reor"
+P169,paragraph,FirstParagraph,False,1,1982,"o ensembles using the Iman and Conover (1982) rank correlation matching algorithm, a"
+P169,paragraph,FirstParagraph,False,2,2005,"ent-risk aggregation by Junker and May (2005). The procedure is:"
+P170,paragraph,Compact,False,1,500,"CRI and HSI Monte Carlo path ensembles (500 paths each) from Sections 1.6.2 and 1.7"
+P170,paragraph,Compact,False,2,1.6,"nsembles (500 paths each) from Sections 1.6.2 and 1.7.2"
+P170,paragraph,Compact,False,3,1.7,"500 paths each) from Sections 1.6.2 and 1.7.2"
+P171,paragraph,Compact,False,,,
+P172,paragraph,Compact,False,,,
+P173,paragraph,Compact,False,,,
+P174,paragraph,Compact,False,,,
+P175,paragraph,2,False,,,
+P176,paragraph,FirstParagraph,False,,,
+P177,paragraph,3,False,1,2.1,"2.1 Study area"
+P178,paragraph,FirstParagraph,False,1,120.85,"The model domain spans 120.85°–122.00° E and 30.65°–31.90° N and cove"
+P178,paragraph,FirstParagraph,False,2,122.00,"The model domain spans 120.85°–122.00° E and 30.65°–31.90° N and covers Shang"
+P178,paragraph,FirstParagraph,False,3,30.65,"odel domain spans 120.85°–122.00° E and 30.65°–31.90° N and covers Shanghai’s 16 muni"
+P178,paragraph,FirstParagraph,False,4,31.90,"main spans 120.85°–122.00° E and 30.65°–31.90° N and covers Shanghai’s 16 municipal d"
+P178,paragraph,FirstParagraph,False,5,16,"d 30.65°–31.90° N and covers Shanghai’s 16 municipal districts, which together occ"
+P178,paragraph,FirstParagraph,False,6,6,341 km²,"districts, which together occupy about 6,341 km². It includes three settings that organi"
+P179,paragraph,a0,False,1,2022,"Sea shelf parameters derived from ETOPO 2022, with an effective shelf width of about"
+P179,paragraph,a0,False,2,550 km,"with an effective shelf width of about 550 km and a mean depth of about 55 m (NOAA NC"
+P179,paragraph,a0,False,3,55 m,"about 550 km and a mean depth of about 55 m (NOAA NCEI, 2022). These values are use"
+P179,paragraph,a0,False,4,2022,"a mean depth of about 55 m (NOAA NCEI, 2022). These values are used as bathymetric"
+P180,paragraph,CaptionedFigure,False,,,
+P181,paragraph,ImageCaption,False,1,21,"Figure 21: Study area overview showing Shanghai’s"
+P181,paragraph,ImageCaption,False,2,16,"Study area overview showing Shanghai’s 16 districts, building exposure distributi"
+P182,paragraph,a0,False,1,21,"Figure 21. Study area overview: Shanghai Municipa"
+P183,paragraph,3,False,1,2.2,"2.2 Tropical cyclone tracks"
+P184,paragraph,FirstParagraph,False,1,4,"r Climate Stewardship (IBTrACS) Version 4, Revision 01 for the western North Paci"
+P184,paragraph,FirstParagraph,False,2,01,"ewardship (IBTrACS) Version 4, Revision 01 for the western North Pacific (Knapp et"
+P184,paragraph,FirstParagraph,False,3,2010,"he western North Pacific (Knapp et al., 2010, 2018; WMO, 2019). We load the archive"
+P184,paragraph,FirstParagraph,False,4,2018,"tern North Pacific (Knapp et al., 2010, 2018; WMO, 2019). We load the archive with t"
+P184,paragraph,FirstParagraph,False,5,2019,"Pacific (Knapp et al., 2010, 2018; WMO, 2019). We load the archive with the USA agen"
+P184,paragraph,FirstParagraph,False,6,3.0,"then filtered to storms passing within 3.0° of the Shanghai centroid (121.47° E, 3"
+P184,paragraph,FirstParagraph,False,7,121.47,"g within 3.0° of the Shanghai centroid (121.47° E, 31.23° N). The aligned event catalo"
+P184,paragraph,FirstParagraph,False,8,31.23,"0° of the Shanghai centroid (121.47° E, 31.23° N). The aligned event catalogue used i"
+P184,paragraph,FirstParagraph,False,9,107,"ogue used in the current model contains 107 events spanning 1945–2025."
+P184,paragraph,FirstParagraph,False,10,1945,"rent model contains 107 events spanning 1945–2025."
+P184,paragraph,FirstParagraph,False,11,2025,"model contains 107 events spanning 1945–2025."
+P185,paragraph,CaptionedFigure,False,,,
+P186,paragraph,ImageCaption,False,1,22,"Figure 22: Annual TC event count"
+P187,paragraph,a0,False,1,22,"Figure 22. Annual count of tropical cyclone event"
+P187,paragraph,a0,False,2,3.0,"s affecting the Shanghai region (within 3.0° radius), based on the 107-event catalo"
+P187,paragraph,a0,False,3,107,"gion (within 3.0° radius), based on the 107-event catalogue for 1945–2025. Source:"
+P187,paragraph,a0,False,4,1945,"), based on the 107-event catalogue for 1945–2025. Source: IBTrACS WP v04r01."
+P187,paragraph,a0,False,5,2025,"sed on the 107-event catalogue for 1945–2025. Source: IBTrACS WP v04r01."
+P188,paragraph,CaptionedFigure,False,,,
+P189,paragraph,ImageCaption,False,1,23,"Figure 23: Monthly TC frequency heatmap"
+P190,paragraph,a0,False,1,23,"Figure 23. Monthly distribution of the 107 TC eve"
+P190,paragraph,a0,False,2,107,"Figure 23. Monthly distribution of the 107 TC events affecting Shanghai. Activity"
+P191,paragraph,3,False,1,2.3,"2.3 Topographic and bathymetric data"
+P192,paragraph,FirstParagraph,True,1,2,"on topography is derived from FABDEM V1-2 (Hawker et al., 2022) at 30 m resolutio"
+P192,paragraph,FirstParagraph,True,2,2022,"erived from FABDEM V1-2 (Hawker et al., 2022) at 30 m resolution. Three tiles coveri"
+P192,paragraph,FirstParagraph,True,3,30 m,"om FABDEM V1-2 (Hawker et al., 2022) at 30 m resolution. Three tiles covering Shangh"
+P192,paragraph,FirstParagraph,True,4,0.01,"E121) are mosaicked, reprojected to the 0.01° model grid, and clipped to the study d"
+P192,paragraph,FirstParagraph,True,5,2022,"t China Sea shelf parameters from ETOPO 2022, adopting an effective shelf width of"
+P193,paragraph,3,False,1,2.4,"2.4 Building exposure"
+P194,paragraph,FirstParagraph,False,1,585,033,"into a harmonised inventory containing 585,033 records. For each structure we retain f"
+P194,paragraph,FirstParagraph,False,2,500 m,"nities that report a completion year; a 500 m cKDTree search radius yields age data f"
+P194,paragraph,FirstParagraph,False,3,429,906,"DTree search radius yields age data for 429,906 buildings (73.5%), with the remaining 1"
+P194,paragraph,FirstParagraph,False,4,73.5%,"yields age data for 429,906 buildings (73.5%), with the remaining 155,127 retaining"
+P194,paragraph,FirstParagraph,False,5,155,127,"6 buildings (73.5%), with the remaining 155,127 retaining the floor-count-based age pro"
+P194,paragraph,FirstParagraph,False,6,1,"spatial detail wherever possible: Level 1 uses nearby Lianjia point-of-interest p"
+P194,paragraph,FirstParagraph,False,7,2,"building can be matched directly, Level 2 uses the latest district-level monthly"
+P194,paragraph,FirstParagraph,False,8,3,"district-level monthly price, and Level 3 uses the latest city-wide monthly price"
+P194,paragraph,FirstParagraph,False,9,9,800,"ued at a fixed construction cost of CNY 9,800 per m² rather than at residential marke"
+P194,paragraph,FirstParagraph,False,10,2020,"s. This figure is based on the Arcadis (2020) International Construction Cost Index,"
+P194,paragraph,FirstParagraph,False,11,1,400,"costs for Shanghai of approximately USD 1,400 per m², and has been adopted in compara"
+P194,paragraph,FirstParagraph,False,12,5,000,"building footprint areas are capped at 5,000 m² before value computation to prevent"
+P194,paragraph,FirstParagraph,False,13,497,848,"re aggregate. In the current inventory, 497,848 buildings are priced at Level 1 and 87,"
+P194,paragraph,FirstParagraph,False,14,1,", 497,848 buildings are priced at Level 1 and 87,185 at Level 2, yielding a total"
+P194,paragraph,FirstParagraph,False,15,87,185,"848 buildings are priced at Level 1 and 87,185 at Level 2, yielding a total modelled e"
+P194,paragraph,FirstParagraph,False,16,2,"e priced at Level 1 and 87,185 at Level 2, yielding a total modelled exposure of"
+P194,paragraph,FirstParagraph,False,17,63.3 trillion,"a total modelled exposure of about CNY 63.3 trillion."
+P195,paragraph,3,False,1,2.5,"2.5 Population and socio-economic data"
+P196,paragraph,FirstParagraph,False,1,1 km,"Annual ambient population rasters at 1 km resolution are taken from LandScan (Ros"
+P196,paragraph,FirstParagraph,False,2,2020,"n are taken from LandScan (Rose et al., 2020) for 2000–2024 and provide the time-var"
+P196,paragraph,FirstParagraph,False,3,2000,"n from LandScan (Rose et al., 2020) for 2000–2024 and provide the time-varying popul"
+P196,paragraph,FirstParagraph,False,4,2024,"m LandScan (Rose et al., 2020) for 2000–2024 and provide the time-varying population"
+P196,paragraph,FirstParagraph,False,5,2024,"t for the city-scale climate index; the 2024 raster is additionally clipped for the"
+P196,paragraph,FirstParagraph,False,6,5,"ty Index (SVI) is compiled from China’s 5th, 6th, and 7th population censuses, fr"
+P196,paragraph,FirstParagraph,False,7,6,"dex (SVI) is compiled from China’s 5th, 6th, and 7th population censuses, from wh"
+P196,paragraph,FirstParagraph,False,8,7,"is compiled from China’s 5th, 6th, and 7th population censuses, from which aging"
+P196,paragraph,FirstParagraph,False,9,16,"extracted and harmonised to Shanghai’s 16 districts."
+P197,paragraph,3,False,1,2.6,"2.6 Impervious surface ratio"
+P198,paragraph,FirstParagraph,False,1,30 m,"ce-ratio (ISR) rasters at approximately 30 m resolution are available for 1985, 1990"
+P198,paragraph,FirstParagraph,False,2,1985,"ately 30 m resolution are available for 1985, 1990, 1995, 2000, 2005, 2010, 2015, an"
+P198,paragraph,FirstParagraph,False,3,1990,"30 m resolution are available for 1985, 1990, 1995, 2000, 2005, 2010, 2015, and 2020"
+P198,paragraph,FirstParagraph,False,4,1995,"esolution are available for 1985, 1990, 1995, 2000, 2005, 2010, 2015, and 2020. We a"
+P198,paragraph,FirstParagraph,False,5,2000,"ion are available for 1985, 1990, 1995, 2000, 2005, 2010, 2015, and 2020. We aggrega"
+P198,paragraph,FirstParagraph,False,6,2005,"e available for 1985, 1990, 1995, 2000, 2005, 2010, 2015, and 2020. We aggregate the"
+P198,paragraph,FirstParagraph,False,7,2010,"lable for 1985, 1990, 1995, 2000, 2005, 2010, 2015, and 2020. We aggregate these ras"
+P198,paragraph,FirstParagraph,False,8,2015,"for 1985, 1990, 1995, 2000, 2005, 2010, 2015, and 2020. We aggregate these rasters t"
+P198,paragraph,FirstParagraph,False,9,2020,"1990, 1995, 2000, 2005, 2010, 2015, and 2020. We aggregate these rasters to district"
+P198,paragraph,FirstParagraph,False,10,16,"ly interpolate them to obtain an annual 16-district panel for 1985–2020, which is"
+P198,paragraph,FirstParagraph,False,11,1985,"obtain an annual 16-district panel for 1985–2020, which is then used to represent u"
+P198,paragraph,FirstParagraph,False,12,2020,"in an annual 16-district panel for 1985–2020, which is then used to represent urbani"
+P199,paragraph,3,False,1,2.7,"2.7 Sea-level anomaly"
+P200,paragraph,FirstParagraph,False,1,1993,"ndex. The processed monthly panel spans 1993-01 to 2023-12, with missing months line"
+P200,paragraph,FirstParagraph,False,2,01,"The processed monthly panel spans 1993-01 to 2023-12, with missing months linearl"
+P200,paragraph,FirstParagraph,False,3,2023,"rocessed monthly panel spans 1993-01 to 2023-12, with missing months linearly interp"
+P200,paragraph,FirstParagraph,False,4,12,"sed monthly panel spans 1993-01 to 2023-12, with missing months linearly interpola"
+P201,paragraph,3,False,1,2.8,"2.8 Climate reanalysis"
+P202,paragraph,FirstParagraph,True,1,1981,"mum- and maximum-temperature fields for 1981–2024 are used to derive annual mean tem"
+P202,paragraph,FirstParagraph,True,2,2024,"and maximum-temperature fields for 1981–2024 are used to derive annual mean temperat"
+P202,paragraph,FirstParagraph,True,3,1981,"nd the resulting processed series spans 1981–2024."
+P202,paragraph,FirstParagraph,True,4,2024,"e resulting processed series spans 1981–2024."
+P203,paragraph,3,False,1,2.9,"2.9 Housing market prices"
+P204,paragraph,FirstParagraph,False,1,2,"strict comparison and provide the Level 2 valuation layer in the exposure module;"
+P204,paragraph,FirstParagraph,False,2,2015,"trict panels are harmonised to a common 2015–2023 monthly window. A city-wide monthl"
+P204,paragraph,FirstParagraph,False,3,2023,"panels are harmonised to a common 2015–2023 monthly window. A city-wide monthly sec"
+P204,paragraph,FirstParagraph,False,4,3,"ess module and also serves as the Level 3 benchmark in the exposure model. Althou"
+P204,paragraph,FirstParagraph,False,5,2025,"y-level file is configured to extend to 2025-12, the cleaned series contains valid o"
+P204,paragraph,FirstParagraph,False,6,12,"el file is configured to extend to 2025-12, the cleaned series contains valid obse"
+P204,paragraph,FirstParagraph,False,7,2025,"ies contains valid observations through 2025-06. Building-level valuation is further"
+P204,paragraph,FirstParagraph,False,8,06,"ontains valid observations through 2025-06. Building-level valuation is further sh"
+P205,paragraph,2,False,,,
+P206,paragraph,CaptionedFigure,False,,,
+P207,paragraph,ImageCaption,False,1,24,"Figure 24: Defence evidence figure"
+P208,paragraph,a0,False,1,24,"Figure 24. Defence-sensitivity evidence from the"
+P208,paragraph,a0,False,2,6 m,"mponent falls sharply under the current 6 m defence standard. Right: district-level"
+P209,paragraph,CaptionedFigure,False,,,
+P210,paragraph,ImageCaption,False,1,25,"Figure 25: Synthetic TC tracks"
+P211,paragraph,a0,False,1,25,"Figure 25. Synthetic TC tracks derived from 10 pe"
+P211,paragraph,a0,False,2,10,"re 25. Synthetic TC tracks derived from 10 perturbations per historical track, sho"
+P212,paragraph,CaptionedFigure,False,,,
+P213,paragraph,ImageCaption,False,1,26,"Figure 26: TC damage hexbin — SSP scenarios"
+P214,paragraph,a0,False,1,26,"Figure 26. TC wind-damage fields for SSP2-4.5 and"
+P214,paragraph,a0,False,2,4.5,"gure 26. TC wind-damage fields for SSP2-4.5 and SSP5-8.5 based on the synthetic cat"
+P214,paragraph,a0,False,3,8.5,"ind-damage fields for SSP2-4.5 and SSP5-8.5 based on the synthetic catalogue."
+P215,paragraph,CaptionedFigure,False,,,
+P216,paragraph,ImageCaption,False,1,27,"Figure 27: Surge depth hexbin — SSP scenarios"
+P217,paragraph,a0,False,1,27,"Figure 27. Storm-surge inundation fields for SSP2"
+P217,paragraph,a0,False,2,4.5,"Storm-surge inundation fields for SSP2-4.5 and SSP5-8.5 based on the synthetic cat"
+P217,paragraph,a0,False,3,8.5,"inundation fields for SSP2-4.5 and SSP5-8.5 based on the synthetic catalogue and th"
+P217,paragraph,a0,False,4,17,"defence reference profile. As in Figure 17, inland positive depths denote the mode"
+P218,paragraph,CaptionedFigure,False,,,
+P219,paragraph,ImageCaption,False,1,28,"Figure 28: Historical TC tracks overview"
+P220,paragraph,a0,False,1,28,"Figure 28. Full historical TC track inventory for"
+P221,paragraph,CaptionedFigure,False,,,
+P222,paragraph,ImageCaption,False,1,29,"Figure 29: TC vulnerability hexbin"
+P223,paragraph,a0,True,1,29,"Figure 29. Spatial distribution of TC wind vulner"
+P224,paragraph,CaptionedFigure,False,,,
+P225,paragraph,ImageCaption,False,1,30,"Figure 30: Surge vulnerability hexbin"
+P226,paragraph,a0,False,1,30,"Figure 30. Spatial distribution of storm-surge de"
+P227,paragraph,CaptionedFigure,False,,,
+P228,paragraph,ImageCaption,False,1,31,"Figure 31: Historical built-up area"
+P229,paragraph,a0,False,1,31,"Figure 31. Multi-decadal evolution of built-up ar"
+P230,paragraph,CaptionedFigure,False,,,
+P231,paragraph,ImageCaption,False,1,32,"Figure 32: Historical housing price"
+P232,paragraph,a0,False,1,32,"Figure 32. Historical housing price evolution acr"
+P233,paragraph,CaptionedFigure,False,,,
+P234,paragraph,ImageCaption,False,1,33,"Figure 33: Historical population"
+P235,paragraph,a0,False,1,33,"Figure 33. Shanghai population trends from LandSc"
+P235,paragraph,a0,False,2,2000,"i population trends from LandScan data, 2000–2024."
+P235,paragraph,a0,False,3,2024,"ulation trends from LandScan data, 2000–2024."
+P236,paragraph,CaptionedFigure,False,,,
+P237,paragraph,ImageCaption,False,1,34,"Figure 34: Building type distribution"
+P238,paragraph,a0,False,1,34,"Figure 34. Spatial distribution of building categ"
+P238,paragraph,a0,False,2,1990,"gories across Shanghai’s districts. Pre-1990 low-rise structures (A_old) concentrate"
+P239,paragraph,CaptionedFigure,False,,,
+P240,paragraph,ImageCaption,False,1,35,"Figure 35: Vulnerability overview"
+P241,paragraph,a0,True,1,35,"Figure 35. Vulnerability function overview with s"
+P241,paragraph,a0,True,2,0.176,"d lines show the baseline calibration (×0.176) and shaded bands span the tested range"
+P241,paragraph,a0,True,3,0.10,"and shaded bands span the tested range [0.10, 0.30]."
+P241,paragraph,a0,True,4,0.30,"aded bands span the tested range [0.10, 0.30]."
+P242,paragraph,CaptionedFigure,False,,,
+P243,paragraph,ImageCaption,False,1,36,"Figure 36: TC V_half sensitivity"
+P244,paragraph,a0,True,1,36,"Figure 36. TC wind vulnerability sensitivity to"
+P244,paragraph,a0,True,2,0.95,"_old and (b) C under five scale values [0.95, 0.975, 1.0, 1.025, 1.05]. The solid ye"
+P244,paragraph,a0,True,3,0.975,"nd (b) C under five scale values [0.95, 0.975, 1.0, 1.025, 1.05]. The solid yellow li"
+P244,paragraph,a0,True,4,1.0,"C under five scale values [0.95, 0.975, 1.0, 1.025, 1.05]. The solid yellow line ma"
+P244,paragraph,a0,True,5,1.025,"er five scale values [0.95, 0.975, 1.0, 1.025, 1.05]. The solid yellow line marks the"
+P244,paragraph,a0,True,6,1.05,"scale values [0.95, 0.975, 1.0, 1.025, 1.05]. The solid yellow line marks the basel"
+P244,paragraph,a0,True,7,25.7 m/s,"es the baseline damage onset threshold (25.7 m/s)."
+P245,paragraph,CaptionedFigure,False,,,
+P246,paragraph,ImageCaption,False,1,37,"Figure 37: TC V_thresh sensitivity"
+P247,paragraph,a0,True,1,37,"Figure 37. TC wind vulnerability sensitivity to t"
+P247,paragraph,a0,True,2,23.0,"and (b) C under five threshold values [23.0, 24.5, 25.7, 27.0, 28.5] m/s. The effec"
+P247,paragraph,a0,True,3,24.5,"b) C under five threshold values [23.0, 24.5, 25.7, 27.0, 28.5] m/s. The effect is c"
+P247,paragraph,a0,True,4,25.7,"nder five threshold values [23.0, 24.5, 25.7, 27.0, 28.5] m/s. The effect is concent"
+P247,paragraph,a0,True,5,27.0,"ive threshold values [23.0, 24.5, 25.7, 27.0, 28.5] m/s. The effect is concentrated"
+P247,paragraph,a0,True,6,28.5,"reshold values [23.0, 24.5, 25.7, 27.0, 28.5] m/s. The effect is concentrated in the"
+P248,paragraph,CaptionedFigure,False,,,
+P249,paragraph,ImageCaption,False,1,38,"Figure 38: SS MDR sensitivity"
+P250,paragraph,a0,False,1,38,"Figure 38. Storm-surge depth–damage sensitivity t"
+P250,paragraph,a0,False,2,0.10,"l) under five calibration scale values [0.10, 0.14, 0.176, 0.22, 0.30]. The solid ye"
+P250,paragraph,a0,False,3,0.14,"er five calibration scale values [0.10, 0.14, 0.176, 0.22, 0.30]. The solid yellow l"
+P250,paragraph,a0,False,4,0.176,"e calibration scale values [0.10, 0.14, 0.176, 0.22, 0.30]. The solid yellow line mar"
+P250,paragraph,a0,False,5,0.22,"ration scale values [0.10, 0.14, 0.176, 0.22, 0.30]. The solid yellow line marks the"
+P250,paragraph,a0,False,6,0.30,"scale values [0.10, 0.14, 0.176, 0.22, 0.30]. The solid yellow line marks the basel"
+P251,paragraph,FirstParagraph,False,1,8,"Table 8. One-way parameter sensitivity summary."
+P251,paragraph,FirstParagraph,False,2,2050,"CCHI rows, this metric is the December 2050 median under the historical-baseline sc"
+T8#r0c0,table_cell,Compact,False,,,
+T8#r0c1,table_cell,Compact,False,,,
+T8#r0c2,table_cell,Compact,False,,,
+T8#r0c3,table_cell,Compact,False,,,
+T8#r0c4,table_cell,Compact,False,,,
+T8#r0c5,table_cell,Compact,False,,,
+T8#r0c6,table_cell,Compact,False,,,
+T8#r1c0,table_cell,Compact,False,,,
+T8#r1c1,table_cell,Compact,False,,,
+T8#r1c2,table_cell,Compact,False,,,
+T8#r1c3,table_cell,Compact,False,,,
+T8#r1c4,table_cell,Compact,False,,,
+T8#r1c5,table_cell,Compact,False,,,
+T8#r1c6,table_cell,Compact,False,,,
+T8#r2c0,table_cell,Compact,False,,,
+T8#r2c1,table_cell,Compact,False,1,0.176,"0.176"
+T8#r2c2,table_cell,Compact,False,1,0.10,"0.10–0.30"
+T8#r2c2,table_cell,Compact,False,2,0.30,"0.10–0.30"
+T8#r2c3,table_cell,Compact,False,,,
+T8#r2c4,table_cell,Compact,False,1,24.2,"24.2B"
+T8#r2c5,table_cell,Compact,False,1,21.5,"21.5–28.6B"
+T8#r2c5,table_cell,Compact,False,2,28.6,"21.5–28.6B"
+T8#r2c6,table_cell,Compact,False,1,−11%,"−11% to +18%"
+T8#r2c6,table_cell,Compact,False,2,+18%,"−11% to +18%"
+T8#r3c0,table_cell,Compact,True,,,
+T8#r3c1,table_cell,Compact,False,1,1.0,"1.0"
+T8#r3c2,table_cell,Compact,False,1,0.95,"0.95–1.05"
+T8#r3c2,table_cell,Compact,False,2,1.05,"0.95–1.05"
+T8#r3c3,table_cell,Compact,False,,,
+T8#r3c4,table_cell,Compact,False,1,24.2,"24.2B"
+T8#r3c5,table_cell,Compact,False,1,21.1,"21.1–28.1B"
+T8#r3c5,table_cell,Compact,False,2,28.1,"21.1–28.1B"
+T8#r3c6,table_cell,Compact,False,1,−13%,"−13% to +16%"
+T8#r3c6,table_cell,Compact,False,2,+16%,"−13% to +16%"
+T8#r4c0,table_cell,Compact,True,,,
+T8#r4c1,table_cell,Compact,False,1,25.7 m/s,"25.7 m/s"
+T8#r4c2,table_cell,Compact,False,1,23.0,"23.0–28.5"
+T8#r4c2,table_cell,Compact,False,2,28.5,"23.0–28.5"
+T8#r4c3,table_cell,Compact,False,,,
+T8#r4c4,table_cell,Compact,False,1,24.2,"24.2B"
+T8#r4c5,table_cell,Compact,False,1,18.7,"18.7–31.6B"
+T8#r4c5,table_cell,Compact,False,2,31.6,"18.7–31.6B"
+T8#r4c6,table_cell,Compact,False,1,−23%,"−23% to +31%"
+T8#r4c6,table_cell,Compact,False,2,+31%,"−23% to +31%"
+T8#r5c0,table_cell,Compact,True,,,
+T8#r5c1,table_cell,Compact,False,1,0.15,"0.15"
+T8#r5c2,table_cell,Compact,False,1,0.00,"0.00–0.30"
+T8#r5c2,table_cell,Compact,False,2,0.30,"0.00–0.30"
+T8#r5c3,table_cell,Compact,False,,,
+T8#r5c4,table_cell,Compact,False,1,24.2,"24.2B"
+T8#r5c5,table_cell,Compact,False,1,22.6,"22.6–25.7B"
+T8#r5c5,table_cell,Compact,False,2,25.7,"22.6–25.7B"
+T8#r5c6,table_cell,Compact,False,1,−6.3%,"−6.3% to +6.3%"
+T8#r5c6,table_cell,Compact,False,2,+6.3%,"−6.3% to +6.3%"
+T8#r6c0,table_cell,Compact,True,1,1990,"adj. A_old (pre-1990 low-rise)"
+T8#r6c1,table_cell,Compact,False,1,0.80,"0.80"
+T8#r6c2,table_cell,Compact,False,1,0.68,"0.68–0.92"
+T8#r6c2,table_cell,Compact,False,2,0.92,"0.68–0.92"
+T8#r6c3,table_cell,Compact,False,,,
+T8#r6c4,table_cell,Compact,False,1,24.2,"24.2B"
+T8#r6c5,table_cell,Compact,False,1,22.6,"22.6–27.5B"
+T8#r6c5,table_cell,Compact,False,2,27.5,"22.6–27.5B"
+T8#r6c6,table_cell,Compact,False,1,−6%,"−6% to +14%"
+T8#r6c6,table_cell,Compact,False,2,+14%,"−6% to +14%"
+T8#r7c0,table_cell,Compact,True,1,02,"adj. A_new (02+ low-rise)"
+T8#r7c1,table_cell,Compact,False,1,0.90,"0.90"
+T8#r7c2,table_cell,Compact,False,1,0.77,"0.77–1.03"
+T8#r7c2,table_cell,Compact,False,2,1.03,"0.77–1.03"
+T8#r7c3,table_cell,Compact,False,,,
+T8#r7c4,table_cell,Compact,False,1,24.2,"24.2B"
+T8#r7c5,table_cell,Compact,False,1,23.1,"23.1–26.4B"
+T8#r7c5,table_cell,Compact,False,2,26.4,"23.1–26.4B"
+T8#r7c6,table_cell,Compact,False,1,−4%,"−4% to +9%"
+T8#r7c6,table_cell,Compact,False,2,+9%,"−4% to +9%"
+T8#r8c0,table_cell,Compact,True,1,2001,"adj. B_old (pre-2001 mid-rise)"
+T8#r8c1,table_cell,Compact,False,1,0.95,"0.95"
+T8#r8c2,table_cell,Compact,False,1,0.81,"0.81–1.09"
+T8#r8c2,table_cell,Compact,False,2,1.09,"0.81–1.09"
+T8#r8c3,table_cell,Compact,False,,,
+T8#r8c4,table_cell,Compact,False,1,24.2,"24.2B"
+T8#r8c5,table_cell,Compact,False,1,22.0,"22.0–28.7B"
+T8#r8c5,table_cell,Compact,False,2,28.7,"22.0–28.7B"
+T8#r8c6,table_cell,Compact,False,1,−9%,"−9% to +19%"
+T8#r8c6,table_cell,Compact,False,2,+19%,"−9% to +19%"
+T8#r9c0,table_cell,Compact,True,1,02,"adj. B_new (02+ mid-rise)"
+T8#r9c1,table_cell,Compact,False,1,1.00,"1.00"
+T8#r9c2,table_cell,Compact,False,1,0.85,"0.85–1.15"
+T8#r9c2,table_cell,Compact,False,2,1.15,"0.85–1.15"
+T8#r9c3,table_cell,Compact,False,,,
+T8#r9c4,table_cell,Compact,False,1,24.2,"24.2B"
+T8#r9c5,table_cell,Compact,False,1,22.2,"22.2–28.4B"
+T8#r9c5,table_cell,Compact,False,2,28.4,"22.2–28.4B"
+T8#r9c6,table_cell,Compact,False,1,−8%,"−8% to +18%"
+T8#r9c6,table_cell,Compact,False,2,+18%,"−8% to +18%"
+T8#r10c0,table_cell,Compact,True,,,
+T8#r10c1,table_cell,Compact,False,1,1.05,"1.05"
+T8#r10c2,table_cell,Compact,False,1,0.89,"0.89–1.21"
+T8#r10c2,table_cell,Compact,False,2,1.21,"0.89–1.21"
+T8#r10c3,table_cell,Compact,False,,,
+T8#r10c4,table_cell,Compact,False,1,24.2,"24.2B"
+T8#r10c5,table_cell,Compact,False,1,24.2,"24.2–24.2B"
+T8#r10c5,table_cell,Compact,False,2,24.2,"24.2–24.2B"
+T8#r10c6,table_cell,Compact,False,1,0%,"0%"
+T8#r11c0,table_cell,Compact,True,,,
+T8#r11c1,table_cell,Compact,False,1,1.10,"1.10"
+T8#r11c2,table_cell,Compact,False,1,0.94,"0.94–1.27"
+T8#r11c2,table_cell,Compact,False,2,1.27,"0.94–1.27"
+T8#r11c3,table_cell,Compact,False,,,
+T8#r11c4,table_cell,Compact,False,1,24.2,"24.2B"
+T8#r11c5,table_cell,Compact,False,1,23.5,"23.5–25.5B"
+T8#r11c5,table_cell,Compact,False,2,25.5,"23.5–25.5B"
+T8#r11c6,table_cell,Compact,False,1,−3%,"−3% to +5%"
+T8#r11c6,table_cell,Compact,False,2,+5%,"−3% to +5%"
+T8#r12c0,table_cell,Compact,False,,,
+T8#r12c1,table_cell,Compact,False,,,
+T8#r12c2,table_cell,Compact,False,,,
+T8#r12c3,table_cell,Compact,False,,,
+T8#r12c4,table_cell,Compact,False,,,
+T8#r12c5,table_cell,Compact,False,,,
+T8#r12c6,table_cell,Compact,False,,,
+T8#r13c0,table_cell,Compact,True,,,
+T8#r13c1,table_cell,Compact,False,1,0.85,"0.85"
+T8#r13c2,table_cell,Compact,False,1,0.70,"0.70–0.95"
+T8#r13c2,table_cell,Compact,False,2,0.95,"0.70–0.95"
+T8#r13c3,table_cell,Compact,False,,,
+T8#r13c4,table_cell,Compact,False,1,599,"599"
+T8#r13c5,table_cell,Compact,False,1,594,"594–610"
+T8#r13c5,table_cell,Compact,False,2,610,"594–610"
+T8#r13c6,table_cell,Compact,False,1,1.8%,"±1.8%"
+T8#r14c0,table_cell,Compact,True,,,
+T8#r14c1,table_cell,Compact,False,1,0.50,"0.50"
+T8#r14c2,table_cell,Compact,False,1,0.00,"0.00–1.00"
+T8#r14c2,table_cell,Compact,False,2,1.00,"0.00–1.00"
+T8#r14c3,table_cell,Compact,False,,,
+T8#r14c4,table_cell,Compact,False,1,599,"599"
+T8#r14c5,table_cell,Compact,False,1,588,"588–606"
+T8#r14c5,table_cell,Compact,False,2,606,"588–606"
+T8#r14c6,table_cell,Compact,False,1,−1.8%,"−1.8% to +1.1%"
+T8#r14c6,table_cell,Compact,False,2,+1.1%,"−1.8% to +1.1%"
+T8#r15c0,table_cell,Compact,True,,,
+T8#r15c1,table_cell,Compact,False,1,129,600,"129,600"
+T8#r15c2,table_cell,Compact,False,1,97,200,"97,200–162,000"
+T8#r15c2,table_cell,Compact,False,2,162,000,"97,200–162,000"
+T8#r15c3,table_cell,Compact,False,,,
+T8#r15c4,table_cell,Compact,False,1,265,"265"
+T8#r15c5,table_cell,Compact,False,1,259,"259–276"
+T8#r15c5,table_cell,Compact,False,2,276,"259–276"
+T8#r15c6,table_cell,Compact,False,1,−2.3%,"−2.3% to +4.2%"
+T8#r15c6,table_cell,Compact,False,2,+4.2%,"−2.3% to +4.2%"
+T8#r16c0,table_cell,Compact,False,,,
+T8#r16c1,table_cell,Compact,False,1,12,"12 mo"
+T8#r16c2,table_cell,Compact,False,1,6,"6–24 mo"
+T8#r16c2,table_cell,Compact,False,2,24,"6–24 mo"
+T8#r16c3,table_cell,Compact,False,,,
+T8#r16c4,table_cell,Compact,False,1,265,"265"
+T8#r16c5,table_cell,Compact,False,1,265,"265–272"
+T8#r16c5,table_cell,Compact,False,2,272,"265–272"
+T8#r16c6,table_cell,Compact,False,1,0%,"≈0% to +2.6%"
+T8#r16c6,table_cell,Compact,False,2,+2.6%,"≈0% to +2.6%"
+T8#r17c0,table_cell,Compact,False,,,
+T8#r17c1,table_cell,Compact,False,1,0.25,"0.25"
+T8#r17c2,table_cell,Compact,False,1,0.10,"0.10–0.50"
+T8#r17c2,table_cell,Compact,False,2,0.50,"0.10–0.50"
+T8#r17c3,table_cell,Compact,False,,,
+T8#r17c4,table_cell,Compact,False,1,599,"599"
+T8#r17c5,table_cell,Compact,False,1,574,"574–631"
+T8#r17c5,table_cell,Compact,False,2,631,"574–631"
+T8#r17c6,table_cell,Compact,False,1,−4.1%,"−4.1% to +5.3%"
+T8#r17c6,table_cell,Compact,False,2,+5.3%,"−4.1% to +5.3%"
+T8#r18c0,table_cell,Compact,False,,,
+T8#r18c1,table_cell,Compact,False,,,
+T8#r18c2,table_cell,Compact,False,,,
+T8#r18c3,table_cell,Compact,False,,,
+T8#r18c4,table_cell,Compact,False,1,265,"265"
+T8#r18c5,table_cell,Compact,False,1,225,"225–311"
+T8#r18c5,table_cell,Compact,False,2,311,"225–311"
+T8#r18c6,table_cell,Compact,False,1,−15%,"−15% to +17%"
+T8#r18c6,table_cell,Compact,False,2,+17%,"−15% to +17%"
+T8#r19c0,table_cell,Compact,False,,,
+T8#r19c1,table_cell,Compact,False,,,
+T8#r19c2,table_cell,Compact,False,,,
+T8#r19c3,table_cell,Compact,False,,,
+T8#r19c4,table_cell,Compact,False,,,
+T8#r19c5,table_cell,Compact,False,,,
+T8#r19c6,table_cell,Compact,False,,,
+T8#r20c0,table_cell,Compact,True,,,
+T8#r20c1,table_cell,Compact,False,1,0.358,"0.358"
+T8#r20c2,table_cell,Compact,False,1,0.0,"0.0–0.8"
+T8#r20c2,table_cell,Compact,False,2,0.8,"0.0–0.8"
+T8#r20c3,table_cell,Compact,False,,,
+T8#r20c4,table_cell,Compact,False,1,399,"399"
+T8#r20c5,table_cell,Compact,False,1,396,"396–399"
+T8#r20c5,table_cell,Compact,False,2,399,"396–399"
+T8#r20c6,table_cell,Compact,False,1,−0.8%,"−0.8% to ≈0%"
+T8#r20c6,table_cell,Compact,False,2,0%,"−0.8% to ≈0%"
+P252,paragraph,a0,True,1,0.40,"configurations from price-gap-leaning (0.40, 0.30, 0.30) to climate-CVaR-leaning (0"
+P252,paragraph,a0,True,2,0.30,"gurations from price-gap-leaning (0.40, 0.30, 0.30) to climate-CVaR-leaning (0.30, 0"
+P252,paragraph,a0,True,3,0.30,"ons from price-gap-leaning (0.40, 0.30, 0.30) to climate-CVaR-leaning (0.30, 0.30, 0"
+P252,paragraph,a0,True,4,0.30,"0, 0.30, 0.30) to climate-CVaR-leaning (0.30, 0.30, 0.40), representing ±0.07 reallo"
+P252,paragraph,a0,True,5,0.30,"0, 0.30) to climate-CVaR-leaning (0.30, 0.30, 0.40), representing ±0.07 reallocation"
+P252,paragraph,a0,True,6,0.40,"0) to climate-CVaR-leaning (0.30, 0.30, 0.40), representing ±0.07 reallocation aroun"
+P252,paragraph,a0,True,7,0.07,"aning (0.30, 0.30, 0.40), representing ±0.07 reallocation around the equal-weight ba"
+P252,paragraph,a0,True,8,15%,"multipliers is tested individually at ±15% of its baseline value; the sensitivity"
+P252,paragraph,a0,True,9,5%,"l EAL. The TC base scale is tested at ±5% around its WP3-calibrated baseline (per"
+P252,paragraph,a0,True,10,0.9999,"baseline (period-matched AAL pred/obs = 0.9999 for 1995–2023), and the HP filter is t"
+P252,paragraph,a0,True,11,1995,"eriod-matched AAL pred/obs = 0.9999 for 1995–2023), and the HP filter is tested at"
+P252,paragraph,a0,True,12,2023,"-matched AAL pred/obs = 0.9999 for 1995–2023), and the HP filter is tested at ±25%"
+P252,paragraph,a0,True,13,25%,"2023), and the HP filter is tested at ±25% around the Ravn–Uhlig (2002) monthly co"
+P252,paragraph,a0,True,14,2002,"s tested at ±25% around the Ravn–Uhlig (2002) monthly convention; this range should"
+P253,paragraph,FirstParagraph,False,1,585,033,"processed building exposure inventory (585,033 records), district-level loss panels an"
+P253,paragraph,FirstParagraph,False,2,10.25921,"S v4r01 from NOAA NCEI (https://doi.org/10.25921/82ty-9e16); FABDEM V1-2 from the Univer"
+P253,paragraph,FirstParagraph,False,3,82,"rom NOAA NCEI (https://doi.org/10.25921/82ty-9e16); FABDEM V1-2 from the Universit"
+P253,paragraph,FirstParagraph,False,4,9e16,"OAA NCEI (https://doi.org/10.25921/82ty-9e16); FABDEM V1-2 from the University of Br"
+P253,paragraph,FirstParagraph,False,5,2,"/doi.org/10.25921/82ty-9e16); FABDEM V1-2 from the University of Bristol data rep"
+P253,paragraph,FirstParagraph,False,6,10.48690,"ge National Laboratory (https://doi.org/10.48690/1524213); ETOPO 2022 from NOAA NCEI (ht"
+P253,paragraph,FirstParagraph,False,7,1524213,"al Laboratory (https://doi.org/10.48690/1524213); ETOPO 2022 from NOAA NCEI (https://do"
+P253,paragraph,FirstParagraph,False,8,2022,"ttps://doi.org/10.48690/1524213); ETOPO 2022 from NOAA NCEI (https://doi.org/10.2592"
+P253,paragraph,FirstParagraph,False,9,10.25921,"PO 2022 from NOAA NCEI (https://doi.org/10.25921/fd45-gt74); housing price data from [da"
+P253,paragraph,FirstParagraph,False,10,42,"sion], including the fixed random seed (42) configuration for full reproducibility"
+P254,paragraph,2,False,,,
+P255,paragraph,FirstParagraph,False,1,2020,"Arcadis (2020). International Construction Costs 2020"
+P255,paragraph,FirstParagraph,False,2,2020,"2020). International Construction Costs 2020. Arcadis. https://www.arcadis.com/en/kn"
+P256,paragraph,a0,False,1,2019,"Aznar-Siguan, G., and Bresch, D. N. (2019). CLIMADA v1: a global weather and clim"
+P256,paragraph,a0,False,2,12,"tform. Geoscientific Model Development, 12(7), 3085–3097. https://doi.org/10.5194/"
+P256,paragraph,a0,False,3,7,"rm. Geoscientific Model Development, 12(7), 3085–3097. https://doi.org/10.5194/gm"
+P256,paragraph,a0,False,4,3085,"Geoscientific Model Development, 12(7), 3085–3097. https://doi.org/10.5194/gmd-12-30"
+P256,paragraph,a0,False,5,3097,"ientific Model Development, 12(7), 3085–3097. https://doi.org/10.5194/gmd-12-3085-20"
+P256,paragraph,a0,False,6,10.5194,"ment, 12(7), 3085–3097. https://doi.org/10.5194/gmd-12-3085-2019"
+P256,paragraph,a0,False,7,12,"3085–3097. https://doi.org/10.5194/gmd-12-3085-2019"
+P256,paragraph,a0,False,8,3085,"85–3097. https://doi.org/10.5194/gmd-12-3085-2019"
+P256,paragraph,a0,False,9,2019,"97. https://doi.org/10.5194/gmd-12-3085-2019"
+P257,paragraph,a0,False,1,2017,"Bakkensen, L., and Barrage, L. (2017). Flood Risk Belief Heterogeneity and C"
+P257,paragraph,a0,False,2,23854,"ng Under Water? NBER Working Paper, No. 23854. https://doi.org/10.3386/w23854"
+P257,paragraph,a0,False,3,10.3386,"rking Paper, No. 23854. https://doi.org/10.3386/w23854"
+P258,paragraph,a0,False,1,2020,"uf, M., Garlappi, L., and Yannelis, C. (2020). Does climate change affect real estat"
+P258,paragraph,a0,False,2,33,"eve in it. Review of Financial Studies, 33(3), 1256–1295. https://doi.org/10.1093/"
+P258,paragraph,a0,False,3,3,"in it. Review of Financial Studies, 33(3), 1256–1295. https://doi.org/10.1093/rf"
+P258,paragraph,a0,False,4,1256,"it. Review of Financial Studies, 33(3), 1256–1295. https://doi.org/10.1093/rfs/hhz07"
+P258,paragraph,a0,False,5,1295,"eview of Financial Studies, 33(3), 1256–1295. https://doi.org/10.1093/rfs/hhz073"
+P258,paragraph,a0,False,6,10.1093,"dies, 33(3), 1256–1295. https://doi.org/10.1093/rfs/hhz073"
+P259,paragraph,a0,False,1,2019,"n, A., Gustafson, M. T., and Lewis, R. (2019). Disaster on the horizon: The price ef"
+P259,paragraph,a0,False,2,134,"l rise. Journal of Financial Economics, 134(2), 253–272. https://doi.org/10.1016/j."
+P259,paragraph,a0,False,3,2,"se. Journal of Financial Economics, 134(2), 253–272. https://doi.org/10.1016/j.jf"
+P259,paragraph,a0,False,4,253,"Journal of Financial Economics, 134(2), 253–272. https://doi.org/10.1016/j.jfineco."
+P259,paragraph,a0,False,5,272,"nal of Financial Economics, 134(2), 253–272. https://doi.org/10.1016/j.jfineco.2019"
+P259,paragraph,a0,False,6,10.1016,"omics, 134(2), 253–272. https://doi.org/10.1016/j.jfineco.2019.03.013"
+P260,paragraph,a0,False,1,2013,"Bin, O., and Landry, C. E. (2013). Changes in implicit flood risk premiu"
+P260,paragraph,a0,False,2,65,"Environmental Economics and Management, 65(3), 361–376. https://doi.org/10.1016/j."
+P260,paragraph,a0,False,3,3,"ironmental Economics and Management, 65(3), 361–376. https://doi.org/10.1016/j.je"
+P260,paragraph,a0,False,4,361,"mental Economics and Management, 65(3), 361–376. https://doi.org/10.1016/j.jeem.201"
+P260,paragraph,a0,False,5,376,"al Economics and Management, 65(3), 361–376. https://doi.org/10.1016/j.jeem.2012.12"
+P260,paragraph,a0,False,6,10.1016,"gement, 65(3), 361–376. https://doi.org/10.1016/j.jeem.2012.12.002"
+P261,paragraph,a0,False,1,2021,"Bresch, D. N., and Aznar-Siguan, G. (2021). CLIMADA v1.4.1: towards a globally co"
+P261,paragraph,a0,False,2,14,"tool. Geoscientific Model Development, 14(1), 351–363. https://doi.org/10.5194/gm"
+P261,paragraph,a0,False,3,1,"ol. Geoscientific Model Development, 14(1), 351–363. https://doi.org/10.5194/gmd-"
+P261,paragraph,a0,False,4,351,"Geoscientific Model Development, 14(1), 351–363. https://doi.org/10.5194/gmd-14-351"
+P261,paragraph,a0,False,5,363,"cientific Model Development, 14(1), 351–363. https://doi.org/10.5194/gmd-14-351-202"
+P261,paragraph,a0,False,6,10.5194,"opment, 14(1), 351–363. https://doi.org/10.5194/gmd-14-351-2021"
+P261,paragraph,a0,False,7,14,"), 351–363. https://doi.org/10.5194/gmd-14-351-2021"
+P261,paragraph,a0,False,8,351,"351–363. https://doi.org/10.5194/gmd-14-351-2021"
+P261,paragraph,a0,False,9,2021,"363. https://doi.org/10.5194/gmd-14-351-2021"
+P262,paragraph,a0,False,1,1989,"Case, K. E., and Shiller, R. J. (1989). The efficiency of the market for sing"
+P262,paragraph,a0,False,2,79,"family homes. American Economic Review, 79(1), 125–137."
+P262,paragraph,a0,False,3,1,"ily homes. American Economic Review, 79(1), 125–137."
+P262,paragraph,a0,False,4,125,"homes. American Economic Review, 79(1), 125–137."
+P262,paragraph,a0,False,5,137,"s. American Economic Review, 79(1), 125–137."
+P263,paragraph,a0,False,1,2000,"Chan, J. C. L. (2000). Tropical cyclone activity over the we"
+P263,paragraph,a0,False,2,13,"and La Niña events. Journal of Climate, 13(16), 2960–2972. https://doi.org/10.1175"
+P263,paragraph,a0,False,3,16,"La Niña events. Journal of Climate, 13(16), 2960–2972. https://doi.org/10.1175/15"
+P263,paragraph,a0,False,4,2960,"iña events. Journal of Climate, 13(16), 2960–2972. https://doi.org/10.1175/1520-0442"
+P263,paragraph,a0,False,5,2972,"vents. Journal of Climate, 13(16), 2960–2972. https://doi.org/10.1175/1520-0442(2000"
+P263,paragraph,a0,False,6,10.1175,"ate, 13(16), 2960–2972. https://doi.org/10.1175/1520-0442(2000)013<2960:TCAOTW>2.0.CO;2"
+P263,paragraph,a0,False,7,1520,"16), 2960–2972. https://doi.org/10.1175/1520-0442(2000)013<2960:TCAOTW>2.0.CO;2"
+P263,paragraph,a0,False,8,0442,"2960–2972. https://doi.org/10.1175/1520-0442(2000)013<2960:TCAOTW>2.0.CO;2"
+P263,paragraph,a0,False,9,2000,"2972. https://doi.org/10.1175/1520-0442(2000)013<2960:TCAOTW>2.0.CO;2"
+P263,paragraph,a0,False,10,013,"https://doi.org/10.1175/1520-0442(2000)013<2960:TCAOTW>2.0.CO;2"
+P263,paragraph,a0,False,11,2960,"ps://doi.org/10.1175/1520-0442(2000)013<2960:TCAOTW>2.0.CO;2"
+P263,paragraph,a0,False,12,2.0,"/10.1175/1520-0442(2000)013<2960:TCAOTW>2.0.CO;2"
+P263,paragraph,a0,False,13,2,"5/1520-0442(2000)013<2960:TCAOTW>2.0.CO;2"
+P264,paragraph,a0,False,1,2020,"Chandra-Putra, H., and Andrews, C. J. (2020). An integrated model of real estate ma"
+P264,paragraph,a0,False,2,24,"looding. Journal of Industrial Ecology, 24(2), 424–435. https://doi.org/10.1111/ji"
+P264,paragraph,a0,False,3,2,"ding. Journal of Industrial Ecology, 24(2), 424–435. https://doi.org/10.1111/jiec"
+P264,paragraph,a0,False,4,424,". Journal of Industrial Ecology, 24(2), 424–435. https://doi.org/10.1111/jiec.12957"
+P264,paragraph,a0,False,5,435,"urnal of Industrial Ecology, 24(2), 424–435. https://doi.org/10.1111/jiec.12957"
+P264,paragraph,a0,False,6,10.1111,"cology, 24(2), 424–435. https://doi.org/10.1111/jiec.12957"
+P265,paragraph,a0,False,1,2021,"S., Sayce, S., and Van de Wetering, J. (2021). Climate risk and real estate prices:"
+P265,paragraph,a0,False,2,47,"w? The Journal of Portfolio Management, 47(10), 75–90. https://doi.org/10.3905/jpm"
+P265,paragraph,a0,False,3,10,"The Journal of Portfolio Management, 47(10), 75–90. https://doi.org/10.3905/jpm.20"
+P265,paragraph,a0,False,4,75,"ournal of Portfolio Management, 47(10), 75–90. https://doi.org/10.3905/jpm.2021.1."
+P265,paragraph,a0,False,5,90,"nal of Portfolio Management, 47(10), 75–90. https://doi.org/10.3905/jpm.2021.1.278"
+P265,paragraph,a0,False,6,10.3905,"agement, 47(10), 75–90. https://doi.org/10.3905/jpm.2021.1.278"
+P266,paragraph,a0,False,1,2003,"L., Boruff, B. J., and Shirley, W. L. (2003). Social vulnerability to environmental"
+P266,paragraph,a0,False,2,84,"ntal hazards. Social Science Quarterly, 84(2), 242–261. https://doi.org/10.1111/15"
+P266,paragraph,a0,False,3,2,"l hazards. Social Science Quarterly, 84(2), 242–261. https://doi.org/10.1111/1540"
+P266,paragraph,a0,False,4,242,"zards. Social Science Quarterly, 84(2), 242–261. https://doi.org/10.1111/1540-6237."
+P266,paragraph,a0,False,5,261,"s. Social Science Quarterly, 84(2), 242–261. https://doi.org/10.1111/1540-6237.8402"
+P266,paragraph,a0,False,6,10.1111,"rterly, 84(2), 242–261. https://doi.org/10.1111/1540-6237.8402002"
+P266,paragraph,a0,False,7,1540,"84(2), 242–261. https://doi.org/10.1111/1540-6237.8402002"
+P266,paragraph,a0,False,8,6237.8402002,", 242–261. https://doi.org/10.1111/1540-6237.8402002"
+P267,paragraph,a0,False,1,1991,"Dean, R. G., and Dalrymple, R. A. (1991). Water Wave Mechanics for Engineers an"
+P267,paragraph,a0,False,2,2,"anced Series on Ocean Engineering, Vol. 2. World Scientific."
+P268,paragraph,a0,False,1,2015,"Shi, P., Van Rompaey, A., and Wen, J. (2015). Quantifying the impact of impervious"
+P268,paragraph,a0,False,2,76,"charge in urban areas. Natural Hazards, 76(3), 1457–1471. https://doi.org/10.1007/"
+P268,paragraph,a0,False,3,3,"rge in urban areas. Natural Hazards, 76(3), 1457–1471. https://doi.org/10.1007/s1"
+P268,paragraph,a0,False,4,1457,"in urban areas. Natural Hazards, 76(3), 1457–1471. https://doi.org/10.1007/s11069-01"
+P268,paragraph,a0,False,5,1471,"ban areas. Natural Hazards, 76(3), 1457–1471. https://doi.org/10.1007/s11069-014-146"
+P268,paragraph,a0,False,6,10.1007,"ards, 76(3), 1457–1471. https://doi.org/10.1007/s11069-014-1463-2"
+P268,paragraph,a0,False,7,014,"57–1471. https://doi.org/10.1007/s11069-014-1463-2"
+P268,paragraph,a0,False,8,1463,"471. https://doi.org/10.1007/s11069-014-1463-2"
+P268,paragraph,a0,False,9,2,"https://doi.org/10.1007/s11069-014-1463-2"
+P269,paragraph,a0,False,1,2021,"renz, S., Lüthi, S., and Bresch, D. N. (2021). Regional tropical cyclone impact func"
+P269,paragraph,a0,False,2,21,"ural Hazards and Earth System Sciences, 21(1), 393–415. https://doi.org/10.5194/nh"
+P269,paragraph,a0,False,3,1,"l Hazards and Earth System Sciences, 21(1), 393–415. https://doi.org/10.5194/nhes"
+P269,paragraph,a0,False,4,393,"zards and Earth System Sciences, 21(1), 393–415. https://doi.org/10.5194/nhess-21-3"
+P269,paragraph,a0,False,5,415,"s and Earth System Sciences, 21(1), 393–415. https://doi.org/10.5194/nhess-21-393-2"
+P269,paragraph,a0,False,6,10.5194,"iences, 21(1), 393–415. https://doi.org/10.5194/nhess-21-393-2021"
+P269,paragraph,a0,False,7,21,"393–415. https://doi.org/10.5194/nhess-21-393-2021"
+P269,paragraph,a0,False,8,393,"3–415. https://doi.org/10.5194/nhess-21-393-2021"
+P269,paragraph,a0,False,9,2021,"5. https://doi.org/10.5194/nhess-21-393-2021"
+P270,paragraph,a0,False,1,2011,"Emanuel, K. (2011). Global warming effects on U.S. hurric"
+P270,paragraph,a0,False,2,3,"damage. Weather, Climate, and Society, 3(4), 261–268. https://doi.org/10.1175/WC"
+P270,paragraph,a0,False,3,4,"amage. Weather, Climate, and Society, 3(4), 261–268. https://doi.org/10.1175/WCAS"
+P270,paragraph,a0,False,4,261,"e. Weather, Climate, and Society, 3(4), 261–268. https://doi.org/10.1175/WCAS-D-11-"
+P270,paragraph,a0,False,5,268,"eather, Climate, and Society, 3(4), 261–268. https://doi.org/10.1175/WCAS-D-11-0000"
+P270,paragraph,a0,False,6,10.1175,"Society, 3(4), 261–268. https://doi.org/10.1175/WCAS-D-11-00007.1"
+P270,paragraph,a0,False,7,11,"261–268. https://doi.org/10.1175/WCAS-D-11-00007.1"
+P270,paragraph,a0,False,8,00007.1,"–268. https://doi.org/10.1175/WCAS-D-11-00007.1"
+P271,paragraph,a0,False,1,2006,", Ravela, S., Vivant, E., and Risi, C. (2006). A statistical deterministic approach"
+P271,paragraph,a0,False,2,87,"of the American Meteorological Society, 87(3), 299–314. https://doi.org/10.1175/BA"
+P271,paragraph,a0,False,3,3,"the American Meteorological Society, 87(3), 299–314. https://doi.org/10.1175/BAMS"
+P271,paragraph,a0,False,4,299,"American Meteorological Society, 87(3), 299–314. https://doi.org/10.1175/BAMS-87-3-"
+P271,paragraph,a0,False,5,314,"ican Meteorological Society, 87(3), 299–314. https://doi.org/10.1175/BAMS-87-3-299"
+P271,paragraph,a0,False,6,10.1175,"ociety, 87(3), 299–314. https://doi.org/10.1175/BAMS-87-3-299"
+P271,paragraph,a0,False,7,87,", 299–314. https://doi.org/10.1175/BAMS-87-3-299"
+P271,paragraph,a0,False,8,3,"99–314. https://doi.org/10.1175/BAMS-87-3-299"
+P271,paragraph,a0,False,9,299,"–314. https://doi.org/10.1175/BAMS-87-3-299"
+P272,paragraph,a0,False,1,1997,", P., Klüppelberg, C., and Mikosch, T. (1997). Modelling Extremal Events for Insuran"
+P272,paragraph,a0,False,2,10.1007,"and Finance. Springer. https://doi.org/10.1007/978-3-642-33483-2"
+P272,paragraph,a0,False,3,978,"ance. Springer. https://doi.org/10.1007/978-3-642-33483-2"
+P272,paragraph,a0,False,4,3,". Springer. https://doi.org/10.1007/978-3-642-33483-2"
+P272,paragraph,a0,False,5,642,"Springer. https://doi.org/10.1007/978-3-642-33483-2"
+P272,paragraph,a0,False,6,33483,"nger. https://doi.org/10.1007/978-3-642-33483-2"
+P272,paragraph,a0,False,7,2,"https://doi.org/10.1007/978-3-642-33483-2"
+P273,paragraph,a0,False,1,2022,"ral Emergency Management Agency (FEMA) (2022). Hazus-MH Flood Model Technical Manual"
+P274,paragraph,a0,False,1,2021,"r, B., Hewitt, H. T., Xiao, C., et al. (2021). Ocean, cryosphere and sea level chang"
+P274,paragraph,a0,False,2,2021,"and sea level change. In Climate Change 2021: The Physical Science Basis (IPCC AR6 W"
+P274,paragraph,a0,False,3,9,"al Science Basis (IPCC AR6 WG1, Chapter 9). Cambridge University Press. https://d"
+P274,paragraph,a0,False,4,10.1017,"ridge University Press. https://doi.org/10.1017/9781009157896.011"
+P274,paragraph,a0,False,5,9781009157896.011,"iversity Press. https://doi.org/10.1017/9781009157896.011"
+P275,paragraph,a0,False,1,2021,"iglio, S., Kelly, B., and Stroebel, J. (2021). Climate finance. Annual Review of Fin"
+P275,paragraph,a0,False,2,13,". Annual Review of Financial Economics, 13(1), 15–36. https://doi.org/10.1146/annu"
+P275,paragraph,a0,False,3,1,"nnual Review of Financial Economics, 13(1), 15–36. https://doi.org/10.1146/annure"
+P275,paragraph,a0,False,4,15,"l Review of Financial Economics, 13(1), 15–36. https://doi.org/10.1146/annurev-fin"
+P275,paragraph,a0,False,5,36,"eview of Financial Economics, 13(1), 15–36. https://doi.org/10.1146/annurev-financ"
+P275,paragraph,a0,False,6,10.1146,"conomics, 13(1), 15–36. https://doi.org/10.1146/annurev-financial-102620-103311"
+P275,paragraph,a0,False,7,102620,"tps://doi.org/10.1146/annurev-financial-102620-103311"
+P275,paragraph,a0,False,8,103311,"oi.org/10.1146/annurev-financial-102620-103311"
+P276,paragraph,a0,False,1,1982,"Gill, A. E. (1982). Atmosphere-Ocean Dynamics. Internatio"
+P276,paragraph,a0,False,2,30,". International Geophysics Series, Vol. 30. Academic Press."
+P277,paragraph,a0,False,1,2013,"Nicholls, R. J., and Corfee-Morlot, J. (2013). Future flood losses in major coastal"
+P277,paragraph,a0,False,2,3,"coastal cities. Nature Climate Change, 3(9), 802–806. https://doi.org/10.1038/nc"
+P277,paragraph,a0,False,3,9,"oastal cities. Nature Climate Change, 3(9), 802–806. https://doi.org/10.1038/ncli"
+P277,paragraph,a0,False,4,802,"al cities. Nature Climate Change, 3(9), 802–806. https://doi.org/10.1038/nclimate19"
+P277,paragraph,a0,False,5,806,"ities. Nature Climate Change, 3(9), 802–806. https://doi.org/10.1038/nclimate1979"
+P277,paragraph,a0,False,6,10.1038,"Change, 3(9), 802–806. https://doi.org/10.1038/nclimate1979"
+P278,paragraph,a0,False,1,2022,"Hawker, L., Uhe, P., Paulo, L., et al. (2022). A 30 m global map of elevation with f"
+P278,paragraph,a0,False,2,30 m,"., Uhe, P., Paulo, L., et al. (2022). A 30 m global map of elevation with forests an"
+P278,paragraph,a0,False,3,17,"emoved. Environmental Research Letters, 17(2), 024016. https://doi.org/10.1088/174"
+P278,paragraph,a0,False,4,2,"ved. Environmental Research Letters, 17(2), 024016. https://doi.org/10.1088/1748-"
+P278,paragraph,a0,False,5,024016,"Environmental Research Letters, 17(2), 024016. https://doi.org/10.1088/1748-9326/ac4d"
+P278,paragraph,a0,False,6,10.1088,"Letters, 17(2), 024016. https://doi.org/10.1088/1748-9326/ac4d4f"
+P278,paragraph,a0,False,7,1748,"17(2), 024016. https://doi.org/10.1088/1748-9326/ac4d4f"
+P278,paragraph,a0,False,8,9326,"), 024016. https://doi.org/10.1088/1748-9326/ac4d4f"
+P279,paragraph,a0,False,1,1997,"Hodrick, R. J., and Prescott, E. C. (1997). Postwar U.S. business cycles: An empi"
+P279,paragraph,a0,False,2,29,". Journal of Money, Credit and Banking, 29(1), 1–16. https://doi.org/10.2307/29536"
+P279,paragraph,a0,False,3,1,"ournal of Money, Credit and Banking, 29(1), 1–16. https://doi.org/10.2307/2953682"
+P279,paragraph,a0,False,4,1,"al of Money, Credit and Banking, 29(1), 1–16. https://doi.org/10.2307/2953682"
+P279,paragraph,a0,False,5,16,"of Money, Credit and Banking, 29(1), 1–16. https://doi.org/10.2307/2953682"
+P279,paragraph,a0,False,6,10.2307,"d Banking, 29(1), 1–16. https://doi.org/10.2307/2953682"
+P279,paragraph,a0,False,7,2953682,"g, 29(1), 1–16. https://doi.org/10.2307/2953682"
+P280,paragraph,a0,False,1,1980,"Holland, G. J. (1980). An analytic model of the wind and pre"
+P280,paragraph,a0,False,2,108,"in hurricanes. Monthly Weather Review, 108(8), 1212–1218. https://doi.org/10.1175/"
+P280,paragraph,a0,False,3,8,"hurricanes. Monthly Weather Review, 108(8), 1212–1218. https://doi.org/10.1175/15"
+P280,paragraph,a0,False,4,1212,"icanes. Monthly Weather Review, 108(8), 1212–1218. https://doi.org/10.1175/1520-0493"
+P280,paragraph,a0,False,5,1218,"s. Monthly Weather Review, 108(8), 1212–1218. https://doi.org/10.1175/1520-0493(1980"
+P280,paragraph,a0,False,6,10.1175,"iew, 108(8), 1212–1218. https://doi.org/10.1175/1520-0493(1980)108<1212:AAMOTW>2.0.CO;2"
+P280,paragraph,a0,False,7,1520,"(8), 1212–1218. https://doi.org/10.1175/1520-0493(1980)108<1212:AAMOTW>2.0.CO;2"
+P280,paragraph,a0,False,8,0493,"1212–1218. https://doi.org/10.1175/1520-0493(1980)108<1212:AAMOTW>2.0.CO;2"
+P280,paragraph,a0,False,9,1980,"1218. https://doi.org/10.1175/1520-0493(1980)108<1212:AAMOTW>2.0.CO;2"
+P280,paragraph,a0,False,10,108,"https://doi.org/10.1175/1520-0493(1980)108<1212:AAMOTW>2.0.CO;2"
+P280,paragraph,a0,False,11,1212,"ps://doi.org/10.1175/1520-0493(1980)108<1212:AAMOTW>2.0.CO;2"
+P280,paragraph,a0,False,12,2.0,"/10.1175/1520-0493(1980)108<1212:AAMOTW>2.0.CO;2"
+P280,paragraph,a0,False,13,2,"5/1520-0493(1980)108<1212:AAMOTW>2.0.CO;2"
+P281,paragraph,a0,False,1,2008,"Holland, G. J. (2008). A revised hurricane pressure–wind mod"
+P281,paragraph,a0,False,2,136,"ure–wind model. Monthly Weather Review, 136(9), 3432–3445. https://doi.org/10.1175/"
+P281,paragraph,a0,False,3,9,"wind model. Monthly Weather Review, 136(9), 3432–3445. https://doi.org/10.1175/20"
+P281,paragraph,a0,False,4,3432,"model. Monthly Weather Review, 136(9), 3432–3445. https://doi.org/10.1175/2008MWR23"
+P281,paragraph,a0,False,5,3445,"l. Monthly Weather Review, 136(9), 3432–3445. https://doi.org/10.1175/2008MWR2395.1"
+P281,paragraph,a0,False,6,10.1175,"iew, 136(9), 3432–3445. https://doi.org/10.1175/2008MWR2395.1"
+P281,paragraph,a0,False,7,2008,"(9), 3432–3445. https://doi.org/10.1175/2008MWR2395.1"
+P282,paragraph,a0,False,1,2010,"G. J., Belanger, J. I., and Fritz, A. (2010). A revised model for radial profiles o"
+P282,paragraph,a0,False,2,138,"urricane winds. Monthly Weather Review, 138(12), 4393–4401. https://doi.org/10.1175"
+P282,paragraph,a0,False,3,12,"cane winds. Monthly Weather Review, 138(12), 4393–4401. https://doi.org/10.1175/20"
+P282,paragraph,a0,False,4,4393,"winds. Monthly Weather Review, 138(12), 4393–4401. https://doi.org/10.1175/2010MWR33"
+P282,paragraph,a0,False,5,4401,". Monthly Weather Review, 138(12), 4393–4401. https://doi.org/10.1175/2010MWR3317.1"
+P282,paragraph,a0,False,6,10.1175,"ew, 138(12), 4393–4401. https://doi.org/10.1175/2010MWR3317.1"
+P282,paragraph,a0,False,7,2010,"12), 4393–4401. https://doi.org/10.1175/2010MWR3317.1"
+P283,paragraph,a0,False,1,1982,"Iman, R. L., and Conover, W. J. (1982). A distribution-free approach to induc"
+P283,paragraph,a0,False,2,11,"tatistics — Simulation and Computation, 11(3), 311–334. https://doi.org/10.1080/03"
+P283,paragraph,a0,False,3,3,"istics — Simulation and Computation, 11(3), 311–334. https://doi.org/10.1080/0361"
+P283,paragraph,a0,False,4,311,"cs — Simulation and Computation, 11(3), 311–334. https://doi.org/10.1080/0361091820"
+P283,paragraph,a0,False,5,334,"Simulation and Computation, 11(3), 311–334. https://doi.org/10.1080/03610918208812"
+P283,paragraph,a0,False,6,10.1080,"tation, 11(3), 311–334. https://doi.org/10.1080/03610918208812265"
+P283,paragraph,a0,False,7,03610918208812265,"11(3), 311–334. https://doi.org/10.1080/03610918208812265"
+P284,paragraph,a0,False,1,2021,"IPCC (2021). Summary for Policymakers. In Climate"
+P284,paragraph,a0,False,2,2021,"ary for Policymakers. In Climate Change 2021: The Physical Science Basis (IPCC AR6 W"
+P284,paragraph,a0,False,3,10.1017,"ridge University Press. https://doi.org/10.1017/9781009157896.001"
+P284,paragraph,a0,False,4,9781009157896.001,"iversity Press. https://doi.org/10.1017/9781009157896.001"
+P285,paragraph,a0,False,1,2008,"L., Resio, D. T., and Ratcliff, J. J. (2008). The influence of storm size on hurric"
+P285,paragraph,a0,False,2,38,"urge. Journal of Physical Oceanography, 38(9), 2003–2013. https://doi.org/10.1175/"
+P285,paragraph,a0,False,3,9,"e. Journal of Physical Oceanography, 38(9), 2003–2013. https://doi.org/10.1175/20"
+P285,paragraph,a0,False,4,2003,"ournal of Physical Oceanography, 38(9), 2003–2013. https://doi.org/10.1175/2008JPO37"
+P285,paragraph,a0,False,5,2013,"l of Physical Oceanography, 38(9), 2003–2013. https://doi.org/10.1175/2008JPO3727.1"
+P285,paragraph,a0,False,6,10.1175,"aphy, 38(9), 2003–2013. https://doi.org/10.1175/2008JPO3727.1"
+P285,paragraph,a0,False,7,2008,"(9), 2003–2013. https://doi.org/10.1175/2008JPO3727.1"
+P286,paragraph,a0,False,1,2005,"Junker, M., and May, A. (2005). Measurement of aggregate risk with co"
+P286,paragraph,a0,False,2,8,"with copulas. The Econometrics Journal, 8(3), 428–454. https://doi.org/10.1111/j."
+P286,paragraph,a0,False,3,3,"th copulas. The Econometrics Journal, 8(3), 428–454. https://doi.org/10.1111/j.13"
+P286,paragraph,a0,False,4,428,"opulas. The Econometrics Journal, 8(3), 428–454. https://doi.org/10.1111/j.1368-423"
+P286,paragraph,a0,False,5,454,"as. The Econometrics Journal, 8(3), 428–454. https://doi.org/10.1111/j.1368-423X.20"
+P286,paragraph,a0,False,6,10.1111,"Journal, 8(3), 428–454. https://doi.org/10.1111/j.1368-423X.2005.00173.x"
+P286,paragraph,a0,False,7,423,"428–454. https://doi.org/10.1111/j.1368-423X.2005.00173.x"
+P287,paragraph,a0,False,1,2018,"J. P., Kruk, M. C., and Schreck, C. J. (2018). International Best Track Archive for"
+P287,paragraph,a0,False,2,4,"Stewardship (IBTrACS) Project, Version 4. NOAA National Centers for Environmenta"
+P287,paragraph,a0,False,3,10.25921,"ironmental Information. https://doi.org/10.25921/82ty-9e16"
+P287,paragraph,a0,False,4,82,"l Information. https://doi.org/10.25921/82ty-9e16"
+P287,paragraph,a0,False,5,9e16,"ormation. https://doi.org/10.25921/82ty-9e16"
+P288,paragraph,a0,False,1,2010,"H., Diamond, H. J., and Neumann, C. J. (2010). The International Best Track Archive"
+P288,paragraph,a0,False,2,91,"of the American Meteorological Society, 91(3), 363–376. https://doi.org/10.1175/20"
+P288,paragraph,a0,False,3,3,"the American Meteorological Society, 91(3), 363–376. https://doi.org/10.1175/2009"
+P288,paragraph,a0,False,4,363,"American Meteorological Society, 91(3), 363–376. https://doi.org/10.1175/2009BAMS27"
+P288,paragraph,a0,False,5,376,"ican Meteorological Society, 91(3), 363–376. https://doi.org/10.1175/2009BAMS2755.1"
+P288,paragraph,a0,False,6,10.1175,"ociety, 91(3), 363–376. https://doi.org/10.1175/2009BAMS2755.1"
+P288,paragraph,a0,False,7,2009,"91(3), 363–376. https://doi.org/10.1175/2009BAMS2755.1"
+P289,paragraph,a0,False,1,2020,"Camargo, S. J., Chan, J. C. L., et al. (2020). Tropical cyclones and climate change"
+P289,paragraph,a0,False,2,101,"of the American Meteorological Society, 101(3), E303–E322. https://doi.org/10.1175/"
+P289,paragraph,a0,False,3,3,"he American Meteorological Society, 101(3), E303–E322. https://doi.org/10.1175/BA"
+P289,paragraph,a0,False,4,10.1175,"ety, 101(3), E303–E322. https://doi.org/10.1175/BAMS-D-18-0194.1"
+P289,paragraph,a0,False,5,18,"03–E322. https://doi.org/10.1175/BAMS-D-18-0194.1"
+P289,paragraph,a0,False,6,0194.1,"E322. https://doi.org/10.1175/BAMS-D-18-0194.1"
+P290,paragraph,a0,False,1,1981,"Large, W. G., and Pond, S. (1981). Open ocean momentum flux measurements"
+P290,paragraph,a0,False,2,11,"inds. Journal of Physical Oceanography, 11(3), 324–336. https://doi.org/10.1175/15"
+P290,paragraph,a0,False,3,3,"s. Journal of Physical Oceanography, 11(3), 324–336. https://doi.org/10.1175/1520"
+P290,paragraph,a0,False,4,324,"ournal of Physical Oceanography, 11(3), 324–336. https://doi.org/10.1175/1520-0485("
+P290,paragraph,a0,False,5,336,"al of Physical Oceanography, 11(3), 324–336. https://doi.org/10.1175/1520-0485(1981"
+P290,paragraph,a0,False,6,10.1175,"graphy, 11(3), 324–336. https://doi.org/10.1175/1520-0485(1981)011<0324:OOMFMI>2.0.CO;2"
+P290,paragraph,a0,False,7,1520,"11(3), 324–336. https://doi.org/10.1175/1520-0485(1981)011<0324:OOMFMI>2.0.CO;2"
+P290,paragraph,a0,False,8,0485,", 324–336. https://doi.org/10.1175/1520-0485(1981)011<0324:OOMFMI>2.0.CO;2"
+P290,paragraph,a0,False,9,1981,"–336. https://doi.org/10.1175/1520-0485(1981)011<0324:OOMFMI>2.0.CO;2"
+P290,paragraph,a0,False,10,011,"https://doi.org/10.1175/1520-0485(1981)011<0324:OOMFMI>2.0.CO;2"
+P290,paragraph,a0,False,11,0324,"ps://doi.org/10.1175/1520-0485(1981)011<0324:OOMFMI>2.0.CO;2"
+P290,paragraph,a0,False,12,2.0,"/10.1175/1520-0485(1981)011<0324:OOMFMI>2.0.CO;2"
+P290,paragraph,a0,False,13,2,"5/1520-0485(1981)011<0324:OOMFMI>2.0.CO;2"
+P291,paragraph,a0,False,1,2015,"n, S., Smith, M. D., and Murray, A. B. (2015). Climate adaptation and policy-induced"
+P291,paragraph,a0,False,2,10,"on of coastal property value. PLOS ONE, 10(3), e0121278. https://doi.org/10.1371/j"
+P291,paragraph,a0,False,3,3,"of coastal property value. PLOS ONE, 10(3), e0121278. https://doi.org/10.1371/jou"
+P291,paragraph,a0,False,4,10.1371,"S ONE, 10(3), e0121278. https://doi.org/10.1371/journal.pone.0121278"
+P292,paragraph,a0,False,1,2013,"McNamara, D. E., and Keeler, A. (2013). A coupled physical and economic model"
+P292,paragraph,a0,False,2,3,"to climate risk. Nature Climate Change, 3(6), 559–562. https://doi.org/10.1038/nc"
+P292,paragraph,a0,False,3,6,"climate risk. Nature Climate Change, 3(6), 559–562. https://doi.org/10.1038/ncli"
+P292,paragraph,a0,False,4,559,"mate risk. Nature Climate Change, 3(6), 559–562. https://doi.org/10.1038/nclimate18"
+P292,paragraph,a0,False,5,562,"risk. Nature Climate Change, 3(6), 559–562. https://doi.org/10.1038/nclimate1826"
+P292,paragraph,a0,False,6,10.1038,"Change, 3(6), 559–562. https://doi.org/10.1038/nclimate1826"
+P293,paragraph,a0,False,1,1974,"Merton, R. C. (1974). On the pricing of corporate debt: The"
+P293,paragraph,a0,False,2,29,"of interest rates. Journal of Finance, 29(2), 449–470. https://doi.org/10.1111/j."
+P293,paragraph,a0,False,3,2,"interest rates. Journal of Finance, 29(2), 449–470. https://doi.org/10.1111/j.15"
+P293,paragraph,a0,False,4,449,"erest rates. Journal of Finance, 29(2), 449–470. https://doi.org/10.1111/j.1540-626"
+P293,paragraph,a0,False,5,470,"t rates. Journal of Finance, 29(2), 449–470. https://doi.org/10.1111/j.1540-6261.19"
+P293,paragraph,a0,False,6,10.1111,"inance, 29(2), 449–470. https://doi.org/10.1111/j.1540-6261.1974.tb03058.x"
+P293,paragraph,a0,False,7,6261.1974,"449–470. https://doi.org/10.1111/j.1540-6261.1974.tb03058.x"
+P294,paragraph,a0,False,1,1976,"Merton, R. C. (1976). Option pricing when underlying stock"
+P294,paragraph,a0,False,2,3,"inuous. Journal of Financial Economics, 3(1–2), 125–144. https://doi.org/10.1016/"
+P294,paragraph,a0,False,3,1,"uous. Journal of Financial Economics, 3(1–2), 125–144. https://doi.org/10.1016/03"
+P294,paragraph,a0,False,4,2,"us. Journal of Financial Economics, 3(1–2), 125–144. https://doi.org/10.1016/0304"
+P294,paragraph,a0,False,5,125,"Journal of Financial Economics, 3(1–2), 125–144. https://doi.org/10.1016/0304-405X("
+P294,paragraph,a0,False,6,144,"nal of Financial Economics, 3(1–2), 125–144. https://doi.org/10.1016/0304-405X(76)9"
+P294,paragraph,a0,False,7,10.1016,"omics, 3(1–2), 125–144. https://doi.org/10.1016/0304-405X(76)90022-2"
+P294,paragraph,a0,False,8,0304,"(1–2), 125–144. https://doi.org/10.1016/0304-405X(76)90022-2"
+P294,paragraph,a0,False,9,405,", 125–144. https://doi.org/10.1016/0304-405X(76)90022-2"
+P294,paragraph,a0,False,10,76,"–144. https://doi.org/10.1016/0304-405X(76)90022-2"
+P294,paragraph,a0,False,11,90022,"4. https://doi.org/10.1016/0304-405X(76)90022-2"
+P294,paragraph,a0,False,12,2,"ps://doi.org/10.1016/0304-405X(76)90022-2"
+P295,paragraph,a0,False,1,2020,"Murfin, J., and Spiegel, M. (2020). Is the risk of sea level rise capital"
+P295,paragraph,a0,False,2,33,"al estate? Review of Financial Studies, 33(3), 1217–1255. https://doi.org/10.1093/"
+P295,paragraph,a0,False,3,3,"estate? Review of Financial Studies, 33(3), 1217–1255. https://doi.org/10.1093/rf"
+P295,paragraph,a0,False,4,1217,"te? Review of Financial Studies, 33(3), 1217–1255. https://doi.org/10.1093/rfs/hhz13"
+P295,paragraph,a0,False,5,1255,"eview of Financial Studies, 33(3), 1217–1255. https://doi.org/10.1093/rfs/hhz134"
+P295,paragraph,a0,False,6,10.1093,"dies, 33(3), 1217–1255. https://doi.org/10.1093/rfs/hhz134"
+P296,paragraph,a0,False,1,2008,"J., Hanson, S., Herweijer, C., et al. (2008). Ranking port cities with high exposur"
+P296,paragraph,a0,False,2,1,"s. OECD Environment Working Papers, No. 1. https://doi.org/10.1787/011766488208"
+P296,paragraph,a0,False,3,10.1787,"Working Papers, No. 1. https://doi.org/10.1787/011766488208"
+P296,paragraph,a0,False,4,011766488208,"Papers, No. 1. https://doi.org/10.1787/011766488208"
+P297,paragraph,a0,False,1,2022,"Centers for Environmental Information (2022). ETOPO 2022 15 Arc-Second Global Relie"
+P297,paragraph,a0,False,2,2022,"Environmental Information (2022). ETOPO 2022 15 Arc-Second Global Relief Model. http"
+P297,paragraph,a0,False,3,15,"onmental Information (2022). ETOPO 2022 15 Arc-Second Global Relief Model. https:/"
+P297,paragraph,a0,False,4,10.25921,"nd Global Relief Model. https://doi.org/10.25921/fd45-gt74"
+P298,paragraph,a0,False,1,2018,"Ortega, F., and Taspinar, S. (2018). Rising sea levels and sinking propert"
+P298,paragraph,a0,False,2,106,"ing market. Journal of Urban Economics, 106, 81–100. https://doi.org/10.1016/j.jue."
+P298,paragraph,a0,False,3,81,"arket. Journal of Urban Economics, 106, 81–100. https://doi.org/10.1016/j.jue.2018"
+P298,paragraph,a0,False,4,100,"et. Journal of Urban Economics, 106, 81–100. https://doi.org/10.1016/j.jue.2018.06."
+P298,paragraph,a0,False,5,10.1016,"Economics, 106, 81–100. https://doi.org/10.1016/j.jue.2018.06.005"
+P299,paragraph,a0,False,1,2003,"., Vickery, P. J., and Reinhold, T. A. (2003). Reduced drag coefficient for high win"
+P299,paragraph,a0,False,2,422,"nd speeds in tropical cyclones. Nature, 422(6929), 279–283. https://doi.org/10.1038"
+P299,paragraph,a0,False,3,6929,"peeds in tropical cyclones. Nature, 422(6929), 279–283. https://doi.org/10.1038/natu"
+P299,paragraph,a0,False,4,279,"n tropical cyclones. Nature, 422(6929), 279–283. https://doi.org/10.1038/nature0148"
+P299,paragraph,a0,False,5,283,"opical cyclones. Nature, 422(6929), 279–283. https://doi.org/10.1038/nature01481"
+P299,paragraph,a0,False,6,10.1038,"re, 422(6929), 279–283. https://doi.org/10.1038/nature01481"
+P300,paragraph,a0,False,1,2002,"Ravn, M. O., and Uhlig, H. (2002). On adjusting the Hodrick-Prescott fil"
+P300,paragraph,a0,False,2,84,"ns. Review of Economics and Statistics, 84(2), 371–376. https://doi.org/10.1162/00"
+P300,paragraph,a0,False,3,2,"Review of Economics and Statistics, 84(2), 371–376. https://doi.org/10.1162/0034"
+P300,paragraph,a0,False,4,371,"iew of Economics and Statistics, 84(2), 371–376. https://doi.org/10.1162/0034653023"
+P300,paragraph,a0,False,5,376,"of Economics and Statistics, 84(2), 371–376. https://doi.org/10.1162/00346530231741"
+P300,paragraph,a0,False,6,10.1162,"istics, 84(2), 371–376. https://doi.org/10.1162/003465302317411604"
+P300,paragraph,a0,False,7,003465302317411604,"84(2), 371–376. https://doi.org/10.1162/003465302317411604"
+P301,paragraph,a0,False,1,2023,", Schoenmaker, D., and van Dijk, M. A. (2023). A finance approach to climate stress"
+P301,paragraph,a0,False,2,131,"nal of International Money and Finance, 131, 102797. https://doi.org/10.1016/j.jimo"
+P301,paragraph,a0,False,3,102797,"f International Money and Finance, 131, 102797. https://doi.org/10.1016/j.jimonfin.202"
+P301,paragraph,a0,False,4,10.1016,"d Finance, 131, 102797. https://doi.org/10.1016/j.jimonfin.2022.102797"
+P302,paragraph,a0,False,1,2000,"Rockafellar, R. T., and Uryasev, S. (2000). Optimization of conditional value-at-"
+P302,paragraph,a0,False,2,2,"itional value-at-risk. Journal of Risk, 2(3), 21–42."
+P302,paragraph,a0,False,3,3,"ional value-at-risk. Journal of Risk, 2(3), 21–42."
+P302,paragraph,a0,False,4,21,"l value-at-risk. Journal of Risk, 2(3), 21–42."
+P302,paragraph,a0,False,5,42,"alue-at-risk. Journal of Risk, 2(3), 21–42."
+P303,paragraph,a0,False,1,2002,"Rockafellar, R. T., and Uryasev, S. (2002). Conditional value-at-risk for general"
+P303,paragraph,a0,False,2,26,"ibutions. Journal of Banking & Finance, 26(7), 1443–1471. https://doi.org/10.1016/"
+P303,paragraph,a0,False,3,7,"tions. Journal of Banking & Finance, 26(7), 1443–1471. https://doi.org/10.1016/S0"
+P303,paragraph,a0,False,4,1443,"s. Journal of Banking & Finance, 26(7), 1443–1471. https://doi.org/10.1016/S0378-426"
+P303,paragraph,a0,False,5,1471,"urnal of Banking & Finance, 26(7), 1443–1471. https://doi.org/10.1016/S0378-4266(02)"
+P303,paragraph,a0,False,6,10.1016,"ance, 26(7), 1443–1471. https://doi.org/10.1016/S0378-4266(02)00271-6"
+P303,paragraph,a0,False,7,4266,"443–1471. https://doi.org/10.1016/S0378-4266(02)00271-6"
+P303,paragraph,a0,False,8,02,"471. https://doi.org/10.1016/S0378-4266(02)00271-6"
+P303,paragraph,a0,False,9,00271,". https://doi.org/10.1016/S0378-4266(02)00271-6"
+P303,paragraph,a0,False,10,6,"s://doi.org/10.1016/S0378-4266(02)00271-6"
+P304,paragraph,a0,False,1,2020,"N., McKee, J. J., Sims, K. M., et al. (2020). LandScan Global 2019. Oak Ridge Natio"
+P304,paragraph,a0,False,2,2019,", K. M., et al. (2020). LandScan Global 2019. Oak Ridge National Laboratory. https:/"
+P304,paragraph,a0,False,3,10.48690,"ge National Laboratory. https://doi.org/10.48690/1524213"
+P304,paragraph,a0,False,4,1524213,"al Laboratory. https://doi.org/10.48690/1524213"
+P305,paragraph,a0,False,1,2023,"Singh, M., and Cai, X. (2023). Coastal flooding hazard, exposure, an"
+P305,paragraph,a0,False,2,2080,"readiness of buildings in Hong Kong in 2080–2100, and the implications for real est"
+P305,paragraph,a0,False,3,2100,"iness of buildings in Hong Kong in 2080–2100, and the implications for real estate m"
+P305,paragraph,a0,False,4,12,"ternational Journal of Geo-Information, 12(3), 86. https://doi.org/10.3390/ijgi120"
+P305,paragraph,a0,False,5,3,"national Journal of Geo-Information, 12(3), 86. https://doi.org/10.3390/ijgi12030"
+P305,paragraph,a0,False,6,86,"onal Journal of Geo-Information, 12(3), 86. https://doi.org/10.3390/ijgi12030086"
+P305,paragraph,a0,False,7,10.3390,"Information, 12(3), 86. https://doi.org/10.3390/ijgi12030086"
+P306,paragraph,a0,False,1,1930,"Uhlenbeck, G. E., and Ornstein, L. S. (1930). On the theory of the Brownian motion."
+P306,paragraph,a0,False,2,36,"f the Brownian motion. Physical Review, 36(5), 823–841. https://doi.org/10.1103/Ph"
+P306,paragraph,a0,False,3,5,"he Brownian motion. Physical Review, 36(5), 823–841. https://doi.org/10.1103/Phys"
+P306,paragraph,a0,False,4,823,"rownian motion. Physical Review, 36(5), 823–841. https://doi.org/10.1103/PhysRev.36"
+P306,paragraph,a0,False,5,841,"ian motion. Physical Review, 36(5), 823–841. https://doi.org/10.1103/PhysRev.36.823"
+P306,paragraph,a0,False,6,10.1103,"Review, 36(5), 823–841. https://doi.org/10.1103/PhysRev.36.823"
+P307,paragraph,a0,False,1,2010,"d Nations Development Programme (UNDP) (2010). Human Development Report 2010. New Yo"
+P307,paragraph,a0,False,2,2010,"(UNDP) (2010). Human Development Report 2010. New York."
+P308,paragraph,a0,False,1,1986,"tates Department of Agriculture (USDA) (1986). Urban Hydrology for Small Watersheds."
+P308,paragraph,a0,False,2,55,"for Small Watersheds. Technical Release 55. Washington, D.C."
+P309,paragraph,a0,False,1,2015,", J., Meyers, S. D., and Luther, M. E. (2015). Increasing risk of compound flooding"
+P309,paragraph,a0,False,2,5,"major US cities. Nature Climate Change, 5(12), 1093–1097. https://doi.org/10.1038"
+P309,paragraph,a0,False,3,12,"jor US cities. Nature Climate Change, 5(12), 1093–1097. https://doi.org/10.1038/nc"
+P309,paragraph,a0,False,4,1093,"S cities. Nature Climate Change, 5(12), 1093–1097. https://doi.org/10.1038/nclimate2"
+P309,paragraph,a0,False,5,1097,"ies. Nature Climate Change, 5(12), 1093–1097. https://doi.org/10.1038/nclimate2736"
+P309,paragraph,a0,False,6,10.1038,"ange, 5(12), 1093–1097. https://doi.org/10.1038/nclimate2736"
+P310,paragraph,a0,False,1,2012,"Wang, J., Gao, W., Xu, S., and Yu, L. (2012). Evaluation of the combined risk of se"
+P310,paragraph,a0,False,2,115,"as of Shanghai, China. Climatic Change, 115(3–4), 537–558. https://doi.org/10.1007/"
+P310,paragraph,a0,False,3,3,"f Shanghai, China. Climatic Change, 115(3–4), 537–558. https://doi.org/10.1007/s1"
+P310,paragraph,a0,False,4,4,"Shanghai, China. Climatic Change, 115(3–4), 537–558. https://doi.org/10.1007/s105"
+P310,paragraph,a0,False,5,537,"ghai, China. Climatic Change, 115(3–4), 537–558. https://doi.org/10.1007/s10584-012"
+P310,paragraph,a0,False,6,558,", China. Climatic Change, 115(3–4), 537–558. https://doi.org/10.1007/s10584-012-046"
+P310,paragraph,a0,False,7,10.1007,"nge, 115(3–4), 537–558. https://doi.org/10.1007/s10584-012-0468-7"
+P310,paragraph,a0,False,8,012,"537–558. https://doi.org/10.1007/s10584-012-0468-7"
+P310,paragraph,a0,False,9,0468,"558. https://doi.org/10.1007/s10584-012-0468-7"
+P310,paragraph,a0,False,10,7,"https://doi.org/10.1007/s10584-012-0468-7"
+P311,paragraph,a0,False,1,2020,"ers, P., Bresch, D. N., and Claire, B. (2020). Be Prepared: Exploring future climate"
+P311,paragraph,a0,False,2,23,"The Journal of Alternative Investments, 23(1), 24–34. https://doi.org/10.3905/jai."
+P311,paragraph,a0,False,3,1,"Journal of Alternative Investments, 23(1), 24–34. https://doi.org/10.3905/jai.20"
+P311,paragraph,a0,False,4,24,"rnal of Alternative Investments, 23(1), 24–34. https://doi.org/10.3905/jai.2020.1."
+P311,paragraph,a0,False,5,34,"l of Alternative Investments, 23(1), 24–34. https://doi.org/10.3905/jai.2020.1.100"
+P311,paragraph,a0,False,6,10.3905,"estments, 23(1), 24–34. https://doi.org/10.3905/jai.2020.1.100"
+P312,paragraph,a0,False,1,2011,"orld Meteorological Organization (WMO) (2011). Guide to Storm Surge Forecasting. WMO"
+P312,paragraph,a0,False,2,1076,"ide to Storm Surge Forecasting. WMO-No. 1076. Geneva."
+P313,paragraph,a0,False,1,2019,"orld Meteorological Organization (WMO) (2019). Tropical Cyclone Operational Plan for"
+P313,paragraph,a0,False,2,196,"fic and the South China Sea. WMO/TD-No. 196. Geneva."
+P314,paragraph,2,False,,,
+P315,paragraph,FirstParagraph,False,,,
+P316,paragraph,3,False,,,
+P317,paragraph,FirstParagraph,False,,,
+P318,paragraph,a0,True,,,
+P319,paragraph,FirstParagraph,False,,,
+P320,paragraph,a0,True,,,
+P321,paragraph,FirstParagraph,False,,,
+P322,paragraph,a0,True,,,
+P323,paragraph,FirstParagraph,True,,,
+P324,paragraph,3,False,,,
+P325,paragraph,FirstParagraph,False,1,2010,"The Holland 2010 radial wind profile is:"
+P326,paragraph,a0,True,,,
+P327,paragraph,FirstParagraph,True,,,
+P328,paragraph,3,False,,,
+P329,paragraph,FirstParagraph,False,,,
+P330,paragraph,a0,True,,,
+P331,paragraph,FirstParagraph,False,,,
+P332,paragraph,a0,True,,,
+P333,paragraph,FirstParagraph,False,,,
+P334,paragraph,a0,True,,,
+P335,paragraph,FirstParagraph,True,,,
+P336,paragraph,a0,False,,,
+P337,paragraph,a0,True,,,
+P338,paragraph,FirstParagraph,False,,,
+P339,paragraph,a0,True,,,
+P340,paragraph,FirstParagraph,True,,,
+P341,paragraph,a0,False,,,
+P342,paragraph,a0,True,,,
+P343,paragraph,FirstParagraph,False,,,
+P344,paragraph,a0,True,,,
+P345,paragraph,FirstParagraph,False,,,
+P346,paragraph,a0,True,,,
+P347,paragraph,FirstParagraph,True,,,
+P348,paragraph,FirstParagraph,False,,,
+P349,paragraph,a0,True,,,
+P350,paragraph,FirstParagraph,False,,,
+P351,paragraph,a0,True,,,
+P352,paragraph,3,False,,,
+P353,paragraph,FirstParagraph,False,,,
+P354,paragraph,a0,True,,,
+P355,paragraph,FirstParagraph,False,,,
+P356,paragraph,a0,True,,,
+P357,paragraph,FirstParagraph,False,,,
+P358,paragraph,a0,True,,,
+P359,paragraph,3,False,,,
+P360,paragraph,FirstParagraph,False,,,
+P361,paragraph,a0,True,,,
+P362,paragraph,FirstParagraph,False,,,
+P363,paragraph,a0,True,,,
+P364,paragraph,3,False,,,
+P365,paragraph,FirstParagraph,False,,,
+P366,paragraph,a0,True,,,
+P367,paragraph,FirstParagraph,False,,,
+P368,paragraph,a0,True,,,
+P369,paragraph,FirstParagraph,True,,,
+P370,paragraph,FirstParagraph,False,,,
+P371,paragraph,a0,True,,,
+P372,paragraph,FirstParagraph,True,,,
+P373,paragraph,FirstParagraph,True,,,
+P374,paragraph,FirstParagraph,False,,,
+P375,paragraph,a0,True,,,
+P376,paragraph,FirstParagraph,True,,,
+P377,paragraph,FirstParagraph,False,1,12,"ublished CRI series is then formed by a 12-month moving average and base-100 reind"
+P377,paragraph,FirstParagraph,False,2,100,"d by a 12-month moving average and base-100 reindexing:"
+P378,paragraph,a0,True,,,
+P379,paragraph,3,False,,,
+P380,paragraph,FirstParagraph,False,,,
+P381,paragraph,a0,True,,,
+P382,paragraph,FirstParagraph,False,,,
+P383,paragraph,a0,True,,,
+P384,paragraph,FirstParagraph,False,1,12,"nd realised volatility is computed as a 12-month rolling standard deviation of log"
+P385,paragraph,a0,True,,,
+P386,paragraph,FirstParagraph,False,,,
+P387,paragraph,a0,True,,,
+P388,paragraph,FirstParagraph,False,,,
+P389,paragraph,a0,True,,,
+P390,paragraph,FirstParagraph,True,,,
+P391,paragraph,FirstParagraph,False,,,
+P392,paragraph,a0,True,,,
+P393,paragraph,FirstParagraph,False,,,
+P394,paragraph,a0,True,,,
+P395,paragraph,FirstParagraph,False,1,12,"shed index is then formed with the same 12-month moving average and base-100 conve"
+P395,paragraph,FirstParagraph,False,2,100,"e same 12-month moving average and base-100 convention as CRI:"
+P396,paragraph,a0,True,,,
+P397,paragraph,3,False,,,
+P398,paragraph,FirstParagraph,False,,,
+P399,paragraph,a0,True,,,
+P400,paragraph,FirstParagraph,False,,,
+P401,paragraph,a0,True,,,
+P402,paragraph,FirstParagraph,True,,,
+P403,paragraph,a0,True,,,
+P404,paragraph,FirstParagraph,True,,,
+P405,paragraph,2,False,,,
+P406,paragraph,FirstParagraph,False,,,
+T9#r0c0,table_cell,Compact,False,,,
+T9#r0c1,table_cell,Compact,False,,,
+T9#r0c2,table_cell,Compact,False,,,
+T9#r0c3,table_cell,Compact,False,,,
+T9#r1c0,table_cell,Compact,False,,,
+T9#r1c1,table_cell,Compact,False,,,
+T9#r1c2,table_cell,Compact,False,1,120.85,"(120.85, 30.65, 122.00, 31.90)"
+T9#r1c2,table_cell,Compact,False,2,30.65,"(120.85, 30.65, 122.00, 31.90)"
+T9#r1c2,table_cell,Compact,False,3,122.00,"(120.85, 30.65, 122.00, 31.90)"
+T9#r1c2,table_cell,Compact,False,4,31.90,"(120.85, 30.65, 122.00, 31.90)"
+T9#r1c3,table_cell,Compact,False,,,
+T9#r2c0,table_cell,Compact,False,,,
+T9#r2c1,table_cell,Compact,False,,,
+T9#r2c2,table_cell,Compact,False,1,0.01,"0.01"
+T9#r2c3,table_cell,Compact,False,,,
+T9#r3c0,table_cell,Compact,False,,,
+T9#r3c1,table_cell,Compact,False,,,
+T9#r3c2,table_cell,Compact,False,1,2010,"Holland 2010 (“H10”)"
+T9#r3c3,table_cell,Compact,False,,,
+T9#r4c0,table_cell,Compact,False,,,
+T9#r4c1,table_cell,Compact,True,,,
+T9#r4c2,table_cell,Compact,False,1,1.5,"1.5"
+T9#r4c3,table_cell,Compact,False,,,
+T9#r5c0,table_cell,Compact,False,,,
+T9#r5c1,table_cell,Compact,True,,,
+T9#r5c2,table_cell,Compact,False,1,50,"50"
+T9#r5c3,table_cell,Compact,False,,,
+T9#r6c0,table_cell,Compact,False,,,
+T9#r6c1,table_cell,Compact,False,,,
+T9#r6c2,table_cell,Compact,False,1,3.0,"3.0"
+T9#r6c3,table_cell,Compact,False,,,
+T9#r7c0,table_cell,Compact,False,,,
+T9#r7c1,table_cell,Compact,False,,,
+T9#r7c2,table_cell,Compact,False,1,10,"10 per historical"
+T9#r7c3,table_cell,Compact,False,,,
+T9#r8c0,table_cell,Compact,False,,,
+T9#r8c1,table_cell,Compact,False,,,
+T9#r8c2,table_cell,Compact,False,1,3.0,"3.0"
+T9#r8c3,table_cell,Compact,False,,,
+T9#r9c0,table_cell,Compact,False,,,
+T9#r9c1,table_cell,Compact,True,,,
+T9#r9c2,table_cell,Compact,False,1,1.225,"1.225"
+T9#r9c3,table_cell,Compact,False,,,
+T9#r10c0,table_cell,Compact,False,,,
+T9#r10c1,table_cell,Compact,True,,,
+T9#r10c2,table_cell,Compact,False,1,1025,"1025"
+T9#r10c3,table_cell,Compact,False,,,
+T9#r11c0,table_cell,Compact,False,,,
+T9#r11c1,table_cell,Compact,True,,,
+T9#r11c2,table_cell,Compact,False,1,9.81,"9.81"
+T9#r11c3,table_cell,Compact,False,,,
+T9#r12c0,table_cell,Compact,False,,,
+T9#r12c1,table_cell,Compact,True,,,
+T9#r12c2,table_cell,Compact,False,1,2.5 ×,"2.5 × 10⁻³"
+T9#r12c2,table_cell,Compact,False,2,10,"2.5 × 10⁻³"
+T9#r12c3,table_cell,Compact,False,,,
+T9#r13c0,table_cell,Compact,False,,,
+T9#r13c1,table_cell,Compact,True,,,
+T9#r13c2,table_cell,Compact,False,1,550,"550"
+T9#r13c3,table_cell,Compact,False,,,
+T9#r14c0,table_cell,Compact,False,,,
+T9#r14c1,table_cell,Compact,True,,,
+T9#r14c2,table_cell,Compact,False,1,55,"55"
+T9#r14c3,table_cell,Compact,False,,,
+T9#r15c0,table_cell,Compact,False,1,4.5,"SSP2-4.5 TC intensity factor"
+T9#r15c1,table_cell,Compact,False,,,
+T9#r15c2,table_cell,Compact,False,1,1.05,"1.05"
+T9#r15c3,table_cell,Compact,False,,,
+T9#r16c0,table_cell,Compact,False,1,8.5,"SSP5-8.5 TC intensity factor"
+T9#r16c1,table_cell,Compact,False,,,
+T9#r16c2,table_cell,Compact,False,1,1.10,"1.10"
+T9#r16c3,table_cell,Compact,False,,,
+T9#r17c0,table_cell,Compact,False,1,4.5,"SSP2-4.5 SLR (2050)"
+T9#r17c0,table_cell,Compact,False,2,2050,"SSP2-4.5 SLR (2050)"
+T9#r17c1,table_cell,Compact,False,,,
+T9#r17c2,table_cell,Compact,False,1,0.3,"0.3"
+T9#r17c3,table_cell,Compact,False,,,
+T9#r18c0,table_cell,Compact,False,1,8.5,"SSP5-8.5 SLR (2050)"
+T9#r18c0,table_cell,Compact,False,2,2050,"SSP5-8.5 SLR (2050)"
+T9#r18c1,table_cell,Compact,False,,,
+T9#r18c2,table_cell,Compact,False,1,0.5,"0.5"
+T9#r18c3,table_cell,Compact,False,,,
+T9#r19c0,table_cell,Compact,False,,,
+T9#r19c1,table_cell,Compact,False,,,
+T9#r19c2,table_cell,Compact,False,1,0.0,"0.0"
+T9#r19c3,table_cell,Compact,False,,,
+T9#r20c0,table_cell,Compact,False,,,
+T9#r20c1,table_cell,Compact,False,,,
+T9#r20c2,table_cell,Compact,False,1,6.0,"6.0"
+T9#r20c3,table_cell,Compact,False,,,
+T9#r21c0,table_cell,Compact,False,,,
+T9#r21c1,table_cell,Compact,True,,,
+T9#r21c2,table_cell,Compact,False,1,10,"10⁻⁴"
+T9#r21c3,table_cell,Compact,False,,,
+T9#r22c0,table_cell,Compact,False,,,
+T9#r22c1,table_cell,Compact,True,,,
+T9#r22c2,table_cell,Compact,False,1,3,"3"
+T9#r22c3,table_cell,Compact,False,,,
+T9#r23c0,table_cell,Compact,False,,,
+T9#r23c1,table_cell,Compact,True,,,
+T9#r23c2,table_cell,Compact,True,,,
+T9#r23c3,table_cell,Compact,False,,,
+T9#r24c0,table_cell,Compact,False,,,
+T9#r24c1,table_cell,Compact,False,,,
+T9#r24c2,table_cell,Compact,False,1,0.10,"0.10"
+T9#r24c3,table_cell,Compact,False,,,
+T9#r25c0,table_cell,Compact,False,,,
+T9#r25c1,table_cell,Compact,False,,,
+T9#r25c2,table_cell,Compact,False,1,2.86,"2.86"
+T9#r25c3,table_cell,Compact,False,,,
+T9#r26c0,table_cell,Compact,False,,,
+T9#r26c1,table_cell,Compact,False,,,
+T9#r26c2,table_cell,Compact,False,1,3.11,"3.11"
+T9#r26c3,table_cell,Compact,False,,,
+T9#r27c0,table_cell,Compact,False,,,
+T9#r27c1,table_cell,Compact,False,,,
+T9#r27c2,table_cell,Compact,False,1,4.03,"4.03"
+T9#r27c3,table_cell,Compact,False,,,
+T9#r28c0,table_cell,Compact,False,,,
+T9#r28c1,table_cell,Compact,False,,,
+T9#r28c2,table_cell,Compact,False,1,4.03,"4.03"
+T9#r28c3,table_cell,Compact,False,,,
+T9#r29c0,table_cell,Compact,False,,,
+T9#r29c1,table_cell,Compact,False,,,
+T9#r29c2,table_cell,Compact,False,1,2.0,"2.0"
+T9#r29c3,table_cell,Compact,False,,,
+T9#r30c0,table_cell,Compact,False,,,
+T9#r30c1,table_cell,Compact,False,,,
+T9#r30c2,table_cell,Compact,False,1,1500,"1500"
+T9#r30c3,table_cell,Compact,False,,,
+T9#r31c0,table_cell,Compact,False,,,
+T9#r31c1,table_cell,Compact,False,,,
+T9#r31c2,table_cell,Compact,False,1,5000,"5000"
+T9#r31c3,table_cell,Compact,False,,,
+T9#r32c0,table_cell,Compact,False,,,
+T9#r32c1,table_cell,Compact,False,,,
+T9#r32c2,table_cell,Compact,False,1,900,"900"
+T9#r32c3,table_cell,Compact,False,,,
+T9#r33c0,table_cell,Compact,False,,,
+T9#r33c1,table_cell,Compact,False,,,
+T9#r33c2,table_cell,Compact,False,1,2500,"2500"
+T9#r33c3,table_cell,Compact,False,,,
+T9#r34c0,table_cell,Compact,False,,,
+T9#r34c1,table_cell,Compact,False,,,
+T9#r34c2,table_cell,Compact,False,1,0.05,"0.05"
+T9#r34c3,table_cell,Compact,False,,,
+T9#r35c0,table_cell,Compact,False,,,
+T9#r35c1,table_cell,Compact,True,,,
+T9#r35c2,table_cell,Compact,False,1,500,"500"
+T9#r35c3,table_cell,Compact,False,,,
+T9#r36c0,table_cell,Compact,False,,,
+T9#r36c1,table_cell,Compact,True,,,
+T9#r36c2,table_cell,Compact,False,1,25.7,"25.7"
+T9#r36c3,table_cell,Compact,False,,,
+T9#r37c0,table_cell,Compact,True,,,
+T9#r37c1,table_cell,Compact,False,,,
+T9#r37c2,table_cell,Compact,False,1,112.8,"112.8"
+T9#r37c3,table_cell,Compact,False,,,
+T9#r38c0,table_cell,Compact,False,,,
+T9#r38c1,table_cell,Compact,False,,,
+T9#r38c2,table_cell,Compact,False,1,0.176,"0.176"
+T9#r38c3,table_cell,Compact,False,,,
+T9#r39c0,table_cell,Compact,True,,,
+T9#r39c1,table_cell,Compact,False,,,
+T9#r39c2,table_cell,Compact,False,1,1.0,"1.0"
+T9#r39c3,table_cell,Compact,False,,,
+T9#r40c0,table_cell,Compact,False,,,
+T9#r40c1,table_cell,Compact,True,,,
+T9#r40c2,table_cell,Compact,False,1,0.15,"0.15"
+T9#r40c3,table_cell,Compact,False,,,
+T9#r41c0,table_cell,Compact,False,,,
+T9#r41c1,table_cell,Compact,True,,,
+T9#r41c2,table_cell,Compact,False,1,0.05,"0.05"
+T9#r41c3,table_cell,Compact,False,,,
+T9#r42c0,table_cell,Compact,False,,,
+T9#r42c1,table_cell,Compact,True,,,
+T9#r42c2,table_cell,Compact,False,1,0.85,"0.85"
+T9#r42c3,table_cell,Compact,False,,,
+T9#r43c0,table_cell,Compact,False,,,
+T9#r43c1,table_cell,Compact,True,,,
+T9#r43c2,table_cell,Compact,False,1,0.5,"0.5"
+T9#r43c3,table_cell,Compact,False,,,
+T9#r44c0,table_cell,Compact,False,,,
+T9#r44c1,table_cell,Compact,False,,,
+T9#r44c2,table_cell,Compact,False,1,0.5,"0.5"
+T9#r44c3,table_cell,Compact,False,,,
+T9#r45c0,table_cell,Compact,False,,,
+T9#r45c1,table_cell,Compact,False,,,
+T9#r45c2,table_cell,Compact,False,1,0.5,"0.5"
+T9#r45c3,table_cell,Compact,False,,,
+T9#r46c0,table_cell,Compact,False,,,
+T9#r46c1,table_cell,Compact,False,,,
+T9#r46c2,table_cell,Compact,False,1,100,"100"
+T9#r46c3,table_cell,Compact,False,,,
+T9#r47c0,table_cell,Compact,False,,,
+T9#r47c1,table_cell,Compact,False,,,
+T9#r47c2,table_cell,Compact,False,1,500,"500"
+T9#r47c3,table_cell,Compact,False,,,
+T9#r48c0,table_cell,Compact,True,,,
+T9#r48c1,table_cell,Compact,True,,,
+T9#r48c2,table_cell,Compact,False,1,0.026,"0.026"
+T9#r48c3,table_cell,Compact,False,,,
+T9#r49c0,table_cell,Compact,False,1,4.5,"SSP2-4.5 H-drift multiplier"
+T9#r49c1,table_cell,Compact,False,,,
+T9#r49c2,table_cell,Compact,False,1,1.5,"1.5"
+T9#r49c3,table_cell,Compact,False,,,
+T9#r50c0,table_cell,Compact,False,1,8.5,"SSP5-8.5 H-drift multiplier"
+T9#r50c1,table_cell,Compact,False,,,
+T9#r50c2,table_cell,Compact,False,1,2.0,"2.0"
+T9#r50c3,table_cell,Compact,False,,,
+T9#r51c0,table_cell,Compact,True,1,4.5,"SSP2-4.5 CRI damage multiplier"
+T9#r51c1,table_cell,Compact,False,,,
+T9#r51c2,table_cell,Compact,False,1,1.05,"1.05"
+T9#r51c3,table_cell,Compact,False,,,
+T9#r52c0,table_cell,Compact,True,1,8.5,"SSP5-8.5 CRI damage multiplier"
+T9#r52c1,table_cell,Compact,False,,,
+T9#r52c2,table_cell,Compact,False,1,1.08,"1.08"
+T9#r52c3,table_cell,Compact,False,,,
+T9#r53c0,table_cell,Compact,False,1,4.5,"SSP2-4.5 CRI log-severity shift"
+T9#r53c1,table_cell,Compact,False,,,
+T9#r53c2,table_cell,Compact,False,1,0.068,"0.068"
+T9#r53c3,table_cell,Compact,False,,,
+T9#r54c0,table_cell,Compact,False,1,8.5,"SSP5-8.5 CRI log-severity shift"
+T9#r54c1,table_cell,Compact,False,,,
+T9#r54c2,table_cell,Compact,False,1,0.095,"0.095"
+T9#r54c3,table_cell,Compact,False,,,
+T9#r55c0,table_cell,Compact,True,,,
+T9#r55c1,table_cell,Compact,False,,,
+T9#r55c2,table_cell,Compact,False,1,129,600,"129,600"
+T9#r55c3,table_cell,Compact,False,,,
+T9#r56c0,table_cell,Compact,False,,,
+T9#r56c1,table_cell,Compact,False,,,
+T9#r56c2,table_cell,Compact,False,1,12,"12"
+T9#r56c3,table_cell,Compact,False,,,
+T9#r57c0,table_cell,Compact,False,,,
+T9#r57c1,table_cell,Compact,False,,,
+T9#r57c2,table_cell,Compact,False,1,100,"100"
+T9#r57c3,table_cell,Compact,False,,,
+T9#r58c0,table_cell,Compact,False,,,
+T9#r58c1,table_cell,Compact,False,,,
+T9#r58c2,table_cell,Compact,False,1,5,"5"
+T9#r58c3,table_cell,Compact,False,,,
+T9#r59c0,table_cell,Compact,False,,,
+T9#r59c1,table_cell,Compact,False,,,
+T9#r59c2,table_cell,Compact,False,1,5%,"5%"
+T9#r59c3,table_cell,Compact,False,,,
+T9#r60c0,table_cell,Compact,False,,,
+T9#r60c1,table_cell,Compact,False,,,
+T9#r60c2,table_cell,Compact,False,1,1,"(1/3, 1/3, 1/3)"
+T9#r60c2,table_cell,Compact,False,2,3,"(1/3, 1/3, 1/3)"
+T9#r60c2,table_cell,Compact,False,3,1,"(1/3, 1/3, 1/3)"
+T9#r60c2,table_cell,Compact,False,4,3,"(1/3, 1/3, 1/3)"
+T9#r60c2,table_cell,Compact,False,5,1,"(1/3, 1/3, 1/3)"
+T9#r60c2,table_cell,Compact,False,6,3,"(1/3, 1/3, 1/3)"
+T9#r60c3,table_cell,Compact,False,,,
+T9#r61c0,table_cell,Compact,False,,,
+T9#r61c1,table_cell,Compact,False,,,
+T9#r61c2,table_cell,Compact,False,1,100,"100"
+T9#r61c3,table_cell,Compact,False,,,
+T9#r62c0,table_cell,Compact,False,,,
+T9#r62c1,table_cell,Compact,False,,,
+T9#r62c2,table_cell,Compact,False,1,500,"500"
+T9#r62c3,table_cell,Compact,False,,,
+T9#r63c0,table_cell,Compact,False,,,
+T9#r63c1,table_cell,Compact,True,,,
+T9#r63c2,table_cell,Compact,False,1,0.0635,"0.0635"
+T9#r63c3,table_cell,Compact,False,,,
+T9#r64c0,table_cell,Compact,False,,,
+T9#r64c1,table_cell,Compact,True,,,
+T9#r64c2,table_cell,Compact,False,1,0.01776,"0.01776"
+T9#r64c3,table_cell,Compact,False,,,
+T9#r65c0,table_cell,Compact,False,,,
+T9#r65c1,table_cell,Compact,True,,,
+T9#r65c2,table_cell,Compact,False,1,0.04624,"0.04624"
+T9#r65c3,table_cell,Compact,False,,,
+T9#r66c0,table_cell,Compact,False,,,
+T9#r66c1,table_cell,Compact,True,,,
+T9#r66c2,table_cell,Compact,False,1,0.00570,"0.00570"
+T9#r66c3,table_cell,Compact,False,,,
+T9#r67c0,table_cell,Compact,False,,,
+T9#r67c1,table_cell,Compact,True,,,
+T9#r67c2,table_cell,Compact,False,1,0.08572,"0.08572"
+T9#r67c3,table_cell,Compact,False,,,
+T9#r68c0,table_cell,Compact,False,,,
+T9#r68c1,table_cell,Compact,False,,,
+T9#r68c2,table_cell,Compact,False,1,0.03371,"0.03371"
+T9#r68c3,table_cell,Compact,False,,,
+T9#r69c0,table_cell,Compact,True,1,4.5,"SSP2-4.5 jump multiplier"
+T9#r69c1,table_cell,Compact,False,,,
+T9#r69c2,table_cell,Compact,False,1,1.10,"1.10"
+T9#r69c3,table_cell,Compact,False,,,
+T9#r70c0,table_cell,Compact,True,1,8.5,"SSP5-8.5 jump multiplier"
+T9#r70c1,table_cell,Compact,False,,,
+T9#r70c2,table_cell,Compact,False,1,1.20,"1.20"
+T9#r70c3,table_cell,Compact,False,,,
+T9#r71c0,table_cell,Compact,False,,,
+T9#r71c1,table_cell,Compact,False,,,
+T9#r71c2,table_cell,Compact,False,,,
+T9#r71c3,table_cell,Compact,False,,,
+T9#r72c0,table_cell,Compact,True,,,
+T9#r72c1,table_cell,Compact,False,,,
+T9#r72c2,table_cell,Compact,False,1,0.358,"0.358"
+T9#r72c3,table_cell,Compact,False,,,
+P407,paragraph,2,False,,,
+T10#r0c0,table_cell,Compact,False,,,
+T10#r0c1,table_cell,Compact,False,,,
+T10#r0c2,table_cell,Compact,False,,,
+T10#r1c0,table_cell,Compact,False,1,1,"1"
+T10#r1c1,table_cell,Compact,False,,,
+T10#r1c2,table_cell,Compact,False,,,
+T10#r2c0,table_cell,Compact,False,1,2,"2"
+T10#r2c1,table_cell,Compact,False,,,
+T10#r2c2,table_cell,Compact,False,,,
+T10#r3c0,table_cell,Compact,False,1,3,"3"
+T10#r3c1,table_cell,Compact,False,,,
+T10#r3c2,table_cell,Compact,False,,,
+T10#r4c0,table_cell,Compact,False,1,4,"4"
+T10#r4c1,table_cell,Compact,False,,,
+T10#r4c2,table_cell,Compact,False,,,
+T10#r5c0,table_cell,Compact,False,1,5,"5"
+T10#r5c1,table_cell,Compact,False,,,
+T10#r5c2,table_cell,Compact,False,,,
+T10#r6c0,table_cell,Compact,False,1,6,"6"
+T10#r6c1,table_cell,Compact,False,,,
+T10#r6c2,table_cell,Compact,False,,,
+T10#r7c0,table_cell,Compact,False,1,7,"7"
+T10#r7c1,table_cell,Compact,False,,,
+T10#r7c2,table_cell,Compact,False,,,
+T10#r8c0,table_cell,Compact,False,1,8,"8"
+T10#r8c1,table_cell,Compact,False,,,
+T10#r8c2,table_cell,Compact,False,,,
+T10#r9c0,table_cell,Compact,False,1,9,"9"
+T10#r9c1,table_cell,Compact,False,,,
+T10#r9c2,table_cell,Compact,False,,,
+T10#r10c0,table_cell,Compact,False,1,10,"10"
+T10#r10c1,table_cell,Compact,False,,,
+T10#r10c2,table_cell,Compact,False,,,
+T10#r11c0,table_cell,Compact,False,1,11,"11"
+T10#r11c1,table_cell,Compact,False,,,
+T10#r11c2,table_cell,Compact,False,,,
+T10#r12c0,table_cell,Compact,False,1,12,"12"
+T10#r12c1,table_cell,Compact,False,,,
+T10#r12c2,table_cell,Compact,False,,,
+T10#r13c0,table_cell,Compact,False,1,13,"13"
+T10#r13c1,table_cell,Compact,False,,,
+T10#r13c2,table_cell,Compact,False,,,
+T10#r14c0,table_cell,Compact,False,1,14,"14"
+T10#r14c1,table_cell,Compact,False,,,
+T10#r14c2,table_cell,Compact,False,,,
+T10#r15c0,table_cell,Compact,False,1,15,"15"
+T10#r15c1,table_cell,Compact,False,,,
+T10#r15c2,table_cell,Compact,False,,,
+T10#r16c0,table_cell,Compact,False,1,16,"16"
+T10#r16c1,table_cell,Compact,False,,,
+T10#r16c2,table_cell,Compact,False,,,
+T10#r17c0,table_cell,Compact,False,1,17,"17"
+T10#r17c1,table_cell,Compact,False,,,
+T10#r17c2,table_cell,Compact,False,,,
+T10#r18c0,table_cell,Compact,False,1,18,"18"
+T10#r18c1,table_cell,Compact,False,,,
+T10#r18c2,table_cell,Compact,False,,,
+T10#r19c0,table_cell,Compact,False,1,19,"19"
+T10#r19c1,table_cell,Compact,False,,,
+T10#r19c2,table_cell,Compact,False,,,
+T10#r20c0,table_cell,Compact,False,1,20,"20"
+T10#r20c1,table_cell,Compact,False,,,
+T10#r20c2,table_cell,Compact,False,,,
+T10#r21c0,table_cell,Compact,False,1,21,"21"
+T10#r21c1,table_cell,Compact,False,,,
+T10#r21c2,table_cell,Compact,False,,,
+T10#r22c0,table_cell,Compact,False,1,22,"22"
+T10#r22c1,table_cell,Compact,False,,,
+T10#r22c2,table_cell,Compact,False,,,
+T10#r23c0,table_cell,Compact,False,1,23,"23"
+T10#r23c1,table_cell,Compact,False,,,
+T10#r23c2,table_cell,Compact,False,,,
+T10#r24c0,table_cell,Compact,False,1,24,"24"
+T10#r24c1,table_cell,Compact,False,,,
+T10#r24c2,table_cell,Compact,False,,,
+T10#r25c0,table_cell,Compact,False,1,25,"25"
+T10#r25c1,table_cell,Compact,False,,,
+T10#r25c2,table_cell,Compact,False,,,
+T10#r26c0,table_cell,Compact,False,1,26,"26"
+T10#r26c1,table_cell,Compact,False,,,
+T10#r26c2,table_cell,Compact,False,,,
+T10#r27c0,table_cell,Compact,False,1,27,"27"
+T10#r27c1,table_cell,Compact,False,,,
+T10#r27c2,table_cell,Compact,False,,,
+T10#r28c0,table_cell,Compact,False,1,28,"28"
+T10#r28c1,table_cell,Compact,False,,,
+T10#r28c2,table_cell,Compact,False,,,
+T10#r29c0,table_cell,Compact,False,1,29,"29"
+T10#r29c1,table_cell,Compact,False,,,
+T10#r29c2,table_cell,Compact,False,,,
+T10#r30c0,table_cell,Compact,False,1,30,"30"
+T10#r30c1,table_cell,Compact,False,,,
+T10#r30c2,table_cell,Compact,False,,,
+T10#r31c0,table_cell,Compact,False,1,31,"31"
+T10#r31c1,table_cell,Compact,False,,,
+T10#r31c2,table_cell,Compact,False,,,
+T10#r32c0,table_cell,Compact,False,1,32,"32"
+T10#r32c1,table_cell,Compact,False,,,
+T10#r32c2,table_cell,Compact,False,,,
+T10#r33c0,table_cell,Compact,False,1,33,"33"
+T10#r33c1,table_cell,Compact,False,,,
+T10#r33c2,table_cell,Compact,False,,,
+T10#r34c0,table_cell,Compact,False,1,34,"34"
+T10#r34c1,table_cell,Compact,False,,,
+T10#r34c2,table_cell,Compact,False,,,
+T10#r35c0,table_cell,Compact,False,1,35,"35"
+T10#r35c1,table_cell,Compact,False,,,
+T10#r35c2,table_cell,Compact,False,,,
+T10#r36c0,table_cell,Compact,False,1,36,"36"
+T10#r36c1,table_cell,Compact,False,,,
+T10#r36c2,table_cell,Compact,False,,,
+T10#r37c0,table_cell,Compact,False,1,37,"37"
+T10#r37c1,table_cell,Compact,False,,,
+T10#r37c2,table_cell,Compact,False,,,
+T10#r38c0,table_cell,Compact,False,1,38,"38"
+T10#r38c1,table_cell,Compact,False,,,
+T10#r38c2,table_cell,Compact,False,,,
+P408,paragraph,,False,,,

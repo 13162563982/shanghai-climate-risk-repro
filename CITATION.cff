@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or the derived panels, please cite this repository and the associated article."
+title: "Reproduction package — compound climate risk of Shanghai's real-estate assets"
+type: software
+version: 1.0.0
+date-released: 2026-10-21
+# The author order below mirrors the manuscript title page.  Confirm it against
+# the final byline before publishing the repository.
+authors:
+  - family-names: Zhu
+    given-names: Zhengjia
+  - family-names: Chen
+    given-names: Jian
+repository-code: "https://github.com/13162563982/shanghai-climate-risk-repro"
+license: MIT
+keywords:
+  - climate risk
+  - tropical cyclone
+  - storm surge
+  - real estate
+  - Shanghai
+  - CLIMADA
+  - reproduction package

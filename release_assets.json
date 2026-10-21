@@ -1,0 +1,149 @@
+{
+ "release_tag": "v1.0.0",
+ "assets": [
+  {
+   "asset": "2021年我国乡镇（街道）边界数据.cpg",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.cpg",
+   "bytes": 5,
+   "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824",
+   "dataset_id": "D20",
+   "description": "Code-page file of the township boundary layer."
+  },
+  {
+   "asset": "2021年我国乡镇（街道）边界数据.dbf",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.dbf",
+   "bytes": 44398314,
+   "sha256": "f060d45728a619b52f2c831070e82a7eeffd1d31512fb15231c5110d7065e451",
+   "dataset_id": "D20",
+   "description": "Attribute table of the township boundary layer."
+  },
+  {
+   "asset": "2021年我国乡镇（街道）边界数据.prj",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.prj",
+   "bytes": 145,
+   "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+   "dataset_id": "D20",
+   "description": "CRS definition of the township boundary layer."
+  },
+  {
+   "asset": "2021年我国乡镇（街道）边界数据.sbn",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.sbn",
+   "bytes": 427868,
+   "sha256": "9dcf43c113157f67c299f18d7bbffa63909238add714ba852b80ae73a9a74f31",
+   "dataset_id": "D20",
+   "description": "ESRI spatial index (companion file)."
+  },
+  {
+   "asset": "2021年我国乡镇（街道）边界数据.sbx",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.sbx",
+   "bytes": 16660,
+   "sha256": "7f8947532f499244d1fddeea9d5884b085abf2c116ffb2be4e11550f8c7bb41e",
+   "dataset_id": "D20",
+   "description": "ESRI spatial index (companion file)."
+  },
+  {
+   "asset": "2021年我国乡镇（街道）边界数据.shp",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.shp",
+   "bytes": 331955444,
+   "sha256": "dce2c809b306fb14e1fe220567d6d7f57bf6a6eee6d5701b409c5f85a17c6434",
+   "dataset_id": "D20",
+   "description": "2021 national township boundary geography. Its Shanghai polyline **is the shoreline geometry** used by the surge model."
+  },
+  {
+   "asset": "2021年我国乡镇（街道）边界数据.shp.xml",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.shp.xml",
+   "bytes": 5923,
+   "sha256": "1e90ab4cee4c262d26e2f6b261bae1c658fc9a39a6eb8109084d486a260ff391",
+   "dataset_id": "D20",
+   "description": "FGDC metadata of the township boundary layer."
+  },
+  {
+   "asset": "2021年我国乡镇（街道）边界数据.shx",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.shx",
+   "bytes": 349348,
+   "sha256": "7b74f78d0f1376e409833d83f5eb87611c065e458126c63b7578a47de462dc6b",
+   "dataset_id": "D20",
+   "description": "Shapefile index of the township boundary layer."
+  },
+  {
+   "asset": "ETOPO_2022_v1_30s_N90W180_bed.tif",
+   "repository_path": "data/Hazard_data/ETOPO_2022_v1_30s_N90W180_bed.tif",
+   "bytes": 1624895430,
+   "sha256": "c85d2139821b396c06560a3356e993b2d9316baee7970f234586805fb7bc276e",
+   "dataset_id": "D03",
+   "description": "ETOPO 2022 global bed topography (15 arc-s). Read by `02_hazard_surge.py`."
+  },
+  {
+   "asset": "haz_SS_ssp245.hdf5",
+   "repository_path": "Climate/output/intermediate/haz_SS_ssp245.hdf5",
+   "bytes": 219502759,
+   "sha256": "53b305146d51a4a073fe3f47448a94fa0c14da3ce6db840c26f87230dbb953b6",
+   "dataset_id": "H",
+   "description": "Storm-surge hazard, SSP2-4.5 scenario. Produced by step C02."
+  },
+  {
+   "asset": "haz_SS_ssp585.hdf5",
+   "repository_path": "Climate/output/intermediate/haz_SS_ssp585.hdf5",
+   "bytes": 361922167,
+   "sha256": "46f2cf2a389a393df3e291fba6634c120ecb3e9d71d0b15c869af0bc62d44e64",
+   "dataset_id": "H",
+   "description": "Storm-surge hazard, SSP5-8.5 scenario (CLIMADA `Hazard` HDF5). Produced by step C02, read by C05/C06/C07."
+  },
+  {
+   "asset": "haz_SS_synth.hdf5",
+   "repository_path": "Climate/output/intermediate/haz_SS_synth.hdf5",
+   "bytes": 107168215,
+   "sha256": "1d0d0a5b49ec151f1279a1c5edbfff4fc20af7c04795c9c26df2cc82bb818633",
+   "dataset_id": "H",
+   "description": "Storm-surge hazard, synthetic-track set. Produced by step C02."
+  },
+  {
+   "asset": "haz_TC_cvar_N100.hdf5",
+   "repository_path": "Finance/output/intermediate/haz_TC_cvar_N100.hdf5",
+   "bytes": 567943627,
+   "sha256": "b32173eacb613dce77bac4f639d98aab93031aa9131bcf6bbf2592d4f79eed98",
+   "dataset_id": "I",
+   "description": "Tropical-cyclone hazard used by the climate-CVaR calculation (N=100). Produced by step F01."
+  },
+  {
+   "asset": "processed_shanghai_20201231_all.cpg",
+   "repository_path": "data/Exposure_data/房屋/2024年上海多属性建筑矢量数据/processed_shanghai_20201231_all.cpg",
+   "bytes": 5,
+   "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824",
+   "dataset_id": "D17",
+   "description": "Code-page file of the building vector."
+  },
+  {
+   "asset": "processed_shanghai_20201231_all.dbf",
+   "repository_path": "data/Exposure_data/房屋/2024年上海多属性建筑矢量数据/processed_shanghai_20201231_all.dbf",
+   "bytes": 208784829,
+   "sha256": "ad82e7dd1eedcb3e6f8cb185e525651c03a91a73f82034d02441b714525b406a",
+   "dataset_id": "D17",
+   "description": "Attribute table of the building vector (same dataset as the `.shp`)."
+  },
+  {
+   "asset": "processed_shanghai_20201231_all.prj",
+   "repository_path": "data/Exposure_data/房屋/2024年上海多属性建筑矢量数据/processed_shanghai_20201231_all.prj",
+   "bytes": 425,
+   "sha256": "f2e7fb14d55bdd8d6a3bc2c272a48729d8f9d0ad72936e20eae6a9a81c2fccd0",
+   "dataset_id": "D17",
+   "description": "CRS definition of the building vector."
+  },
+  {
+   "asset": "processed_shanghai_20201231_all.shp",
+   "repository_path": "data/Exposure_data/房屋/2024年上海多属性建筑矢量数据/processed_shanghai_20201231_all.shp",
+   "bytes": 429151524,
+   "sha256": "e61afa252b9e716107594b905519adbd2afd9da3767f9f15d9a4b9e788574527",
+   "dataset_id": "D17",
+   "description": "2024 Shanghai multi-attribute building vector, 2020-12-31 snapshot (CMAB-derived). Read by `03_exposure.py`."
+  },
+  {
+   "asset": "processed_shanghai_20201231_all.shx",
+   "repository_path": "data/Exposure_data/房屋/2024年上海多属性建筑矢量数据/processed_shanghai_20201231_all.shx",
+   "bytes": 3770476,
+   "sha256": "7294faf0fb8236dd073be74d92a50ce18ccfbf8542d15f9f4e840a2dc308ce6d",
+   "dataset_id": "D17",
+   "description": "Shapefile index of the building vector."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+  "generated": "2026-10-18T19:41:17",
+  "rows": 433,
+  "verdicts": {
+    "OK-STRUCT": 296,
+    "OK-MODEL": 1,
+    "OK-CITE": 80,
+    "OK-DATA": 1,
+    "OK-NOTE-SRC": 4,
+    "OK-NOTE-EXT": 6,
+    "OK-NOTE": 34,
+    "OK-EXT": 11
+  },
+  "not_ok": [],
+  "structure": {
+    "drawings": 37,
+    "caption_numbers": 38,
+    "table_captions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "table_b1": 1,
+    "sections": 38
+  },
+  "result": "VERIFY-OK"
+}

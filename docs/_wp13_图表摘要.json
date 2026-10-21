@@ -1,0 +1,62 @@
+{
+  "generated": "2026-10-18T19:41:30",
+  "docx": "PAPER_MANUSCRIPT_v12.docx",
+  "figures": {
+    "drawings": 37,
+    "inline": 1,
+    "captions": 38,
+    "index_rows": 38
+  },
+  "tables": {
+    "blocks": 11,
+    "numbered": 9,
+    "uncited": [
+      "4",
+      "5",
+      "7",
+      "B1"
+    ],
+    "cited": [
+      "1",
+      "2",
+      "3",
+      "6",
+      "8"
+    ]
+  },
+  "sa_rerender": true,
+  "checks": 108,
+  "verdicts": {
+    "OK": 107,
+    "MISMATCH": 1
+  },
+  "blockers": [],
+  "prose_findings": [
+    {
+      "kind": "table",
+      "id": "citation closure",
+      "verdict": "MISMATCH",
+      "severity": "PROSE",
+      "expected": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "B1"
+      ],
+      "got": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "8"
+      ],
+      "detail": "every numbered table is cited outside its own caption"
+    }
+  ],
+  "result": "INVENTORY-OK"
+}

@@ -1,0 +1,40 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D22"
+dataset: "高德 POI（公共设施 11 类 + 交通运输 3 类）"
+producer: "高德地图（Amap）"
+product_version: "POI 分类导出 CSV"
+coverage: "上海市域，14 个 CSV / 163.8 MB"
+upstream_identifier: "（无）"
+acquisition_channel: "平台导出"
+acquisition_evidence: "CSV 字段结构即证据：`typecode/pcode/citycode/adcode/plonwgs84/platwgs84`（高德 schema）"
+licence: "平台服务条款禁止批量转存"
+provenance_level: "中"
+redistributable: "否"
+archive_scope: "不含"
+da_action: "不写"
+da_clause: ""
+known_gap: "G8"
+note: "**不参与运行，稿件 Methods 亦未描述** → 不应出现在声明、不应入库"
+pipeline_usage: "不参与运行，稿件 Methods 亦未描述"
+
+package_status: "included"
+files_in_package: 14
+files_in_release: 0
+bytes_in_package: 171715823
+package_paths:
+  - "data/Exposure_data/交通运输/交通设施服务.csv"
+  - "data/Exposure_data/交通运输/地名地址信息.csv"
+  - "data/Exposure_data/交通运输/道路附属设施.csv"
+  - "data/Exposure_data/公共设施/住宿服务.csv"
+  - "data/Exposure_data/公共设施/体育休闲服务.csv"
+  - "data/Exposure_data/公共设施/公共设施.csv"
+  - "data/Exposure_data/公共设施/医疗保健服务.csv"
+  - "data/Exposure_data/公共设施/政府机构及社会团体.csv"
+  - "data/Exposure_data/公共设施/生活服务.csv"
+  - "data/Exposure_data/公共设施/科教文化服务.csv"
+  - "data/Exposure_data/公共设施/购物服务.csv"
+  - "data/Exposure_data/公共设施/金融保险服务.csv"
+  - "data/Exposure_data/公共设施/风景名胜.csv"
+  - "data/Exposure_data/公共设施/餐饮服务.csv"

@@ -1,0 +1,38 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D28"
+dataset: "随包携带的预处理脚本"
+producer: "本研究"
+product_version: "data\\ 下 13 个 preprocess_*.py（复制/裁剪/聚合/编码转换）"
+coverage: "data\\ 内"
+upstream_identifier: "（随代码仓）"
+acquisition_channel: "本研究编写"
+acquisition_evidence: "脚本自身"
+licence: "本研究授权"
+provenance_level: "强"
+redistributable: "是"
+archive_scope: "不含(随代码)"
+da_action: "写入"
+da_clause: ""
+known_gap: ""
+note: "非数据；记录在此仅为覆盖率闭合"
+pipeline_usage: "预处理脚本自身（非数据）；记录在此以便覆盖率闭合"
+
+package_status: "included"
+files_in_package: 12
+files_in_release: 0
+bytes_in_package: 71751
+package_paths:
+  - "data/Exposure_data/preprocess_exposure.py"
+  - "data/Exposure_data/人口/上海区县层级的人口受教育情况-五六七普人口/preprocess_education.py"
+  - "data/Exposure_data/人口/上海第七次人口普查街道数据/preprocess_census_7.py"
+  - "data/Exposure_data/人口/上海第五次人口普查街道数据/preprocess_census_5.py"
+  - "data/Exposure_data/人口/上海第六次人口普查街道数据/preprocess_census_6.py"
+  - "data/Hazard_data/1951-2024年上海逐月全风速栅格数据/preprocess_clip_wind.py"
+  - "data/Hazard_data/1960-2024年上海逐月降水栅格数据/preprocess_clip_precipitation.py"
+  - "data/Hazard_data/1981-2024年上海逐月最低气温栅格数据/preprocess_clip_tmin.py"
+  - "data/Hazard_data/1981-2024年上海逐月最高气温栅格数据/preprocess_clip_tmax.py"
+  - "data/Hazard_data/1985-2020年上海逐年不透水面栅格数据/preprocess_impervious.py"
+  - "data/Hazard_data/1993-2023年上海逐月海平面高度数据/preprocess_clip_sla.py"
+  - "data/Hazard_data/WP台风数据/preprocess_copy_typhoon.py"

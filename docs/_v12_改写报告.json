@@ -1,0 +1,149 @@
+{
+  "generated": "2026-10-18T18:26:37",
+  "source": {
+    "name": "PAPER_MANUSCRIPT_v11.docx",
+    "bytes": 28193070,
+    "sha256": "7417FDE618D6C5114628B28C76C7E676141415EFA7BF50016BB13C2D472523CC"
+  },
+  "edits": [
+    {
+      "loc": "P42",
+      "old": "ranges of 490–689, 564–768 and 641–837",
+      "new": "ranges of 491–692, 565–770 and 643–840",
+      "why": "the printed ranges were the pre-A-baseline values; Table 3 in the same paragraph already carries 491/692, 565/770, 643/840",
+      "status": "planned"
+    },
+    {
+      "loc": "P93",
+      "old": "The resulting intensity factors for 2050 are 1.05 (SSP2-4.5) and 1.10 (SSP5-8.5).",
+      "new": "The resulting intensity factors for 2050 are 1.0324 (SSP2-4.5) and 1.0442 (SSP5-8.5).",
+      "why": "the run log records 1.0324 / 1.0442; 1.05/1.10 is only the silent fallback constant in 00_config.py",
+      "status": "planned"
+    },
+    {
+      "loc": "T9#r15c2",
+      "old": "1.05",
+      "new": "1.0324",
+      "why": "Table B1 must print the applied Knutson factor, not the config fallback",
+      "status": "planned"
+    },
+    {
+      "loc": "T9#r16c2",
+      "old": "1.10",
+      "new": "1.0442",
+      "why": "Table B1 must print the applied Knutson factor, not the config fallback",
+      "status": "planned"
+    },
+    {
+      "loc": "T8#r20c6",
+      "old": "−0.2% to +0.6%",
+      "new": "−0.4% to +0.2%",
+      "why": "recomputed from the same sweep: -0.417% to +0.248%",
+      "status": "planned"
+    },
+    {
+      "loc": "P66",
+      "old": "deviation −0.2% to +0.6%",
+      "new": "deviation −0.4% to +0.2%",
+      "why": "same band as Table 8 r20",
+      "status": "planned"
+    },
+    {
+      "loc": "T8#r9c6",
+      "old": "−8% to +18%",
+      "new": "−8% to +17%",
+      "why": "recomputed max deviation is +17.47%, which prints as +17%",
+      "status": "planned"
+    },
+    {
+      "loc": "P75",
+      "old": "across scenarios",
+      "new": "over the 2011–2023 historical period",
+      "why": "Figure 14 renders the historical decomposition only (three component panels); it carries no scenario dimension",
+      "status": "planned"
+    },
+    {
+      "loc": "P49",
+      "old": "an empirical rank correlation of ρ = 0.358, and the geometric-mean",
+      "new": "a rank correlation of ρ = 0.358, the calibrated dependence target used in the paired projection, and the geometric-mean",
+      "why": "0.358 is CFCI_TARGET_RHO, not the empirical statistic (Spearman 0.3231, Pearson 0.3593); P62 already calls it the calibrated dependence target [author ruling A1-a, 2026-10-18]",
+      "status": "planned"
+    },
+    {
+      "loc": "P9",
+      "old": "with a period-matched ratio of 0.9999 (1995–2023)",
+      "new": "with a period-matched ratio of approximately unity (1995–2023)",
+      "why": "A2: 0.9999 is a v6 statistic recorded only in a config comment; under the official boundary the ratio is 1.0020, so the four-digit claim cannot be sustained [author ruling A2-b, 2026-10-18]",
+      "status": "planned"
+    },
+    {
+      "loc": "P17",
+      "old": "(period-matched calibration fit ratio of 0.9999)",
+      "new": "(period-matched calibration fit ratio of approximately unity)",
+      "why": "A2: same statistic, same reason",
+      "status": "planned"
+    },
+    {
+      "loc": "P251",
+      "old": "period-matched AAL pred/obs = 0.9999 for 1995–2023",
+      "new": "period-matched AAL pred/obs ≈ 1.00 for 1995–2023",
+      "why": "A2: quote the A-baseline expectation to the precision it supports",
+      "status": "planned"
+    }
+  ],
+  "style_edits": [
+    {
+      "loc": "P17",
+      "from": "4",
+      "to": "a0",
+      "status": "planned"
+    },
+    {
+      "loc": "P77",
+      "from": "3",
+      "to": "a0",
+      "status": "planned"
+    },
+    {
+      "loc": "P78",
+      "from": "3",
+      "to": "a0",
+      "status": "planned"
+    },
+    {
+      "loc": "P79",
+      "from": "3",
+      "to": "a0",
+      "status": "planned"
+    },
+    {
+      "loc": "P80",
+      "from": "3",
+      "to": "a0",
+      "status": "planned"
+    },
+    {
+      "loc": "P81",
+      "from": "3",
+      "to": "a0",
+      "status": "planned"
+    }
+  ],
+  "structure": {
+    "m_oMath": 131,
+    "m_oMathPara": 41,
+    "w_drawing": 37,
+    "paragraphs": 409,
+    "tables": 11
+  },
+  "w_t_runs": [
+    1273,
+    1273
+  ],
+  "other_parts_changed": [],
+  "output": {
+    "name": "PAPER_MANUSCRIPT_v12.docx",
+    "bytes": 28193084,
+    "sha256": "F86428EDBF44C5465A880AFD2527F6A3448E2C29C7D09E21369CEB4CD5B0E195"
+  }
+}

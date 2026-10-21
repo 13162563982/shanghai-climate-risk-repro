@@ -1,0 +1,30 @@
+# provenance card — generated, do not edit by hand
+# source: docs/_数据溯源台账.csv  (2026-10-21)
+
+id: "D01"
+dataset: "IBTrACS 台风最佳路径（WP 盆）"
+producer: "NOAA NCEI / WMO（IBTrACS Science Team）"
+product_version: "IBTrACS v04r01（钉住件 old_202510）"
+coverage: "1945–2025，西太 3.0° 内 107 事件"
+upstream_identifier: "https://doi.org/10.25921/82ty-9e16"
+acquisition_channel: "NOAA NCEI 公开下载；preprocess_copy_typhoon.py 归档"
+acquisition_evidence: "环境属性实测：`.nc` 全局属性含 DOI 10.25921/82ty-9e16 / 生产者 / ncrcat 命令（`_wp14_矢量与元数据证据.md` §2）+ copy 日志"
+licence: "NOAA 开放数据（盘上无许可文本）"
+provenance_level: "强"
+redistributable: "是(公开源)"
+archive_scope: "含(钉住快照 8.9 MB)"
+da_action: "写入"
+da_clause: "IBTrACS v4r01 from NOAA NCEI (https://doi.org/10.25921/82ty-9e16)"
+known_gap: ""
+note: "活数据集已被原地更新；必须用钉住件（否则 108 事件 / 频率 1/82）"
+pipeline_usage: ""
+
+package_status: "included"
+files_in_package: 4
+files_in_release: 0
+bytes_in_package: 16630193
+package_paths:
+  - "data/Hazard_data/WP台风数据/IBTrACS.WP.v04r01.nc"
+  - "data/Hazard_data/WP台风数据/IBTrACS.WP.v04r01_old_202510.nc"
+  - "data/Hazard_data/WP台风数据/preprocess_copy_typhoon.log"
+  - "data/Hazard_data/WP台风数据/preprocess_copy_typhoon.py"

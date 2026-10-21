@@ -1,0 +1,244 @@
+{
+  "src": "D:\\桌面real\\陈剑老师研究工作\\Shanghai_Climate_Risk_Analysis\\复现公报台风研究结果\\model_房地产风险_v8\\期刊投稿\\Nature-JF投稿\\Nature Cities\\提交审稿人\\Cover_Letter_npjNaturalHazards_FINAL.docx",
+  "src_bytes": 24066,
+  "dst": "D:\\桌面real\\陈剑老师研究工作\\Shanghai_Climate_Risk_Analysis\\复现公报台风研究结果\\model_房地产风险_v8\\期刊投稿\\Nature-JF投稿\\Nature npj Natural Hazards\\manuscript\\Cover_Letter_npjNaturalHazards_v2.docx",
+  "dst_bytes": 24065,
+  "edits": [
+    {
+      "para": 8,
+      "old": "CNY 33.3 billion",
+      "new": "CNY 33.4 billion",
+      "count": 1,
+      "why": "33.3920 -> 33.4（v10 P16）"
+    },
+    {
+      "para": 8,
+      "old": "CNY 40.2 billion",
+      "new": "CNY 40.3 billion",
+      "count": 1,
+      "why": "40.2978 -> 40.3（v10 P16）"
+    },
+    {
+      "para": 8,
+      "old": "undefended baseline",
+      "new": "defended baseline",
+      "count": 1,
+      "why": "39.5% = 26.5185/19.0056-1，对齐 v10 P16 'defended level'"
+    },
+    {
+      "para": 9,
+      "old": "(0.83‰)",
+      "new": "(0.82‰)",
+      "count": 1,
+      "why": "0.8214 -> 0.82（v10 P19）"
+    },
+    {
+      "para": 9,
+      "old": "(0.68‰)",
+      "new": "(0.67‰)",
+      "count": 1,
+      "why": "0.6678 -> 0.67（v10 P19）"
+    },
+    {
+      "para": 9,
+      "old": "of 0.38‰",
+      "new": "of 0.39‰",
+      "count": 1,
+      "why": "v10 P19 已印 0.39‰"
+    }
+  ],
+  "src_structure": {
+    "paras": 17,
+    "words": 495,
+    "tables": 0,
+    "sections": 1,
+    "page_w_emu": 7562215,
+    "page_h_emu": 10689590,
+    "margin_left_emu": 914400,
+    "margin_right_emu": 914400
+  },
+  "dst_structure": {
+    "paras": 17,
+    "words": 495,
+    "tables": 0,
+    "sections": 1,
+    "page_w_emu": 7562215,
+    "page_h_emu": 10689590,
+    "margin_left_emu": 914400,
+    "margin_right_emu": 914400
+  },
+  "checks": [
+    {
+      "check": "段数 = 17",
+      "pass": true,
+      "detail": "17"
+    },
+    {
+      "check": "词数 = 495",
+      "pass": true,
+      "detail": "495"
+    },
+    {
+      "check": "section 数 = 1",
+      "pass": true,
+      "detail": "1"
+    },
+    {
+      "check": "A4 页面",
+      "pass": true,
+      "detail": "7562215x10689590"
+    },
+    {
+      "check": "左右边距 1 英寸",
+      "pass": true,
+      "detail": "914400/914400"
+    },
+    {
+      "check": "旧串已消失 'CNY 33.3 billion'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "旧串已消失 'CNY 40.2 billion'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "旧串已消失 'undefended baseline'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "旧串已消失 '0.83‰'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "旧串已消失 '0.68‰'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "旧串已消失 '0.38‰'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 'CNY 24.2 billion'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 'CNY 19.0 billion'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 'CNY 26.5 billion'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 'CNY 63.3 trillion'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 '21.5%'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 '74%'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 '26%'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 '40%'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 '39.5%'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 '585,033'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 '24.87 million'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 '2.7 m'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 '500-path'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 '1995–2023'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 '0.77‰'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "不变量仍在 'nearly CNY 16 billion'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "新串已在 'CNY 33.4 billion'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "新串已在 'CNY 40.3 billion'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "新串已在 'defended baseline'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "新串已在 '(0.82‰)'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "新串已在 '(0.67‰)'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "新串已在 'of 0.39‰'",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "无 [] 残留占位符",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "checks_pass": 34,
+  "checks_fail": 0
+}

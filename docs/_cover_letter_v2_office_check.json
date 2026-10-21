@@ -1,0 +1,46 @@
+{
+  "format": "docx",
+  "verdict": "pass",
+  "checks": [
+    {
+      "id": "package",
+      "status": "pass"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "CNY 40.3 billion"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "0.82"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "defended baseline"
+    }
+  ],
+  "summary": {
+    "paragraphs": 17,
+    "tables": [],
+    "sections": [
+      {
+        "page_twips": {
+          "w": "11909",
+          "h": "16834"
+        },
+        "margins_twips": {
+          "top": "1440",
+          "right": "1440",
+          "bottom": "1440",
+          "left": "1440",
+          "header": "720",
+          "footer": "720",
+          "gutter": "0"
+        }
+      }
+    ]
+  }
+}

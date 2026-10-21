@@ -1,0 +1,37 @@
+{
+  "generated": "2026-10-18T19:57:41",
+  "source": {
+    "name": "PAPER_MANUSCRIPT_v13.docx",
+    "bytes": 28193192,
+    "sha256": "380DE7EB7C6418319C2E20D82C8F09F55BB2E881BA2ABDBDC3808FFE84E9FB0A"
+  },
+  "dropped": [
+    "P252",
+    "P253"
+  ],
+  "removed_text": {
+    "P252": "Data Availability Statement",
+    "P253": "Data availability. The processed building exposure inventory (585,033 records), district-level loss panels and index series generated in this study are available at [Zenodo DOI to be assigned]. Source data: IBTrACS v4r01 from NOAA NCEI (https://doi.org/10.25921/82ty-9e16); FABDEM V1-2 from the University of Bristol data repository; LandScan population grids from Oak Ridge National Laboratory (https://doi.org/10.48690/1524213); ETOPO 2022 from NOAA NCEI (https://doi.org/10.25921/fd45-gt74); housing price data from [data provider, with access conditions]. Code availability. All model code is implemented in Python using the CLIMADA platform (https://github.com/CLIMADA-project/climada_python) and is available at [GitHub repository, release version], including the fixed random seed (42) configuration for full reproducibility."
+  },
+  "structure": {
+    "m_oMath": 131,
+    "m_oMathPara": 41,
+    "w_drawing": 37,
+    "paragraphs": 407,
+    "tables": 11
+  },
+  "w_t_runs": [
+    1273,
+    1271
+  ],
+  "elements": [
+    1162,
+    1160
+  ],
+  "other_parts_changed": [],
+  "output": {
+    "name": "PAPER_MANUSCRIPT_v14.docx",
+    "bytes": 28192778,
+    "sha256": "C34F42F875FD341DB4E0FDE6C1E0421440E8BF56CC84728460D52CA9DB7B30FA"
+  }
+}

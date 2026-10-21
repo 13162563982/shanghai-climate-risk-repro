@@ -1,0 +1,11 @@
+{"step_id": "C01", "script": "01_hazard_tc.py", "description": "TC wind hazard", "elapsed_s": 305.55, "return_code": 0, "ts": "2026-10-16T21:38:19.046244"}
+{"step_id": "C03", "script": "03_exposure.py", "description": "Building exposure", "elapsed_s": 31.47, "return_code": 0, "ts": "2026-10-16T21:38:50.515036"}
+{"step_id": "C02", "script": "02_hazard_surge.py", "description": "Storm surge hazard", "elapsed_s": 121.79, "return_code": 0, "ts": "2026-10-16T21:40:52.308258"}
+{"step_id": "C04", "script": "04_vulnerability.py", "description": "Vulnerability functions", "elapsed_s": 6.86, "return_code": 0, "ts": "2026-10-16T21:40:59.173689"}
+{"step_id": "C05", "script": "05_risk.py", "description": "Compound risk calculation", "elapsed_s": 246.48, "return_code": 0, "ts": "2026-10-16T21:45:05.655264"}
+{"step_id": "C06", "script": "06_defense_sensitivity.py", "description": "Defense sensitivity", "elapsed_s": 584.25, "return_code": 0, "ts": "2026-10-16T21:54:49.903180"}
+{"step_id": "C07", "script": "07_climate_index.py", "description": "Climate Risk Index", "elapsed_s": 6.85, "return_code": 0, "ts": "2026-10-16T21:54:56.748749"}
+{"step_id": "F01", "script": "01a_climate_cvar.py", "description": "Climate CVaR", "elapsed_s": 245.33, "return_code": 0, "ts": "2026-10-16T21:59:02.080363"}
+{"step_id": "F02", "script": "01_finance_risk_index.py", "description": "Finance Risk Index", "elapsed_s": 1.61, "return_code": 0, "ts": "2026-10-16T21:59:03.687226"}
+{"step_id": "F03", "script": "02_fri_projection.py", "description": "FRI MC projection", "elapsed_s": 2.63, "return_code": 0, "ts": "2026-10-16T21:59:06.321622"}
+{"step_id": "X01", "script": "01_composite_index.py", "description": "CFCI composite", "elapsed_s": 1.93, "return_code": 0, "ts": "2026-10-16T21:59:08.252704"}

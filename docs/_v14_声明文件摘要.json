@@ -1,0 +1,17 @@
+{
+  "data_doc": {
+    "name": "Data_Availability_Statement.docx",
+    "bytes": 37169,
+    "tokens": 15
+  },
+  "code_doc": {
+    "name": "Code_Availability_Statement.docx",
+    "bytes": 37005,
+    "tokens": 1
+  },
+  "placeholders": [
+    "[Zenodo DOI to be assigned]",
+    "[data provider, with access conditions]",
+    "[GitHub repository, release version]"
+  ]
+}

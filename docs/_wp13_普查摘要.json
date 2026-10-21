@@ -1,0 +1,21 @@
+{
+  "generated": "2026-10-18T19:41:16",
+  "docx": "PAPER_MANUSCRIPT_v12.docx",
+  "docx_sha": "F86428EDBF44C5465A880AFD2527F6A3448E2C29C7D09E21369CEB4CD5B0E195",
+  "w_t_tokens_live": 1385,
+  "w_t_tokens_frozen": 1385,
+  "w_t_drift": 0,
+  "math_elements": 46,
+  "math_numbers": 97,
+  "math_substantive": 30,
+  "math_notation": 67,
+  "verdicts": {
+    "OK-MATH-CONST": 17,
+    "OK-MATH-NOTATION": 67,
+    "OK-MATH-FRAC": 6,
+    "OK-MATH-SRC": 6,
+    "OK-MATH-IDENT": 1
+  },
+  "unclassified": [],
+  "result": "CENSUS-OK"
+}
