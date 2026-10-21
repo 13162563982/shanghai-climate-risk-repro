@@ -19,14 +19,6 @@ SHA-256, and places it at the path below.
 
 | asset | dataset | bytes | target path in the repository |
 |---|---|---|---|
-| `2021年我国乡镇（街道）边界数据.cpg` | D20 | 5 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.cpg` |
-| `2021年我国乡镇（街道）边界数据.dbf` | D20 | 44,398,314 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.dbf` |
-| `2021年我国乡镇（街道）边界数据.prj` | D20 | 145 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.prj` |
-| `2021年我国乡镇（街道）边界数据.sbn` | D20 | 427,868 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.sbn` |
-| `2021年我国乡镇（街道）边界数据.sbx` | D20 | 16,660 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.sbx` |
-| `2021年我国乡镇（街道）边界数据.shp` | D20 | 331,955,444 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.shp` |
-| `2021年我国乡镇（街道）边界数据.shp.xml` | D20 | 5,923 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.shp.xml` |
-| `2021年我国乡镇（街道）边界数据.shx` | D20 | 349,348 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.shx` |
 | `ETOPO_2022_v1_30s_N90W180_bed.tif` | D03 | 1,624,895,430 | `data\Hazard_data\ETOPO_2022_v1_30s_N90W180_bed.tif` |
 | `haz_SS_ssp245.hdf5` | H | 219,502,759 | `Climate\output\intermediate\haz_SS_ssp245.hdf5` |
 | `haz_SS_ssp585.hdf5` | H | 361,922,167 | `Climate\output\intermediate\haz_SS_ssp585.hdf5` |
@@ -37,72 +29,16 @@ SHA-256, and places it at the path below.
 | `processed_shanghai_20201231_all.prj` | D17 | 425 | `data\Exposure_data\房屋\2024年上海多属性建筑矢量数据\processed_shanghai_20201231_all.prj` |
 | `processed_shanghai_20201231_all.shp` | D17 | 429,151,524 | `data\Exposure_data\房屋\2024年上海多属性建筑矢量数据\processed_shanghai_20201231_all.shp` |
 | `processed_shanghai_20201231_all.shx` | D17 | 3,770,476 | `data\Exposure_data\房屋\2024年上海多属性建筑矢量数据\processed_shanghai_20201231_all.shx` |
+| `township_2021_boundary.cpg` | D20 | 5 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.cpg` |
+| `township_2021_boundary.dbf` | D20 | 44,398,314 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.dbf` |
+| `township_2021_boundary.prj` | D20 | 145 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.prj` |
+| `township_2021_boundary.sbn` | D20 | 427,868 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.sbn` |
+| `township_2021_boundary.sbx` | D20 | 16,660 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.sbx` |
+| `township_2021_boundary.shp` | D20 | 331,955,444 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.shp` |
+| `township_2021_boundary.shp.xml` | D20 | 5,923 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.shp.xml` |
+| `township_2021_boundary.shx` | D20 | 349,348 | `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.shx` |
 
 ## What each file is
-
-### `2021年我国乡镇（街道）边界数据.cpg`
-
-Code-page file of the township boundary layer.
-
-- size: 5 bytes
-- sha256: `3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824`
-- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.cpg`
-
-### `2021年我国乡镇（街道）边界数据.dbf`
-
-Attribute table of the township boundary layer.
-
-- size: 44,398,314 bytes
-- sha256: `f060d45728a619b52f2c831070e82a7eeffd1d31512fb15231c5110d7065e451`
-- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.dbf`
-
-### `2021年我国乡镇（街道）边界数据.prj`
-
-CRS definition of the township boundary layer.
-
-- size: 145 bytes
-- sha256: `a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4`
-- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.prj`
-
-### `2021年我国乡镇（街道）边界数据.sbn`
-
-ESRI spatial index (companion file).
-
-- size: 427,868 bytes
-- sha256: `9dcf43c113157f67c299f18d7bbffa63909238add714ba852b80ae73a9a74f31`
-- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.sbn`
-
-### `2021年我国乡镇（街道）边界数据.sbx`
-
-ESRI spatial index (companion file).
-
-- size: 16,660 bytes
-- sha256: `7f8947532f499244d1fddeea9d5884b085abf2c116ffb2be4e11550f8c7bb41e`
-- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.sbx`
-
-### `2021年我国乡镇（街道）边界数据.shp`
-
-2021 national township boundary geography. Its Shanghai polyline **is the shoreline geometry** used by the surge model.
-
-- size: 331,955,444 bytes
-- sha256: `dce2c809b306fb14e1fe220567d6d7f57bf6a6eee6d5701b409c5f85a17c6434`
-- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.shp`
-
-### `2021年我国乡镇（街道）边界数据.shp.xml`
-
-FGDC metadata of the township boundary layer.
-
-- size: 5,923 bytes
-- sha256: `1e90ab4cee4c262d26e2f6b261bae1c658fc9a39a6eb8109084d486a260ff391`
-- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.shp.xml`
-
-### `2021年我国乡镇（街道）边界数据.shx`
-
-Shapefile index of the township boundary layer.
-
-- size: 349,348 bytes
-- sha256: `7b74f78d0f1376e409833d83f5eb87611c065e458126c63b7578a47de462dc6b`
-- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.shx`
 
 ### `ETOPO_2022_v1_30s_N90W180_bed.tif`
 
@@ -183,6 +119,70 @@ Shapefile index of the building vector.
 - size: 3,770,476 bytes
 - sha256: `7294faf0fb8236dd073be74d92a50ce18ccfbf8542d15f9f4e840a2dc308ce6d`
 - goes to: `data\Exposure_data\房屋\2024年上海多属性建筑矢量数据\processed_shanghai_20201231_all.shx`
+
+### `township_2021_boundary.cpg`
+
+Code-page file of the township boundary layer.
+
+- size: 5 bytes
+- sha256: `3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824`
+- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.cpg`
+
+### `township_2021_boundary.dbf`
+
+Attribute table of the township boundary layer.
+
+- size: 44,398,314 bytes
+- sha256: `f060d45728a619b52f2c831070e82a7eeffd1d31512fb15231c5110d7065e451`
+- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.dbf`
+
+### `township_2021_boundary.prj`
+
+CRS definition of the township boundary layer.
+
+- size: 145 bytes
+- sha256: `a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4`
+- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.prj`
+
+### `township_2021_boundary.sbn`
+
+ESRI spatial index (companion file).
+
+- size: 427,868 bytes
+- sha256: `9dcf43c113157f67c299f18d7bbffa63909238add714ba852b80ae73a9a74f31`
+- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.sbn`
+
+### `township_2021_boundary.sbx`
+
+ESRI spatial index (companion file).
+
+- size: 16,660 bytes
+- sha256: `7f8947532f499244d1fddeea9d5884b085abf2c116ffb2be4e11550f8c7bb41e`
+- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.sbx`
+
+### `township_2021_boundary.shp`
+
+2021 national township boundary geography. Its Shanghai polyline **is the shoreline geometry** used by the surge model.
+
+- size: 331,955,444 bytes
+- sha256: `dce2c809b306fb14e1fe220567d6d7f57bf6a6eee6d5701b409c5f85a17c6434`
+- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.shp`
+
+### `township_2021_boundary.shp.xml`
+
+FGDC metadata of the township boundary layer.
+
+- size: 5,923 bytes
+- sha256: `1e90ab4cee4c262d26e2f6b261bae1c658fc9a39a6eb8109084d486a260ff391`
+- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.shp.xml`
+
+### `township_2021_boundary.shx`
+
+Shapefile index of the township boundary layer.
+
+- size: 349,348 bytes
+- sha256: `7b74f78d0f1376e409833d83f5eb87611c065e458126c63b7578a47de462dc6b`
+- goes to: `data\我国乡镇（街道）行政区划数据\2021年我国乡镇（街道）边界数据.shx`
 
 ## Why these are needed
 

@@ -2,70 +2,6 @@
  "release_tag": "v1.0.0",
  "assets": [
   {
-   "asset": "2021年我国乡镇（街道）边界数据.cpg",
-   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.cpg",
-   "bytes": 5,
-   "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824",
-   "dataset_id": "D20",
-   "description": "Code-page file of the township boundary layer."
-  },
-  {
-   "asset": "2021年我国乡镇（街道）边界数据.dbf",
-   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.dbf",
-   "bytes": 44398314,
-   "sha256": "f060d45728a619b52f2c831070e82a7eeffd1d31512fb15231c5110d7065e451",
-   "dataset_id": "D20",
-   "description": "Attribute table of the township boundary layer."
-  },
-  {
-   "asset": "2021年我国乡镇（街道）边界数据.prj",
-   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.prj",
-   "bytes": 145,
-   "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
-   "dataset_id": "D20",
-   "description": "CRS definition of the township boundary layer."
-  },
-  {
-   "asset": "2021年我国乡镇（街道）边界数据.sbn",
-   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.sbn",
-   "bytes": 427868,
-   "sha256": "9dcf43c113157f67c299f18d7bbffa63909238add714ba852b80ae73a9a74f31",
-   "dataset_id": "D20",
-   "description": "ESRI spatial index (companion file)."
-  },
-  {
-   "asset": "2021年我国乡镇（街道）边界数据.sbx",
-   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.sbx",
-   "bytes": 16660,
-   "sha256": "7f8947532f499244d1fddeea9d5884b085abf2c116ffb2be4e11550f8c7bb41e",
-   "dataset_id": "D20",
-   "description": "ESRI spatial index (companion file)."
-  },
-  {
-   "asset": "2021年我国乡镇（街道）边界数据.shp",
-   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.shp",
-   "bytes": 331955444,
-   "sha256": "dce2c809b306fb14e1fe220567d6d7f57bf6a6eee6d5701b409c5f85a17c6434",
-   "dataset_id": "D20",
-   "description": "2021 national township boundary geography. Its Shanghai polyline **is the shoreline geometry** used by the surge model."
-  },
-  {
-   "asset": "2021年我国乡镇（街道）边界数据.shp.xml",
-   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.shp.xml",
-   "bytes": 5923,
-   "sha256": "1e90ab4cee4c262d26e2f6b261bae1c658fc9a39a6eb8109084d486a260ff391",
-   "dataset_id": "D20",
-   "description": "FGDC metadata of the township boundary layer."
-  },
-  {
-   "asset": "2021年我国乡镇（街道）边界数据.shx",
-   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.shx",
-   "bytes": 349348,
-   "sha256": "7b74f78d0f1376e409833d83f5eb87611c065e458126c63b7578a47de462dc6b",
-   "dataset_id": "D20",
-   "description": "Shapefile index of the township boundary layer."
-  },
-  {
    "asset": "ETOPO_2022_v1_30s_N90W180_bed.tif",
    "repository_path": "data/Hazard_data/ETOPO_2022_v1_30s_N90W180_bed.tif",
    "bytes": 1624895430,
@@ -144,6 +80,70 @@
    "sha256": "7294faf0fb8236dd073be74d92a50ce18ccfbf8542d15f9f4e840a2dc308ce6d",
    "dataset_id": "D17",
    "description": "Shapefile index of the building vector."
+  },
+  {
+   "asset": "township_2021_boundary.cpg",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.cpg",
+   "bytes": 5,
+   "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824",
+   "dataset_id": "D20",
+   "description": "Code-page file of the township boundary layer."
+  },
+  {
+   "asset": "township_2021_boundary.dbf",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.dbf",
+   "bytes": 44398314,
+   "sha256": "f060d45728a619b52f2c831070e82a7eeffd1d31512fb15231c5110d7065e451",
+   "dataset_id": "D20",
+   "description": "Attribute table of the township boundary layer."
+  },
+  {
+   "asset": "township_2021_boundary.prj",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.prj",
+   "bytes": 145,
+   "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+   "dataset_id": "D20",
+   "description": "CRS definition of the township boundary layer."
+  },
+  {
+   "asset": "township_2021_boundary.sbn",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.sbn",
+   "bytes": 427868,
+   "sha256": "9dcf43c113157f67c299f18d7bbffa63909238add714ba852b80ae73a9a74f31",
+   "dataset_id": "D20",
+   "description": "ESRI spatial index (companion file)."
+  },
+  {
+   "asset": "township_2021_boundary.sbx",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.sbx",
+   "bytes": 16660,
+   "sha256": "7f8947532f499244d1fddeea9d5884b085abf2c116ffb2be4e11550f8c7bb41e",
+   "dataset_id": "D20",
+   "description": "ESRI spatial index (companion file)."
+  },
+  {
+   "asset": "township_2021_boundary.shp",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.shp",
+   "bytes": 331955444,
+   "sha256": "dce2c809b306fb14e1fe220567d6d7f57bf6a6eee6d5701b409c5f85a17c6434",
+   "dataset_id": "D20",
+   "description": "2021 national township boundary geography. Its Shanghai polyline **is the shoreline geometry** used by the surge model."
+  },
+  {
+   "asset": "township_2021_boundary.shp.xml",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.shp.xml",
+   "bytes": 5923,
+   "sha256": "1e90ab4cee4c262d26e2f6b261bae1c658fc9a39a6eb8109084d486a260ff391",
+   "dataset_id": "D20",
+   "description": "FGDC metadata of the township boundary layer."
+  },
+  {
+   "asset": "township_2021_boundary.shx",
+   "repository_path": "data/我国乡镇（街道）行政区划数据/2021年我国乡镇（街道）边界数据.shx",
+   "bytes": 349348,
+   "sha256": "7b74f78d0f1376e409833d83f5eb87611c065e458126c63b7578a47de462dc6b",
+   "dataset_id": "D20",
+   "description": "Shapefile index of the township boundary layer."
   }
  ]
 }
